@@ -1,0 +1,891 @@
+{
+    "Commands": [
+        {
+            "name": "deploy",
+            "short_name": null,
+            "command": "sb deploy",
+            "type": "command",
+            "short_summary": "Deploy the SuperBench environments to all given nodes.",
+            "Arguments": [
+                {
+                    "name": "--docker-image",
+                    "short_name": "-i",
+                    "command": "sb deploy --docker-image",
+                    "type": "argument",
+                    "short_summary": "Docker image URI.  Default: superbench/superbench."
+                },
+                {
+                    "name": "--docker-password",
+                    "short_name": null,
+                    "command": "sb deploy --docker-password",
+                    "type": "argument",
+                    "short_summary": "Docker registry password if authentication is needed."
+                },
+                {
+                    "name": "--docker-username",
+                    "short_name": null,
+                    "command": "sb deploy --docker-username",
+                    "type": "argument",
+                    "short_summary": "Docker registry username if authentication is needed."
+                },
+                {
+                    "name": "--host-file",
+                    "short_name": "-f",
+                    "command": "sb deploy --host-file",
+                    "type": "argument",
+                    "short_summary": "Path to Ansible inventory host file."
+                },
+                {
+                    "name": "--host-list",
+                    "short_name": "-l",
+                    "command": "sb deploy --host-list",
+                    "type": "argument",
+                    "short_summary": "Comma separated host list."
+                },
+                {
+                    "name": "--host-password",
+                    "short_name": null,
+                    "command": "sb deploy --host-password",
+                    "type": "argument",
+                    "short_summary": "Host password or key passphase if needed."
+                },
+                {
+                    "name": "--host-username",
+                    "short_name": null,
+                    "command": "sb deploy --host-username",
+                    "type": "argument",
+                    "short_summary": "Host username if needed."
+                },
+                {
+                    "name": "--no-image-pull",
+                    "short_name": null,
+                    "command": "sb deploy --no-image-pull",
+                    "type": "argument",
+                    "short_summary": "Skip pull and use local Docker image."
+                },
+                {
+                    "name": "--output-dir",
+                    "short_name": null,
+                    "command": "sb deploy --output-dir",
+                    "type": "argument",
+                    "short_summary": "Path to output directory, outputs/{datetime} will be used if not specified."
+                },
+                {
+                    "name": "--private-key",
+                    "short_name": null,
+                    "command": "sb deploy --private-key",
+                    "type": "argument",
+                    "short_summary": "Path to private key if needed."
+                }
+            ],
+            "Global Arguments": [
+                {
+                    "name": "--debug",
+                    "short_name": null,
+                    "command": "sb deploy --debug",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity to show all debug logs."
+                },
+                {
+                    "name": "--help",
+                    "short_name": "-h",
+                    "command": "sb deploy --help",
+                    "type": "global argument",
+                    "short_summary": "Show this help message and exit."
+                },
+                {
+                    "name": "--only-show-errors",
+                    "short_name": null,
+                    "command": "sb deploy --only-show-errors",
+                    "type": "global argument",
+                    "short_summary": "Only show errors, suppressing warnings."
+                },
+                {
+                    "name": "--output",
+                    "short_name": "-o",
+                    "command": "sb deploy --output",
+                    "type": "global argument",
+                    "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml, yamlc.Default: json."
+                },
+                {
+                    "name": "--query",
+                    "short_name": null,
+                    "command": "sb deploy --query",
+                    "type": "global argument",
+                    "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                },
+                {
+                    "name": "--verbose",
+                    "short_name": null,
+                    "command": "sb deploy --verbose",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                }
+            ]
+        },
+        {
+            "name": "exec",
+            "short_name": null,
+            "command": "sb exec",
+            "type": "command",
+            "short_summary": "Execute the SuperBench benchmarks locally.",
+            "Arguments": [
+                {
+                    "name": "--config-file",
+                    "short_name": "-c",
+                    "command": "sb exec --config-file",
+                    "type": "argument",
+                    "short_summary": "Path to SuperBench config file."
+                },
+                {
+                    "name": "--config-override",
+                    "short_name": "-C",
+                    "command": "sb exec --config-override",
+                    "type": "argument",
+                    "short_summary": "Extra arguments to override config_file."
+                },
+                {
+                    "name": "--output-dir",
+                    "short_name": null,
+                    "command": "sb exec --output-dir",
+                    "type": "argument",
+                    "short_summary": "Path to output directory, outputs/{datetime} will be used if notspecified."
+                }
+            ],
+            "Global Arguments": [
+                {
+                    "name": "--debug",
+                    "short_name": null,
+                    "command": "sb exec --debug",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity to show all debug logs."
+                },
+                {
+                    "name": "--help",
+                    "short_name": "-h",
+                    "command": "sb exec --help",
+                    "type": "global argument",
+                    "short_summary": "Show this help message and exit."
+                },
+                {
+                    "name": "--only-show-errors",
+                    "short_name": null,
+                    "command": "sb exec --only-show-errors",
+                    "type": "global argument",
+                    "short_summary": "Only show errors, suppressing warnings."
+                },
+                {
+                    "name": "--output",
+                    "short_name": "-o",
+                    "command": "sb exec --output",
+                    "type": "global argument",
+                    "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml,yamlc.  Default: json."
+                },
+                {
+                    "name": "--query",
+                    "short_name": null,
+                    "command": "sb exec --query",
+                    "type": "global argument",
+                    "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                },
+                {
+                    "name": "--verbose",
+                    "short_name": null,
+                    "command": "sb exec --verbose",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                }
+            ]
+        },
+        {
+            "name": "run",
+            "short_name": null,
+            "command": "sb run",
+            "type": "command",
+            "short_summary": "Run the SuperBench benchmarks distributedly.",
+            "Arguments": [
+                {
+                    "name": "--config-file",
+                    "short_name": "-c",
+                    "command": "sb run --config-file",
+                    "type": "argument",
+                    "short_summary": "Path to SuperBench config file."
+                },
+                {
+                    "name": "--config-override",
+                    "short_name": "-C",
+                    "command": "sb run --config-override",
+                    "type": "argument",
+                    "short_summary": "Extra arguments to override config_file."
+                },
+                {
+                    "name": "--docker-image",
+                    "short_name": "-i",
+                    "command": "sb run --docker-image",
+                    "type": "argument",
+                    "short_summary": "Docker image URI.  Default: superbench/superbench."
+                },
+                {
+                    "name": "--docker-password",
+                    "short_name": null,
+                    "command": "sb run --docker-password",
+                    "type": "argument",
+                    "short_summary": "Docker registry password if authentication is needed."
+                },
+                {
+                    "name": "--docker-username",
+                    "short_name": null,
+                    "command": "sb run --docker-username",
+                    "type": "argument",
+                    "short_summary": "Docker registry username if authentication is needed."
+                },
+                {
+                    "name": "--get-info",
+                    "short_name": "-g",
+                    "command": "sb run --get-info",
+                    "type": "argument",
+                    "short_summary": "Collect node system info."
+                },
+                {
+                    "name": "--host-file",
+                    "short_name": "-f",
+                    "command": "sb run --host-file",
+                    "type": "argument",
+                    "short_summary": "Path to Ansible inventory host file."
+                },
+                {
+                    "name": "--host-list",
+                    "short_name": "-l",
+                    "command": "sb run --host-list",
+                    "type": "argument",
+                    "short_summary": "Comma separated host list."
+                },
+                {
+                    "name": "--host-password",
+                    "short_name": null,
+                    "command": "sb run --host-password",
+                    "type": "argument",
+                    "short_summary": "Host password or key passphase if needed."
+                },
+                {
+                    "name": "--host-username",
+                    "short_name": null,
+                    "command": "sb run --host-username",
+                    "type": "argument",
+                    "short_summary": "Host username if needed."
+                },
+                {
+                    "name": "--no-docker",
+                    "short_name": null,
+                    "command": "sb run --no-docker",
+                    "type": "argument",
+                    "short_summary": "Run on host directly without Docker."
+                },
+                {
+                    "name": "--output-dir",
+                    "short_name": null,
+                    "command": "sb run --output-dir",
+                    "type": "argument",
+                    "short_summary": "Path to output directory, outputs/{datetime} will be used if notspecified."
+                },
+                {
+                    "name": "--private-key",
+                    "short_name": null,
+                    "command": "sb run --private-key",
+                    "type": "argument",
+                    "short_summary": "Path to private key if needed."
+                }
+            ],
+            "Global Arguments": [
+                {
+                    "name": "--debug",
+                    "short_name": null,
+                    "command": "sb run --debug",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity to show all debug logs."
+                },
+                {
+                    "name": "--help",
+                    "short_name": "-h",
+                    "command": "sb run --help",
+                    "type": "global argument",
+                    "short_summary": "Show this help message and exit."
+                },
+                {
+                    "name": "--only-show-errors",
+                    "short_name": null,
+                    "command": "sb run --only-show-errors",
+                    "type": "global argument",
+                    "short_summary": "Only show errors, suppressing warnings."
+                },
+                {
+                    "name": "--output",
+                    "short_name": "-o",
+                    "command": "sb run --output",
+                    "type": "global argument",
+                    "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml,yamlc.  Default: json."
+                },
+                {
+                    "name": "--query",
+                    "short_name": null,
+                    "command": "sb run --query",
+                    "type": "global argument",
+                    "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                },
+                {
+                    "name": "--verbose",
+                    "short_name": null,
+                    "command": "sb run --verbose",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                }
+            ]
+        },
+        {
+            "name": "version",
+            "short_name": null,
+            "command": "sb version",
+            "type": "command",
+            "short_summary": "Print the current SuperBench CLI version.",
+            "Arguments": [],
+            "Global Arguments": [
+                {
+                    "name": "--debug",
+                    "short_name": null,
+                    "command": "sb version --debug",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity to show all debug logs."
+                },
+                {
+                    "name": "--help",
+                    "short_name": "-h",
+                    "command": "sb version --help",
+                    "type": "global argument",
+                    "short_summary": "Show this help message and exit."
+                },
+                {
+                    "name": "--only-show-errors",
+                    "short_name": null,
+                    "command": "sb version --only-show-errors",
+                    "type": "global argument",
+                    "short_summary": "Only show errors, suppressing warnings."
+                },
+                {
+                    "name": "--output",
+                    "short_name": "-o",
+                    "command": "sb version --output",
+                    "type": "global argument",
+                    "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml, yamlc.Default: json."
+                },
+                {
+                    "name": "--query",
+                    "short_name": null,
+                    "command": "sb version --query",
+                    "type": "global argument",
+                    "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                },
+                {
+                    "name": "--verbose",
+                    "short_name": null,
+                    "command": "sb version --verbose",
+                    "type": "global argument",
+                    "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                }
+            ]
+        }
+    ],
+    "Subgroups": [
+        {
+            "name": "benchmark",
+            "short_name": null,
+            "command": "sb benchmark",
+            "type": "subgroup",
+            "short_summary": "Commands to manage benchmarks.",
+            "Commands": [
+                {
+                    "name": "list",
+                    "short_name": null,
+                    "command": "sb benchmark list",
+                    "type": "command",
+                    "short_summary": "List benchmarks which match the regular expression.",
+                    "Arguments": [
+                        {
+                            "name": "--name",
+                            "short_name": "-n",
+                            "command": "sb benchmark list --name",
+                            "type": "argument",
+                            "short_summary": "Benchmark name or regular expression."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb benchmark list --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb benchmark list --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb benchmark list --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb benchmark list --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml, yamlc.Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb benchmark list --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb benchmark list --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                        }
+                    ]
+                },
+                {
+                    "name": "list-parameters",
+                    "short_name": null,
+                    "command": "sb benchmark list-parameters",
+                    "type": "command",
+                    "short_summary": "List parameters for benchmarks which match the regular expression.",
+                    "Arguments": [
+                        {
+                            "name": "--name",
+                            "short_name": "-n",
+                            "command": "sb benchmark list-parameters --name",
+                            "type": "argument",
+                            "short_summary": "Benchmark name or regular expression."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb benchmark list-parameters --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb benchmark list-parameters --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb benchmark list-parameters --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb benchmark list-parameters --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml, yamlc.Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb benchmark list-parameters --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb benchmark list-parameters --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "node",
+            "short_name": null,
+            "command": "sb node",
+            "type": "subgroup",
+            "short_summary": "Get detailed information or configurations on the local node.",
+            "Commands": [
+                {
+                    "name": "info",
+                    "short_name": null,
+                    "command": "sb node info",
+                    "type": "command",
+                    "short_summary": "Get system info.",
+                    "Arguments": [
+                        {
+                            "name": "--output-dir",
+                            "short_name": null,
+                            "command": "sb node info --output-dir",
+                            "type": "argument",
+                            "short_summary": "Path to output directory, outputs/{datetime} will be used if not specified."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb node info --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb node info --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb node info --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb node info --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml, yamlc.Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb node info --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for more information andexamples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb node info --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "result",
+            "short_name": null,
+            "command": "sb result",
+            "type": "subgroup",
+            "short_summary": "Process or analyze the results of SuperBench benchmarks.",
+            "Commands": [
+                {
+                    "name": "diagnosis",
+                    "short_name": null,
+                    "command": "sb result diagnosis",
+                    "type": "command",
+                    "short_summary": "Filter the defective machines automatically from benchmarking resultsaccording to rules defined in rule file.",
+                    "Arguments": [
+                        {
+                            "name": "--data-file",
+                            "short_name": "-d",
+                            "command": "sb result diagnosis --data-file",
+                            "type": "argument",
+                            "short_summary": "Path to raw data file."
+                        },
+                        {
+                            "name": "--rule-file",
+                            "short_name": "-r",
+                            "command": "sb result diagnosis --rule-file",
+                            "type": "argument",
+                            "short_summary": "Path to rule file."
+                        },
+                        {
+                            "name": "--baseline-file",
+                            "short_name": "-b",
+                            "command": "sb result diagnosis --baseline-file",
+                            "type": "argument",
+                            "short_summary": "Path to baseline file."
+                        },
+                        {
+                            "name": "--decimal-place-value",
+                            "short_name": null,
+                            "command": "sb result diagnosis --decimal-place-value",
+                            "type": "argument",
+                            "short_summary": "Number of decimal places to show in output.  Default: 2."
+                        },
+                        {
+                            "name": "--output-all",
+                            "short_name": null,
+                            "command": "sb result diagnosis --output-all",
+                            "type": "argument",
+                            "short_summary": "Output results of all nodes."
+                        },
+                        {
+                            "name": "--output-dir",
+                            "short_name": null,
+                            "command": "sb result diagnosis --output-dir",
+                            "type": "argument",
+                            "short_summary": "Path to output directory, outputs/{datetime} will be used if notspecified."
+                        },
+                        {
+                            "name": "--output-file-format",
+                            "short_name": null,
+                            "command": "sb result diagnosis --output-file-format",
+                            "type": "argument",
+                            "short_summary": "Format of output file, excel or json.  Default: excel."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb result diagnosis --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb result diagnosis --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb result diagnosis --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb result diagnosis --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml,yamlc.  Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb result diagnosis --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for more informationand examples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb result diagnosis --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                        }
+                    ]
+                },
+                {
+                    "name": "generate-baseline",
+                    "short_name": null,
+                    "command": "sb result generate-baseline",
+                    "type": "command",
+                    "short_summary": "Generate the baseline of benchmarking results from jsonline file accordingto rules defined in rule file.",
+                    "Arguments": [
+                        {
+                            "name": "--data-file",
+                            "short_name": "-d",
+                            "command": "sb result generate-baseline --data-file",
+                            "type": "argument",
+                            "short_summary": "Path to raw data file."
+                        },
+                        {
+                            "name": "--summary-rule-file",
+                            "short_name": "-sr",
+                            "command": "sb result generate-baseline --summary-rule-file",
+                            "type": "argument",
+                            "short_summary": "Path to summary rule file."
+                        },
+                        {
+                            "name": "--baseline-file",
+                            "short_name": "-b",
+                            "command": "sb result generate-baseline --baseline-file",
+                            "type": "argument",
+                            "short_summary": "Path to baseline file."
+                        },
+                        {
+                            "name": "--decimal-place-value",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --decimal-place-value",
+                            "type": "argument",
+                            "short_summary": "Number of decimal places to show in output.  Default: 2."
+                        },
+                        {
+                            "name": "--diagnosis-rule-file",
+                            "short_name": "-dr",
+                            "command": "sb result generate-baseline --diagnosis-rule-file",
+                            "type": "argument",
+                            "short_summary": "Path to diagnosis rule file."
+                        },
+                        {
+                            "name": "--output-dir",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --output-dir",
+                            "type": "argument",
+                            "short_summary": "Path to output directory, outputs/{datetime} will be usedif not specified."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb result generate-baseline --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb result generate-baseline --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table,tsv, yaml, yamlc.  Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for moreinformation and examples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb result generate-baseline --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debuglogs."
+                        }
+                    ]
+                },
+                {
+                    "name": "summary",
+                    "short_name": null,
+                    "command": "sb result summary",
+                    "type": "command",
+                    "short_summary": "Generate the readable summary of benchmarking results according to rulesdefined in rule file.",
+                    "Arguments": [
+                        {
+                            "name": "--data-file",
+                            "short_name": "-d",
+                            "command": "sb result summary --data-file",
+                            "type": "argument",
+                            "short_summary": "Path to raw data file."
+                        },
+                        {
+                            "name": "--rule-file",
+                            "short_name": "-r",
+                            "command": "sb result summary --rule-file",
+                            "type": "argument",
+                            "short_summary": "Path to rule file."
+                        },
+                        {
+                            "name": "--decimal-place-value",
+                            "short_name": null,
+                            "command": "sb result summary --decimal-place-value",
+                            "type": "argument",
+                            "short_summary": "Number of decimal places to show in output.  Default: 2."
+                        },
+                        {
+                            "name": "--output-dir",
+                            "short_name": null,
+                            "command": "sb result summary --output-dir",
+                            "type": "argument",
+                            "short_summary": "Path to output directory, outputs/{datetime} will be used if notspecified."
+                        },
+                        {
+                            "name": "--output-file-format",
+                            "short_name": null,
+                            "command": "sb result summary --output-file-format",
+                            "type": "argument",
+                            "short_summary": "Format of output file, excel or json.  Default: md."
+                        }
+                    ],
+                    "Global Arguments": [
+                        {
+                            "name": "--debug",
+                            "short_name": null,
+                            "command": "sb result summary --debug",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity to show all debug logs."
+                        },
+                        {
+                            "name": "--help",
+                            "short_name": "-h",
+                            "command": "sb result summary --help",
+                            "type": "global argument",
+                            "short_summary": "Show this help message and exit."
+                        },
+                        {
+                            "name": "--only-show-errors",
+                            "short_name": null,
+                            "command": "sb result summary --only-show-errors",
+                            "type": "global argument",
+                            "short_summary": "Only show errors, suppressing warnings."
+                        },
+                        {
+                            "name": "--output",
+                            "short_name": "-o",
+                            "command": "sb result summary --output",
+                            "type": "global argument",
+                            "short_summary": "Output format.  Allowed values: json, jsonc, none, table, tsv, yaml,yamlc.  Default: json."
+                        },
+                        {
+                            "name": "--query",
+                            "short_name": null,
+                            "command": "sb result summary --query",
+                            "type": "global argument",
+                            "short_summary": "JMESPath query string. See http://jmespath.org/ for more informationand examples."
+                        },
+                        {
+                            "name": "--verbose",
+                            "short_name": null,
+                            "command": "sb result summary --verbose",
+                            "type": "global argument",
+                            "short_summary": "Increase logging verbosity. Use --debug for full debug logs."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
