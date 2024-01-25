@@ -1,0 +1,4 @@
+{"command": "sb deploy", "description": "Deploy the SuperBench environments to all given nodes.", "other": "deploy"}
+{"command": "sb exec", "description": "Execute the SuperBench benchmarks locally.", "other": "exec"}
+{"command": "sb run", "description": "Run the SuperBench benchmarks distributedly.", "other": "run"}
+{"command": "sb version", "description": "Print the current SuperBench CLI version.", "other": "version"}
