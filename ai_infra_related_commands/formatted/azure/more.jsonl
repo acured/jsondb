@@ -1,0 +1,4 @@
+{"command": "az network lb outbound-rule", "description": "Manage outbound rules of a load balancer.", "id": "az_network_lb_outbound-rule"}
+{"command": "az network lb probe", "description": "Evaluate probe information and define routing rules.", "id": "az_network_lb_probe"}
+{"command": "az network lb inbound-nat-rule", "description": "Manage inbound NAT rules of a load balancer.", "id": "az_network_lb_inbound-nat-rule"}
+{"command": "az network lb frontend-ip", "description": "Manage frontend IP addresses of a load balancer.", "id": "az_network_lb_frontend-ip"}
