@@ -1,0 +1,100 @@
+{"command": "az dt data-history", "description": "Manage and configure data history.", "id": "az_dt_data-history"}
+{"command": "az dt network", "description": "Manage Digital Twins network configuration including private links and endpoint connections.", "id": "az_dt_network"}
+{"command": "az dt identity", "description": "Manage identites of a Digital Twins instance.", "id": "az_dt_identity"}
+{"command": "az dt model", "description": "Manage DTDL models and definitions on a Digital Twins instance.", "id": "az_dt_model"}
+{"command": "az dt endpoint", "description": "Manage and configure Digital Twins instance endpoints.", "id": "az_dt_endpoint"}
+{"command": "az dt job", "description": "Manage and configure jobs for a digital twin instance.", "id": "az_dt_job"}
+{"command": "az dt role-assignment", "description": "Manage RBAC role assignments for a Digital Twins instance.", "id": "az_dt_role-assignment"}
+{"command": "az dt job import", "description": "Manage and configure jobs for importing model, twin and relationships data to a digital twin instance.", "id": "az_dt_job_import"}
+{"command": "az dt job deletion", "description": "Manage and configure jobs for deleting model, twin and relationships data in a digital twin instance.", "id": "az_dt_job_deletion"}
+{"command": "az dt endpoint create", "description": "Add egress endpoints to a Digital Twins instance.", "id": "az_dt_endpoint_create"}
+{"command": "az dt twin component", "description": "Show and update the digital twin components of a Digital Twins instance.", "id": "az_dt_twin_component"}
+{"command": "az dt twin telemetry", "description": "Test and validate the event routes and endpoints of a Digital Twins instance.", "id": "az_dt_twin_telemetry"}
+{"command": "az dt twin relationship", "description": "Manage and configure the digital twin relationships of a Digital Twins instance.", "id": "az_dt_twin_relationship"}
+{"command": "az dt data-history connection", "description": "Manage and configure data history connections.", "id": "az_dt_data-history_connection"}
+{"command": "az dt data-history connection create", "description": "Creates a data history connection between a Digital Twins instance and supported resources.", "id": "az_dt_data-history_connection_create"}
+{"command": "az dt network private-link", "description": "Manage Digital Twins instance private-link operations.", "id": "az_dt_network_private-link"}
+{"command": "az dt network private-endpoint", "description": "Manage Digital Twins instance private-endpoints.", "id": "az_dt_network_private-endpoint"}
+{"command": "az dt network private-endpoint connection", "description": "Manage Digital Twins instance private-endpoint connections.", "id": "az_dt_network_private-endpoint_connection"}
+{"command": "az datadog", "description": "Manage datadog.", "id": "az_datadog"}
+{"command": "az datadog terms", "description": "Manage marketplace agreements with datadog.", "id": "az_datadog_terms"}
+{"command": "az datadog sso-config", "description": "Manage sso config with datadog.", "id": "az_datadog_sso-config"}
+{"command": "az datadog tag-rule", "description": "Manage tag rule with datadog.", "id": "az_datadog_tag-rule"}
+{"command": "az datadog monitor", "description": "Manage monitor with datadog.", "id": "az_datadog_monitor"}
+{"command": "az", "description": null, "id": "az"}
+{"command": "az spring-cloud", "description": "Commands to manage Azure Spring Cloud.", "id": "az_spring-cloud"}
+{"command": "az spring-cloud config-server", "description": "(Support Standard Tier and Basic Tier) Commands to manage Config Server in Azure Spring Cloud.", "id": "az_spring-cloud_config-server"}
+{"command": "az spring-cloud gateway", "description": "(Enterprise Tier Only) Commands to manage gateway in Azure Spring Cloud.", "id": "az_spring-cloud_gateway"}
+{"command": "az spring-cloud app-insights", "description": "Commands to management Application Insights in Azure Spring Cloud.", "id": "az_spring-cloud_app-insights"}
+{"command": "az spring-cloud service-registry", "description": "(Enterprise Tier Only) Commands to manage Service Registry in Azure Spring Cloud.", "id": "az_spring-cloud_service-registry"}
+{"command": "az spring-cloud api-portal", "description": "(Enterprise Tier Only) Commands to manage API portal in Azure Spring Cloud.", "id": "az_spring-cloud_api-portal"}
+{"command": "az spring-cloud app", "description": "Commands to manage apps in Azure Spring Cloud.", "id": "az_spring-cloud_app"}
+{"command": "az spring-cloud test-endpoint", "description": "Commands to manage test endpoint in Azure Spring Cloud.", "id": "az_spring-cloud_test-endpoint"}
+{"command": "az spring-cloud application-configuration-service", "description": "(Enterprise Tier Only) Commands to manage Application Configuration Service in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service"}
+{"command": "az spring-cloud build-service", "description": "(Enterprise Tier Only) Commands to manage build service in Azure Spring Cloud.", "id": "az_spring-cloud_build-service"}
+{"command": "az spring-cloud storage", "description": "Commands to manage Storages in Azure Spring Cloud.", "id": "az_spring-cloud_storage"}
+{"command": "az spring-cloud certificate", "description": "Commands to manage certificates.", "id": "az_spring-cloud_certificate"}
+{"command": "az spring-cloud connection", "description": "Commands to manage spring-cloud connections.", "id": "az_spring-cloud_connection"}
+{"command": "az spring-cloud application-configuration-service git", "description": "Commands to manage Application Configuration Service git property in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service_git"}
+{"command": "az spring-cloud application-configuration-service git repo", "description": "Commands to manage Application Configuration Service git repository in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service_git_repo"}
+{"command": "az spring-cloud api-portal custom-domain", "description": "Commands to manage custom domains for API portal.", "id": "az_spring-cloud_api-portal_custom-domain"}
+{"command": "az spring-cloud app custom-domain", "description": "Commands to manage custom domains.", "id": "az_spring-cloud_app_custom-domain"}
+{"command": "az spring-cloud app binding", "description": "Commands to manage bindings with Azure Data Services, you need to manually restart app to make settings take effect.", "id": "az_spring-cloud_app_binding"}
+{"command": "az spring-cloud app identity", "description": "Manage an app's managed identities.", "id": "az_spring-cloud_app_identity"}
+{"command": "az spring-cloud app log", "description": "Commands to tail app instances logs with multiple options. If the app has only one instance, the instance name is optional.", "id": "az_spring-cloud_app_log"}
+{"command": "az spring-cloud app deployment", "description": "Commands to manage life cycle of deployments of an app in Azure Spring Cloud. More operations on deployments can be done on app level with parameter --deployment. e.g. az spring-cloud app deploy --deployment <staging deployment>.", "id": "az_spring-cloud_app_deployment"}
+{"command": "az spring-cloud app binding redis", "description": "Commands to manage Azure Cache for Redis bindings.", "id": "az_spring-cloud_app_binding_redis"}
+{"command": "az spring-cloud app binding mysql", "description": "Commands to manage Azure Database for MySQL bindings.", "id": "az_spring-cloud_app_binding_mysql"}
+{"command": "az spring-cloud app binding cosmos", "description": "Commands to manage Azure Cosmos DB bindings.", "id": "az_spring-cloud_app_binding_cosmos"}
+{"command": "az spring-cloud gateway custom-domain", "description": "Commands to manage custom domains for gateway.", "id": "az_spring-cloud_gateway_custom-domain"}
+{"command": "az spring-cloud gateway route-config", "description": "Commands to manage gateway route configs in Azure Spring Cloud.", "id": "az_spring-cloud_gateway_route-config"}
+{"command": "az spring-cloud connection create", "description": "Create a connection between a spring-cloud and a target resource.", "id": "az_spring-cloud_connection_create"}
+{"command": "az spring-cloud connection update", "description": "Update a spring-cloud connection.", "id": "az_spring-cloud_connection_update"}
+{"command": "az spring-cloud config-server git", "description": "Commands to manage Config Server git property in Azure Spring Cloud.", "id": "az_spring-cloud_config-server_git"}
+{"command": "az spring-cloud config-server git repo", "description": "Commands to manage Config Server git repository in Azure Spring Cloud.", "id": "az_spring-cloud_config-server_git_repo"}
+{"command": "az spring-cloud build-service builder", "description": "(Enterprise Tier Only) Commands to manage builder of build service.", "id": "az_spring-cloud_build-service_builder"}
+{"command": "az spring-cloud build-service builder buildpack-binding", "description": "(Enterprise Tier Only) Commands to manage buildpack-binding of builder.", "id": "az_spring-cloud_build-service_builder_buildpack-binding"}
+{"command": "az maintenance", "description": "Manage Maintenance.", "id": "az_maintenance"}
+{"command": "az maintenance applyupdate", "description": "Manage apply update with maintenance.", "id": "az_maintenance_applyupdate"}
+{"command": "az maintenance assignment", "description": "Manage configuration assignment with maintenance.", "id": "az_maintenance_assignment"}
+{"command": "az maintenance configuration", "description": "Manage maintenance configuration with maintenance.", "id": "az_maintenance_configuration"}
+{"command": "az maintenance public-configuration", "description": "Manage public maintenance configuration with maintenance.", "id": "az_maintenance_public-configuration"}
+{"command": "az maintenance update", "description": "Manage update with maintenance.", "id": "az_maintenance_update"}
+{"command": "az billing-benefits", "description": "Azure billing benefits commands.", "id": "az_billing-benefits"}
+{"command": "az billing-benefits savings-plan-order", "description": "Azure billing benefits savings plan order commands.", "id": "az_billing-benefits_savings-plan-order"}
+{"command": "az billing-benefits reservation-order-aliases", "description": "Azure billing benefits reservation order aliases commands.", "id": "az_billing-benefits_reservation-order-aliases"}
+{"command": "az billing-benefits savings-plan", "description": "Azure billing benefits savings plan commands.", "id": "az_billing-benefits_savings-plan"}
+{"command": "az billing-benefits savings-plan-order-aliases", "description": "Azure billing benefits savings plan order aliases commands.", "id": "az_billing-benefits_savings-plan-order-aliases"}
+{"command": "az billing-benefits savings-plan-order savings-plan", "description": "Azure billing benefits savings plan in savings plan order commands.", "id": "az_billing-benefits_savings-plan-order_savings-plan"}
+{"command": "az hdinsight", "description": "Manage HDInsight resources.", "id": "az_hdinsight"}
+{"command": "az hdinsight-on-aks", "description": "HDInsight on Aks CLI.", "id": "az_hdinsight-on-aks"}
+{"command": "az hdinsight-on-aks cluster", "description": "Cluster operations.", "id": "az_hdinsight-on-aks_cluster"}
+{"command": "az hdinsight-on-aks clusterpool", "description": "Clusterpool operations.", "id": "az_hdinsight-on-aks_clusterpool"}
+{"command": "az hdinsight-on-aks cluster secret", "description": "Manage secret reference.", "id": "az_hdinsight-on-aks_cluster_secret"}
+{"command": "az hdinsight-on-aks cluster job", "description": "Cluster job operations.", "id": "az_hdinsight-on-aks_cluster_job"}
+{"command": "az hdinsight-on-aks cluster trino-hive-catalog", "description": "Manage hive catalog config.", "id": "az_hdinsight-on-aks_cluster_trino-hive-catalog"}
+{"command": "az hdinsight-on-aks cluster node-profile", "description": "Manage compute node profile.", "id": "az_hdinsight-on-aks_cluster_node-profile"}
+{"command": "az hdinsight azure-monitor", "description": "Manage Azure Monitor logs integration on an HDInsight cluster.", "id": "az_hdinsight_azure-monitor"}
+{"command": "az hdinsight application", "description": "Manage HDInsight applications.", "id": "az_hdinsight_application"}
+{"command": "az hdinsight host", "description": "Manage HDInsight cluster's virtual hosts.", "id": "az_hdinsight_host"}
+{"command": "az hdinsight autoscale", "description": "Manage HDInsight cluster's Autoscale configuration.", "id": "az_hdinsight_autoscale"}
+{"command": "az hdinsight script-action", "description": "Manage HDInsight script actions.", "id": "az_hdinsight_script-action"}
+{"command": "az hdinsight monitor", "description": "Manage Classic Azure Monitor logs integration on an HDInsight cluster.", "id": "az_hdinsight_monitor"}
+{"command": "az hdinsight autoscale condition", "description": "Manage schedule condition of the HDInsight cluster which enabled Schedule-based Autoscale.", "id": "az_hdinsight_autoscale_condition"}
+{"command": "az hanainstance", "description": "(PREVIEW) Manage Azure SAP HANA Instance.", "id": "az_hanainstance"}
+{"command": "az functionapp", "description": "Manage function apps. To install the Azure Functions Core tools see https://github.com/Azure/azure-functions-core-tools.", "id": "az_functionapp"}
+{"command": "az functionapp function", "description": "Manage function app functions.", "id": "az_functionapp_function"}
+{"command": "az functionapp vnet-integration", "description": "Methods that list, add, and remove virtual networks integrations from a functionapp.", "id": "az_functionapp_vnet-integration"}
+{"command": "az functionapp config", "description": "Configure a function app.", "id": "az_functionapp_config"}
+{"command": "az functionapp hybrid-connection", "description": "Methods that list, add and remove hybrid-connections from functionapp.", "id": "az_functionapp_hybrid-connection"}
+{"command": "az functionapp devops-pipeline", "description": "Azure Function specific integration with Azure DevOps. Please visit https://aka.ms/functions-azure-devops for more information.", "id": "az_functionapp_devops-pipeline"}
+{"command": "az functionapp identity", "description": "Manage web app's managed identity.", "id": "az_functionapp_identity"}
+{"command": "az functionapp log", "description": "Manage function app logs.", "id": "az_functionapp_log"}
+{"command": "az functionapp deployment", "description": "Manage function app deployments.", "id": "az_functionapp_deployment"}
+{"command": "az functionapp plan", "description": "Manage App Service Plans for an Azure Function.", "id": "az_functionapp_plan"}
+{"command": "az functionapp cors", "description": "Manage Cross-Origin Resource Sharing (CORS).", "id": "az_functionapp_cors"}
+{"command": "az functionapp app", "description": "Commands to manage Azure Functions app.", "id": "az_functionapp_app"}
+{"command": "az functionapp keys", "description": "Manage function app keys.", "id": "az_functionapp_keys"}
+{"command": "az functionapp connection", "description": "Commands to manage functionapp connections.", "id": "az_functionapp_connection"}
+{"command": "az functionapp deployment container", "description": "Manage container-based continuous deployment.", "id": "az_functionapp_deployment_container"}
+{"command": "az functionapp deployment slot", "description": "Manage function app deployment slots.", "id": "az_functionapp_deployment_slot"}

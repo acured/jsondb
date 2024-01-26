@@ -1,0 +1,100 @@
+{"command": "az billing property", "description": "Billing property.", "id": "az_billing_property"}
+{"command": "az billing profile", "description": "Manage billing profile of billing account.", "id": "az_billing_profile"}
+{"command": "az billing product", "description": "Billing product.", "id": "az_billing_product"}
+{"command": "az billing invoice section", "description": "Billing invoice section.", "id": "az_billing_invoice_section"}
+{"command": "az billing-benefits savings-plan-order", "description": "Azure billing benefits savings plan order commands.", "id": "az_billing-benefits_savings-plan-order"}
+{"command": "az billing-benefits reservation-order-aliases", "description": "Azure billing benefits reservation order aliases commands.", "id": "az_billing-benefits_reservation-order-aliases"}
+{"command": "az billing-benefits savings-plan", "description": "Azure billing benefits savings plan commands.", "id": "az_billing-benefits_savings-plan"}
+{"command": "az billing-benefits savings-plan-order-aliases", "description": "Azure billing benefits savings plan order aliases commands.", "id": "az_billing-benefits_savings-plan-order-aliases"}
+{"command": "az billing-benefits savings-plan-order savings-plan", "description": "Azure billing benefits savings plan in savings plan order commands.", "id": "az_billing-benefits_savings-plan-order_savings-plan"}
+{"command": "az stack-hci", "description": "Manage Azure Stack HCI.", "id": "az_stack-hci"}
+{"command": "az stack-hci-vm", "description": "Manage virtualmachine with stack-hci-vm.", "id": "az_stack-hci-vm"}
+{"command": "az stack-hci-vm disk", "description": "Manage virtualharddisk with stack-hci-vm.", "id": "az_stack-hci-vm_disk"}
+{"command": "az stack-hci-vm network", "description": "Manage network with stack-hvi-vm.", "id": "az_stack-hci-vm_network"}
+{"command": "az stack-hci-vm storagepath", "description": "Manage storagepath with stack-hci-vm.", "id": "az_stack-hci-vm_storagepath"}
+{"command": "az stack-hci-vm image", "description": "Manage images with stack-hci-vm.", "id": "az_stack-hci-vm_image"}
+{"command": "az stack-hci-vm nic", "description": "Manage vNIC of a virtual machine with stack-hci-vm.", "id": "az_stack-hci-vm_nic"}
+{"command": "az stack-hci-vm network lnet", "description": "Manage logicalnetworks with stack-hci-vm.", "id": "az_stack-hci-vm_network_lnet"}
+{"command": "az stack-hci-vm network nic", "description": "Manage networkinterface with stack-hci-vm.", "id": "az_stack-hci-vm_network_nic"}
+{"command": "az stack-hci extension", "description": "Manage extension with stack hci.", "id": "az_stack-hci_extension"}
+{"command": "az stack-hci cluster", "description": "Manage cluster with stack hci.", "id": "az_stack-hci_cluster"}
+{"command": "az stack-hci arc-setting", "description": "Manage arc setting with stack hci.", "id": "az_stack-hci_arc-setting"}
+{"command": "az stack-hci cluster identity", "description": "Manage identity.", "id": "az_stack-hci_cluster_identity"}
+{"command": "az feature", "description": "Manage resource provider features.", "id": "az_feature"}
+{"command": "az feature registration", "description": "Manage resource provider feature registrations.", "id": "az_feature_registration"}
+{"command": "az new-relic", "description": "Manage Azure NewRelic resources.", "id": "az_new-relic"}
+{"command": "az new-relic account", "description": "Manage NewRelic Account resource.", "id": "az_new-relic_account"}
+{"command": "az new-relic plan", "description": "Manage NewRelic Plan resource.", "id": "az_new-relic_plan"}
+{"command": "az new-relic organization", "description": "Manage NewRelic Organization resource.", "id": "az_new-relic_organization"}
+{"command": "az new-relic monitor", "description": "Manage NewRelic Monitor resource.", "id": "az_new-relic_monitor"}
+{"command": "az new-relic monitor tag-rule", "description": "Manage tag rule of a NewRelic Monitor resource.", "id": "az_new-relic_monitor_tag-rule"}
+{"command": "az eventhubs", "description": "Eventhubs.", "id": "az_eventhubs"}
+{"command": "az eventhubs eventhub", "description": "Manage Azure EventHubs eventhub and authorization-rule.", "id": "az_eventhubs_eventhub"}
+{"command": "az eventhubs cluster", "description": "Manage Azure EventHubs Clusters.", "id": "az_eventhubs_cluster"}
+{"command": "az eventhubs namespace", "description": "Eventhub namespace.", "id": "az_eventhubs_namespace"}
+{"command": "az eventhubs georecovery-alias", "description": "Manage Azure EventHubs Geo Recovery configuration Alias.", "id": "az_eventhubs_georecovery-alias"}
+{"command": "az eventhubs eventhub authorization-rule", "description": "Eventhub authorization rule.", "id": "az_eventhubs_eventhub_authorization-rule"}
+{"command": "az eventhubs eventhub consumer-group", "description": "Manage Azure Event Hubs consumergroup.", "id": "az_eventhubs_eventhub_consumer-group"}
+{"command": "az eventhubs eventhub authorization-rule keys", "description": "Authorization-rule keys.", "id": "az_eventhubs_eventhub_authorization-rule_keys"}
+{"command": "az eventhubs namespace encryption", "description": "Manage eventhubs namespace encryption properties.", "id": "az_eventhubs_namespace_encryption"}
+{"command": "az eventhubs namespace identity", "description": "Manage eventhubs namespace identity.", "id": "az_eventhubs_namespace_identity"}
+{"command": "az eventhubs namespace authorization-rule", "description": "Eventhub namespace authorization-rule.", "id": "az_eventhubs_namespace_authorization-rule"}
+{"command": "az eventhubs namespace private-endpoint-connection", "description": "Manage eventhubs namespace private endpoint connection.", "id": "az_eventhubs_namespace_private-endpoint-connection"}
+{"command": "az eventhubs namespace application-group", "description": "Manages Application Groups for premium eventhubs namespace.", "id": "az_eventhubs_namespace_application-group"}
+{"command": "az eventhubs namespace private-link-resource", "description": "Manage eventhubs namespace private link resources .", "id": "az_eventhubs_namespace_private-link-resource"}
+{"command": "az eventhubs namespace network-rule-set", "description": "Manage Azure EventHubs networkruleset for namespace.", "id": "az_eventhubs_namespace_network-rule-set"}
+{"command": "az eventhubs namespace schema-registry", "description": "Manages eventhubs namespace schema registry.", "id": "az_eventhubs_namespace_schema-registry"}
+{"command": "az eventhubs namespace network-rule-set virtual-network-rule", "description": "Manage Azure eventhubs subnet-rule in networkruleSet for namespace.", "id": "az_eventhubs_namespace_network-rule-set_virtual-network-rule"}
+{"command": "az eventhubs namespace network-rule-set ip-rule", "description": "Manage Azure eventhubs ip-rules in networkruleSet for namespace.", "id": "az_eventhubs_namespace_network-rule-set_ip-rule"}
+{"command": "az eventhubs namespace application-group policy", "description": "Append or Remove application group policies.", "id": "az_eventhubs_namespace_application-group_policy"}
+{"command": "az eventhubs namespace authorization-rule keys", "description": "Authorization-rule keys.", "id": "az_eventhubs_namespace_authorization-rule_keys"}
+{"command": "az eventhubs georecovery-alias authorization-rule", "description": "Manage Azure EventHubs Authorizationrule for Geo Recovery configuration Alias.", "id": "az_eventhubs_georecovery-alias_authorization-rule"}
+{"command": "az eventhubs georecovery-alias authorization-rule keys", "description": "Manage Azure Event Hubs Authorizationrule connection strings for Geo Recovery configuration Alias.", "id": "az_eventhubs_georecovery-alias_authorization-rule_keys"}
+{"command": "az eventhubs cluster namespace", "description": "List of Namespaces within given Cluster.", "id": "az_eventhubs_cluster_namespace"}
+{"command": "az edgeorder", "description": "Manage Edge Order.", "id": "az_edgeorder"}
+{"command": "az edgeorder address", "description": "Manage address with edgeorder sub group address.", "id": "az_edgeorder_address"}
+{"command": "az edgeorder order", "description": "Manage order with edgeorder sub group order.", "id": "az_edgeorder_order"}
+{"command": "az edgeorder order-item", "description": "Manage order item with edgeorder sub group order-item.", "id": "az_edgeorder_order-item"}
+{"command": "az guestconfig", "description": "Manage Guest Configuration.", "id": "az_guestconfig"}
+{"command": "az guestconfig guest-configuration-assignment", "description": "Guestconfig guest-configuration-assignment.", "id": "az_guestconfig_guest-configuration-assignment"}
+{"command": "az guestconfig guest-configuration-hcrp-assignment-report", "description": "Guestconfig guest-configuration-hcrp-assignment-report.", "id": "az_guestconfig_guest-configuration-hcrp-assignment-report"}
+{"command": "az guestconfig guest-configuration-hcrp-assignment", "description": "Guestconfig guest-configuration-hcrp-assignment.", "id": "az_guestconfig_guest-configuration-hcrp-assignment"}
+{"command": "az guestconfig guest-configuration-assignment-report", "description": "Guestconfig guest-configuration-assignment-report.", "id": "az_guestconfig_guest-configuration-assignment-report"}
+{"command": "az portal", "description": "Manage Portal.", "id": "az_portal"}
+{"command": "az portal dashboard", "description": "Manage portal dashboards.", "id": "az_portal_dashboard"}
+{"command": "az kusto", "description": "Manage Azure Kusto resources.", "id": "az_kusto"}
+{"command": "az kusto cluster-principal-assignment", "description": "Manage cluster principal assignment with kusto.", "id": "az_kusto_cluster-principal-assignment"}
+{"command": "az kusto cluster", "description": "Manage Azure Kusto clusters.", "id": "az_kusto_cluster"}
+{"command": "az kusto managed-private-endpoint", "description": "Manage managed private endpoint with kusto.", "id": "az_kusto_managed-private-endpoint"}
+{"command": "az kusto database-principal-assignment", "description": "Manage database principal assignment with kusto.", "id": "az_kusto_database-principal-assignment"}
+{"command": "az kusto operation-result-location", "description": "Manage operation result location with kusto.", "id": "az_kusto_operation-result-location"}
+{"command": "az kusto attached-database-configuration", "description": "Manage attached database configuration with kusto.", "id": "az_kusto_attached-database-configuration"}
+{"command": "az kusto data-connection", "description": "Manage data connection with kusto.", "id": "az_kusto_data-connection"}
+{"command": "az kusto script", "description": "Manage script with kusto.", "id": "az_kusto_script"}
+{"command": "az kusto private-endpoint-connection", "description": "Manage private endpoint connection with kusto.", "id": "az_kusto_private-endpoint-connection"}
+{"command": "az kusto operation-result", "description": "Manage operation result with kusto.", "id": "az_kusto_operation-result"}
+{"command": "az kusto private-link-resource", "description": "Manage private link resource with kusto.", "id": "az_kusto_private-link-resource"}
+{"command": "az kusto database", "description": "Manage Azure Kusto databases.", "id": "az_kusto_database"}
+{"command": "az kusto data-connection iot-hub", "description": "Manage data connection with kusto sub group iot-hub.", "id": "az_kusto_data-connection_iot-hub"}
+{"command": "az kusto data-connection event-hub", "description": "Manage data connection with kusto sub group event-hub.", "id": "az_kusto_data-connection_event-hub"}
+{"command": "az kusto data-connection event-grid", "description": "Manage data connection with kusto sub group event-grid.", "id": "az_kusto_data-connection_event-grid"}
+{"command": "az palo-alto", "description": "Manage palo-alto networks resource.", "id": "az_palo-alto"}
+{"command": "az palo-alto cloudngfw", "description": "Manage cloudngfw resource.", "id": "az_palo-alto_cloudngfw"}
+{"command": "az palo-alto cloudngfw local-rulestack", "description": "Manage local-rulestack resource.", "id": "az_palo-alto_cloudngfw_local-rulestack"}
+{"command": "az palo-alto cloudngfw firewall", "description": "Manage cloudngfw firewall resource.", "id": "az_palo-alto_cloudngfw_firewall"}
+{"command": "az palo-alto cloudngfw local-rulestack fqdnlist", "description": "Manage local-rulestack fqdnlist resource.", "id": "az_palo-alto_cloudngfw_local-rulestack_fqdnlist"}
+{"command": "az palo-alto cloudngfw local-rulestack prefixlist", "description": "Manage local-rulestack prefixlist resource.", "id": "az_palo-alto_cloudngfw_local-rulestack_prefixlist"}
+{"command": "az palo-alto cloudngfw local-rulestack certificate", "description": "Manage local-rulestack certificate resource.", "id": "az_palo-alto_cloudngfw_local-rulestack_certificate"}
+{"command": "az palo-alto cloudngfw local-rulestack local-rule", "description": "Manage local-rulestack local-rule resource.", "id": "az_palo-alto_cloudngfw_local-rulestack_local-rule"}
+{"command": "az palo-alto cloudngfw firewall status", "description": "Manage cloudngfw firewall status resource.", "id": "az_palo-alto_cloudngfw_firewall_status"}
+{"command": "az palo-alto cloudngfw firewall status default", "description": "Manage cloudngfw firewall status default resource.", "id": "az_palo-alto_cloudngfw_firewall_status_default"}
+{"command": "az cdn", "description": "Manage Azure Content Delivery Networks (CDNs).", "id": "az_cdn"}
+{"command": "az cdn waf", "description": "Manage CDN WAF.", "id": "az_cdn_waf"}
+{"command": "az cdn custom-domain", "description": "Manage Azure CDN Custom Domains to provide custom host names for endpoints.", "id": "az_cdn_custom-domain"}
+{"command": "az cdn origin-group", "description": "Manage origin groups of an endpoint.", "id": "az_cdn_origin-group"}
+{"command": "az cdn endpoint", "description": "Manage CDN endpoints.", "id": "az_cdn_endpoint"}
+{"command": "az cdn origin", "description": "List or show existing origins related to CDN endpoints.", "id": "az_cdn_origin"}
+{"command": "az cdn profile", "description": "Manage CDN profiles to define an edge network.", "id": "az_cdn_profile"}
+{"command": "az cdn edge-node", "description": "View all available CDN edge nodes.", "id": "az_cdn_edge-node"}
+{"command": "az cdn waf policy", "description": "Manage CDN WAF policies.", "id": "az_cdn_waf_policy"}
+{"command": "az cdn waf policy custom-rule", "description": "Manage custom rules of a CDN WAF policy.", "id": "az_cdn_waf_policy_custom-rule"}

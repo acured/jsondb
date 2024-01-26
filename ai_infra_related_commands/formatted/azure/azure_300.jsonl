@@ -1,0 +1,100 @@
+{"command": "az redis server-link", "description": "Manage Redis server links.", "id": "az_redis_server-link"}
+{"command": "az stream-analytics", "description": "Manage Stream Analytics.", "id": "az_stream-analytics"}
+{"command": "az stream-analytics input", "description": "Manage input with stream analytics.", "id": "az_stream-analytics_input"}
+{"command": "az stream-analytics function", "description": "Manage function with stream analytics.", "id": "az_stream-analytics_function"}
+{"command": "az stream-analytics cluster", "description": "Manage cluster with stream analytics.", "id": "az_stream-analytics_cluster"}
+{"command": "az stream-analytics transformation", "description": "Manage transformation with stream analytics.", "id": "az_stream-analytics_transformation"}
+{"command": "az stream-analytics private-endpoint", "description": "Manage private endpoint with stream analytics.", "id": "az_stream-analytics_private-endpoint"}
+{"command": "az stream-analytics subscription", "description": "Manage subscription with stream analytics.", "id": "az_stream-analytics_subscription"}
+{"command": "az stream-analytics output", "description": "Manage output with stream analytics.", "id": "az_stream-analytics_output"}
+{"command": "az stream-analytics job", "description": "Manage streaming job with stream analytics.", "id": "az_stream-analytics_job"}
+{"command": "az consumption", "description": "Manage consumption of Azure resources.", "id": "az_consumption"}
+{"command": "az consumption usage", "description": "Inspect the usage of Azure resources.", "id": "az_consumption_usage"}
+{"command": "az consumption budget", "description": "Manage budgets for an Azure subscription.", "id": "az_consumption_budget"}
+{"command": "az consumption reservation", "description": "Manage reservations for Azure resources.", "id": "az_consumption_reservation"}
+{"command": "az consumption marketplace", "description": "Inspect the marketplace usage data of an Azure subscription within a billing period.", "id": "az_consumption_marketplace"}
+{"command": "az consumption pricesheet", "description": "Inspect the price sheet of an Azure subscription within a billing period.", "id": "az_consumption_pricesheet"}
+{"command": "az consumption reservation summary", "description": "List reservation summaries.", "id": "az_consumption_reservation_summary"}
+{"command": "az consumption reservation detail", "description": "List reservation details.", "id": "az_consumption_reservation_detail"}
+{"command": "az healthcareapis", "description": "Manage Healthcare Apis.", "id": "az_healthcareapis"}
+{"command": "az healthcareapis service", "description": "Healthcareapis service.", "id": "az_healthcareapis_service"}
+{"command": "az healthcareapis private-endpoint-connection", "description": "Healthcareapis private-endpoint-connection.", "id": "az_healthcareapis_private-endpoint-connection"}
+{"command": "az healthcareapis workspace", "description": "Manage workspace with healthcareapis.", "id": "az_healthcareapis_workspace"}
+{"command": "az healthcareapis operation-result", "description": "Healthcareapis operation-result.", "id": "az_healthcareapis_operation-result"}
+{"command": "az healthcareapis acr", "description": "Healthcareapis acr.", "id": "az_healthcareapis_acr"}
+{"command": "az healthcareapis private-link-resource", "description": "Healthcareapis private-link-resource.", "id": "az_healthcareapis_private-link-resource"}
+{"command": "az healthcareapis workspace fhir-service", "description": "Manage fhir service with healthcareapis.", "id": "az_healthcareapis_workspace_fhir-service"}
+{"command": "az healthcareapis workspace dicom-service", "description": "Manage dicom service with healthcareapis.", "id": "az_healthcareapis_workspace_dicom-service"}
+{"command": "az healthcareapis workspace iot-connector", "description": "Manage iot connector with healthcareapis.", "id": "az_healthcareapis_workspace_iot-connector"}
+{"command": "az healthcareapis workspace private-endpoint-connection", "description": "Manage workspace private endpoint connection with healthcareapis.", "id": "az_healthcareapis_workspace_private-endpoint-connection"}
+{"command": "az healthcareapis workspace private-link-resource", "description": "Manage workspace private link resource with healthcareapis.", "id": "az_healthcareapis_workspace_private-link-resource"}
+{"command": "az healthcareapis workspace iot-connector fhir-destination", "description": "Manage iot connector fhir destination with healthcareapis.", "id": "az_healthcareapis_workspace_iot-connector_fhir-destination"}
+{"command": "az partnercenter", "description": "Partner Center management.", "id": "az_partnercenter"}
+{"command": "az partnercenter marketplace", "description": "Commands to manage the Partner Center Marketplace.", "id": "az_partnercenter_marketplace"}
+{"command": "az partnercenter marketplace offer", "description": "Manage Marketplace offers.", "id": "az_partnercenter_marketplace_offer"}
+{"command": "az partnercenter marketplace offer submission", "description": "Manage a Marketplace Offer's submissions.", "id": "az_partnercenter_marketplace_offer_submission"}
+{"command": "az partnercenter marketplace offer setup", "description": "Manage a Marketplace Offer's setup.", "id": "az_partnercenter_marketplace_offer_setup"}
+{"command": "az partnercenter marketplace offer package", "description": "Manage the creation of offer packages, including CNAB bundles for AKS (Azure Container offerings that you sell through Microsoft).", "id": "az_partnercenter_marketplace_offer_package"}
+{"command": "az partnercenter marketplace offer plan", "description": "Manage a Marketplace offer plans.", "id": "az_partnercenter_marketplace_offer_plan"}
+{"command": "az partnercenter marketplace offer listing", "description": "Manage a Marketplace Offer's listing.", "id": "az_partnercenter_marketplace_offer_listing"}
+{"command": "az partnercenter marketplace offer plan listing", "description": "Manage a Marketplace offer plan's listing.", "id": "az_partnercenter_marketplace_offer_plan_listing"}
+{"command": "az partnercenter marketplace offer plan technical-configuration", "description": "Manage a Marketplace offer plan's technical configuration.", "id": "az_partnercenter_marketplace_offer_plan_technical-configuration"}
+{"command": "az partnercenter marketplace offer plan technical-configuration package", "description": "Manage packages for a plan's technical configuration.", "id": "az_partnercenter_marketplace_offer_plan_technical-configuration_package"}
+{"command": "az partnercenter marketplace offer listing contact", "description": "Manage a Marketplace Offer listing's contacts.", "id": "az_partnercenter_marketplace_offer_listing_contact"}
+{"command": "az partnercenter marketplace offer listing uri", "description": "Manage a Marketplace Offer listing's URIs.", "id": "az_partnercenter_marketplace_offer_listing_uri"}
+{"command": "az partnercenter marketplace offer listing media", "description": "Manage a Marketplace Offer listing's media including images, videos, and thumbnails.", "id": "az_partnercenter_marketplace_offer_listing_media"}
+{"command": "az confidentialledger", "description": "Manage Confidential Ledger.", "id": "az_confidentialledger"}
+{"command": "az confidentialledger managedccfs", "description": "Deploy and manage the Azure Managed CCF instances.", "id": "az_confidentialledger_managedccfs"}
+{"command": "az role", "description": "Manage user roles for access control with Azure Active Directory and service principals.", "id": "az_role"}
+{"command": "az role assignment", "description": "Manage role assignments.", "id": "az_role_assignment"}
+{"command": "az role definition", "description": "Manage role definitions.", "id": "az_role_definition"}
+{"command": "az scvmm", "description": "Commands for managing Arc for SCVMM resources.", "id": "az_scvmm"}
+{"command": "az scvmm avset", "description": "Manage Arc for SCVMM Availability Set resources.", "id": "az_scvmm_avset"}
+{"command": "az scvmm vmmserver", "description": "Manage Arc for SCVMM VMMServer resources.", "id": "az_scvmm_vmmserver"}
+{"command": "az scvmm virtual-network", "description": "Manage Arc for SCVMM Virtual Network resources.", "id": "az_scvmm_virtual-network"}
+{"command": "az scvmm vm-template", "description": "Manage Arc for SCVMM Virtual Machine Template resources.", "id": "az_scvmm_vm-template"}
+{"command": "az scvmm cloud", "description": "Manage Arc for SCVMM Cloud resources.", "id": "az_scvmm_cloud"}
+{"command": "az scvmm vm", "description": "Manage Arc for SCVMM Virtual Machine resources.", "id": "az_scvmm_vm"}
+{"command": "az scvmm vmmserver inventory-item", "description": "Inventory item resource.", "id": "az_scvmm_vmmserver_inventory-item"}
+{"command": "az scvmm vm extension", "description": "Manage vm extension with scvmm.", "id": "az_scvmm_vm_extension"}
+{"command": "az scvmm vm disk", "description": "Managing the Disks of Arc for SCVMM Virtual Machine.", "id": "az_scvmm_vm_disk"}
+{"command": "az scvmm vm nic", "description": "Managing the NICs of Arc for SCVMM Virtual Machine.", "id": "az_scvmm_vm_nic"}
+{"command": "az scvmm vm guest-agent", "description": "Vm guest agent.", "id": "az_scvmm_vm_guest-agent"}
+{"command": "az sf", "description": "Manage and administer Azure Service Fabric clusters.", "id": "az_sf"}
+{"command": "az sf cluster", "description": "Manage an Azure Service Fabric cluster.", "id": "az_sf_cluster"}
+{"command": "az sf application", "description": "Manage applications running on an Azure Service Fabric cluster. Only support ARM deployed applications.", "id": "az_sf_application"}
+{"command": "az sf managed-cluster", "description": "Manage an Azure Service Fabric managed cluster.", "id": "az_sf_managed-cluster"}
+{"command": "az sf application-type", "description": "Manage application types on an Azure Service Fabric cluster.", "id": "az_sf_application-type"}
+{"command": "az sf service", "description": "Manage services running on an Azure Service Fabric cluster. Only support ARM deployed services.", "id": "az_sf_service"}
+{"command": "az sf managed-application", "description": "Manage applications running on an Azure Service Fabric managed cluster. Only support ARM deployed applications.", "id": "az_sf_managed-application"}
+{"command": "az sf managed-service", "description": "Manage services running on an Azure Service Fabric managed cluster. Only support ARM deployed services.", "id": "az_sf_managed-service"}
+{"command": "az sf managed-node-type", "description": "Manage a node type of an Azure Service Fabric managed cluster.", "id": "az_sf_managed-node-type"}
+{"command": "az sf managed-application-type", "description": "Manage application types on an Azure Service Fabric cluster.", "id": "az_sf_managed-application-type"}
+{"command": "az sf managed-cluster network-security-rule", "description": "Network security rule of a manged cluster.", "id": "az_sf_managed-cluster_network-security-rule"}
+{"command": "az sf managed-cluster client-certificate", "description": "Manage client certificates of a manged cluster.", "id": "az_sf_managed-cluster_client-certificate"}
+{"command": "az sf managed-service correlation-scheme", "description": "Manage correlation schemes of services running on an Azure Service Fabric managed cluster. Only support ARM deployed services.", "id": "az_sf_managed-service_correlation-scheme"}
+{"command": "az sf managed-service load-metrics", "description": "Manage service load metrics running on an Azure Service Fabric managed cluster. Only support ARM deployed services.", "id": "az_sf_managed-service_load-metrics"}
+{"command": "az sf managed-application-type version", "description": "Manage application type versions on an Azure Service Fabric managed cluster. Only support ARM deployed application type versions.", "id": "az_sf_managed-application-type_version"}
+{"command": "az sf application-type version", "description": "Manage application type versions on an Azure Service Fabric cluster. Only support ARM deployed application type versions.", "id": "az_sf_application-type_version"}
+{"command": "az sf application certificate", "description": "Manage the certificate of an application.", "id": "az_sf_application_certificate"}
+{"command": "az sf managed-node-type node", "description": "Perform operations on nodes of a node type on managed clusters.", "id": "az_sf_managed-node-type_node"}
+{"command": "az sf managed-node-type vm-extension", "description": "Managed vm extension on a node type on managed clusters.", "id": "az_sf_managed-node-type_vm-extension"}
+{"command": "az sf managed-node-type vm-secret", "description": "Managed vm secrets on a node type on managed clusters.", "id": "az_sf_managed-node-type_vm-secret"}
+{"command": "az sf cluster node", "description": "Manage the node instance of a cluster.", "id": "az_sf_cluster_node"}
+{"command": "az sf cluster reliability", "description": "Manage the reliability of a cluster.", "id": "az_sf_cluster_reliability"}
+{"command": "az sf cluster client-certificate", "description": "Manage the client certificate of a cluster.", "id": "az_sf_cluster_client-certificate"}
+{"command": "az sf cluster setting", "description": "Manage a cluster's settings.", "id": "az_sf_cluster_setting"}
+{"command": "az sf cluster upgrade-type", "description": "Manage the upgrade type of a cluster.", "id": "az_sf_cluster_upgrade-type"}
+{"command": "az sf cluster durability", "description": "Manage the durability of a cluster.", "id": "az_sf_cluster_durability"}
+{"command": "az sf cluster node-type", "description": "Manage the node-type of a cluster.", "id": "az_sf_cluster_node-type"}
+{"command": "az logz", "description": "Manage Microsoft Logz.", "id": "az_logz"}
+{"command": "az logz sub-account", "description": "Manage sub account with logz.", "id": "az_logz_sub-account"}
+{"command": "az logz sub-rule", "description": "Manage sub account tag rule with logz.", "id": "az_logz_sub-rule"}
+{"command": "az logz rule", "description": "Manage tag rule with logz.", "id": "az_logz_rule"}
+{"command": "az logz sso", "description": "Manage single sign on with logz.", "id": "az_logz_sso"}
+{"command": "az logz monitor", "description": "Manage monitor with logz.", "id": "az_logz_monitor"}
+{"command": "az custom-providers", "description": "Commands to manage custom providers.", "id": "az_custom-providers"}
+{"command": "az custom-providers resource-provider", "description": "Commands to manage custom resource provider.", "id": "az_custom-providers_resource-provider"}
+{"command": "az container", "description": "Manage Azure Container Instances.", "id": "az_container"}
+{"command": "az containerapp", "description": "Manage Azure Container Apps.", "id": "az_containerapp"}
+{"command": "az container app", "description": "Commands to Manage Azure Container Instances App.", "id": "az_container_app"}

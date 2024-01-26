@@ -1,0 +1,100 @@
+{"command": "az networkcloud kubernetescluster", "description": "Manage Kubernetes cluster.", "id": "az_networkcloud_kubernetescluster"}
+{"command": "az networkcloud baremetalmachine", "description": "Manage bare metal machine.", "id": "az_networkcloud_baremetalmachine"}
+{"command": "az networkcloud volume", "description": "Manage volume.", "id": "az_networkcloud_volume"}
+{"command": "az networkcloud rack", "description": "Manage rack.", "id": "az_networkcloud_rack"}
+{"command": "az networkcloud l2network", "description": "Manage layer 2 (l2) network.", "id": "az_networkcloud_l2network"}
+{"command": "az networkcloud clustermanager", "description": "Manage cluster manager.", "id": "az_networkcloud_clustermanager"}
+{"command": "az networkcloud kubernetescluster agentpool", "description": "Manage Kubernetes cluster's agent pool.", "id": "az_networkcloud_kubernetescluster_agentpool"}
+{"command": "az networkcloud virtualmachine console", "description": "Manage virtual machine's console.", "id": "az_networkcloud_virtualmachine_console"}
+{"command": "az networkcloud cluster bmckeyset", "description": "Manage cluster's baseboard management controller key set.", "id": "az_networkcloud_cluster_bmckeyset"}
+{"command": "az networkcloud cluster baremetalmachinekeyset", "description": "Manage cluster's bare metal machine key set.", "id": "az_networkcloud_cluster_baremetalmachinekeyset"}
+{"command": "az networkcloud cluster metricsconfiguration", "description": "Manage cluster's metrics configuration.", "id": "az_networkcloud_cluster_metricsconfiguration"}
+{"command": "az ppg", "description": "Manage Proximity Placement Groups.", "id": "az_ppg"}
+{"command": "az alias", "description": "Manage Azure CLI Aliases.", "id": "az_alias"}
+{"command": "az notification-hub", "description": "Manage notification hubs.", "id": "az_notification-hub"}
+{"command": "az notification-hub credential", "description": "Commands to manage notification hub credential.", "id": "az_notification-hub_credential"}
+{"command": "az notification-hub authorization-rule", "description": "Commands to manage notification hubs authorization rule.", "id": "az_notification-hub_authorization-rule"}
+{"command": "az notification-hub namespace", "description": "Commands to manage notification hub namespace.", "id": "az_notification-hub_namespace"}
+{"command": "az notification-hub namespace authorization-rule", "description": "Commands to manage notification hubs namespace authorization rule.", "id": "az_notification-hub_namespace_authorization-rule"}
+{"command": "az notification-hub credential mpns", "description": null, "id": "az_notification-hub_credential_mpns"}
+{"command": "az notification-hub credential wns", "description": null, "id": "az_notification-hub_credential_wns"}
+{"command": "az notification-hub credential baidu", "description": null, "id": "az_notification-hub_credential_baidu"}
+{"command": "az notification-hub credential gcm", "description": null, "id": "az_notification-hub_credential_gcm"}
+{"command": "az notification-hub credential apns", "description": null, "id": "az_notification-hub_credential_apns"}
+{"command": "az notification-hub credential adm", "description": null, "id": "az_notification-hub_credential_adm"}
+{"command": "az k8s-configuration", "description": "Commands to manage resources from Microsoft.KubernetesConfiguration.", "id": "az_k8s-configuration"}
+{"command": "az k8s-configuration flux", "description": "Commands to manage Flux v2 Kubernetes configurations.", "id": "az_k8s-configuration_flux"}
+{"command": "az k8s-configuration flux deployed-object", "description": "Commands to see deployed objects associated with Flux v2 Kubernetes configurations.", "id": "az_k8s-configuration_flux_deployed-object"}
+{"command": "az k8s-configuration flux kustomization", "description": "Commands to manage Kustomizations associated with Flux v2 Kubernetes configurations.", "id": "az_k8s-configuration_flux_kustomization"}
+{"command": "az desktopvirtualization", "description": "Manage desktop virtualization.", "id": "az_desktopvirtualization"}
+{"command": "az desktopvirtualization hostpool", "description": "Desktopvirtualization hostpool.", "id": "az_desktopvirtualization_hostpool"}
+{"command": "az desktopvirtualization workspace", "description": "Desktopvirtualization workspace.", "id": "az_desktopvirtualization_workspace"}
+{"command": "az desktopvirtualization applicationgroup", "description": "Desktopvirtualization applicationgroup.", "id": "az_desktopvirtualization_applicationgroup"}
+{"command": "az cache", "description": "Commands to manage CLI objects cached using the `--defer` argument.", "id": "az_cache"}
+{"command": "az disk-access", "description": "Manage disk access resources.", "id": "az_disk-access"}
+{"command": "az serial-console", "description": "Connect to the Serial Console of a Linux/Windows Virtual Machine or VMSS Instance.", "id": "az_serial-console"}
+{"command": "az serial-console send", "description": "Send NMI/SysRq/Reset to a VM or VMSS Instance.", "id": "az_serial-console_send"}
+{"command": "az search", "description": "Manage Azure Search services, admin keys and query keys.", "id": "az_search"}
+{"command": "az search query-key", "description": "Manage Azure Search query keys.", "id": "az_search_query-key"}
+{"command": "az search shared-private-link-resource", "description": "Manage Azure Search shared private link resources.", "id": "az_search_shared-private-link-resource"}
+{"command": "az search service", "description": "Manage Azure Search services.", "id": "az_search_service"}
+{"command": "az search private-endpoint-connection", "description": "Manage Azure Search private endpoint connections.", "id": "az_search_private-endpoint-connection"}
+{"command": "az search private-link-resource", "description": "Manage Azure Search private link resources.", "id": "az_search_private-link-resource"}
+{"command": "az search admin-key", "description": "Manage Azure Search admin keys.", "id": "az_search_admin-key"}
+{"command": "az dla", "description": "Manage Data Lake Analytics accounts, jobs, and catalogs.", "id": "az_dla"}
+{"command": "az dla catalog", "description": "Manage Data Lake Analytics catalogs.", "id": "az_dla_catalog"}
+{"command": "az dla account", "description": "Manage Data Lake Analytics accounts.", "id": "az_dla_account"}
+{"command": "az dla job", "description": "Manage Data Lake Analytics jobs.", "id": "az_dla_job"}
+{"command": "az dla job recurrence", "description": "Manage Data Lake Analytics job recurrences.", "id": "az_dla_job_recurrence"}
+{"command": "az dla job pipeline", "description": "Manage Data Lake Analytics job pipelines.", "id": "az_dla_job_pipeline"}
+{"command": "az dla catalog external-data-source", "description": "Manage Data Lake Analytics catalog external data sources.", "id": "az_dla_catalog_external-data-source"}
+{"command": "az dla catalog credential", "description": "Manage Data Lake Analytics catalog credentials.", "id": "az_dla_catalog_credential"}
+{"command": "az dla catalog package", "description": "Manage Data Lake Analytics catalog packages.", "id": "az_dla_catalog_package"}
+{"command": "az dla catalog assembly", "description": "Manage Data Lake Analytics catalog assemblies.", "id": "az_dla_catalog_assembly"}
+{"command": "az dla catalog table-partition", "description": "Manage Data Lake Analytics catalog table partitions.", "id": "az_dla_catalog_table-partition"}
+{"command": "az dla catalog table-type", "description": "Manage Data Lake Analytics catalog table types.", "id": "az_dla_catalog_table-type"}
+{"command": "az dla catalog schema", "description": "Manage Data Lake Analytics catalog schemas.", "id": "az_dla_catalog_schema"}
+{"command": "az dla catalog table", "description": "Manage Data Lake Analytics catalog tables.", "id": "az_dla_catalog_table"}
+{"command": "az dla catalog tvf", "description": "Manage Data Lake Analytics catalog table valued functions.", "id": "az_dla_catalog_tvf"}
+{"command": "az dla catalog procedure", "description": "Manage Data Lake Analytics catalog stored procedures.", "id": "az_dla_catalog_procedure"}
+{"command": "az dla catalog table-stats", "description": "Manage Data Lake Analytics catalog table statistics.", "id": "az_dla_catalog_table-stats"}
+{"command": "az dla catalog view", "description": "Manage Data Lake Analytics catalog views.", "id": "az_dla_catalog_view"}
+{"command": "az dla catalog database", "description": "Manage Data Lake Analytics catalog databases.", "id": "az_dla_catalog_database"}
+{"command": "az dla account data-lake-store", "description": "Manage links between Data Lake Analytics and Data Lake Store accounts.", "id": "az_dla_account_data-lake-store"}
+{"command": "az dla account blob-storage", "description": "Manage links between Data Lake Analytics accounts and Azure Storage.", "id": "az_dla_account_blob-storage"}
+{"command": "az dla account firewall", "description": "Manage Data Lake Analytics account firewall rules.", "id": "az_dla_account_firewall"}
+{"command": "az dla account compute-policy", "description": "Manage Data Lake Analytics account compute policies.", "id": "az_dla_account_compute-policy"}
+{"command": "az cognitiveservices", "description": "Manage Azure Cognitive Services accounts.", "id": "az_cognitiveservices"}
+{"command": "az cognitiveservices usage", "description": "Manage usage for Azure Cognitive Services.", "id": "az_cognitiveservices_usage"}
+{"command": "az cognitiveservices commitment-tier", "description": "Manage commitment tiers for Azure Cognitive Services.", "id": "az_cognitiveservices_commitment-tier"}
+{"command": "az cognitiveservices account", "description": "Manage Azure Cognitive Services accounts.", "id": "az_cognitiveservices_account"}
+{"command": "az cognitiveservices model", "description": "Manage model for Azure Cognitive Services.", "id": "az_cognitiveservices_model"}
+{"command": "az cognitiveservices account identity", "description": "Manage identity of Cognitive Services accounts.", "id": "az_cognitiveservices_account_identity"}
+{"command": "az cognitiveservices account deployment", "description": "Manage deployments for Azure Cognitive Services accounts.", "id": "az_cognitiveservices_account_deployment"}
+{"command": "az cognitiveservices account commitment-plan", "description": "Manage commitment plans for Azure Cognitive Services accounts.", "id": "az_cognitiveservices_account_commitment-plan"}
+{"command": "az cognitiveservices account keys", "description": "Manage Azure Cognitive Services accounts.", "id": "az_cognitiveservices_account_keys"}
+{"command": "az cognitiveservices account network-rule", "description": "Manage network rules.", "id": "az_cognitiveservices_account_network-rule"}
+{"command": "az security", "description": "Manage your security posture with Microsoft Defender for Cloud.", "id": "az_security"}
+{"command": "az security adaptive-application-controls", "description": "Enable control which applications can run on your Azure and non-Azure machines (Windows and Linux).", "id": "az_security_adaptive-application-controls"}
+{"command": "az security iot-solution", "description": "Manage your IoT Security solution.", "id": "az_security_iot-solution"}
+{"command": "az security adaptive_network_hardenings", "description": "View all Adaptive Network Hardening resources.", "id": "az_security_adaptive_network_hardenings"}
+{"command": "az security secure-scores", "description": "Secure scores.", "id": "az_security_secure-scores"}
+{"command": "az security automation-rule-set", "description": "Creates security automation rule set.", "id": "az_security_automation-rule-set"}
+{"command": "az security alerts-suppression-rule", "description": "View and manage alerts suppression rules.", "id": "az_security_alerts-suppression-rule"}
+{"command": "az security iot-recommendations", "description": "View IoT Security aggregated recommendations.", "id": "az_security_iot-recommendations"}
+{"command": "az security automation-scope", "description": "Creates security automation scope.", "id": "az_security_automation-scope"}
+{"command": "az security regulatory-compliance-assessments", "description": "Regulatory compliance assessments.", "id": "az_security_regulatory-compliance-assessments"}
+{"command": "az security pricing", "description": "Enables managing the Azure Defender plan for the subscription.", "id": "az_security_pricing"}
+{"command": "az security contact", "description": "View your security contacts.", "id": "az_security_contact"}
+{"command": "az security security-solutions", "description": "Display all security solutions at the subscription level.", "id": "az_security_security-solutions"}
+{"command": "az security secure-score-controls", "description": "Secure score controls.", "id": "az_security_secure-score-controls"}
+{"command": "az security auto-provisioning-setting", "description": "View your auto provisioning settings.", "id": "az_security_auto-provisioning-setting"}
+{"command": "az security external-security-solution", "description": "View your external security solutions.", "id": "az_security_external-security-solution"}
+{"command": "az security atp", "description": "View and manage Advanced Threat Protection settings.", "id": "az_security_atp"}
+{"command": "az security regulatory-compliance-controls", "description": "Regulatory compliance controls.", "id": "az_security_regulatory-compliance-controls"}
+{"command": "az security alert", "description": "View security alerts.", "id": "az_security_alert"}
+{"command": "az security location", "description": "Shows the Microsoft Defender for Cloud Home region location.", "id": "az_security_location"}
+{"command": "az security workspace-setting", "description": "Shows the workspace settings in your subscription - these settings let you control which workspace will hold your security data.", "id": "az_security_workspace-setting"}
+{"command": "az security topology", "description": "Shows the network topology in your subscription.", "id": "az_security_topology"}
+{"command": "az security automation", "description": "View your security automations.", "id": "az_security_automation"}
+{"command": "az security allowed_connections", "description": "View all possible traffic between resources for the subscription and location, based on connection type.", "id": "az_security_allowed_connections"}

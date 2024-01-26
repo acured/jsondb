@@ -1,0 +1,100 @@
+{"command": "az containerapp env logs", "description": "Show container app environment logs.", "id": "az_containerapp_env_logs"}
+{"command": "az containerapp env workload-profile", "description": "Manage the workload profiles of a Container Apps environment.", "id": "az_containerapp_env_workload-profile"}
+{"command": "az containerapp env storage", "description": "Commands to manage storage for the Container Apps environment.", "id": "az_containerapp_env_storage"}
+{"command": "az containerapp env certificate", "description": "Commands to manage certificates for the Container Apps environment.", "id": "az_containerapp_env_certificate"}
+{"command": "az containerapp env dapr-component resiliency", "description": "Commands to manage resiliency policies for a dapr component.", "id": "az_containerapp_env_dapr-component_resiliency"}
+{"command": "az containerapp connected-env dapr-component", "description": "Commands to manage Dapr components for Container Apps connected environments.", "id": "az_containerapp_connected-env_dapr-component"}
+{"command": "az containerapp connected-env storage", "description": "Commands to manage storage for the Container Apps connected environment.", "id": "az_containerapp_connected-env_storage"}
+{"command": "az containerapp connected-env certificate", "description": "Commands to manage certificates for the Container Apps connected environment.", "id": "az_containerapp_connected-env_certificate"}
+{"command": "az containerapp service redis", "description": "Commands to manage the redis service for the Container Apps environment.", "id": "az_containerapp_service_redis"}
+{"command": "az containerapp service postgres", "description": "Commands to manage the postgres service for the Container Apps environment.", "id": "az_containerapp_service_postgres"}
+{"command": "az containerapp service mariadb", "description": "Commands to manage the mariadb service for the Container Apps environment.", "id": "az_containerapp_service_mariadb"}
+{"command": "az containerapp service kafka", "description": "Commands to manage the kafka service for the Container Apps environment.", "id": "az_containerapp_service_kafka"}
+{"command": "az containerapp service qdrant", "description": "Commands to manage the qdrant service for the Container Apps environment.", "id": "az_containerapp_service_qdrant"}
+{"command": "az containerapp auth github", "description": "Manage containerapp authentication and authorization of the GitHub identity provider.", "id": "az_containerapp_auth_github"}
+{"command": "az containerapp auth google", "description": "Manage containerapp authentication and authorization of the Google identity provider.", "id": "az_containerapp_auth_google"}
+{"command": "az containerapp auth microsoft", "description": "Manage containerapp authentication and authorization of the Microsoft identity provider.", "id": "az_containerapp_auth_microsoft"}
+{"command": "az containerapp auth apple", "description": "Manage containerapp authentication and authorization of the Apple identity provider.", "id": "az_containerapp_auth_apple"}
+{"command": "az containerapp auth openid-connect", "description": "Manage containerapp authentication and authorization of the custom OpenID Connect identity providers.", "id": "az_containerapp_auth_openid-connect"}
+{"command": "az containerapp auth facebook", "description": "Manage containerapp authentication and authorization of the Facebook identity provider.", "id": "az_containerapp_auth_facebook"}
+{"command": "az containerapp auth twitter", "description": "Manage containerapp authentication and authorization of the Twitter identity provider.", "id": "az_containerapp_auth_twitter"}
+{"command": "az containerapp connection create", "description": "Create a connection between a containerapp and a target resource.", "id": "az_containerapp_connection_create"}
+{"command": "az containerapp connection update", "description": "Update a containerapp connection.", "id": "az_containerapp_connection_update"}
+{"command": "az containerapp ingress access-restriction", "description": "Commands to manage IP access restrictions.", "id": "az_containerapp_ingress_access-restriction"}
+{"command": "az containerapp ingress cors", "description": "Commands to manage CORS policy for a container app.", "id": "az_containerapp_ingress_cors"}
+{"command": "az containerapp ingress sticky-sessions", "description": "Commands to set Sticky session affinity for a container app.", "id": "az_containerapp_ingress_sticky-sessions"}
+{"command": "az containerapp ingress traffic", "description": "Commands to manage traffic-splitting.", "id": "az_containerapp_ingress_traffic"}
+{"command": "az containerapp add-on redis", "description": "Commands to manage the redis add-on for the Container Apps environment.", "id": "az_containerapp_add-on_redis"}
+{"command": "az containerapp add-on postgres", "description": "Commands to manage the postgres add-on for the Container Apps environment.", "id": "az_containerapp_add-on_postgres"}
+{"command": "az containerapp add-on mariadb", "description": "Commands to manage the mariadb add-on for the Container Apps environment.", "id": "az_containerapp_add-on_mariadb"}
+{"command": "az containerapp add-on kafka", "description": "Commands to manage the kafka add-on for the Container Apps environment.", "id": "az_containerapp_add-on_kafka"}
+{"command": "az containerapp add-on qdrant", "description": "Commands to manage the qdrant add-on for the Container Apps environment.", "id": "az_containerapp_add-on_qdrant"}
+{"command": "az containerapp revision label", "description": "Manage revision labels assigned to traffic weights.", "id": "az_containerapp_revision_label"}
+{"command": "az hybridaks", "description": "Manage hybridaks provisioned clusters.", "id": "az_hybridaks"}
+{"command": "az hybridaks vnet", "description": "Manage virtual networks for hybridaks.", "id": "az_hybridaks_vnet"}
+{"command": "az hybridaks nodepool", "description": "Manage nodepools in a hybridaks provisioned cluster.", "id": "az_hybridaks_nodepool"}
+{"command": "az afd", "description": "Manage Azure Front Door Standard/Premium.", "id": "az_afd"}
+{"command": "az afd route", "description": "Manage routes under an AFD endpoint.", "id": "az_afd_route"}
+{"command": "az afd log-analytic", "description": "Manage afd log analytic results.", "id": "az_afd_log-analytic"}
+{"command": "az afd custom-domain", "description": "Manage custom domains within the specified profile.", "id": "az_afd_custom-domain"}
+{"command": "az afd origin-group", "description": "Manage origin groups under the specified profile.", "id": "az_afd_origin-group"}
+{"command": "az afd rule-set", "description": "Manage rule set for the specified profile.", "id": "az_afd_rule-set"}
+{"command": "az afd secret", "description": "Manage secrets within the specified profile.", "id": "az_afd_secret"}
+{"command": "az afd waf-log-analytic", "description": "Manage afd WAF related log analytic results.", "id": "az_afd_waf-log-analytic"}
+{"command": "az afd endpoint", "description": "Manage AFD endpoints within the specified profile.  An endpoint is a logical grouping of domains and their associated configurations.", "id": "az_afd_endpoint"}
+{"command": "az afd origin", "description": "Manage origins within the specified origin group.", "id": "az_afd_origin"}
+{"command": "az afd security-policy", "description": "Manage security policies within the specified profile.", "id": "az_afd_security-policy"}
+{"command": "az afd rule", "description": "Manage delivery rules within the specified rule set.", "id": "az_afd_rule"}
+{"command": "az afd profile", "description": "Manage AFD profiles.", "id": "az_afd_profile"}
+{"command": "az afd waf-log-analytic metric", "description": "Manage WAF related metric statistics for AFD profile.", "id": "az_afd_waf-log-analytic_metric"}
+{"command": "az afd waf-log-analytic ranking", "description": "Manage WAF related ranking statistics for AFD profile.", "id": "az_afd_waf-log-analytic_ranking"}
+{"command": "az afd rule condition", "description": "Manage delivery rule conditions for a rule.", "id": "az_afd_rule_condition"}
+{"command": "az afd rule action", "description": "Manage delivery rule actions for a rule.", "id": "az_afd_rule_action"}
+{"command": "az afd log-analytic metric", "description": "Manage metric statistics for AFD profile.", "id": "az_afd_log-analytic_metric"}
+{"command": "az afd log-analytic ranking", "description": "Manage ranking statistics for AFD profile.", "id": "az_afd_log-analytic_ranking"}
+{"command": "az afd log-analytic resource", "description": "Manage endpoints and custom domains available for AFD log analysis.", "id": "az_afd_log-analytic_resource"}
+{"command": "az afd log-analytic location", "description": "Manage available location names for AFD log analysis.", "id": "az_afd_log-analytic_location"}
+{"command": "az mesh", "description": "(PREVIEW) Manage Azure Service Fabric Mesh Resources.", "id": "az_mesh"}
+{"command": "az mesh service-replica", "description": "Manage Service Fabric Mesh service replicas.", "id": "az_mesh_service-replica"}
+{"command": "az mesh gateway", "description": "Manage gateway resources.", "id": "az_mesh_gateway"}
+{"command": "az mesh code-package-log", "description": "Examine the logs for a codepackage.", "id": "az_mesh_code-package-log"}
+{"command": "az mesh network", "description": "Manage networks.", "id": "az_mesh_network"}
+{"command": "az mesh deployment", "description": "Manage Service Fabric Mesh deployments.", "id": "az_mesh_deployment"}
+{"command": "az mesh secret", "description": "Manage secret resources.", "id": "az_mesh_secret"}
+{"command": "az mesh secretvalue", "description": "Manage secret values.", "id": "az_mesh_secretvalue"}
+{"command": "az mesh service", "description": "Manage Service Fabric Mesh services.", "id": "az_mesh_service"}
+{"command": "az mesh volume", "description": "Manage volumes.", "id": "az_mesh_volume"}
+{"command": "az mesh generate", "description": "Generate Service Fabric Mesh deployment template.", "id": "az_mesh_generate"}
+{"command": "az mesh app", "description": "Manage Service Fabric Mesh applications.", "id": "az_mesh_app"}
+{"command": "az databoxedge", "description": "Support data box edge device and management.", "id": "az_databoxedge"}
+{"command": "az databoxedge order", "description": "Manage order with databoxedge.", "id": "az_databoxedge_order"}
+{"command": "az databoxedge bandwidth-schedule", "description": "Manage bandwidth schedule with databoxedge.", "id": "az_databoxedge_bandwidth-schedule"}
+{"command": "az databoxedge alert", "description": "Manage alert with databoxedge.", "id": "az_databoxedge_alert"}
+{"command": "az databoxedge device", "description": "Manage device with databoxedge.", "id": "az_databoxedge_device"}
+{"command": "az backup", "description": "Manage Azure Backups.", "id": "az_backup"}
+{"command": "az backup container", "description": "Resource which houses items or applications to be protected.", "id": "az_backup_container"}
+{"command": "az backup vault", "description": "Online storage entity in Azure used to hold data such as backup copies, recovery points and backup policies.", "id": "az_backup_vault"}
+{"command": "az backup protection", "description": "Manage protection of your items, enable protection or disable it, or take on-demand backups.", "id": "az_backup_protection"}
+{"command": "az backup policy", "description": "A backup policy defines when you want to take a backup and for how long you would retain each backup copy.", "id": "az_backup_policy"}
+{"command": "az backup protectable-item", "description": "Manage the item which is yet to be protected or backed up to an Azure Recovery services vault with an associated policy.", "id": "az_backup_protectable-item"}
+{"command": "az backup item", "description": "An item which is already protected or backed up to an Azure Recovery services vault with an associated policy.", "id": "az_backup_item"}
+{"command": "az backup job", "description": "Entity which contains details of the job.", "id": "az_backup_job"}
+{"command": "az backup restore", "description": "Restore backed up items from recovery points in a Recovery Services vault.", "id": "az_backup_restore"}
+{"command": "az backup recoverypoint", "description": "A snapshot of data at that point-of-time, stored in Recovery Services Vault, from which you can restore information.", "id": "az_backup_recoverypoint"}
+{"command": "az backup recoveryconfig", "description": "Manage recovery configuration of an Azure workload backed up item.", "id": "az_backup_recoveryconfig"}
+{"command": "az backup vault encryption", "description": "Encryption details of a Recovery Services Vault.", "id": "az_backup_vault_encryption"}
+{"command": "az backup vault backup-properties", "description": "Properties of the Recovery Services vault.", "id": "az_backup_vault_backup-properties"}
+{"command": "az backup vault identity", "description": "Identity details of a Recovery Services Vault.", "id": "az_backup_vault_identity"}
+{"command": "az backup vault resource-guard-mapping", "description": "Resource Guard Mapping details of the Recovery Services vault.", "id": "az_backup_vault_resource-guard-mapping"}
+{"command": "az backup restore files", "description": "Gives access to all files of a recovery point.", "id": "az_backup_restore_files"}
+{"command": "az databricks", "description": "Manage databricks workspaces.", "id": "az_databricks"}
+{"command": "az databricks workspace", "description": "Commands to manage databricks workspace.", "id": "az_databricks_workspace"}
+{"command": "az databricks access-connector", "description": "Commands to manage databricks access connector.", "id": "az_databricks_access-connector"}
+{"command": "az databricks workspace vnet-peering", "description": "Commands to manage databricks workspace vnet peering.", "id": "az_databricks_workspace_vnet-peering"}
+{"command": "az databricks workspace outbound-endpoint", "description": "Commands to manage endpoints in the specified workspace.", "id": "az_databricks_workspace_outbound-endpoint"}
+{"command": "az databricks workspace private-endpoint-connection", "description": "Commands to manage databricks workspace private endpoint connections.", "id": "az_databricks_workspace_private-endpoint-connection"}
+{"command": "az databricks workspace private-link-resource", "description": "Commands to manage databricks workspace private link resources.", "id": "az_databricks_workspace_private-link-resource"}
+{"command": "az tag", "description": "Tag Management on a resource.", "id": "az_tag"}
+{"command": "az adp", "description": "Manage Azure Autonomous Development Platform resources.", "id": "az_adp"}
+{"command": "az adp account", "description": "Manage adp accounts.", "id": "az_adp_account"}
+{"command": "az adp workspace", "description": "Manage adp workspace.", "id": "az_adp_workspace"}

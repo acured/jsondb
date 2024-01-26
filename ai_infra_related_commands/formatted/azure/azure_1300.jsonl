@@ -1,0 +1,100 @@
+{"command": "az servicebus queue", "description": "Servicebus queue.", "id": "az_servicebus_queue"}
+{"command": "az servicebus namespace", "description": "Servicebus namespace.", "id": "az_servicebus_namespace"}
+{"command": "az servicebus topic", "description": "Servicebus topic.", "id": "az_servicebus_topic"}
+{"command": "az servicebus migration", "description": "Manage Azure Service Bus Migration of Standard to Premium.", "id": "az_servicebus_migration"}
+{"command": "az servicebus georecovery-alias", "description": "Manage Azure Service Bus Geo-Disaster Recovery Configuration Alias.", "id": "az_servicebus_georecovery-alias"}
+{"command": "az servicebus queue authorization-rule", "description": "Servicebus queue authorization-rule.", "id": "az_servicebus_queue_authorization-rule"}
+{"command": "az servicebus queue authorization-rule keys", "description": "Servicebus queue authorization-rule keys.", "id": "az_servicebus_queue_authorization-rule_keys"}
+{"command": "az servicebus namespace encryption", "description": "Manage servicebus namespace encryption properties.", "id": "az_servicebus_namespace_encryption"}
+{"command": "az servicebus namespace identity", "description": "Manage servicebus namespace identity.", "id": "az_servicebus_namespace_identity"}
+{"command": "az servicebus namespace authorization-rule", "description": "Servicebus namespace authorization-rule.", "id": "az_servicebus_namespace_authorization-rule"}
+{"command": "az servicebus namespace private-endpoint-connection", "description": "Manage servicebus namespace private endpoint connection.", "id": "az_servicebus_namespace_private-endpoint-connection"}
+{"command": "az servicebus namespace private-link-resource", "description": "Manage servicebus namespace private link resources.", "id": "az_servicebus_namespace_private-link-resource"}
+{"command": "az servicebus namespace network-rule-set", "description": "Servicebus namespace network-rule-set.", "id": "az_servicebus_namespace_network-rule-set"}
+{"command": "az servicebus namespace network-rule-set virtual-network-rule", "description": "Manage Azure ServiceBus subnet-rule in networkruleSet for namespace.", "id": "az_servicebus_namespace_network-rule-set_virtual-network-rule"}
+{"command": "az servicebus namespace network-rule-set ip-rule", "description": "Manage Azure ServiceBus ip-rules in networkruleSet for namespace.", "id": "az_servicebus_namespace_network-rule-set_ip-rule"}
+{"command": "az servicebus namespace authorization-rule keys", "description": "Servicebus namespace authorization-rule keys.", "id": "az_servicebus_namespace_authorization-rule_keys"}
+{"command": "az servicebus georecovery-alias authorization-rule", "description": "Manage Azure Service Bus Authorization Rule for Namespace with Geo-Disaster Recovery Configuration Alias.", "id": "az_servicebus_georecovery-alias_authorization-rule"}
+{"command": "az servicebus georecovery-alias authorization-rule keys", "description": "Manage Azure Authorization Rule keys for Service Bus Namespace.", "id": "az_servicebus_georecovery-alias_authorization-rule_keys"}
+{"command": "az servicebus topic subscription", "description": "Servicebus topic subscription.", "id": "az_servicebus_topic_subscription"}
+{"command": "az servicebus topic authorization-rule", "description": "Servicebus topic authorization-rule.", "id": "az_servicebus_topic_authorization-rule"}
+{"command": "az servicebus topic subscription rule", "description": "Servicebus topic subscription rule.", "id": "az_servicebus_topic_subscription_rule"}
+{"command": "az servicebus topic authorization-rule keys", "description": "Servicebus topic authorization-rule keys.", "id": "az_servicebus_topic_authorization-rule_keys"}
+{"command": "az advisor", "description": "Manage Azure Advisor.", "id": "az_advisor"}
+{"command": "az advisor configuration", "description": "Manage Azure Advisor configuration.", "id": "az_advisor_configuration"}
+{"command": "az advisor recommendation", "description": "Review Azure Advisor recommendations.", "id": "az_advisor_recommendation"}
+{"command": "az graph", "description": "Query the resources managed by Azure Resource Manager.", "id": "az_graph"}
+{"command": "az graph-services", "description": "Make operations on Microsoft.GraphServices resource types.", "id": "az_graph-services"}
+{"command": "az graph shared-query", "description": "Manage shared query of Azure resource graph.", "id": "az_graph_shared-query"}
+{"command": "az graph-services account", "description": "Make operations on Microsoft.GraphServices/Accounts.", "id": "az_graph-services_account"}
+{"command": "az aro", "description": "Manage Azure Red Hat OpenShift clusters.", "id": "az_aro"}
+{"command": "az spring", "description": "Commands to manage Azure Spring Apps.", "id": "az_spring"}
+{"command": "az spring-cloud", "description": "Commands to manage Azure Spring Cloud.", "id": "az_spring-cloud"}
+{"command": "az spring container-registry", "description": "(Enterprise Tier Only) Commands to manage Container Registry Resource.", "id": "az_spring_container-registry"}
+{"command": "az spring config-server", "description": "(Support Standard Tier and Basic Tier) Commands to manage Config Server in Azure Spring Apps.", "id": "az_spring_config-server"}
+{"command": "az spring gateway", "description": "(Enterprise Tier Only) Commands to manage gateway in Azure Spring Apps.", "id": "az_spring_gateway"}
+{"command": "az spring eureka-server", "description": "(Support Standard consumption Tier) Commands to manage Eureka Server in Azure Spring Apps.", "id": "az_spring_eureka-server"}
+{"command": "az spring application-live-view", "description": "(Enterprise Tier Only) Commands to manage Application Live View in Azure Spring Apps. Application Live View presents application instance metrics, and makes it easy for developers to monitor application runtimes.", "id": "az_spring_application-live-view"}
+{"command": "az spring app-insights", "description": "Commands to management Application Insights in Azure Spring Apps.", "id": "az_spring_app-insights"}
+{"command": "az spring dev-tool", "description": "(Enterprise Tier Only) Commands to manage Dev Tools in Azure Spring Apps. The Dev Tools Portal is an underlying application that hosts the developer tools.", "id": "az_spring_dev-tool"}
+{"command": "az spring component", "description": "(Enterprise Tier Only) Commands to handle managed components.", "id": "az_spring_component"}
+{"command": "az spring service-registry", "description": "(Enterprise Tier Only) Commands to manage Service Registry in Azure Spring Apps.", "id": "az_spring_service-registry"}
+{"command": "az spring api-portal", "description": "(Enterprise Tier Only) Commands to manage API portal in Azure Spring Apps.", "id": "az_spring_api-portal"}
+{"command": "az spring app", "description": "Commands to manage apps in Azure Spring Apps.", "id": "az_spring_app"}
+{"command": "az spring apm", "description": "(Enterprise Tier Only) Commands to manage APMs in Azure Spring Apps.", "id": "az_spring_apm"}
+{"command": "az spring test-endpoint", "description": "Commands to manage test endpoint in Azure Spring Apps.", "id": "az_spring_test-endpoint"}
+{"command": "az spring application-configuration-service", "description": "(Enterprise Tier Only) Commands to manage Application Configuration Service in Azure Spring Apps.", "id": "az_spring_application-configuration-service"}
+{"command": "az spring build-service", "description": "(Enterprise Tier Only) Commands to manage build service in Azure Spring Apps.", "id": "az_spring_build-service"}
+{"command": "az spring storage", "description": "Commands to manage Storages in Azure Spring Apps.", "id": "az_spring_storage"}
+{"command": "az spring certificate", "description": "Commands to manage certificates.", "id": "az_spring_certificate"}
+{"command": "az spring application-accelerator", "description": "(Enterprise Tier Only) Commands to manage Application Accelerator in Azure Spring Apps.", "id": "az_spring_application-accelerator"}
+{"command": "az spring connection", "description": "Commands to manage spring app connections.", "id": "az_spring_connection"}
+{"command": "az spring application-configuration-service git", "description": "Commands to manage Application Configuration Service git property in Azure Spring Apps.", "id": "az_spring_application-configuration-service_git"}
+{"command": "az spring application-configuration-service git repo", "description": "Commands to manage Application Configuration Service git repository in Azure Spring Apps.", "id": "az_spring_application-configuration-service_git_repo"}
+{"command": "az spring api-portal custom-domain", "description": "Commands to manage custom domains for API portal.", "id": "az_spring_api-portal_custom-domain"}
+{"command": "az spring app custom-domain", "description": "Commands to manage custom domains.", "id": "az_spring_app_custom-domain"}
+{"command": "az spring app binding", "description": "Commands to manage bindings with Azure Data Services, you need to manually restart app to make settings take effect.", "id": "az_spring_app_binding"}
+{"command": "az spring app identity", "description": "Manage an app's managed identities.", "id": "az_spring_app_identity"}
+{"command": "az spring app log", "description": "Commands to tail app instances logs with multiple options. If the app has only one instance, the instance name is optional.", "id": "az_spring_app_log"}
+{"command": "az spring app deployment", "description": "Commands to manage life cycle of deployments of an app in Azure Spring Apps. More operations on deployments can be done on app level with parameter --deployment. e.g. az spring app deploy --deployment <staging deployment>.", "id": "az_spring_app_deployment"}
+{"command": "az spring app binding redis", "description": "Commands to manage Azure Cache for Redis bindings.", "id": "az_spring_app_binding_redis"}
+{"command": "az spring app binding mysql", "description": "Commands to manage Azure Database for MySQL bindings.", "id": "az_spring_app_binding_mysql"}
+{"command": "az spring app binding cosmos", "description": "Commands to manage Azure Cosmos DB bindings.", "id": "az_spring_app_binding_cosmos"}
+{"command": "az spring component instance", "description": "(Enterprise Tier Only) Commands to handle instances of a managed component.", "id": "az_spring_component_instance"}
+{"command": "az spring gateway custom-domain", "description": "Commands to manage custom domains for gateway.", "id": "az_spring_gateway_custom-domain"}
+{"command": "az spring gateway route-config", "description": "Commands to manage gateway route configs in Azure Spring Apps.", "id": "az_spring_gateway_route-config"}
+{"command": "az spring application-accelerator customized-accelerator", "description": "(Enterprise Tier Only) Commands to manage customized accelerator in Azure Spring Apps.", "id": "az_spring_application-accelerator_customized-accelerator"}
+{"command": "az spring application-accelerator predefined-accelerator", "description": "(Enterprise Tier Only) Commands to manage predefined accelerator in Azure Spring Apps.", "id": "az_spring_application-accelerator_predefined-accelerator"}
+{"command": "az spring connection create", "description": "Create a connection between a spring app and a target resource.", "id": "az_spring_connection_create"}
+{"command": "az spring connection update", "description": "Update a spring app connection.", "id": "az_spring_connection_update"}
+{"command": "az spring config-server git", "description": "Commands to manage Config Server git property in Azure Spring Apps.", "id": "az_spring_config-server_git"}
+{"command": "az spring config-server git repo", "description": "Commands to manage Config Server git repository in Azure Spring Apps.", "id": "az_spring_config-server_git_repo"}
+{"command": "az spring build-service build", "description": "(Enterprise Tier Only) Commands to manage Build Resource.", "id": "az_spring_build-service_build"}
+{"command": "az spring build-service builder", "description": "(Enterprise Tier Only) Commands to manage builder of build service.", "id": "az_spring_build-service_builder"}
+{"command": "az spring build-service builder buildpack-binding", "description": "(Enterprise Tier Only) Commands to manage buildpack-binding of builder.", "id": "az_spring_build-service_builder_buildpack-binding"}
+{"command": "az spring build-service build result", "description": "(Enterprise Tier Only) Commands to view Build Result Resource.", "id": "az_spring_build-service_build_result"}
+{"command": "az spring-cloud config-server", "description": "(Support Standard Tier and Basic Tier) Commands to manage Config Server in Azure Spring Cloud.", "id": "az_spring-cloud_config-server"}
+{"command": "az spring-cloud gateway", "description": "(Enterprise Tier Only) Commands to manage gateway in Azure Spring Cloud.", "id": "az_spring-cloud_gateway"}
+{"command": "az spring-cloud app-insights", "description": "Commands to management Application Insights in Azure Spring Cloud.", "id": "az_spring-cloud_app-insights"}
+{"command": "az spring-cloud service-registry", "description": "(Enterprise Tier Only) Commands to manage Service Registry in Azure Spring Cloud.", "id": "az_spring-cloud_service-registry"}
+{"command": "az spring-cloud api-portal", "description": "(Enterprise Tier Only) Commands to manage API portal in Azure Spring Cloud.", "id": "az_spring-cloud_api-portal"}
+{"command": "az spring-cloud app", "description": "Commands to manage apps in Azure Spring Cloud.", "id": "az_spring-cloud_app"}
+{"command": "az spring-cloud test-endpoint", "description": "Commands to manage test endpoint in Azure Spring Cloud.", "id": "az_spring-cloud_test-endpoint"}
+{"command": "az spring-cloud application-configuration-service", "description": "(Enterprise Tier Only) Commands to manage Application Configuration Service in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service"}
+{"command": "az spring-cloud build-service", "description": "(Enterprise Tier Only) Commands to manage build service in Azure Spring Cloud.", "id": "az_spring-cloud_build-service"}
+{"command": "az spring-cloud storage", "description": "Commands to manage Storages in Azure Spring Cloud.", "id": "az_spring-cloud_storage"}
+{"command": "az spring-cloud certificate", "description": "Commands to manage certificates.", "id": "az_spring-cloud_certificate"}
+{"command": "az spring-cloud connection", "description": "Commands to manage spring-cloud connections.", "id": "az_spring-cloud_connection"}
+{"command": "az spring-cloud application-configuration-service git", "description": "Commands to manage Application Configuration Service git property in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service_git"}
+{"command": "az spring-cloud application-configuration-service git repo", "description": "Commands to manage Application Configuration Service git repository in Azure Spring Cloud.", "id": "az_spring-cloud_application-configuration-service_git_repo"}
+{"command": "az spring-cloud api-portal custom-domain", "description": "Commands to manage custom domains for API portal.", "id": "az_spring-cloud_api-portal_custom-domain"}
+{"command": "az spring-cloud app custom-domain", "description": "Commands to manage custom domains.", "id": "az_spring-cloud_app_custom-domain"}
+{"command": "az spring-cloud app binding", "description": "Commands to manage bindings with Azure Data Services, you need to manually restart app to make settings take effect.", "id": "az_spring-cloud_app_binding"}
+{"command": "az spring-cloud app identity", "description": "Manage an app's managed identities.", "id": "az_spring-cloud_app_identity"}
+{"command": "az spring-cloud app log", "description": "Commands to tail app instances logs with multiple options. If the app has only one instance, the instance name is optional.", "id": "az_spring-cloud_app_log"}
+{"command": "az spring-cloud app deployment", "description": "Commands to manage life cycle of deployments of an app in Azure Spring Cloud. More operations on deployments can be done on app level with parameter --deployment. e.g. az spring-cloud app deploy --deployment <staging deployment>.", "id": "az_spring-cloud_app_deployment"}
+{"command": "az spring-cloud app binding redis", "description": "Commands to manage Azure Cache for Redis bindings.", "id": "az_spring-cloud_app_binding_redis"}
+{"command": "az spring-cloud app binding mysql", "description": "Commands to manage Azure Database for MySQL bindings.", "id": "az_spring-cloud_app_binding_mysql"}
+{"command": "az spring-cloud app binding cosmos", "description": "Commands to manage Azure Cosmos DB bindings.", "id": "az_spring-cloud_app_binding_cosmos"}
+{"command": "az spring-cloud gateway custom-domain", "description": "Commands to manage custom domains for gateway.", "id": "az_spring-cloud_gateway_custom-domain"}
+{"command": "az spring-cloud gateway route-config", "description": "Commands to manage gateway route configs in Azure Spring Cloud.", "id": "az_spring-cloud_gateway_route-config"}

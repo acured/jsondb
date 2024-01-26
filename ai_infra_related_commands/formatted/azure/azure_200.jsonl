@@ -1,0 +1,100 @@
+{"command": "az iot hub module-identity connection-string", "description": "Manage IoT device module's connection string.", "id": "az_iot_hub_module-identity_connection-string"}
+{"command": "az iot edge deployment", "description": "Manage IoT Edge deployments at scale.", "id": "az_iot_edge_deployment"}
+{"command": "az iot edge devices", "description": "Commands to manage IoT Edge devices.", "id": "az_iot_edge_devices"}
+{"command": "az iot central role", "description": "Manage and configure roles for an IoT Central application.", "id": "az_iot_central_role"}
+{"command": "az iot central api-token", "description": "Manage API tokens for your IoT Central application.", "id": "az_iot_central_api-token"}
+{"command": "az iot central device-template", "description": "Manage and configure IoT Central device templates.", "id": "az_iot_central_device-template"}
+{"command": "az iot central diagnostics", "description": "Perform application and device level diagnostics.", "id": "az_iot_central_diagnostics"}
+{"command": "az iot central scheduled-job", "description": "Manage and configure IoT Central schedule job.", "id": "az_iot_central_scheduled-job"}
+{"command": "az iot central organization", "description": "Manage and configure organizations for an IoT Central application.", "id": "az_iot_central_organization"}
+{"command": "az iot central app", "description": "Manage IoT Central applications.", "id": "az_iot_central_app"}
+{"command": "az iot central enrollment-group", "description": "Manage and configure IoT Central enrollment group.", "id": "az_iot_central_enrollment-group"}
+{"command": "az iot central job", "description": "Manage and configure jobs for an IoT Central application.", "id": "az_iot_central_job"}
+{"command": "az iot central device", "description": "Manage and configure IoT Central devices.", "id": "az_iot_central_device"}
+{"command": "az iot central file-upload-config", "description": "Manage and configure IoT Central file upload.", "id": "az_iot_central_file-upload-config"}
+{"command": "az iot central user", "description": "Manage and configure IoT Central users.", "id": "az_iot_central_user"}
+{"command": "az iot central export", "description": "Manage and configure IoT Central data exports.", "id": "az_iot_central_export"}
+{"command": "az iot central device-group", "description": "Manage and configure IoT Central device groups.", "id": "az_iot_central_device-group"}
+{"command": "az iot central device twin", "description": "Manage IoT Central device twins.", "id": "az_iot_central_device_twin"}
+{"command": "az iot central device telemetry", "description": "Query IoT Central device last telemetry value.", "id": "az_iot_central_device_telemetry"}
+{"command": "az iot central device c2d-message", "description": "Run device cloud-to-device messaging commands.", "id": "az_iot_central_device_c2d-message"}
+{"command": "az iot central device command", "description": "Run device commands.", "id": "az_iot_central_device_command"}
+{"command": "az iot central device attestation", "description": "Manage and configure IoT Central device attestation.", "id": "az_iot_central_device_attestation"}
+{"command": "az iot central device edge", "description": "Manage and configure IoT Central edge devices.", "id": "az_iot_central_device_edge"}
+{"command": "az iot central device edge children", "description": "Manage IoT Edge device children devices.", "id": "az_iot_central_device_edge_children"}
+{"command": "az iot central device edge manifest", "description": "Manage IoT Edge device manifests.", "id": "az_iot_central_device_edge_manifest"}
+{"command": "az iot central device edge module", "description": "Manage IoT Edge device modules.", "id": "az_iot_central_device_edge_module"}
+{"command": "az iot central app identity", "description": "Manage IoT Central application identities.", "id": "az_iot_central_app_identity"}
+{"command": "az iot central app private-endpoint-connection", "description": "Manage private endpoint connection of IoT Central application.", "id": "az_iot_central_app_private-endpoint-connection"}
+{"command": "az iot central app private-link-resource", "description": "Manage an IoT Central application private link resources.", "id": "az_iot_central_app_private-link-resource"}
+{"command": "az iot central export destination", "description": "Manage and configure IoT Central export destinations.", "id": "az_iot_central_export_destination"}
+{"command": "az iot product test", "description": "Manage device tests for product certification.", "id": "az_iot_product_test"}
+{"command": "az iot product requirement", "description": "Manage product certification requirements.", "id": "az_iot_product_requirement"}
+{"command": "az iot product test run", "description": "Manage product testing certification test runs.", "id": "az_iot_product_test_run"}
+{"command": "az iot product test case", "description": "Manage product testing certification test cases.", "id": "az_iot_product_test_case"}
+{"command": "az iot product test task", "description": "Manage product testing certification tasks.", "id": "az_iot_product_test_task"}
+{"command": "az iot ops mq", "description": "MQ specific tools.", "id": "az_iot_ops_mq"}
+{"command": "az iot ops asset", "description": "Manage assets.", "id": "az_iot_ops_asset"}
+{"command": "az iot ops support", "description": "IoT Operations service support commands.", "id": "az_iot_ops_support"}
+{"command": "az iot ops asset data-point", "description": "Manage data points in an asset.", "id": "az_iot_ops_asset_data-point"}
+{"command": "az iot ops asset endpoint", "description": "Manage asset endpoint profiles.", "id": "az_iot_ops_asset_endpoint"}
+{"command": "az iot ops asset event", "description": "Manage events in an asset.", "id": "az_iot_ops_asset_event"}
+{"command": "az iot ops asset endpoint certificate", "description": "Manage owned certificates in an asset endpoint.", "id": "az_iot_ops_asset_endpoint_certificate"}
+{"command": "az iot du account", "description": "Device Update account management.", "id": "az_iot_du_account"}
+{"command": "az iot du instance", "description": "Device Update instance management.", "id": "az_iot_du_instance"}
+{"command": "az iot du device", "description": "Device Update device management.", "id": "az_iot_du_device"}
+{"command": "az iot du update", "description": "Device Update update management.", "id": "az_iot_du_update"}
+{"command": "az iot du device group", "description": "Device group management.", "id": "az_iot_du_device_group"}
+{"command": "az iot du device health", "description": "Device health-check utilities.", "id": "az_iot_du_device_health"}
+{"command": "az iot du device log", "description": "Instance log collection management.", "id": "az_iot_du_device_log"}
+{"command": "az iot du device deployment", "description": "Device deployment management.", "id": "az_iot_du_device_deployment"}
+{"command": "az iot du device class", "description": "Device class and device class subgroup management.", "id": "az_iot_du_device_class"}
+{"command": "az iot du device compliance", "description": "Instance-view device compliance utilities.", "id": "az_iot_du_device_compliance"}
+{"command": "az iot du device module", "description": "Device module management.", "id": "az_iot_du_device_module"}
+{"command": "az iot du update init", "description": "Utility for import manifest initialization.", "id": "az_iot_du_update_init"}
+{"command": "az iot du update file", "description": "Update file operations.", "id": "az_iot_du_update_file"}
+{"command": "az iot du account private-endpoint-connection", "description": "Device Update account private endpoint connection management.", "id": "az_iot_du_account_private-endpoint-connection"}
+{"command": "az iot du account private-link-resource", "description": "Device Update account private link resource management.", "id": "az_iot_du_account_private-link-resource"}
+{"command": "az iot dps enrollment", "description": "Manage individual device enrollments in an Azure IoT Hub Device Provisioning Service.", "id": "az_iot_dps_enrollment"}
+{"command": "az iot dps policy", "description": "Manage shared access policies for an Azure IoT Hub Device Provisioning Service instance.", "id": "az_iot_dps_policy"}
+{"command": "az iot dps enrollment-group", "description": "Manage enrollment groups in an Azure IoT Hub Device Provisioning Service.", "id": "az_iot_dps_enrollment-group"}
+{"command": "az iot dps certificate", "description": "Manage certificates for an Azure IoT Hub Device Provisioning Service instance.", "id": "az_iot_dps_certificate"}
+{"command": "az iot dps registration", "description": "Manage device registrations for an enrollment group in an Azure IoT Hub Device Provisioning Service.", "id": "az_iot_dps_registration"}
+{"command": "az iot dps linked-hub", "description": "Manage linked IoT Hubs in an Azure IoT Hub Device Provisioning Service instance.", "id": "az_iot_dps_linked-hub"}
+{"command": "az iot dps connection-string", "description": "Manage connection strings for an Azure IoT Hub Device Provisioning Service instance.", "id": "az_iot_dps_connection-string"}
+{"command": "az iot dps enrollment-group registration", "description": "Manage service-side device registrations for an enrollment group in an Azure IoT Hub Device Provisioning Service.", "id": "az_iot_dps_enrollment-group_registration"}
+{"command": "az iot dps enrollment registration", "description": "Manage service-side device registrations for an individual enrollment in an Azure IoT Hub Device Provisioning Service.", "id": "az_iot_dps_enrollment_registration"}
+{"command": "az extension", "description": "Manage and update CLI extensions.", "id": "az_extension"}
+{"command": "az demo", "description": "Demos for designing, developing and demonstrating Azure CLI.", "id": "az_demo"}
+{"command": "az demo secret-store", "description": "A demo showing how to use secret store.", "id": "az_demo_secret-store"}
+{"command": "az disk", "description": "Manage Azure Managed Disks.", "id": "az_disk"}
+{"command": "az disk-pool", "description": "Manage Azure disk pool.", "id": "az_disk-pool"}
+{"command": "az disk-encryption-set", "description": "Disk Encryption Set resource.", "id": "az_disk-encryption-set"}
+{"command": "az disk-access", "description": "Manage disk access resources.", "id": "az_disk-access"}
+{"command": "az disk-pool iscsi-target", "description": "Manage iSCSI target with a Disk Pool.", "id": "az_disk-pool_iscsi-target"}
+{"command": "az disk-encryption-set identity", "description": "Manage identities of a disk encryption set.", "id": "az_disk-encryption-set_identity"}
+{"command": "az large-storage-instance", "description": "Handle Operations for Storage Azure Large Instances.", "id": "az_large-storage-instance"}
+{"command": "az network-function", "description": "Manage network function.", "id": "az_network-function"}
+{"command": "az network-function traffic-collector", "description": "Manage Azure Traffic Collector resources.", "id": "az_network-function_traffic-collector"}
+{"command": "az network-function traffic-collector collector-policy", "description": "Manage Collector Policy for Azure Traffic Collector resource.", "id": "az_network-function_traffic-collector_collector-policy"}
+{"command": "az dataprotection", "description": "Manage dataprotection.", "id": "az_dataprotection"}
+{"command": "az dataprotection recovery-point", "description": "Manage recovery point with dataprotection.", "id": "az_dataprotection_recovery-point"}
+{"command": "az dataprotection backup-policy", "description": "Manage backup policy with dataprotection.", "id": "az_dataprotection_backup-policy"}
+{"command": "az dataprotection job", "description": "Manage job with dataprotection.", "id": "az_dataprotection_job"}
+{"command": "az dataprotection restorable-time-range", "description": "Manage restorable time range with dataprotection.", "id": "az_dataprotection_restorable-time-range"}
+{"command": "az dataprotection resource-guard", "description": "Manage resource guard with dataprotection.", "id": "az_dataprotection_resource-guard"}
+{"command": "az dataprotection backup-vault", "description": "Manage backup vault with dataprotection.", "id": "az_dataprotection_backup-vault"}
+{"command": "az dataprotection backup-instance", "description": "Manage backup instance with dataprotection.", "id": "az_dataprotection_backup-instance"}
+{"command": "az dataprotection backup-instance deleted-backup-instance", "description": "Perform operations on soft-deleted backup instances.", "id": "az_dataprotection_backup-instance_deleted-backup-instance"}
+{"command": "az dataprotection backup-instance restore", "description": "Restore backed up instances from recovery points in a backup vault.", "id": "az_dataprotection_backup-instance_restore"}
+{"command": "az dataprotection backup-vault resource-guard-mapping", "description": "Manage ResourceGuard mappings for a backup vault.", "id": "az_dataprotection_backup-vault_resource-guard-mapping"}
+{"command": "az dataprotection backup-policy tag", "description": "Create criterias and add or remove tag in policy.", "id": "az_dataprotection_backup-policy_tag"}
+{"command": "az dataprotection backup-policy trigger", "description": "Manage backup schedule of a backup policy.", "id": "az_dataprotection_backup-policy_trigger"}
+{"command": "az dataprotection backup-policy retention-rule", "description": "Create lifecycles and add or remove retention rules in a backup policy.", "id": "az_dataprotection_backup-policy_retention-rule"}
+{"command": "az redis", "description": "Manage dedicated Redis caches for your Azure applications.", "id": "az_redis"}
+{"command": "az redisenterprise", "description": "Manage the redisenterprise cache.", "id": "az_redisenterprise"}
+{"command": "az redisenterprise operation-status", "description": "Get the status of an operation.", "id": "az_redisenterprise_operation-status"}
+{"command": "az redisenterprise database", "description": "Manage Redis Enterprise databases.", "id": "az_redisenterprise_database"}
+{"command": "az redis firewall-rules", "description": "Manage Redis firewall rules.", "id": "az_redis_firewall-rules"}
+{"command": "az redis identity", "description": "Manage identity assigned to Azure cache for Redis.", "id": "az_redis_identity"}
+{"command": "az redis patch-schedule", "description": "Manage Redis patch schedules.", "id": "az_redis_patch-schedule"}

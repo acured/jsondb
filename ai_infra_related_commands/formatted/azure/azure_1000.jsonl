@@ -1,0 +1,100 @@
+{"command": "az network lb address-pool", "description": "Manage address pools of a load balancer.", "id": "az_network_lb_address-pool"}
+{"command": "az network lb inbound-nat-pool", "description": "Manage inbound NAT address pools of a load balancer.", "id": "az_network_lb_inbound-nat-pool"}
+{"command": "az network lb rule", "description": "Manage load balancing rules.", "id": "az_network_lb_rule"}
+{"command": "az network lb address-pool address", "description": "Manage backend addresses of the cross-region load balance backend address pool.", "id": "az_network_lb_address-pool_address"}
+{"command": "az network lb address-pool tunnel-interface", "description": "Manage tunnel interfaces of a load balancer.", "id": "az_network_lb_address-pool_tunnel-interface"}
+{"command": "az network private-endpoint ip-config", "description": "Manage private endpoint ip configurations.", "id": "az_network_private-endpoint_ip-config"}
+{"command": "az network private-endpoint dns-zone-group", "description": "Manage private endpoint dns zone group.", "id": "az_network_private-endpoint_dns-zone-group"}
+{"command": "az network private-endpoint asg", "description": "Manage private endpoint application security groups.", "id": "az_network_private-endpoint_asg"}
+{"command": "az network vpn-server-config ipsec-policy", "description": "Manage VPN server configuration IPSec policies.", "id": "az_network_vpn-server-config_ipsec-policy"}
+{"command": "az network dns dnssec-config", "description": "Manage DNSSEC configurations.", "id": "az_network_dns_dnssec-config"}
+{"command": "az network dns zone", "description": "Manage DNS zones.", "id": "az_network_dns_zone"}
+{"command": "az network dns record-set", "description": "Manage DNS records and record sets.", "id": "az_network_dns_record-set"}
+{"command": "az network dns record-set cname", "description": "Manage DNS CNAME records.", "id": "az_network_dns_record-set_cname"}
+{"command": "az network dns record-set caa", "description": "Manage DNS CAA records.", "id": "az_network_dns_record-set_caa"}
+{"command": "az network dns record-set ds", "description": "Manage DNS DS records.", "id": "az_network_dns_record-set_ds"}
+{"command": "az network dns record-set srv", "description": "Manage DNS SRV records.", "id": "az_network_dns_record-set_srv"}
+{"command": "az network dns record-set txt", "description": "Manage DNS TXT records.", "id": "az_network_dns_record-set_txt"}
+{"command": "az network dns record-set ns", "description": "Manage DNS NS records.", "id": "az_network_dns_record-set_ns"}
+{"command": "az network dns record-set mx", "description": "Manage DNS MX records.", "id": "az_network_dns_record-set_mx"}
+{"command": "az network dns record-set tlsa", "description": "Manage DNS TLSA records.", "id": "az_network_dns_record-set_tlsa"}
+{"command": "az network dns record-set aaaa", "description": "Manage DNS AAAA records.", "id": "az_network_dns_record-set_aaaa"}
+{"command": "az network dns record-set soa", "description": "Manage a DNS SOA record.", "id": "az_network_dns_record-set_soa"}
+{"command": "az network dns record-set a", "description": "Manage DNS A records.", "id": "az_network_dns_record-set_a"}
+{"command": "az network dns record-set ptr", "description": "Manage DNS PTR records.", "id": "az_network_dns_record-set_ptr"}
+{"command": "az network vnet-gateway aad", "description": "Manage AAD(Azure Active Directory) authentication of a virtual network gateway.", "id": "az_network_vnet-gateway_aad"}
+{"command": "az network vnet-gateway packet-capture", "description": "Manage packet capture on a virtual network gateway.", "id": "az_network_vnet-gateway_packet-capture"}
+{"command": "az network vnet-gateway vpn-client", "description": "Download a VPN client configuration required to connect to Azure via point-to-site.", "id": "az_network_vnet-gateway_vpn-client"}
+{"command": "az network vnet-gateway revoked-cert", "description": "Manage revoked certificates in a virtual network gateway. Prevent machines using this certificate from accessing Azure through this gateway.", "id": "az_network_vnet-gateway_revoked-cert"}
+{"command": "az network vnet-gateway root-cert", "description": "Manage root certificates of a virtual network gateway.", "id": "az_network_vnet-gateway_root-cert"}
+{"command": "az network vnet-gateway ipsec-policy", "description": "Manage virtual network gateway IPSec policies.", "id": "az_network_vnet-gateway_ipsec-policy"}
+{"command": "az network vnet-gateway nat-rule", "description": "Manage nat rule in a virtual network gateway.", "id": "az_network_vnet-gateway_nat-rule"}
+{"command": "az network vnet-gateway vpn-client ipsec-policy", "description": "Manage the VPN client connection ipsec-policy for P2S client connection of the virtual network gateway.", "id": "az_network_vnet-gateway_vpn-client_ipsec-policy"}
+{"command": "az network service-endpoint policy-definition", "description": "Manage service endpoint policy definitions.", "id": "az_network_service-endpoint_policy-definition"}
+{"command": "az network service-endpoint policy", "description": "Manage service endpoint policies.", "id": "az_network_service-endpoint_policy"}
+{"command": "az network nat gateway", "description": "Manage NAT gateways.", "id": "az_network_nat_gateway"}
+{"command": "az network private-dns zone", "description": "Manage Private DNS zones.", "id": "az_network_private-dns_zone"}
+{"command": "az network private-dns link", "description": "Manage Private DNS links.", "id": "az_network_private-dns_link"}
+{"command": "az network private-dns record-set", "description": "Manage Private DNS records and record sets.", "id": "az_network_private-dns_record-set"}
+{"command": "az network private-dns link vnet", "description": "Manage virtual network links to the specified Private DNS zone.", "id": "az_network_private-dns_link_vnet"}
+{"command": "az network private-dns record-set cname", "description": "Manage Private DNS CNAME records.", "id": "az_network_private-dns_record-set_cname"}
+{"command": "az network private-dns record-set srv", "description": "Manage Private DNS SRV records.", "id": "az_network_private-dns_record-set_srv"}
+{"command": "az network private-dns record-set txt", "description": "Manage Private DNS TXT records.", "id": "az_network_private-dns_record-set_txt"}
+{"command": "az network private-dns record-set mx", "description": "Manage Private DNS MX records.", "id": "az_network_private-dns_record-set_mx"}
+{"command": "az network private-dns record-set aaaa", "description": "Manage Private DNS AAAA records.", "id": "az_network_private-dns_record-set_aaaa"}
+{"command": "az network private-dns record-set soa", "description": "Manage Private DNS SOA record.", "id": "az_network_private-dns_record-set_soa"}
+{"command": "az network private-dns record-set a", "description": "Manage Private DNS A records.", "id": "az_network_private-dns_record-set_a"}
+{"command": "az network private-dns record-set ptr", "description": "Manage Private DNS PTR records.", "id": "az_network_private-dns_record-set_ptr"}
+{"command": "az network nsg rule", "description": "Manage network security group rules.", "id": "az_network_nsg_rule"}
+{"command": "az network private-link-service connection", "description": "Manage private link service endpoint connections.", "id": "az_network_private-link-service_connection"}
+{"command": "az network traffic-manager endpoint", "description": "Manage Azure Traffic Manager end points.", "id": "az_network_traffic-manager_endpoint"}
+{"command": "az network traffic-manager profile", "description": "Manage Azure Traffic Manager profiles.", "id": "az_network_traffic-manager_profile"}
+{"command": "az network cross-connection peering", "description": "Manage ExpressRoute peering of an ExpressRoute cross-connection.", "id": "az_network_cross-connection_peering"}
+{"command": "az network firewall threat-intel-allowlist", "description": "Manage and configure Azure Firewall Threat Intelligence Allow List.", "id": "az_network_firewall_threat-intel-allowlist"}
+{"command": "az network firewall ip-config", "description": "Manage and configure Azure Firewall IP configurations.", "id": "az_network_firewall_ip-config"}
+{"command": "az network firewall management-ip-config", "description": "Manage and configure Azure Firewall Management IP configurations.", "id": "az_network_firewall_management-ip-config"}
+{"command": "az network firewall policy", "description": "Manage and configure Azure firewall policy.", "id": "az_network_firewall_policy"}
+{"command": "az network firewall application-rule", "description": "Manage and configure Azure Firewall application rules.", "id": "az_network_firewall_application-rule"}
+{"command": "az network firewall nat-rule", "description": "Manage and configure Azure Firewall NAT rules.", "id": "az_network_firewall_nat-rule"}
+{"command": "az network firewall network-rule", "description": "Manage and configure Azure Firewall network rules.", "id": "az_network_firewall_network-rule"}
+{"command": "az network firewall application-rule collection", "description": "Manage and configure Azure Firewall application rule collections.", "id": "az_network_firewall_application-rule_collection"}
+{"command": "az network firewall network-rule collection", "description": "Manage and configure Azure Firewall network rule collections.", "id": "az_network_firewall_network-rule_collection"}
+{"command": "az network firewall policy intrusion-detection", "description": "Manage intrusion signature rules and bypass rules.", "id": "az_network_firewall_policy_intrusion-detection"}
+{"command": "az network firewall policy rule-collection-group", "description": "Manage and configure Azure firewall policy rule collection group.", "id": "az_network_firewall_policy_rule-collection-group"}
+{"command": "az network firewall policy rule-collection-group collection", "description": "Manage and configure Azure firewall policy rule collections in the rule collection group.", "id": "az_network_firewall_policy_rule-collection-group_collection"}
+{"command": "az network firewall policy rule-collection-group collection rule", "description": "Manage and configure the rule of a filter collection in the rule collection group of Azure firewall policy.", "id": "az_network_firewall_policy_rule-collection-group_collection_rule"}
+{"command": "az network firewall nat-rule collection", "description": "Manage and configure Azure Firewall NAT rules.", "id": "az_network_firewall_nat-rule_collection"}
+{"command": "az network nic ip-config", "description": "Manage IP configurations of a network interface.", "id": "az_network_nic_ip-config"}
+{"command": "az network nic vtap-config", "description": "Manage virtual network tap configurations.", "id": "az_network_nic_vtap-config"}
+{"command": "az network nic ip-config inbound-nat-rule", "description": "Manage inbound NAT rules of an IP configuration.", "id": "az_network_nic_ip-config_inbound-nat-rule"}
+{"command": "az network nic ip-config address-pool", "description": "Manage address pools in an IP configuration.", "id": "az_network_nic_ip-config_address-pool"}
+{"command": "az network virtual-appliance site", "description": "Manage Azure Network Virtual Appliance Site.", "id": "az_network_virtual-appliance_site"}
+{"command": "az network virtual-appliance sku", "description": "Manage Azure Network Virtual Appliance Sku.", "id": "az_network_virtual-appliance_sku"}
+{"command": "az network custom-ip prefix", "description": "Manage custom IP prefix resources.", "id": "az_network_custom-ip_prefix"}
+{"command": "az network manager security-admin-config", "description": "Manage security admin configuration with network.", "id": "az_network_manager_security-admin-config"}
+{"command": "az network manager group", "description": "Manage networkgroup with network.", "id": "az_network_manager_group"}
+{"command": "az network manager scope-connection", "description": "Manage scope connection with network.", "id": "az_network_manager_scope-connection"}
+{"command": "az network manager connect-config", "description": "Manage connectivity configuration with network.", "id": "az_network_manager_connect-config"}
+{"command": "az network manager connection", "description": "Manage connection with network manager.", "id": "az_network_manager_connection"}
+{"command": "az network manager security-admin-config rule-collection", "description": "Manage admin rule collection with network.", "id": "az_network_manager_security-admin-config_rule-collection"}
+{"command": "az network manager security-admin-config rule-collection rule", "description": "Manage admin rule with network.", "id": "az_network_manager_security-admin-config_rule-collection_rule"}
+{"command": "az network manager connection subscription", "description": "Manage subscription-group connection with network.", "id": "az_network_manager_connection_subscription"}
+{"command": "az network manager connection management-group", "description": "Manage management-group connection with network.", "id": "az_network_manager_connection_management-group"}
+{"command": "az network manager group static-member", "description": "Manage static members with network manager group.", "id": "az_network_manager_group_static-member"}
+{"command": "az network route-filter rule", "description": "Manage rules in a route filter.", "id": "az_network_route-filter_rule"}
+{"command": "az network route-table route", "description": "Manage routes in a route table.", "id": "az_network_route-table_route"}
+{"command": "az network express-route peering", "description": "Manage ExpressRoute peering of an ExpressRoute circuit.", "id": "az_network_express-route_peering"}
+{"command": "az network express-route gateway", "description": "Manage ExpressRoute gateways.", "id": "az_network_express-route_gateway"}
+{"command": "az network express-route port", "description": "Manage ExpressRoute ports.", "id": "az_network_express-route_port"}
+{"command": "az network express-route auth", "description": "Manage authentication of an ExpressRoute circuit.", "id": "az_network_express-route_auth"}
+{"command": "az network express-route peering connection", "description": "Manage ExpressRoute circuit connections.", "id": "az_network_express-route_peering_connection"}
+{"command": "az network express-route peering peer-connection", "description": "Manage ExpressRoute circuit peer connections.", "id": "az_network_express-route_peering_peer-connection"}
+{"command": "az network express-route peering connection ipv6-config", "description": "Manage ExpressRoute circuit connection configs.", "id": "az_network_express-route_peering_connection_ipv6-config"}
+{"command": "az network express-route gateway connection", "description": "Manage ExpressRoute gateway connections.", "id": "az_network_express-route_gateway_connection"}
+{"command": "az network express-route port identity", "description": "Manage the managed service identity of an ExpressRoute Port.", "id": "az_network_express-route_port_identity"}
+{"command": "az network express-route port location", "description": "View ExpressRoute port location information.", "id": "az_network_express-route_port_location"}
+{"command": "az network express-route port link", "description": "View ExpressRoute links.", "id": "az_network_express-route_port_link"}
+{"command": "az network cross-region-lb frontend-ip", "description": "Manage frontend IP addresses of a cross-region load balancer.", "id": "az_network_cross-region-lb_frontend-ip"}
+{"command": "az network cross-region-lb address-pool", "description": "Manage address pools of a cross-region load balancer.", "id": "az_network_cross-region-lb_address-pool"}
+{"command": "az network cross-region-lb rule", "description": "Manage cross-region load balancing rules.", "id": "az_network_cross-region-lb_rule"}
+{"command": "az network cross-region-lb address-pool address", "description": "Manage backend addresses of the cross-region load balance backend address pool.", "id": "az_network_cross-region-lb_address-pool_address"}

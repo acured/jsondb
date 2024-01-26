@@ -1,0 +1,100 @@
+{"command": "az spring-cloud connection create", "description": "Create a connection between a spring-cloud and a target resource.", "id": "az_spring-cloud_connection_create"}
+{"command": "az spring-cloud connection update", "description": "Update a spring-cloud connection.", "id": "az_spring-cloud_connection_update"}
+{"command": "az spring-cloud config-server git", "description": "Commands to manage Config Server git property in Azure Spring Cloud.", "id": "az_spring-cloud_config-server_git"}
+{"command": "az spring-cloud config-server git repo", "description": "Commands to manage Config Server git repository in Azure Spring Cloud.", "id": "az_spring-cloud_config-server_git_repo"}
+{"command": "az spring-cloud build-service builder", "description": "(Enterprise Tier Only) Commands to manage builder of build service.", "id": "az_spring-cloud_build-service_builder"}
+{"command": "az spring-cloud build-service builder buildpack-binding", "description": "(Enterprise Tier Only) Commands to manage buildpack-binding of builder.", "id": "az_spring-cloud_build-service_builder_buildpack-binding"}
+{"command": "az mobile-network", "description": "Manage mobile network.", "id": "az_mobile-network"}
+{"command": "az mobile-network sim", "description": "Manage sim.", "id": "az_mobile-network_sim"}
+{"command": "az mobile-network site", "description": "Manage site.", "id": "az_mobile-network_site"}
+{"command": "az mobile-network pccp", "description": "Manage packet core control plane.", "id": "az_mobile-network_pccp"}
+{"command": "az mobile-network data-network", "description": "Manage data network.", "id": "az_mobile-network_data-network"}
+{"command": "az mobile-network service", "description": "Manage service.", "id": "az_mobile-network_service"}
+{"command": "az mobile-network attached-data-network", "description": "Manage attached data net work.", "id": "az_mobile-network_attached-data-network"}
+{"command": "az mobile-network slice", "description": "Manage slice.", "id": "az_mobile-network_slice"}
+{"command": "az mobile-network pcdp", "description": "Manage packet core data plane.", "id": "az_mobile-network_pcdp"}
+{"command": "az mobile-network sim group", "description": "Manage sim group.", "id": "az_mobile-network_sim_group"}
+{"command": "az mobile-network sim policy", "description": "Manage sim policy.", "id": "az_mobile-network_sim_policy"}
+{"command": "az mobile-network pccp version", "description": "Manage packet core control plane version.", "id": "az_mobile-network_pccp_version"}
+{"command": "az akshybrid", "description": "Manage provisioned clusters.", "id": "az_akshybrid"}
+{"command": "az aks", "description": "Manage Azure Kubernetes Services.", "id": "az_aks"}
+{"command": "az aksarc", "description": "Manage provisioned clusters.", "id": "az_aksarc"}
+{"command": "az aks trustedaccess", "description": "Commands to manage trusted access security features.", "id": "az_aks_trustedaccess"}
+{"command": "az aks maintenanceconfiguration", "description": "Commands to manage maintenance configurations in managed Kubernetes cluster.", "id": "az_aks_maintenanceconfiguration"}
+{"command": "az aks mesh", "description": "Commands to manage Azure Service Mesh.", "id": "az_aks_mesh"}
+{"command": "az aks snapshot", "description": "Commands to manage nodepool snapshots.", "id": "az_aks_snapshot"}
+{"command": "az aks approuting", "description": "Commands to manage App Routing aadon.", "id": "az_aks_approuting"}
+{"command": "az aks addon", "description": "Commands to manage and view single addon conditions.", "id": "az_aks_addon"}
+{"command": "az aks draft", "description": "Commands to build deployment files in a project directory and deploy to an AKS cluster.", "id": "az_aks_draft"}
+{"command": "az aks nodepool", "description": "Commands to manage node pools in Kubernetes kubernetes cluster.", "id": "az_aks_nodepool"}
+{"command": "az aks machine", "description": "Get information about machines in a nodepool of a managed clusters.", "id": "az_aks_machine"}
+{"command": "az aks app", "description": "Commands to manage AKS app.", "id": "az_aks_app"}
+{"command": "az aks command", "description": "See detail usage in 'az aks command invoke', 'az aks command result'.", "id": "az_aks_command"}
+{"command": "az aks oidc-issuer", "description": "Oidc issuer related commands.", "id": "az_aks_oidc-issuer"}
+{"command": "az aks pod-identity", "description": "Commands to manage pod identities in managed Kubernetes cluster.", "id": "az_aks_pod-identity"}
+{"command": "az aks egress-endpoints", "description": "Commands to manage egress endpoints in managed Kubernetes cluster.", "id": "az_aks_egress-endpoints"}
+{"command": "az aks trustedaccess role", "description": "Commands to manage trusted access roles.", "id": "az_aks_trustedaccess_role"}
+{"command": "az aks trustedaccess rolebinding", "description": "Commands to manage trusted access role bindings.", "id": "az_aks_trustedaccess_rolebinding"}
+{"command": "az aks mesh upgrade", "description": "Commands to manage the upgrades for Azure Service Mesh.", "id": "az_aks_mesh_upgrade"}
+{"command": "az aks nodepool snapshot", "description": "Commands to manage nodepool snapshots.", "id": "az_aks_nodepool_snapshot"}
+{"command": "az aks approuting zone", "description": "Commands to manage App Routing DNS Zones.", "id": "az_aks_approuting_zone"}
+{"command": "az aks pod-identity exception", "description": "Commands to manage pod identity exceptions in managed Kubernetes cluster.", "id": "az_aks_pod-identity_exception"}
+{"command": "az aksarc vnet", "description": "Manage virtual networks for provisioned clusters.", "id": "az_aksarc_vnet"}
+{"command": "az aksarc nodepool", "description": "Manage nodepools in a provisioned cluster.", "id": "az_aksarc_nodepool"}
+{"command": "az aksarc logs", "description": "Collect logs from provisioned clusters.", "id": "az_aksarc_logs"}
+{"command": "az aksarc release", "description": "Manage VHD images for provisioned clusters.", "id": "az_aksarc_release"}
+{"command": "az aksarc vmsize", "description": "Manage virtual machine SKUs for provisioned clusters.", "id": "az_aksarc_vmsize"}
+{"command": "az akshybrid vnet", "description": "Manage virtual networks for provisioned clusters.", "id": "az_akshybrid_vnet"}
+{"command": "az akshybrid nodepool", "description": "Manage nodepools in a provisioned cluster.", "id": "az_akshybrid_nodepool"}
+{"command": "az akshybrid vmsize", "description": "Manage virtual machine SKUs for akshybrid.", "id": "az_akshybrid_vmsize"}
+{"command": "az image", "description": "Manage custom virtual machine images.", "id": "az_image"}
+{"command": "az image builder", "description": "Manage and build image builder templates.", "id": "az_image_builder"}
+{"command": "az image builder optimizer", "description": "Manage image builder template optimizer.", "id": "az_image_builder_optimizer"}
+{"command": "az image builder trigger", "description": "Manage image builder template trigger.", "id": "az_image_builder_trigger"}
+{"command": "az image builder identity", "description": "Manage identities of an image builder template.", "id": "az_image_builder_identity"}
+{"command": "az image builder validator", "description": "Manage image builder template validate.", "id": "az_image_builder_validator"}
+{"command": "az image builder output", "description": "Manage image builder template output distributors.", "id": "az_image_builder_output"}
+{"command": "az image builder customizer", "description": "Manage image builder template customizers.", "id": "az_image_builder_customizer"}
+{"command": "az image builder output versioning", "description": "Manage image builder template output versioner.", "id": "az_image_builder_output_versioning"}
+{"command": "az datafactory", "description": "Manage Data Factory.", "id": "az_datafactory"}
+{"command": "az datafactory linked-service", "description": "Manage linked service with datafactory.", "id": "az_datafactory_linked-service"}
+{"command": "az datafactory managed-private-endpoint", "description": "Manage managed private endpoint with datafactory.", "id": "az_datafactory_managed-private-endpoint"}
+{"command": "az datafactory data-flow", "description": "Managing and configuring Data Flows in Azure Data Factory.", "id": "az_datafactory_data-flow"}
+{"command": "az datafactory activity-run", "description": "Manage activity run with datafactory.", "id": "az_datafactory_activity-run"}
+{"command": "az datafactory dataset", "description": "Manage dataset with datafactory.", "id": "az_datafactory_dataset"}
+{"command": "az datafactory integration-runtime-node", "description": "Manage integration runtime node with datafactory.", "id": "az_datafactory_integration-runtime-node"}
+{"command": "az datafactory trigger", "description": "Manage trigger with datafactory.", "id": "az_datafactory_trigger"}
+{"command": "az datafactory managed-virtual-network", "description": "Manage managed virtual network with datafactory.", "id": "az_datafactory_managed-virtual-network"}
+{"command": "az datafactory trigger-run", "description": "Manage trigger run with datafactory.", "id": "az_datafactory_trigger-run"}
+{"command": "az datafactory pipeline-run", "description": "Manage pipeline run with datafactory.", "id": "az_datafactory_pipeline-run"}
+{"command": "az datafactory pipeline", "description": "Manage pipeline with datafactory.", "id": "az_datafactory_pipeline"}
+{"command": "az datafactory integration-runtime", "description": "Manage integration runtime with datafactory.", "id": "az_datafactory_integration-runtime"}
+{"command": "az datafactory integration-runtime managed", "description": "Manage integration runtime with datafactory sub group managed.", "id": "az_datafactory_integration-runtime_managed"}
+{"command": "az datafactory integration-runtime linked-integration-runtime", "description": "Manage integration runtime with datafactory sub group linked-integration-runtime.", "id": "az_datafactory_integration-runtime_linked-integration-runtime"}
+{"command": "az datafactory integration-runtime self-hosted", "description": "Manage integration runtime with datafactory sub group self-hosted.", "id": "az_datafactory_integration-runtime_self-hosted"}
+{"command": "az csvmware", "description": "Manage Azure VMware Solution by CloudSimple.", "id": "az_csvmware"}
+{"command": "az csvmware private-cloud", "description": "Manage VMware private clouds.", "id": "az_csvmware_private-cloud"}
+{"command": "az csvmware resource-pool", "description": "Manage VMware resource pools.", "id": "az_csvmware_resource-pool"}
+{"command": "az csvmware virtual-network", "description": "Manage virtual networks.", "id": "az_csvmware_virtual-network"}
+{"command": "az csvmware vm-template", "description": "Manage VMware virtual machine templates.", "id": "az_csvmware_vm-template"}
+{"command": "az csvmware vm", "description": "Manage VMware virtual machines.", "id": "az_csvmware_vm"}
+{"command": "az csvmware vm disk", "description": "Manage VMware virtual machine's disks.", "id": "az_csvmware_vm_disk"}
+{"command": "az csvmware vm nic", "description": "Manage VMware virtual machine's Network Interface Cards.", "id": "az_csvmware_vm_nic"}
+{"command": "az arcappliance", "description": "Commands to manage Arc resource bridge.", "id": "az_arcappliance"}
+{"command": "az arcappliance deploy", "description": "Command group for deployment of the Arc resource bridge on-premises appliance VM and creation of its corresponding Azure resource.", "id": "az_arcappliance_deploy"}
+{"command": "az arcappliance update-infracredentials", "description": "Command group for updating the on-premises infrastructure credentials used by Arc resource bridge to manage on-premises resources.", "id": "az_arcappliance_update-infracredentials"}
+{"command": "az arcappliance delete", "description": "Command group for deletion of an Arc resource bridge on-premises appliance VM and its Azure resource.", "id": "az_arcappliance_delete"}
+{"command": "az arcappliance run", "description": "Command group for consecutively running the Arc resource bridge commands required for deployment. This command is idempotent.", "id": "az_arcappliance_run"}
+{"command": "az arcappliance logs", "description": "Command group for collecting logs for Arc resource bridge. Run get-credentials command before running logs command.", "id": "az_arcappliance_logs"}
+{"command": "az arcappliance validate", "description": "Command group to perform validations on Arc resource bridge configuration files and network settings.", "id": "az_arcappliance_validate"}
+{"command": "az arcappliance upgrade", "description": "Command group for upgrading an Appliance cluster.", "id": "az_arcappliance_upgrade"}
+{"command": "az arcappliance troubleshoot", "description": "Command group for troubleshooting an Appliance cluster.", "id": "az_arcappliance_troubleshoot"}
+{"command": "az arcappliance create", "description": "Command group for creation of the connection between the Arc resource bridge on-premises appliance VM and its corresponding Azure resource.", "id": "az_arcappliance_create"}
+{"command": "az arcappliance prepare", "description": "Command group for preparing for an Arc resource bridge deployment. This downloads the necessary images to build the on-premises appliance VM and uploads it to the private cloud gallery.", "id": "az_arcappliance_prepare"}
+{"command": "az arcappliance createconfig", "description": "Command group for creating configuration files for Arc resource bridge.", "id": "az_arcappliance_createconfig"}
+{"command": "az arcappliance troubleshoot command", "description": "Command group for troubleshooting an Appliance cluster by executing a shell command.", "id": "az_arcappliance_troubleshoot_command"}
+{"command": "az webpubsub", "description": "Commands to manage Webpubsub.", "id": "az_webpubsub"}
+{"command": "az webpubsub hub", "description": "Commands to manage Webpubsub hub settings.", "id": "az_webpubsub_hub"}
+{"command": "az webpubsub client", "description": "Commands to manage client connections.", "id": "az_webpubsub_client"}
+{"command": "az webpubsub key", "description": "Commands to manage Webpubsub keys.", "id": "az_webpubsub_key"}
+{"command": "az webpubsub replica", "description": "Manage replica settings.", "id": "az_webpubsub_replica"}

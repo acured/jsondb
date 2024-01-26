@@ -1,0 +1,100 @@
+{"command": "az network front-door rules-engine", "description": "Manage Front Door rules engines.", "id": "az_network_front-door_rules-engine"}
+{"command": "az network front-door routing-rule", "description": "Manage Front Door routing rules.", "id": "az_network_front-door_routing-rule"}
+{"command": "az network front-door probe", "description": "Manage Front Door health probe settings.", "id": "az_network_front-door_probe"}
+{"command": "az network front-door backend-pool", "description": "Manage Front Door backend pools.", "id": "az_network_front-door_backend-pool"}
+{"command": "az network front-door frontend-endpoint", "description": "Manage Front Door frontend endpoints.", "id": "az_network_front-door_frontend-endpoint"}
+{"command": "az network front-door waf-policy", "description": "Manage WebApplication Firewall (WAF) policies.", "id": "az_network_front-door_waf-policy"}
+{"command": "az network front-door load-balancing", "description": "Manage Front Door load-balancing settings.", "id": "az_network_front-door_load-balancing"}
+{"command": "az network front-door waf-policy managed-rule-definition", "description": "Learn about available managed rule sets.", "id": "az_network_front-door_waf-policy_managed-rule-definition"}
+{"command": "az network front-door waf-policy managed-rules", "description": "Change and view managed rule sets associated with your WAF policy.", "id": "az_network_front-door_waf-policy_managed-rules"}
+{"command": "az network front-door waf-policy rule", "description": "Manage WAF policy custom rules.", "id": "az_network_front-door_waf-policy_rule"}
+{"command": "az network front-door waf-policy rule match-condition", "description": "Alter match-conditions associated with a WAF policy custom rule.", "id": "az_network_front-door_waf-policy_rule_match-condition"}
+{"command": "az network front-door waf-policy managed-rules exclusion", "description": "View and alter exclusions on a managed rule set, rule group, or rule within a managed rule set.", "id": "az_network_front-door_waf-policy_managed-rules_exclusion"}
+{"command": "az network front-door waf-policy managed-rules override", "description": "View and alter overrides on managed rules within a managed rule set.", "id": "az_network_front-door_waf-policy_managed-rules_override"}
+{"command": "az network front-door backend-pool backend", "description": "Manage backends of Front Door backend pools.", "id": "az_network_front-door_backend-pool_backend"}
+{"command": "az network front-door rules-engine rule", "description": "Manage Rules Engine rules.", "id": "az_network_front-door_rules-engine_rule"}
+{"command": "az network front-door rules-engine rule condition", "description": "Manage Rules Engine match conditions for Front Door.", "id": "az_network_front-door_rules-engine_rule_condition"}
+{"command": "az network front-door rules-engine rule action", "description": "Manage Rules Engine actions for Front Door.", "id": "az_network_front-door_rules-engine_rule_action"}
+{"command": "az network vhub route", "description": "Manage entries in the virtual hub route table.", "id": "az_network_vhub_route"}
+{"command": "az network vhub route-table", "description": "Manage route table in the virtual hub.", "id": "az_network_vhub_route-table"}
+{"command": "az network vhub bgpconnection", "description": "Manage virtual hub bgpconnections.", "id": "az_network_vhub_bgpconnection"}
+{"command": "az network vhub connection", "description": "Manage virtual hub VNet connections.", "id": "az_network_vhub_connection"}
+{"command": "az network vhub routing-intent", "description": "Manage routing intent in the virtual hub.", "id": "az_network_vhub_routing-intent"}
+{"command": "az network vhub route-map", "description": "Manage route map.", "id": "az_network_vhub_route-map"}
+{"command": "az network vhub route-map rule", "description": "Manage route map rule.", "id": "az_network_vhub_route-map_rule"}
+{"command": "az network vhub route-table route", "description": "Manage routes of route table in the virtual hub.", "id": "az_network_vhub_route-table_route"}
+{"command": "az network vpn-gateway connection", "description": "Manage site-to-site VPN gateway connections.", "id": "az_network_vpn-gateway_connection"}
+{"command": "az network vpn-gateway connection vpn-site-link-conn", "description": "Manage site-to-site VPN gateway connection VPN site link connection.", "id": "az_network_vpn-gateway_connection_vpn-site-link-conn"}
+{"command": "az network vpn-gateway connection ipsec-policy", "description": "Manage site-to-site VPN gateway connection IPSec policies.", "id": "az_network_vpn-gateway_connection_ipsec-policy"}
+{"command": "az network vpn-gateway connection vpn-site-link-conn ipsec-policy", "description": "Manage site-to-site VPN gateway connection VPN site link IPSec policies.", "id": "az_network_vpn-gateway_connection_vpn-site-link-conn_ipsec-policy"}
+{"command": "az network application-gateway private-link", "description": "Manage private link of an application gateway.", "id": "az_network_application-gateway_private-link"}
+{"command": "az network application-gateway http-settings", "description": "Manage HTTP settings of an application gateway.", "id": "az_network_application-gateway_http-settings"}
+{"command": "az network application-gateway listener", "description": "Manage listeners of an application gateway.", "id": "az_network_application-gateway_listener"}
+{"command": "az network application-gateway routing-rule", "description": "Evaluate probe information and define TCP/TLS routing rules.", "id": "az_network_application-gateway_routing-rule"}
+{"command": "az network application-gateway probe", "description": "Manage probes to gather and evaluate information on an application gateway.", "id": "az_network_application-gateway_probe"}
+{"command": "az network application-gateway http-listener", "description": "Manage HTTP listeners of an application gateway.", "id": "az_network_application-gateway_http-listener"}
+{"command": "az network application-gateway identity", "description": "Manage the managed service identity of an application gateway.", "id": "az_network_application-gateway_identity"}
+{"command": "az network application-gateway ssl-cert", "description": "Manage SSL certificates of an application gateway.", "id": "az_network_application-gateway_ssl-cert"}
+{"command": "az network application-gateway url-path-map", "description": "Manage URL path maps of an application gateway.", "id": "az_network_application-gateway_url-path-map"}
+{"command": "az network application-gateway frontend-ip", "description": "Manage frontend IP addresses of an application gateway.", "id": "az_network_application-gateway_frontend-ip"}
+{"command": "az network application-gateway waf-config", "description": "Configure the settings of a web application firewall.", "id": "az_network_application-gateway_waf-config"}
+{"command": "az network application-gateway address-pool", "description": "Manage address pools of an application gateway.", "id": "az_network_application-gateway_address-pool"}
+{"command": "az network application-gateway redirect-config", "description": "Manage redirect configurations of an application gateway.", "id": "az_network_application-gateway_redirect-config"}
+{"command": "az network application-gateway root-cert", "description": "Manage trusted root certificates of an application gateway.", "id": "az_network_application-gateway_root-cert"}
+{"command": "az network application-gateway ssl-profile", "description": "Manage SSL profiles of application gateway.", "id": "az_network_application-gateway_ssl-profile"}
+{"command": "az network application-gateway settings", "description": "Manage settings of an application gateway.", "id": "az_network_application-gateway_settings"}
+{"command": "az network application-gateway frontend-port", "description": "Manage frontend ports of an application gateway.", "id": "az_network_application-gateway_frontend-port"}
+{"command": "az network application-gateway waf-policy", "description": "Manage application gateway web application firewall (WAF) policies.", "id": "az_network_application-gateway_waf-policy"}
+{"command": "az network application-gateway rule", "description": "Evaluate probe information and define HTTP/HTTPS routing rules.", "id": "az_network_application-gateway_rule"}
+{"command": "az network application-gateway client-cert", "description": "Manage trusted client certificates of application gateway.", "id": "az_network_application-gateway_client-cert"}
+{"command": "az network application-gateway ssl-policy", "description": "Manage the SSL policy of an application gateway.", "id": "az_network_application-gateway_ssl-policy"}
+{"command": "az network application-gateway rewrite-rule", "description": "Manage rewrite rules of an application gateway.", "id": "az_network_application-gateway_rewrite-rule"}
+{"command": "az network application-gateway auth-cert", "description": "Manage authorization certificates of an application gateway.", "id": "az_network_application-gateway_auth-cert"}
+{"command": "az network application-gateway rewrite-rule condition", "description": "Manage rewrite rule conditions of an application gateway.", "id": "az_network_application-gateway_rewrite-rule_condition"}
+{"command": "az network application-gateway rewrite-rule set", "description": "Manage rewrite rule sets of an application gateway.", "id": "az_network_application-gateway_rewrite-rule_set"}
+{"command": "az network application-gateway private-link ip-config", "description": "Manage IP configuration of a private link to configure its capability.", "id": "az_network_application-gateway_private-link_ip-config"}
+{"command": "az network application-gateway ssl-policy predefined", "description": "Get information on predefined SSL policies.", "id": "az_network_application-gateway_ssl-policy_predefined"}
+{"command": "az network application-gateway waf-policy managed-rule", "description": "Manage managed rules of a WAF policy.", "id": "az_network_application-gateway_waf-policy_managed-rule"}
+{"command": "az network application-gateway waf-policy custom-rule", "description": "Manage application gateway web application firewall (WAF) policy custom rules.", "id": "az_network_application-gateway_waf-policy_custom-rule"}
+{"command": "az network application-gateway waf-policy policy-setting", "description": "Define contents of a web application firewall global configuration.", "id": "az_network_application-gateway_waf-policy_policy-setting"}
+{"command": "az network application-gateway waf-policy managed-rule rule-set", "description": "Manage managed rule set of managed rules of a WAF policy.", "id": "az_network_application-gateway_waf-policy_managed-rule_rule-set"}
+{"command": "az network application-gateway waf-policy managed-rule exclusion", "description": "Manage OWASP CRS exclusions that are applied on a WAF policy managed rules.", "id": "az_network_application-gateway_waf-policy_managed-rule_exclusion"}
+{"command": "az network application-gateway waf-policy managed-rule exclusion rule-set", "description": "Define a managed rule set for exclusions.", "id": "az_network_application-gateway_waf-policy_managed-rule_exclusion_rule-set"}
+{"command": "az network application-gateway waf-policy custom-rule match-condition", "description": "Manage match conditions in an application gateway web application firewall (WAF) policy custom rule.", "id": "az_network_application-gateway_waf-policy_custom-rule_match-condition"}
+{"command": "az network application-gateway url-path-map rule", "description": "Manage the rules of a URL path map.", "id": "az_network_application-gateway_url-path-map_rule"}
+{"command": "az network watcher flow-log", "description": "Manage network security group flow logging.", "id": "az_network_watcher_flow-log"}
+{"command": "az network watcher troubleshooting", "description": "Manage Network Watcher troubleshooting sessions.", "id": "az_network_watcher_troubleshooting"}
+{"command": "az network watcher connection-monitor", "description": "Manage connection monitoring between an Azure Virtual Machine and any IP resource.", "id": "az_network_watcher_connection-monitor"}
+{"command": "az network watcher packet-capture", "description": "Manage packet capture sessions on VMs.", "id": "az_network_watcher_packet-capture"}
+{"command": "az network watcher connection-monitor test-configuration", "description": "Manage test configuration of a connection monitor.", "id": "az_network_watcher_connection-monitor_test-configuration"}
+{"command": "az network watcher connection-monitor endpoint", "description": "Manage endpoint of a connection monitor.", "id": "az_network_watcher_connection-monitor_endpoint"}
+{"command": "az network watcher connection-monitor test-group", "description": "Manage a test group of a connection monitor.", "id": "az_network_watcher_connection-monitor_test-group"}
+{"command": "az network watcher connection-monitor output", "description": "Manage output of connection monitor.", "id": "az_network_watcher_connection-monitor_output"}
+{"command": "az network perimeter association", "description": "Manage NSP Associations.", "id": "az_network_perimeter_association"}
+{"command": "az network perimeter link-reference", "description": "Manage network security perimeter link reference.", "id": "az_network_perimeter_link-reference"}
+{"command": "az network perimeter onboarded-resources", "description": "Manage resources onboarded to NSP.", "id": "az_network_perimeter_onboarded-resources"}
+{"command": "az network perimeter link", "description": "Manage network security perimeter link.", "id": "az_network_perimeter_link"}
+{"command": "az network perimeter profile", "description": "Manage Network Profiles under an NSP.", "id": "az_network_perimeter_profile"}
+{"command": "az network perimeter profile access-rule", "description": "Manage Access Rules of a Profile inside an NSP.", "id": "az_network_perimeter_profile_access-rule"}
+{"command": "az elastic", "description": "Manage Microsoft Elastic.", "id": "az_elastic"}
+{"command": "az elastic-san", "description": "Manage Elastic SAN.", "id": "az_elastic-san"}
+{"command": "az elastic monitor", "description": "Manage monitor with elastic.", "id": "az_elastic_monitor"}
+{"command": "az elastic monitor tag-rule", "description": "Manage tag rule with elastic.", "id": "az_elastic_monitor_tag-rule"}
+{"command": "az elastic-san volume", "description": "Manage Elastic SAN Volume.", "id": "az_elastic-san_volume"}
+{"command": "az elastic-san volume-group", "description": "Manage Elastic SAN Volume Group.", "id": "az_elastic-san_volume-group"}
+{"command": "az elastic-san volume snapshot", "description": "Manage volume snapshot.", "id": "az_elastic-san_volume_snapshot"}
+{"command": "az ml", "description": "Manage Azure Machine Learning resources with the Azure CLI ML extension v1.", "id": "az_ml(v1)"}
+{"command": "az ml", "description": "Manage Azure Machine Learning resources with the Azure CLI ML extension v2.", "id": "az_ml"}
+{"command": "az ml datastore", "description": "Manage Azure ML datastores.", "id": "az_ml_datastore"}
+{"command": "az ml compute", "description": "Manage Azure ML compute resources.", "id": "az_ml_compute"}
+{"command": "az ml feature-store-entity", "description": "Manage Azure ML feature store entities.", "id": "az_ml_feature-store-entity"}
+{"command": "az ml component", "description": "Manage Azure ML components.", "id": "az_ml_component"}
+{"command": "az ml batch-endpoint", "description": "Manage Azure ML batch endpoints.", "id": "az_ml_batch-endpoint"}
+{"command": "az ml registry", "description": "Manage Azure ML registries.", "id": "az_ml_registry"}
+{"command": "az ml schedule", "description": "Manage Azure ML schedule resources.", "id": "az_ml_schedule"}
+{"command": "az ml data", "description": "Manage Azure ML data assets.", "id": "az_ml_data"}
+{"command": "az ml model", "description": "Manage Azure ML models.", "id": "az_ml_model"}
+{"command": "az ml batch-deployment", "description": "Manage Azure ML batch deployments.", "id": "az_ml_batch-deployment"}
+{"command": "az ml online-deployment", "description": "Manage Azure ML online deployments.", "id": "az_ml_online-deployment"}
+{"command": "az ml feature-store", "description": "Manage Azure ML feature stores.", "id": "az_ml_feature-store"}
+{"command": "az ml job", "description": "Manage Azure ML jobs.", "id": "az_ml_job"}

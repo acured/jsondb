@@ -1,0 +1,100 @@
+{"command": "az storage fs metadata", "description": "Manage the metadata for file system.", "id": "az_storage_fs_metadata"}
+{"command": "az storage fs file", "description": "Manage files in Azure Data Lake Storage Gen2 account.", "id": "az_storage_fs_file"}
+{"command": "az storage fs directory", "description": "Manage directories in Azure Data Lake Storage Gen2 account.", "id": "az_storage_fs_directory"}
+{"command": "az storage fs service-properties", "description": "Manage storage datalake service properties.", "id": "az_storage_fs_service-properties"}
+{"command": "az storage fs directory metadata", "description": "Manage the metadata for directory in file system.", "id": "az_storage_fs_directory_metadata"}
+{"command": "az storage fs file metadata", "description": "Manage the metadata for file in file system.", "id": "az_storage_fs_file_metadata"}
+{"command": "az storage account local-user", "description": "Manage storage account local users.", "id": "az_storage_account_local-user"}
+{"command": "az storage account management-policy", "description": "Manage storage account management policies.", "id": "az_storage_account_management-policy"}
+{"command": "az storage account blob-service-properties", "description": "Manage the properties of a storage account's blob service.", "id": "az_storage_account_blob-service-properties"}
+{"command": "az storage account private-endpoint-connection", "description": "Manage storage account private endpoint connection.", "id": "az_storage_account_private-endpoint-connection"}
+{"command": "az storage account keys", "description": "Manage storage account keys.", "id": "az_storage_account_keys"}
+{"command": "az storage account file-service-properties", "description": "Manage the properties of file service in storage account.", "id": "az_storage_account_file-service-properties"}
+{"command": "az storage account encryption-scope", "description": "Manage encryption scope for a storage account.", "id": "az_storage_account_encryption-scope"}
+{"command": "az storage account hns-migration", "description": "Manage storage account migration to enable hierarchical namespace.", "id": "az_storage_account_hns-migration"}
+{"command": "az storage account or-policy", "description": "Manage storage account Object Replication Policy.", "id": "az_storage_account_or-policy"}
+{"command": "az storage account private-link-resource", "description": "Manage storage account private link resources.", "id": "az_storage_account_private-link-resource"}
+{"command": "az storage account migration", "description": "Manage Storage Account Migration.", "id": "az_storage_account_migration"}
+{"command": "az storage account blob-inventory-policy", "description": "Manage storage account Blob Inventory Policy.", "id": "az_storage_account_blob-inventory-policy"}
+{"command": "az storage account network-rule", "description": "Manage network rules.", "id": "az_storage_account_network-rule"}
+{"command": "az storage account blob-service-properties cors-rule", "description": "Manage the Cross-Origin Resource Sharing (CORS) rules of a storage account's blob service properties.", "id": "az_storage_account_blob-service-properties_cors-rule"}
+{"command": "az storage account or-policy rule", "description": "Manage Object Replication Service Policy Rules.", "id": "az_storage_account_or-policy_rule"}
+{"command": "az storage blob access", "description": "Manage the access control properties of a blob when Hierarchical Namespace is enabled.", "id": "az_storage_blob_access"}
+{"command": "az storage blob tag", "description": "Manage blob tags.", "id": "az_storage_blob_tag"}
+{"command": "az storage blob metadata", "description": "Manage blob metadata.", "id": "az_storage_blob_metadata"}
+{"command": "az storage blob immutability-policy", "description": "Manage blob immutability policy.", "id": "az_storage_blob_immutability-policy"}
+{"command": "az storage blob copy", "description": "Manage blob copy operations. Use `az storage blob show` to check the status of the blobs.", "id": "az_storage_blob_copy"}
+{"command": "az storage blob incremental-copy", "description": "Manage blob incremental copy operations.", "id": "az_storage_blob_incremental-copy"}
+{"command": "az storage blob directory", "description": "Manage blob directories in storage account container.", "id": "az_storage_blob_directory"}
+{"command": "az storage blob lease", "description": "Manage storage blob leases.", "id": "az_storage_blob_lease"}
+{"command": "az storage blob service-properties", "description": "Manage storage blob service properties.", "id": "az_storage_blob_service-properties"}
+{"command": "az storage blob directory access", "description": "Manage the access control properties of a directory when Hierarchical Namespace is enabled.", "id": "az_storage_blob_directory_access"}
+{"command": "az storage blob directory metadata", "description": "Manage directory metadata.", "id": "az_storage_blob_directory_metadata"}
+{"command": "az storage blob service-properties delete-policy", "description": "Manage storage blob delete-policy service properties.", "id": "az_storage_blob_service-properties_delete-policy"}
+{"command": "az storage share metadata", "description": "Manage the metadata of a file share.", "id": "az_storage_share_metadata"}
+{"command": "az storage share policy", "description": "Manage shared access policies of a storage file share.", "id": "az_storage_share_policy"}
+{"command": "az storage azcopy blob", "description": "Manage object storage for unstructured data (blobs) using AzCopy.", "id": "az_storage_azcopy_blob"}
+{"command": "az storage file metadata", "description": "Manage file metadata.", "id": "az_storage_file_metadata"}
+{"command": "az storage file copy", "description": "Manage file copy operations.", "id": "az_storage_file_copy"}
+{"command": "az storagesync registered-server", "description": "Manage registered server.", "id": "az_storagesync_registered-server"}
+{"command": "az storagesync sync-group", "description": "Manage sync group.", "id": "az_storagesync_sync-group"}
+{"command": "az storagesync sync-group cloud-endpoint", "description": "Manage cloud endpoint.", "id": "az_storagesync_sync-group_cloud-endpoint"}
+{"command": "az storagesync sync-group server-endpoint", "description": "Manage server endpoint.", "id": "az_storagesync_sync-group_server-endpoint"}
+{"command": "az k8sconfiguration", "description": "Commands to manage Kubernetes configuration.", "id": "az_k8sconfiguration"}
+{"command": "az qumulo", "description": "Manage qumulo.", "id": "az_qumulo"}
+{"command": "az qumulo storage", "description": "Manage qumulo storage.", "id": "az_qumulo_storage"}
+{"command": "az qumulo storage file-system", "description": "Manage qumulo storage file system.", "id": "az_qumulo_storage_file-system"}
+{"command": "az disk-encryption-set", "description": "Disk Encryption Set resource.", "id": "az_disk-encryption-set"}
+{"command": "az disk-encryption-set identity", "description": "Manage identities of a disk encryption set.", "id": "az_disk-encryption-set_identity"}
+{"command": "az apim", "description": "Manage Azure API Management services.", "id": "az_apim"}
+{"command": "az apim deletedservice", "description": "Manage soft-deleted Azure API Management services.", "id": "az_apim_deletedservice"}
+{"command": "az apim graphql", "description": "Manage Azure API Management GraphQL API's.", "id": "az_apim_graphql"}
+{"command": "az apim nv", "description": "Manage Azure API Management Named Values.", "id": "az_apim_nv"}
+{"command": "az apim product", "description": "Manage Azure API Management Product's.", "id": "az_apim_product"}
+{"command": "az apim api", "description": "Manage Azure API Management API's.", "id": "az_apim_api"}
+{"command": "az apim product api", "description": "Manage Azure API Management Product's APIs.", "id": "az_apim_product_api"}
+{"command": "az apim graphql resolver", "description": "Manage Azure API Management GraphQL API's Resolvers.", "id": "az_apim_graphql_resolver"}
+{"command": "az apim graphql resolver policy", "description": "Manage Azure API Management GraphQL API's Resolvers Policies.", "id": "az_apim_graphql_resolver_policy"}
+{"command": "az apim api operation", "description": "Manage Azure API Management API Operations.", "id": "az_apim_api_operation"}
+{"command": "az apim api release", "description": "Manage Azure API Management API Release.", "id": "az_apim_api_release"}
+{"command": "az apim api schema", "description": "Manage Azure API Management API Schema's.", "id": "az_apim_api_schema"}
+{"command": "az apim api versionset", "description": "Manage Azure API Management API Version Set.", "id": "az_apim_api_versionset"}
+{"command": "az apim api revision", "description": "Manage Azure API Management API Revision.", "id": "az_apim_api_revision"}
+{"command": "az communication", "description": "Manage communication service with communication.", "id": "az_communication"}
+{"command": "az communication email", "description": "Commands to send emails and get the status of emails previously sent using Azure Communication Services Email service.", "id": "az_communication_email"}
+{"command": "az communication phonenumber", "description": "Commands to manage phone numbers for a Communication Service resource.", "id": "az_communication_phonenumber"}
+{"command": "az communication identity", "description": "Manage the Communication Resource's managed identities.", "id": "az_communication_identity"}
+{"command": "az communication chat", "description": "Commands to interact with Azure Communication Services Chat gateway.", "id": "az_communication_chat"}
+{"command": "az communication phonenumbers", "description": "Commands to manage phone numbers for a Communication Service resource.", "id": "az_communication_phonenumbers"}
+{"command": "az communication user-identity", "description": "Commands to manage user identities and their tokens for a Communication Service resource.", "id": "az_communication_user-identity"}
+{"command": "az communication rooms", "description": "Commands to interact with Azure Communication Services Rooms gateway.", "id": "az_communication_rooms"}
+{"command": "az communication sms", "description": "Commands to manage SMS for a Communication Service resource.", "id": "az_communication_sms"}
+{"command": "az communication user-identity token", "description": "Commands to manage user tokens for a Communication Service resource.", "id": "az_communication_user-identity_token"}
+{"command": "az communication user-identity user", "description": "Commands to manage user identities for a Communication Service resource.", "id": "az_communication_user-identity_user"}
+{"command": "az communication chat thread", "description": "Commands to manage chat thread of a Communication Service resource.", "id": "az_communication_chat_thread"}
+{"command": "az communication chat participant", "description": "Commands to manage participants in a chat thread of a Communication Service resource.", "id": "az_communication_chat_participant"}
+{"command": "az communication chat message", "description": "Commands to manage messages in a chat thread of a Communication Service resource.", "id": "az_communication_chat_message"}
+{"command": "az communication chat message receipt", "description": "Commands to manage message read-receipts in a chat thread of a Communication Service resource.", "id": "az_communication_chat_message_receipt"}
+{"command": "az communication identity token", "description": "Commands to manage user tokens for a Communication Service resource.", "id": "az_communication_identity_token"}
+{"command": "az communication identity user", "description": "Commands to manage user identities for a Communication Service resource.", "id": "az_communication_identity_user"}
+{"command": "az communication rooms participant", "description": "Commands to manage participants of an existing room.", "id": "az_communication_rooms_participant"}
+{"command": "az term", "description": "Manage marketplace agreement with marketplaceordering.", "id": "az_term"}
+{"command": "az confluent", "description": "Manage confluent resources.", "id": "az_confluent"}
+{"command": "az confluent terms", "description": "Manage marketplace agreement with confluent. This command group will be deprecated, please use 'az term' instead.", "id": "az_confluent_terms"}
+{"command": "az confluent offer-detail", "description": "Manage confluent offer details.", "id": "az_confluent_offer-detail"}
+{"command": "az confluent organization", "description": "Manage organization with confluent.", "id": "az_confluent_organization"}
+{"command": "az load", "description": "Manage Azure Load Testing resources.", "id": "az_load"}
+{"command": "az load test", "description": "Command group to manage load tests.", "id": "az_load_test"}
+{"command": "az load test-run", "description": "Command group to manage load test runs.", "id": "az_load_test-run"}
+{"command": "az load test-run app-component", "description": "Command group to manage load test run app components.", "id": "az_load_test-run_app-component"}
+{"command": "az load test-run metrics", "description": "Command group to retrieve load test run metrics.", "id": "az_load_test-run_metrics"}
+{"command": "az load test-run server-metric", "description": "Command group to manage load test run server-metrics.", "id": "az_load_test-run_server-metric"}
+{"command": "az load test app-component", "description": "Command group to manage app components.", "id": "az_load_test_app-component"}
+{"command": "az load test file", "description": "Command group for operations on test files.", "id": "az_load_test_file"}
+{"command": "az load test server-metric", "description": "Command group to manage server metrics.", "id": "az_load_test_server-metric"}
+{"command": "az network-analytics", "description": "Network Analytics command group Azure Operator Insights resource manipulation.", "id": "az_network-analytics"}
+{"command": "az network-analytics data-product", "description": "Azure Operator Insights Data Product operations.", "id": "az_network-analytics_data-product"}
+{"command": "az amlfs", "description": "Manage lustre file system.", "id": "az_amlfs"}
+{"command": "az managed-cassandra", "description": "Azure Managed Cassandra.", "id": "az_managed-cassandra"}
+{"command": "az managed-cassandra cluster", "description": "Azure Managed Cassandra Cluster.", "id": "az_managed-cassandra_cluster"}
+{"command": "az managed-cassandra datacenter", "description": "Azure Managed Cassandra DataCenter.", "id": "az_managed-cassandra_datacenter"}

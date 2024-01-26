@@ -1,0 +1,100 @@
+{"command": "az adp account data-pool", "description": "Manage adp data-pool.", "id": "az_adp_account_data-pool"}
+{"command": "az databoxedge", "description": "Support data box edge device and management.", "id": "az_databoxedge"}
+{"command": "az databox", "description": "Manage data box.", "id": "az_databox"}
+{"command": "az databoxedge order", "description": "Manage order with databoxedge.", "id": "az_databoxedge_order"}
+{"command": "az databoxedge bandwidth-schedule", "description": "Manage bandwidth schedule with databoxedge.", "id": "az_databoxedge_bandwidth-schedule"}
+{"command": "az databoxedge alert", "description": "Manage alert with databoxedge.", "id": "az_databoxedge_alert"}
+{"command": "az databoxedge device", "description": "Manage device with databoxedge.", "id": "az_databoxedge_device"}
+{"command": "az databox job", "description": "Manage data box job.", "id": "az_databox_job"}
+{"command": "az config", "description": "Manage Azure CLI configuration.", "id": "az_config"}
+{"command": "az config param-persist", "description": "Manage parameter persistence.", "id": "az_config_param-persist"}
+{"command": "az sql", "description": "Manage Azure SQL Databases and Data Warehouses.", "id": "az_sql"}
+{"command": "az sql server", "description": "Manage SQL servers.", "id": "az_sql_server"}
+{"command": "az sql db", "description": "Manage databases.", "id": "az_sql_db"}
+{"command": "az sql stg", "description": "Manage Server Trust Groups.", "id": "az_sql_stg"}
+{"command": "az sql recoverable-midb", "description": "Recoverable managed databases command group.", "id": "az_sql_recoverable-midb"}
+{"command": "az sql virtual-cluster", "description": "Manage SQL virtual clusters.", "id": "az_sql_virtual-cluster"}
+{"command": "az sql mi-arc", "description": "Manage Azure Arc-enabled SQL managed instances.", "id": "az_sql_mi-arc"}
+{"command": "az sql db-arc", "description": "Manage databases for Azure Arc-enabled SQL Server instance.", "id": "az_sql_db-arc"}
+{"command": "az sql instance-failover-group-arc", "description": "Manage Arc-enabled SQL managed instance Failover Groups.", "id": "az_sql_instance-failover-group-arc"}
+{"command": "az sql midb", "description": "Manage SQL Managed Instance databases.", "id": "az_sql_midb"}
+{"command": "az sql failover-group", "description": "Manage SQL Failover Groups.", "id": "az_sql_failover-group"}
+{"command": "az sql instance-failover-group", "description": "Manage SQL Instance Failover Groups.", "id": "az_sql_instance-failover-group"}
+{"command": "az sql midb-arc", "description": "Manage databases for Azure Arc-enabled SQL managed instances.", "id": "az_sql_midb-arc"}
+{"command": "az sql dw", "description": "Manage data warehouses.", "id": "az_sql_dw"}
+{"command": "az sql instance-pool", "description": "Manage instance pools.", "id": "az_sql_instance-pool"}
+{"command": "az sql vm", "description": "Manage SQL virtual machines.", "id": "az_sql_vm"}
+{"command": "az sql elastic-pool", "description": "Manage elastic pools.", "id": "az_sql_elastic-pool"}
+{"command": "az sql mi", "description": "Manage SQL managed instances.", "id": "az_sql_mi"}
+{"command": "az sql server-arc", "description": "Manage SQL Server enabled by Azure Arc.", "id": "az_sql_server-arc"}
+{"command": "az sql mi partner-cert", "description": "Server trust certificate management commands.", "id": "az_sql_mi_partner-cert"}
+{"command": "az sql mi key", "description": "Manage a SQL Instance's keys.", "id": "az_sql_mi_key"}
+{"command": "az sql mi dtc", "description": "Commands related to managed instance DTC management.", "id": "az_sql_mi_dtc"}
+{"command": "az sql mi start-stop-schedule", "description": "Manage the managed instance's start stop schedule.", "id": "az_sql_mi_start-stop-schedule"}
+{"command": "az sql mi advanced-threat-protection-setting", "description": "Manage a SQL Managed Instance's advanced threat protection setting.", "id": "az_sql_mi_advanced-threat-protection-setting"}
+{"command": "az sql mi ad-admin", "description": "Manage a managed instance's Active Directory administrator.", "id": "az_sql_mi_ad-admin"}
+{"command": "az sql mi op", "description": "Manage operations on a managed instance.", "id": "az_sql_mi_op"}
+{"command": "az sql mi server-configuration-option", "description": "Server configuration option management commands.", "id": "az_sql_mi_server-configuration-option"}
+{"command": "az sql mi ad-only-auth", "description": "Manage a Managed Instance's Azure Active Directory only settings.", "id": "az_sql_mi_ad-only-auth"}
+{"command": "az sql mi endpoint-cert", "description": "Endpoint certificates management commands.", "id": "az_sql_mi_endpoint-cert"}
+{"command": "az sql mi link", "description": "Instance link management commands.", "id": "az_sql_mi_link"}
+{"command": "az sql mi tde-key", "description": "Manage a SQL Instance's encryption protector.", "id": "az_sql_mi_tde-key"}
+{"command": "az sql server-arc extension", "description": "Manage extension level properties.", "id": "az_sql_server-arc_extension"}
+{"command": "az sql server-arc availability-group", "description": "Manage Availability Groups.", "id": "az_sql_server-arc_availability-group"}
+{"command": "az sql server-arc backups-policy", "description": "Manage Backups Policy.", "id": "az_sql_server-arc_backups-policy"}
+{"command": "az sql server-arc extension feature-flag", "description": "Manage extension level feature flags.", "id": "az_sql_server-arc_extension_feature-flag"}
+{"command": "az sql vm group", "description": "Manage SQL virtual machine groups.", "id": "az_sql_vm_group"}
+{"command": "az sql vm group ag-listener", "description": "Manage SQL availability group listeners.", "id": "az_sql_vm_group_ag-listener"}
+{"command": "az sql server dns-alias", "description": "Manage a server's DNS aliases.", "id": "az_sql_server_dns-alias"}
+{"command": "az sql server ipv6-firewall-rule", "description": "Manage a server's ipv6 firewall rules.", "id": "az_sql_server_ipv6-firewall-rule"}
+{"command": "az sql server conn-policy", "description": "Manage a server's connection policy.", "id": "az_sql_server_conn-policy"}
+{"command": "az sql server outbound-firewall-rule", "description": "Manage a server's outbound firewall rules.", "id": "az_sql_server_outbound-firewall-rule"}
+{"command": "az sql server key", "description": "Manage a server's keys.", "id": "az_sql_server_key"}
+{"command": "az sql server firewall-rule", "description": "Manage a server's firewall rules.", "id": "az_sql_server_firewall-rule"}
+{"command": "az sql server ms-support", "description": "Manage a server's Microsoft support operations.", "id": "az_sql_server_ms-support"}
+{"command": "az sql server vnet-rule", "description": "Manage a server's virtual network rules.", "id": "az_sql_server_vnet-rule"}
+{"command": "az sql server advanced-threat-protection-setting", "description": "Manage a server's advanced threat protection setting.", "id": "az_sql_server_advanced-threat-protection-setting"}
+{"command": "az sql server audit-policy", "description": "Manage a server's auditing policy.", "id": "az_sql_server_audit-policy"}
+{"command": "az sql server ad-admin", "description": "Manage a server's Active Directory administrator.", "id": "az_sql_server_ad-admin"}
+{"command": "az sql server ad-only-auth", "description": "Manage Azure Active Directory only Authentication settings for this Server.", "id": "az_sql_server_ad-only-auth"}
+{"command": "az sql server tde-key", "description": "Manage a server's encryption protector.", "id": "az_sql_server_tde-key"}
+{"command": "az sql server ms-support audit-policy", "description": "Manage a server's Microsoft support operations auditing policy.", "id": "az_sql_server_ms-support_audit-policy"}
+{"command": "az sql db classification", "description": "Manage sensitivity classifications.", "id": "az_sql_db_classification"}
+{"command": "az sql db ltr-backup", "description": "Manage SQL database long term retention backups.", "id": "az_sql_db_ltr-backup"}
+{"command": "az sql db replica", "description": "Manage replication between databases.", "id": "az_sql_db_replica"}
+{"command": "az sql db ledger-digest-uploads", "description": "Manage ledger digest upload settings.", "id": "az_sql_db_ledger-digest-uploads"}
+{"command": "az sql db threat-policy", "description": "Manage a database's threat detection policies.", "id": "az_sql_db_threat-policy"}
+{"command": "az sql db str-policy", "description": "Manage SQL database short term retention policy.", "id": "az_sql_db_str-policy"}
+{"command": "az sql db advanced-threat-protection-setting", "description": "Manage a database's advanced threat protection setting.", "id": "az_sql_db_advanced-threat-protection-setting"}
+{"command": "az sql db audit-policy", "description": "Manage a database's auditing policy.", "id": "az_sql_db_audit-policy"}
+{"command": "az sql db geo-backup", "description": "Manage SQL database geo redundant backups.", "id": "az_sql_db_geo-backup"}
+{"command": "az sql db tde", "description": "Manage a database's transparent data encryption.", "id": "az_sql_db_tde"}
+{"command": "az sql db op", "description": "Manage operations on a database.", "id": "az_sql_db_op"}
+{"command": "az sql db ltr-policy", "description": "Manage SQL database long term retention policy.", "id": "az_sql_db_ltr-policy"}
+{"command": "az sql db tde key", "description": "Manage a database's encryption protector.", "id": "az_sql_db_tde_key"}
+{"command": "az sql db classification recommendation", "description": "Manage sensitivity classification recommendations.", "id": "az_sql_db_classification_recommendation"}
+{"command": "az sql elastic-pool op", "description": "Manage operations on an elastic pool.", "id": "az_sql_elastic-pool_op"}
+{"command": "az sql midb short-term-retention-policy", "description": "Manage SQL Managed Instance database backup short term retention policy.", "id": "az_sql_midb_short-term-retention-policy"}
+{"command": "az sql midb log-replay", "description": "SQL Managed Instance database Log Replay service commands.", "id": "az_sql_midb_log-replay"}
+{"command": "az sql midb ltr-backup", "description": "Manage SQL Managed Instance database long term retention backups.", "id": "az_sql_midb_ltr-backup"}
+{"command": "az sql midb ledger-digest-uploads", "description": "Manage ledger digest upload settings.", "id": "az_sql_midb_ledger-digest-uploads"}
+{"command": "az sql midb advanced-threat-protection-setting", "description": "Manage a SQL Managed Instance database's advanced threat protection setting.", "id": "az_sql_midb_advanced-threat-protection-setting"}
+{"command": "az sql midb copy", "description": "Start, complete, cancel and list managed database copy operations.", "id": "az_sql_midb_copy"}
+{"command": "az sql midb ltr-policy", "description": "Manage SQL Managed Instance database long term retention policy.", "id": "az_sql_midb_ltr-policy"}
+{"command": "az sql midb move", "description": "Start, complete, cancel and list managed database move operations.", "id": "az_sql_midb_move"}
+{"command": "az sql mi-arc config", "description": "Configuration commands.", "id": "az_sql_mi-arc_config"}
+{"command": "az sql mi-arc endpoint", "description": "View and manage SQL endpoints.", "id": "az_sql_mi-arc_endpoint"}
+{"command": "az ml", "description": "Manage Azure Machine Learning resources with the Azure CLI ML extension v1.", "id": "az_ml(v1)"}
+{"command": "az ml folder", "description": "Folder subgroup commands.", "id": "az_ml(v1)_folder"}
+{"command": "az ml datastore", "description": "Commands for managing and using datastores with the Azure ML Workspace.", "id": "az_ml(v1)_datastore"}
+{"command": "az ml dataset", "description": "Commands for managing datasets in Azure Machine Learning Workspace.", "id": "az_ml(v1)_dataset"}
+{"command": "az ml computetarget", "description": "Computetarget subgroup commands.", "id": "az_ml(v1)_computetarget"}
+{"command": "az ml run", "description": "Commands for submitting, updating, and monitoring runs.", "id": "az_ml(v1)_run"}
+{"command": "az ml model", "description": "Manage machine learning models.", "id": "az_ml(v1)_model"}
+{"command": "az ml endpoint", "description": "Manage machine learning endpoints.", "id": "az_ml(v1)_endpoint"}
+{"command": "az ml pipeline", "description": "Pipeline subgroup commands.", "id": "az_ml(v1)_pipeline"}
+{"command": "az ml service", "description": "Manage operationalized services.", "id": "az_ml(v1)_service"}
+{"command": "az ml experiment", "description": "Commands to manage experiments.", "id": "az_ml(v1)_experiment"}
+{"command": "az ml workspace", "description": "Workspace subgroup commands.", "id": "az_ml(v1)_workspace"}
+{"command": "az ml environment", "description": "Commands to manage environments.", "id": "az_ml(v1)_environment"}
+{"command": "az ml workspace private-endpoint", "description": "Workspace private endpoint subgroup commands.", "id": "az_ml(v1)_workspace_private-endpoint"}

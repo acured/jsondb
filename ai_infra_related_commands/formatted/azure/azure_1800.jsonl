@@ -1,0 +1,100 @@
+{"command": "az cdn waf policy managed-rule-set", "description": "Manage managed rule sets of a CDN WAF policy.", "id": "az_cdn_waf_policy_managed-rule-set"}
+{"command": "az cdn waf policy rate-limit-rule", "description": "Manage rate limit rules of a CDN WAF policy.", "id": "az_cdn_waf_policy_rate-limit-rule"}
+{"command": "az cdn waf policy managed-rule-set rule-group-override", "description": "Manage rule group overrides of a managed rule on a CDN WAF policy.", "id": "az_cdn_waf_policy_managed-rule-set_rule-group-override"}
+{"command": "az cdn endpoint waf", "description": "Manage WAF properties of a CDN endpoint.", "id": "az_cdn_endpoint_waf"}
+{"command": "az cdn endpoint rule", "description": "Manage delivery rules for an endpoint.", "id": "az_cdn_endpoint_rule"}
+{"command": "az cdn endpoint waf policy", "description": "Apply a CDN WAF policy to a CDN endpoint.", "id": "az_cdn_endpoint_waf_policy"}
+{"command": "az cdn endpoint rule condition", "description": "Manage delivery rule conditions for an endpoint.", "id": "az_cdn_endpoint_rule_condition"}
+{"command": "az cdn endpoint rule action", "description": "Manage delivery rule actions for an endpoint.", "id": "az_cdn_endpoint_rule_action"}
+{"command": "az postgres", "description": "Manage Azure Database for PostgreSQL servers.", "id": "az_postgres"}
+{"command": "az postgres server", "description": "Manage PostgreSQL servers.", "id": "az_postgres_server"}
+{"command": "az postgres db", "description": "Manage PostgreSQL databases on a server.", "id": "az_postgres_db"}
+{"command": "az postgres flexible-server", "description": "Manage Azure Database for PostgreSQL Flexible Servers.", "id": "az_postgres_flexible-server"}
+{"command": "az postgres server-logs", "description": "Manage server logs.", "id": "az_postgres_server-logs"}
+{"command": "az postgres server-arc", "description": "Manage Azure Arc enabled PostgreSQL servers.", "id": "az_postgres_server-arc"}
+{"command": "az postgres flexible-server db", "description": "Manage PostgreSQL databases on a flexible server.", "id": "az_postgres_flexible-server_db"}
+{"command": "az postgres flexible-server deploy", "description": "Enable and run GitHub Actions workflow for PostgreSQL server.", "id": "az_postgres_flexible-server_deploy"}
+{"command": "az postgres flexible-server backup", "description": "Manage flexible server backups.", "id": "az_postgres_flexible-server_backup"}
+{"command": "az postgres flexible-server identity", "description": "Manage server user assigned identities.", "id": "az_postgres_flexible-server_identity"}
+{"command": "az postgres flexible-server firewall-rule", "description": "Manage firewall rules for a server.", "id": "az_postgres_flexible-server_firewall-rule"}
+{"command": "az postgres flexible-server replica", "description": "Manage read replicas.", "id": "az_postgres_flexible-server_replica"}
+{"command": "az postgres flexible-server advanced-threat-protection-setting", "description": "Manage advanced threat protection setting for a PostgreSQL flexible server.", "id": "az_postgres_flexible-server_advanced-threat-protection-setting"}
+{"command": "az postgres flexible-server ad-admin", "description": "Manage server Active Directory administrators.", "id": "az_postgres_flexible-server_ad-admin"}
+{"command": "az postgres flexible-server parameter", "description": "Commands for managing server parameter values for flexible server.", "id": "az_postgres_flexible-server_parameter"}
+{"command": "az postgres flexible-server server-logs", "description": "Manage server logs (log files) for a PostgreSQL flexible server.", "id": "az_postgres_flexible-server_server-logs"}
+{"command": "az postgres flexible-server migration", "description": "Manage migration workflows for PostgreSQL Flexible Servers.", "id": "az_postgres_flexible-server_migration"}
+{"command": "az postgres flexible-server virtual-endpoint", "description": "Manage virtual endpoints for a PostgreSQL flexible server.", "id": "az_postgres_flexible-server_virtual-endpoint"}
+{"command": "az postgres server-arc endpoint", "description": "Manage Azure Arc enabled PostgreSQL server endpoints.", "id": "az_postgres_server-arc_endpoint"}
+{"command": "az postgres server key", "description": "Manage PostgreSQL server keys.", "id": "az_postgres_server_key"}
+{"command": "az postgres server firewall-rule", "description": "Manage firewall rules for a server.", "id": "az_postgres_server_firewall-rule"}
+{"command": "az postgres server replica", "description": "Manage read replicas.", "id": "az_postgres_server_replica"}
+{"command": "az postgres server vnet-rule", "description": "Manage a server's virtual network rules.", "id": "az_postgres_server_vnet-rule"}
+{"command": "az postgres server configuration", "description": "Manage configuration values for a server.", "id": "az_postgres_server_configuration"}
+{"command": "az postgres server private-endpoint-connection", "description": "Manage PostgreSQL server private endpoint connections.", "id": "az_postgres_server_private-endpoint-connection"}
+{"command": "az postgres server ad-admin", "description": "Manage a postgres server's Active Directory administrator.", "id": "az_postgres_server_ad-admin"}
+{"command": "az postgres server private-link-resource", "description": "Manage PostgreSQL server private link resources.", "id": "az_postgres_server_private-link-resource"}
+{"command": "az fleet", "description": "Commands to manage fleet.", "id": "az_fleet"}
+{"command": "az fleet member", "description": "Commands to manage members.", "id": "az_fleet_member"}
+{"command": "az fleet updaterun", "description": "Commands to manage update runs.", "id": "az_fleet_updaterun"}
+{"command": "az fleet updatestrategy", "description": "Commands to manage update strategies.", "id": "az_fleet_updatestrategy"}
+{"command": "az quota", "description": "Manag quota for Azure resource providers.", "id": "az_quota"}
+{"command": "az quota usage", "description": "Manage the current usage of a resource.", "id": "az_quota_usage"}
+{"command": "az quota operation", "description": "Manage quota operation with quota.", "id": "az_quota_operation"}
+{"command": "az quota request", "description": "Manage quota request details and status.", "id": "az_quota_request"}
+{"command": "az quota request status", "description": "Manage quota request status with quota.", "id": "az_quota_request_status"}
+{"command": "az storage-mover", "description": "Manage top-level Storage Mover resource.", "id": "az_storage-mover"}
+{"command": "az storage-mover job-run", "description": "Manage Job Run resource.", "id": "az_storage-mover_job-run"}
+{"command": "az storage-mover project", "description": "Manage Project resource, which is a logical grouping of related jobs.", "id": "az_storage-mover_project"}
+{"command": "az storage-mover agent", "description": "Manage Agent resource, which references a hybrid compute machine that can run jobs.", "id": "az_storage-mover_agent"}
+{"command": "az storage-mover endpoint", "description": "Manage Endpoint resource, which represents a data transfer source or destination.", "id": "az_storage-mover_endpoint"}
+{"command": "az storage-mover job-definition", "description": "Manage Job Definition resource, which contains configuration for a single unit of managed data transfer.", "id": "az_storage-mover_job-definition"}
+{"command": "az offazure", "description": "Manage on-premise resources for migrate.", "id": "az_offazure"}
+{"command": "az offazure hyperv", "description": "Manage Hyper-V on-premise resources.", "id": "az_offazure_hyperv"}
+{"command": "az offazure vmware", "description": "Manage VMware on-premise resources.", "id": "az_offazure_vmware"}
+{"command": "az offazure hyperv cluster", "description": "Manage Hyper-V cluster.", "id": "az_offazure_hyperv_cluster"}
+{"command": "az offazure hyperv site", "description": "Manage Hyper-V site.", "id": "az_offazure_hyperv_site"}
+{"command": "az offazure hyperv run-as-account", "description": "Manage Hyper-V run-as-account.", "id": "az_offazure_hyperv_run-as-account"}
+{"command": "az offazure hyperv machine", "description": "Manage Hyper-V machine.", "id": "az_offazure_hyperv_machine"}
+{"command": "az offazure hyperv host", "description": "Manage Hyper-V host.", "id": "az_offazure_hyperv_host"}
+{"command": "az offazure vmware site", "description": "Manage VMware site.", "id": "az_offazure_vmware_site"}
+{"command": "az offazure vmware run-as-account", "description": "Manage VMware run-as-account.", "id": "az_offazure_vmware_run-as-account"}
+{"command": "az offazure vmware vcenter", "description": "Manage VMware vCenter.", "id": "az_offazure_vmware_vcenter"}
+{"command": "az offazure vmware machine", "description": "Manage VMware machine.", "id": "az_offazure_vmware_machine"}
+{"command": "az resourcemanagement", "description": "Resourcemanagement CLI command group.", "id": "az_resourcemanagement"}
+{"command": "az resource", "description": "Manage Azure resources.", "id": "az_resource"}
+{"command": "az resource-mover", "description": "Manage Resource Mover Service API.", "id": "az_resource-mover"}
+{"command": "az resource-mover move-resource", "description": "Manage move-resource.", "id": "az_resource-mover_move-resource"}
+{"command": "az resource-mover move-collection", "description": "Manage move-collection.", "id": "az_resource-mover_move-collection"}
+{"command": "az resource lock", "description": "Manage Azure resource level locks.", "id": "az_resource_lock"}
+{"command": "az resource link", "description": "Manage links between resources.", "id": "az_resource_link"}
+{"command": "az resourcemanagement private-link", "description": "Resourcemanagement private-link management on a resource.", "id": "az_resourcemanagement_private-link"}
+{"command": "az provider", "description": "Manage resource providers.", "id": "az_provider"}
+{"command": "az providerhub", "description": "Manage resources with ProviderHub.", "id": "az_providerhub"}
+{"command": "az providerhub provider-registration", "description": "Manage provider registration with providerhub.", "id": "az_providerhub_provider-registration"}
+{"command": "az providerhub operation", "description": "Manage operation with providerhub.", "id": "az_providerhub_operation"}
+{"command": "az providerhub notification-registration", "description": "Manage notification registration with providerhub.", "id": "az_providerhub_notification-registration"}
+{"command": "az providerhub custom-rollout", "description": "Manage custom rollout with providerhub.", "id": "az_providerhub_custom-rollout"}
+{"command": "az providerhub sku", "description": "Manage sku with providerhub.", "id": "az_providerhub_sku"}
+{"command": "az providerhub default-rollout", "description": "Manage default rollout with providerhub.", "id": "az_providerhub_default-rollout"}
+{"command": "az providerhub manifest", "description": "Manage with providerhub manifest operations.", "id": "az_providerhub_manifest"}
+{"command": "az providerhub resource-type-registration", "description": "Manage resource type registration with providerhub.", "id": "az_providerhub_resource-type-registration"}
+{"command": "az provider operation", "description": "Get provider operations metadatas.", "id": "az_provider_operation"}
+{"command": "az provider permission", "description": "Manage permissions for a provider.", "id": "az_provider_permission"}
+{"command": "az connectedk8s", "description": "Commands to manage connected kubernetes clusters.", "id": "az_connectedk8s"}
+{"command": "az automanage", "description": "Manage Automanage.", "id": "az_automanage"}
+{"command": "az automanage configuration-profile", "description": "Manage configuration profile.", "id": "az_automanage_configuration-profile"}
+{"command": "az automanage service-principal", "description": "Manage Automanage AAD first party Application Service Principal.", "id": "az_automanage_service-principal"}
+{"command": "az automanage configuration-profile-assignment", "description": "Manage configuration profile assignment.", "id": "az_automanage_configuration-profile-assignment"}
+{"command": "az automanage best-practice", "description": "Manage Automanage best practice.", "id": "az_automanage_best-practice"}
+{"command": "az automanage configuration-profile-assignment cluster", "description": "Manage association between an AzureStackHCI cluster and Automanage configuration profile.", "id": "az_automanage_configuration-profile-assignment_cluster"}
+{"command": "az automanage configuration-profile-assignment arc", "description": "Manage association between an ARC machine and Automanage configuration profile.", "id": "az_automanage_configuration-profile-assignment_arc"}
+{"command": "az automanage configuration-profile-assignment vm", "description": "Manage association between a VM and Automanage configuration profile.", "id": "az_automanage_configuration-profile-assignment_vm"}
+{"command": "az automanage configuration-profile-assignment arc report", "description": "Manage report within a given ARC machine configuration profile assignment.", "id": "az_automanage_configuration-profile-assignment_arc_report"}
+{"command": "az automanage configuration-profile-assignment vm report", "description": "Manage report within a given VM configuration profile assignment.", "id": "az_automanage_configuration-profile-assignment_vm_report"}
+{"command": "az automanage configuration-profile-assignment cluster report", "description": "Manage report within a given AzureStackHCI cluster configuration profile assignment.", "id": "az_automanage_configuration-profile-assignment_cluster_report"}
+{"command": "az automanage configuration-profile version", "description": "Manage configuration profile version.", "id": "az_automanage_configuration-profile_version"}
+{"command": "az automanage best-practice version", "description": "Manage Automanage best practice version.", "id": "az_automanage_best-practice_version"}
+{"command": "az site-recovery", "description": "Manage Site Recovery Service.", "id": "az_site-recovery"}
+{"command": "az site-recovery fabric", "description": "Manage Fabric.", "id": "az_site-recovery_fabric"}
+{"command": "az site-recovery vault", "description": "Manage Vault.", "id": "az_site-recovery_vault"}
+{"command": "az site-recovery alert-setting", "description": "Manage Alert Setting.", "id": "az_site-recovery_alert-setting"}

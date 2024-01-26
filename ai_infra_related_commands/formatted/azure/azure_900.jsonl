@@ -1,0 +1,100 @@
+{"command": "az networkcloud trunkednetwork", "description": "Manage trunked network.", "id": "az_networkcloud_trunkednetwork"}
+{"command": "az networkcloud l3network", "description": "Manage layer 3 (l3) network.", "id": "az_networkcloud_l3network"}
+{"command": "az networkcloud racksku", "description": "Manage rack SKU.", "id": "az_networkcloud_racksku"}
+{"command": "az networkcloud storageappliance", "description": "Manage storage appliance.", "id": "az_networkcloud_storageappliance"}
+{"command": "az networkcloud kubernetescluster", "description": "Manage Kubernetes cluster.", "id": "az_networkcloud_kubernetescluster"}
+{"command": "az networkcloud baremetalmachine", "description": "Manage bare metal machine.", "id": "az_networkcloud_baremetalmachine"}
+{"command": "az networkcloud volume", "description": "Manage volume.", "id": "az_networkcloud_volume"}
+{"command": "az networkcloud rack", "description": "Manage rack.", "id": "az_networkcloud_rack"}
+{"command": "az networkcloud l2network", "description": "Manage layer 2 (l2) network.", "id": "az_networkcloud_l2network"}
+{"command": "az networkcloud clustermanager", "description": "Manage cluster manager.", "id": "az_networkcloud_clustermanager"}
+{"command": "az networkcloud kubernetescluster agentpool", "description": "Manage Kubernetes cluster's agent pool.", "id": "az_networkcloud_kubernetescluster_agentpool"}
+{"command": "az networkcloud virtualmachine console", "description": "Manage virtual machine's console.", "id": "az_networkcloud_virtualmachine_console"}
+{"command": "az networkcloud cluster bmckeyset", "description": "Manage cluster's baseboard management controller key set.", "id": "az_networkcloud_cluster_bmckeyset"}
+{"command": "az networkcloud cluster baremetalmachinekeyset", "description": "Manage cluster's bare metal machine key set.", "id": "az_networkcloud_cluster_baremetalmachinekeyset"}
+{"command": "az networkcloud cluster metricsconfiguration", "description": "Manage cluster's metrics configuration.", "id": "az_networkcloud_cluster_metricsconfiguration"}
+{"command": "az networkfabric internetgateway", "description": "Manage Internet Gateway Resource.", "id": "az_networkfabric_internetgateway"}
+{"command": "az networkfabric internetgatewayrule", "description": "Manage Internet Gateway Rule Resource.", "id": "az_networkfabric_internetgatewayrule"}
+{"command": "az networkfabric fabric", "description": "Manage Network Fabric Resource.", "id": "az_networkfabric_fabric"}
+{"command": "az networkfabric interface", "description": "Manage Network Interface Resource.", "id": "az_networkfabric_interface"}
+{"command": "az networkfabric externalnetwork", "description": "Manage External Network Resource.", "id": "az_networkfabric_externalnetwork"}
+{"command": "az networkfabric tap", "description": "Manage Network Tap Resource.", "id": "az_networkfabric_tap"}
+{"command": "az networkfabric acl", "description": "Manage Access Control List Resource.", "id": "az_networkfabric_acl"}
+{"command": "az networkfabric nni", "description": "Manage Network To Network Interconnect Resource.", "id": "az_networkfabric_nni"}
+{"command": "az networkfabric l3domain", "description": "Manage L3 Isolation Domain Resource.", "id": "az_networkfabric_l3domain"}
+{"command": "az networkfabric ipcommunity", "description": "Manage Ip Community Resource.", "id": "az_networkfabric_ipcommunity"}
+{"command": "az networkfabric ipextendedcommunity", "description": "Manage Ip Extended Community Resource.", "id": "az_networkfabric_ipextendedcommunity"}
+{"command": "az networkfabric npb", "description": "Manage Network Packet Broker Resource.", "id": "az_networkfabric_npb"}
+{"command": "az networkfabric routepolicy", "description": "Manage Route Policy Resource.", "id": "az_networkfabric_routepolicy"}
+{"command": "az networkfabric internalnetwork", "description": "Manage Internal Network Resource.", "id": "az_networkfabric_internalnetwork"}
+{"command": "az networkfabric l2domain", "description": "Manage L2 Isolation Domain Resource.", "id": "az_networkfabric_l2domain"}
+{"command": "az networkfabric rack", "description": "Manage Network Rack Resource.", "id": "az_networkfabric_rack"}
+{"command": "az networkfabric ipprefix", "description": "Manage Ip Prefix Resource.", "id": "az_networkfabric_ipprefix"}
+{"command": "az networkfabric device", "description": "Manage Network Device Resource.", "id": "az_networkfabric_device"}
+{"command": "az networkfabric neighborgroup", "description": "Manage Neighbor Group Resource.", "id": "az_networkfabric_neighborgroup"}
+{"command": "az networkfabric taprule", "description": "Manage Network Tap Rule Resource.", "id": "az_networkfabric_taprule"}
+{"command": "az networkfabric controller", "description": "Manage Network Fabric Controller Resource.", "id": "az_networkfabric_controller"}
+{"command": "az network-analytics data-product", "description": "Azure Operator Insights Data Product operations.", "id": "az_network-analytics_data-product"}
+{"command": "az network-function traffic-collector", "description": "Manage Azure Traffic Collector resources.", "id": "az_network-function_traffic-collector"}
+{"command": "az network-function traffic-collector collector-policy", "description": "Manage Collector Policy for Azure Traffic Collector resource.", "id": "az_network-function_traffic-collector_collector-policy"}
+{"command": "az network vpn-site", "description": "Manage VPN site configurations.", "id": "az_network_vpn-site"}
+{"command": "az network route-filter", "description": "Manage route filters.", "id": "az_network_route-filter"}
+{"command": "az network p2s-vpn-gateway", "description": "Manage point-to-site VPN gateway.", "id": "az_network_p2s-vpn-gateway"}
+{"command": "az network service-endpoint", "description": "Manage policies related to service endpoints.", "id": "az_network_service-endpoint"}
+{"command": "az network routeserver", "description": "Manage the route server.", "id": "az_network_routeserver"}
+{"command": "az network vnet-gateway", "description": "Use an Azure Virtual Network Gateway to establish secure, cross-premises connectivity.", "id": "az_network_vnet-gateway"}
+{"command": "az network alb", "description": "Manage and Configure Application Gateway for Containers.", "id": "az_network_alb"}
+{"command": "az network private-endpoint", "description": "Manage private endpoints.", "id": "az_network_private-endpoint"}
+{"command": "az network bastion", "description": "Manage Azure Bastion host machines.", "id": "az_network_bastion"}
+{"command": "az network vnet", "description": "Check if a private IP address is available for use within a virtual network.", "id": "az_network_vnet"}
+{"command": "az network public-ip", "description": "Manage public IP addresses.", "id": "az_network_public-ip"}
+{"command": "az network virtual-appliance", "description": "Manage Azure Network Virtual Appliance.", "id": "az_network_virtual-appliance"}
+{"command": "az network nat", "description": "Manage NAT resources.", "id": "az_network_nat"}
+{"command": "az network vpn-connection", "description": "Manage VPN connections.", "id": "az_network_vpn-connection"}
+{"command": "az network firewall", "description": "Manage and configure Azure Firewalls.", "id": "az_network_firewall"}
+{"command": "az network nsg", "description": "Manage Azure Network Security Groups (NSGs).", "id": "az_network_nsg"}
+{"command": "az network route-table", "description": "Manage route tables.", "id": "az_network_route-table"}
+{"command": "az network cross-connection", "description": "Manage customers' ExpressRoute circuits.", "id": "az_network_cross-connection"}
+{"command": "az network express-route", "description": "Manage dedicated private network fiber connections to Azure.", "id": "az_network_express-route"}
+{"command": "az network local-gateway", "description": "Manage local gateways.", "id": "az_network_local-gateway"}
+{"command": "az network private-link-service", "description": "Manage private link services.", "id": "az_network_private-link-service"}
+{"command": "az network application-gateway", "description": "Manage application-level routing and load balancing services.", "id": "az_network_application-gateway"}
+{"command": "az network asg", "description": "Manage application security groups (ASGs).", "id": "az_network_asg"}
+{"command": "az network dns", "description": "Manage DNS domains in Azure.", "id": "az_network_dns"}
+{"command": "az network vhub", "description": "Manage virtual hubs.", "id": "az_network_vhub"}
+{"command": "az network ddos-protection", "description": "Manage DDoS Protection Plans.", "id": "az_network_ddos-protection"}
+{"command": "az network private-endpoint-connection", "description": "Manage private endpoint connections.", "id": "az_network_private-endpoint-connection"}
+{"command": "az network front-door", "description": "Manage Classical Azure Front Doors. For managing Azure Front Door Standard/Premium, please refer https://docs.microsoft.com/en-us/cli/azure/afd?view=azure-cli-latest.", "id": "az_network_front-door"}
+{"command": "az network perimeter", "description": "Manage Network Security Perimeters.", "id": "az_network_perimeter"}
+{"command": "az network private-dns", "description": "Manage Private DNS domains in Azure.", "id": "az_network_private-dns"}
+{"command": "az network ip-group", "description": "Commands to manage IpGroup.", "id": "az_network_ip-group"}
+{"command": "az network traffic-manager", "description": "Manage the routing of incoming traffic.", "id": "az_network_traffic-manager"}
+{"command": "az network cross-region-lb", "description": "Manage and configure cross-region load balancers.", "id": "az_network_cross-region-lb"}
+{"command": "az network vwan", "description": "Manage virtual WANs.", "id": "az_network_vwan"}
+{"command": "az network lb", "description": "Manage and configure load balancers.", "id": "az_network_lb"}
+{"command": "az network manager", "description": "Manage network-manager with network.", "id": "az_network_manager"}
+{"command": "az network custom-ip", "description": "Manage custom IP.", "id": "az_network_custom-ip"}
+{"command": "az network security-partner-provider", "description": "Manage Azure security partner provider.", "id": "az_network_security-partner-provider"}
+{"command": "az network vpn-gateway", "description": "Manage site-to-site VPN gateways.", "id": "az_network_vpn-gateway"}
+{"command": "az network private-link-resource", "description": "Manage private link resources.", "id": "az_network_private-link-resource"}
+{"command": "az network profile", "description": "Manage network profiles.", "id": "az_network_profile"}
+{"command": "az network vpn-server-config", "description": "Manage VPN server configuration.", "id": "az_network_vpn-server-config"}
+{"command": "az network nic", "description": "Manage network interfaces.", "id": "az_network_nic"}
+{"command": "az network watcher", "description": "Manage the Azure Network Watcher. Network Watcher assists with monitoring and diagnosing conditions at a network scenario level. To learn more visit https://docs.microsoft.com/azure/network-watcher/.", "id": "az_network_watcher"}
+{"command": "az network public-ip prefix", "description": "Manage public IP prefix resources.", "id": "az_network_public-ip_prefix"}
+{"command": "az network alb association", "description": "Manage and Configure Associations for Application Gateway for Containers resource.", "id": "az_network_alb_association"}
+{"command": "az network alb frontend", "description": "Manage and Configure Frontends for Application Gateway for Containers resource.", "id": "az_network_alb_frontend"}
+{"command": "az network vnet peering", "description": "Manage peering connections between Azure Virtual Networks.", "id": "az_network_vnet_peering"}
+{"command": "az network vnet tap", "description": "Manage virtual network taps.", "id": "az_network_vnet_tap"}
+{"command": "az network vnet subnet", "description": "Manage subnets in an Azure Virtual Network.", "id": "az_network_vnet_subnet"}
+{"command": "az network vpn-connection shared-key", "description": "Manage VPN shared keys.", "id": "az_network_vpn-connection_shared-key"}
+{"command": "az network vpn-connection packet-capture", "description": "Manage packet capture on a VPN connection.", "id": "az_network_vpn-connection_packet-capture"}
+{"command": "az network vpn-connection ipsec-policy", "description": "Manage VPN connection IPSec policies.", "id": "az_network_vpn-connection_ipsec-policy"}
+{"command": "az network p2s-vpn-gateway vpn-client", "description": "Download a VPN client configuration required to connect to Azure via point-to-site.", "id": "az_network_p2s-vpn-gateway_vpn-client"}
+{"command": "az network p2s-vpn-gateway connection", "description": "Manage point-to-site VPN gateway connections.", "id": "az_network_p2s-vpn-gateway_connection"}
+{"command": "az network routeserver peering", "description": "Manage the route server peering.", "id": "az_network_routeserver_peering"}
+{"command": "az network vpn-site link", "description": "Manage VPN site link.", "id": "az_network_vpn-site_link"}
+{"command": "az network lb outbound-rule", "description": "Manage outbound rules of a load balancer.", "id": "az_network_lb_outbound-rule"}
+{"command": "az network lb probe", "description": "Evaluate probe information and define routing rules.", "id": "az_network_lb_probe"}
+{"command": "az network lb inbound-nat-rule", "description": "Manage inbound NAT rules of a load balancer.", "id": "az_network_lb_inbound-nat-rule"}
+{"command": "az network lb frontend-ip", "description": "Manage frontend IP addresses of a load balancer.", "id": "az_network_lb_frontend-ip"}

@@ -1,0 +1,100 @@
+{"command": "az containerapp compose", "description": "Commands to create Azure Container Apps from Compose specifications.", "id": "az_containerapp_compose"}
+{"command": "az containerapp identity", "description": "Commands to manage managed identities.", "id": "az_containerapp_identity"}
+{"command": "az containerapp registry", "description": "Commands to manage container registry information.", "id": "az_containerapp_registry"}
+{"command": "az containerapp resiliency", "description": "Commands to manage resiliency policies for a container app.", "id": "az_containerapp_resiliency"}
+{"command": "az containerapp hostname", "description": "Commands to manage hostnames of a container app.", "id": "az_containerapp_hostname"}
+{"command": "az containerapp secret", "description": "Commands to manage secrets.", "id": "az_containerapp_secret"}
+{"command": "az containerapp replica", "description": "Manage container app replicas.", "id": "az_containerapp_replica"}
+{"command": "az containerapp connected-env", "description": "Commands to manage Container Apps Connected environments for use with Arc enabled Container Apps.", "id": "az_containerapp_connected-env"}
+{"command": "az containerapp logs", "description": "Show container app logs.", "id": "az_containerapp_logs"}
+{"command": "az containerapp service", "description": "Commands to manage services available within the environment.", "id": "az_containerapp_service"}
+{"command": "az containerapp dapr", "description": "Commands to manage Dapr. To manage Dapr components, see `az containerapp env dapr-component`.", "id": "az_containerapp_dapr"}
+{"command": "az containerapp job", "description": "Commands to manage Container Apps jobs.", "id": "az_containerapp_job"}
+{"command": "az containerapp env", "description": "Commands to manage Container Apps environments.", "id": "az_containerapp_env"}
+{"command": "az containerapp ssl", "description": "Upload certificate to a managed environment, add hostname to an app in that environment, and bind the certificate to the hostname.", "id": "az_containerapp_ssl"}
+{"command": "az containerapp connection", "description": "Commands to manage containerapp connections.", "id": "az_containerapp_connection"}
+{"command": "az containerapp auth", "description": "Manage containerapp authentication and authorization.", "id": "az_containerapp_auth"}
+{"command": "az containerapp github-action", "description": "Commands to manage GitHub Actions.", "id": "az_containerapp_github-action"}
+{"command": "az containerapp patch", "description": "Patch Azure Container Apps. Patching is only available for the apps built using the source to cloud feature. See https://aka.ms/aca-local-source-to-cloud.", "id": "az_containerapp_patch"}
+{"command": "az containerapp ingress", "description": "Commands to manage ingress and traffic-splitting.", "id": "az_containerapp_ingress"}
+{"command": "az containerapp revision", "description": "Commands to manage revisions.", "id": "az_containerapp_revision"}
+{"command": "az containerapp add-on", "description": "Commands to manage add-ons available within the environment.", "id": "az_containerapp_add-on"}
+{"command": "az containerapp job identity", "description": "Commands to manage managed identities for container app job.", "id": "az_containerapp_job_identity"}
+{"command": "az containerapp job execution", "description": "Commands to view executions of a Container App Job.", "id": "az_containerapp_job_execution"}
+{"command": "az containerapp job secret", "description": "Commands to manage secrets.", "id": "az_containerapp_job_secret"}
+{"command": "az containerapp env dapr-component", "description": "Commands to manage Dapr components for the Container Apps environment.", "id": "az_containerapp_env_dapr-component"}
+{"command": "az containerapp env logs", "description": "Show container app environment logs.", "id": "az_containerapp_env_logs"}
+{"command": "az containerapp env workload-profile", "description": "Manage the workload profiles of a Container Apps environment.", "id": "az_containerapp_env_workload-profile"}
+{"command": "az containerapp env storage", "description": "Commands to manage storage for the Container Apps environment.", "id": "az_containerapp_env_storage"}
+{"command": "az containerapp env certificate", "description": "Commands to manage certificates for the Container Apps environment.", "id": "az_containerapp_env_certificate"}
+{"command": "az containerapp env dapr-component resiliency", "description": "Commands to manage resiliency policies for a dapr component.", "id": "az_containerapp_env_dapr-component_resiliency"}
+{"command": "az containerapp connected-env dapr-component", "description": "Commands to manage Dapr components for Container Apps connected environments.", "id": "az_containerapp_connected-env_dapr-component"}
+{"command": "az containerapp connected-env storage", "description": "Commands to manage storage for the Container Apps connected environment.", "id": "az_containerapp_connected-env_storage"}
+{"command": "az containerapp connected-env certificate", "description": "Commands to manage certificates for the Container Apps connected environment.", "id": "az_containerapp_connected-env_certificate"}
+{"command": "az containerapp service redis", "description": "Commands to manage the redis service for the Container Apps environment.", "id": "az_containerapp_service_redis"}
+{"command": "az containerapp service postgres", "description": "Commands to manage the postgres service for the Container Apps environment.", "id": "az_containerapp_service_postgres"}
+{"command": "az containerapp service mariadb", "description": "Commands to manage the mariadb service for the Container Apps environment.", "id": "az_containerapp_service_mariadb"}
+{"command": "az containerapp service kafka", "description": "Commands to manage the kafka service for the Container Apps environment.", "id": "az_containerapp_service_kafka"}
+{"command": "az containerapp service qdrant", "description": "Commands to manage the qdrant service for the Container Apps environment.", "id": "az_containerapp_service_qdrant"}
+{"command": "az containerapp auth github", "description": "Manage containerapp authentication and authorization of the GitHub identity provider.", "id": "az_containerapp_auth_github"}
+{"command": "az containerapp auth google", "description": "Manage containerapp authentication and authorization of the Google identity provider.", "id": "az_containerapp_auth_google"}
+{"command": "az containerapp auth microsoft", "description": "Manage containerapp authentication and authorization of the Microsoft identity provider.", "id": "az_containerapp_auth_microsoft"}
+{"command": "az containerapp auth apple", "description": "Manage containerapp authentication and authorization of the Apple identity provider.", "id": "az_containerapp_auth_apple"}
+{"command": "az containerapp auth openid-connect", "description": "Manage containerapp authentication and authorization of the custom OpenID Connect identity providers.", "id": "az_containerapp_auth_openid-connect"}
+{"command": "az containerapp auth facebook", "description": "Manage containerapp authentication and authorization of the Facebook identity provider.", "id": "az_containerapp_auth_facebook"}
+{"command": "az containerapp auth twitter", "description": "Manage containerapp authentication and authorization of the Twitter identity provider.", "id": "az_containerapp_auth_twitter"}
+{"command": "az containerapp connection create", "description": "Create a connection between a containerapp and a target resource.", "id": "az_containerapp_connection_create"}
+{"command": "az containerapp connection update", "description": "Update a containerapp connection.", "id": "az_containerapp_connection_update"}
+{"command": "az containerapp ingress access-restriction", "description": "Commands to manage IP access restrictions.", "id": "az_containerapp_ingress_access-restriction"}
+{"command": "az containerapp ingress cors", "description": "Commands to manage CORS policy for a container app.", "id": "az_containerapp_ingress_cors"}
+{"command": "az containerapp ingress sticky-sessions", "description": "Commands to set Sticky session affinity for a container app.", "id": "az_containerapp_ingress_sticky-sessions"}
+{"command": "az containerapp ingress traffic", "description": "Commands to manage traffic-splitting.", "id": "az_containerapp_ingress_traffic"}
+{"command": "az containerapp add-on redis", "description": "Commands to manage the redis add-on for the Container Apps environment.", "id": "az_containerapp_add-on_redis"}
+{"command": "az containerapp add-on postgres", "description": "Commands to manage the postgres add-on for the Container Apps environment.", "id": "az_containerapp_add-on_postgres"}
+{"command": "az containerapp add-on mariadb", "description": "Commands to manage the mariadb add-on for the Container Apps environment.", "id": "az_containerapp_add-on_mariadb"}
+{"command": "az containerapp add-on kafka", "description": "Commands to manage the kafka add-on for the Container Apps environment.", "id": "az_containerapp_add-on_kafka"}
+{"command": "az containerapp add-on qdrant", "description": "Commands to manage the qdrant add-on for the Container Apps environment.", "id": "az_containerapp_add-on_qdrant"}
+{"command": "az containerapp revision label", "description": "Manage revision labels assigned to traffic weights.", "id": "az_containerapp_revision_label"}
+{"command": "az pipelines", "description": "Manage Azure Pipelines.", "id": "az_pipelines"}
+{"command": "az pipelines folder", "description": "Manage folders for organizing pipelines.", "id": "az_pipelines_folder"}
+{"command": "az pipelines queue", "description": "Manage agent queues.", "id": "az_pipelines_queue"}
+{"command": "az pipelines variable", "description": "Manage pipeline variables.", "id": "az_pipelines_variable"}
+{"command": "az pipelines runs", "description": "Manage pipeline runs.", "id": "az_pipelines_runs"}
+{"command": "az pipelines build", "description": "Manage builds.", "id": "az_pipelines_build"}
+{"command": "az pipelines agent", "description": "Manage agents.", "id": "az_pipelines_agent"}
+{"command": "az pipelines variable-group", "description": "Manage variable groups.", "id": "az_pipelines_variable-group"}
+{"command": "az pipelines release", "description": "Manage releases.", "id": "az_pipelines_release"}
+{"command": "az pipelines pool", "description": "Manage agent pools.", "id": "az_pipelines_pool"}
+{"command": "az pipelines runs tag", "description": "Manage pipeline run tags.", "id": "az_pipelines_runs_tag"}
+{"command": "az pipelines runs artifact", "description": "Manage pipeline run artifacts.", "id": "az_pipelines_runs_artifact"}
+{"command": "az pipelines variable-group variable", "description": "Manage variables in a variable group.", "id": "az_pipelines_variable-group_variable"}
+{"command": "az pipelines release definition", "description": "Manage release definitions.", "id": "az_pipelines_release_definition"}
+{"command": "az pipelines build tag", "description": "Manage build tags.", "id": "az_pipelines_build_tag"}
+{"command": "az pipelines build definition", "description": "Manage build definitions.", "id": "az_pipelines_build_definition"}
+{"command": "az eventgrid", "description": "Manage Azure Event Grid topics, domains, domain topics, system topics partner topics, event subscriptions, system topic event subscriptions and partner topic event subscriptions.", "id": "az_eventgrid"}
+{"command": "az eventgrid domain", "description": "Manage event domains.", "id": "az_eventgrid_domain"}
+{"command": "az eventgrid system-topic", "description": "Manage system topics.", "id": "az_eventgrid_system-topic"}
+{"command": "az eventgrid topic-type", "description": "Get details for topic types.", "id": "az_eventgrid_topic-type"}
+{"command": "az eventgrid partner", "description": "Manage partner resources.", "id": "az_eventgrid_partner"}
+{"command": "az eventgrid namespace", "description": "Manage eventgrid namespace.", "id": "az_eventgrid_namespace"}
+{"command": "az eventgrid topic", "description": "Manage Azure Event Grid topics.", "id": "az_eventgrid_topic"}
+{"command": "az eventgrid event-subscription", "description": "Manage event subscriptions.", "id": "az_eventgrid_event-subscription"}
+{"command": "az eventgrid extension-topic", "description": "Manage Azure Event Grid extension topics.", "id": "az_eventgrid_extension-topic"}
+{"command": "az eventgrid system-topic event-subscription", "description": "Manage event subscriptions of system topic.", "id": "az_eventgrid_system-topic_event-subscription"}
+{"command": "az eventgrid partner destination", "description": "Manage partner destinations.", "id": "az_eventgrid_partner_destination"}
+{"command": "az eventgrid partner namespace", "description": "Manage partner namespaces.", "id": "az_eventgrid_partner_namespace"}
+{"command": "az eventgrid partner topic", "description": "Manage partner topics.", "id": "az_eventgrid_partner_topic"}
+{"command": "az eventgrid partner configuration", "description": "Manage partner configurations.", "id": "az_eventgrid_partner_configuration"}
+{"command": "az eventgrid partner registration", "description": "Manage partner registrations.", "id": "az_eventgrid_partner_registration"}
+{"command": "az eventgrid partner verified-partner", "description": "Manage verified partners.", "id": "az_eventgrid_partner_verified-partner"}
+{"command": "az eventgrid partner namespace event-channel", "description": "Manage partner event channels.", "id": "az_eventgrid_partner_namespace_event-channel"}
+{"command": "az eventgrid partner namespace key", "description": "Manage shared access keys of a partner namespace.", "id": "az_eventgrid_partner_namespace_key"}
+{"command": "az eventgrid partner namespace channel", "description": "Manage partner channels.", "id": "az_eventgrid_partner_namespace_channel"}
+{"command": "az eventgrid partner topic event-subscription", "description": "Manage event subscriptions of partner topic.", "id": "az_eventgrid_partner_topic_event-subscription"}
+{"command": "az eventgrid namespace client", "description": "Manage eventgrid namespace client.", "id": "az_eventgrid_namespace_client"}
+{"command": "az eventgrid namespace ca-certificate", "description": "Manage eventgrid namespace ca-certificate.", "id": "az_eventgrid_namespace_ca-certificate"}
+{"command": "az eventgrid namespace topic", "description": "Manage eventgrid namespace topic.", "id": "az_eventgrid_namespace_topic"}
+{"command": "az eventgrid namespace permission-binding", "description": "Manage eventgrid namespace permission binding.", "id": "az_eventgrid_namespace_permission-binding"}
+{"command": "az eventgrid namespace topic-space", "description": "Manage eventgrid namespace topic space.", "id": "az_eventgrid_namespace_topic-space"}
+{"command": "az eventgrid namespace client-group", "description": "Manage eventgrid namespace client-group.", "id": "az_eventgrid_namespace_client-group"}
+{"command": "az eventgrid namespace topic event-subscription", "description": "Manage eventgrid namespace topic event subscription.", "id": "az_eventgrid_namespace_topic_event-subscription"}

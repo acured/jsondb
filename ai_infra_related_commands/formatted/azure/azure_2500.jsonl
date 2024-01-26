@@ -1,0 +1,100 @@
+{"command": "az ad group member", "description": "Manage Azure Active Directory group members.", "id": "az_ad_group_member"}
+{"command": "az ad group owner", "description": "Manage Azure Active Directory group owners.", "id": "az_ad_group_owner"}
+{"command": "az signalr", "description": "Manage Azure SignalR Service.", "id": "az_signalr"}
+{"command": "az signalr custom-domain", "description": "Manage custom domain settings.", "id": "az_signalr_custom-domain"}
+{"command": "az signalr custom-certificate", "description": "Manage custom certificate settings.", "id": "az_signalr_custom-certificate"}
+{"command": "az signalr key", "description": "Manage keys for Azure SignalR Service.", "id": "az_signalr_key"}
+{"command": "az signalr identity", "description": "Manage managed identity settings.", "id": "az_signalr_identity"}
+{"command": "az signalr replica", "description": "Manage replica settings.", "id": "az_signalr_replica"}
+{"command": "az signalr cors", "description": "Manage CORS for Azure SignalR Service.", "id": "az_signalr_cors"}
+{"command": "az signalr upstream", "description": "Manage upstream settings.", "id": "az_signalr_upstream"}
+{"command": "az signalr network-rule", "description": "Manage network rules.", "id": "az_signalr_network-rule"}
+{"command": "az cloud-service", "description": "Manage cloud service (extended support).", "id": "az_cloud-service"}
+{"command": "az cloud", "description": "Manage registered Azure clouds.", "id": "az_cloud"}
+{"command": "az cloud-service role", "description": "Manage cloud service role with cloud service.", "id": "az_cloud-service_role"}
+{"command": "az cloud-service update-domain", "description": "Manage cloud service update domain with cloud service.", "id": "az_cloud-service_update-domain"}
+{"command": "az cloud-service role-instance", "description": "Manage cloud service role instance with cloud service.", "id": "az_cloud-service_role-instance"}
+{"command": "az aksarc", "description": "Manage provisioned clusters.", "id": "az_aksarc"}
+{"command": "az aksarc vnet", "description": "Manage virtual networks for provisioned clusters.", "id": "az_aksarc_vnet"}
+{"command": "az aksarc nodepool", "description": "Manage nodepools in a provisioned cluster.", "id": "az_aksarc_nodepool"}
+{"command": "az aksarc logs", "description": "Collect logs from provisioned clusters.", "id": "az_aksarc_logs"}
+{"command": "az aksarc release", "description": "Manage VHD images for provisioned clusters.", "id": "az_aksarc_release"}
+{"command": "az aksarc vmsize", "description": "Manage virtual machine SKUs for provisioned clusters.", "id": "az_aksarc_vmsize"}
+{"command": "az support", "description": "Manage Azure support resource.", "id": "az_support"}
+{"command": "az support tickets", "description": "Create and manage Azure support ticket.", "id": "az_support_tickets"}
+{"command": "az support services", "description": "Azure services and related problem categories.", "id": "az_support_services"}
+{"command": "az support tickets communications", "description": "Manage support ticket communications.", "id": "az_support_tickets_communications"}
+{"command": "az support services problem-classifications", "description": "Problem classifications for an Azure service.", "id": "az_support_services_problem-classifications"}
+{"command": "az networkfabric", "description": "Manage Azure Network Fabric Management Service API.", "id": "az_networkfabric"}
+{"command": "az networkfabric internetgateway", "description": "Manage Internet Gateway Resource.", "id": "az_networkfabric_internetgateway"}
+{"command": "az networkfabric internetgatewayrule", "description": "Manage Internet Gateway Rule Resource.", "id": "az_networkfabric_internetgatewayrule"}
+{"command": "az networkfabric fabric", "description": "Manage Network Fabric Resource.", "id": "az_networkfabric_fabric"}
+{"command": "az networkfabric interface", "description": "Manage Network Interface Resource.", "id": "az_networkfabric_interface"}
+{"command": "az networkfabric externalnetwork", "description": "Manage External Network Resource.", "id": "az_networkfabric_externalnetwork"}
+{"command": "az networkfabric tap", "description": "Manage Network Tap Resource.", "id": "az_networkfabric_tap"}
+{"command": "az networkfabric acl", "description": "Manage Access Control List Resource.", "id": "az_networkfabric_acl"}
+{"command": "az networkfabric nni", "description": "Manage Network To Network Interconnect Resource.", "id": "az_networkfabric_nni"}
+{"command": "az networkfabric l3domain", "description": "Manage L3 Isolation Domain Resource.", "id": "az_networkfabric_l3domain"}
+{"command": "az networkfabric ipcommunity", "description": "Manage Ip Community Resource.", "id": "az_networkfabric_ipcommunity"}
+{"command": "az networkfabric ipextendedcommunity", "description": "Manage Ip Extended Community Resource.", "id": "az_networkfabric_ipextendedcommunity"}
+{"command": "az networkfabric npb", "description": "Manage Network Packet Broker Resource.", "id": "az_networkfabric_npb"}
+{"command": "az networkfabric routepolicy", "description": "Manage Route Policy Resource.", "id": "az_networkfabric_routepolicy"}
+{"command": "az networkfabric internalnetwork", "description": "Manage Internal Network Resource.", "id": "az_networkfabric_internalnetwork"}
+{"command": "az networkfabric l2domain", "description": "Manage L2 Isolation Domain Resource.", "id": "az_networkfabric_l2domain"}
+{"command": "az networkfabric rack", "description": "Manage Network Rack Resource.", "id": "az_networkfabric_rack"}
+{"command": "az networkfabric ipprefix", "description": "Manage Ip Prefix Resource.", "id": "az_networkfabric_ipprefix"}
+{"command": "az networkfabric device", "description": "Manage Network Device Resource.", "id": "az_networkfabric_device"}
+{"command": "az networkfabric neighborgroup", "description": "Manage Neighbor Group Resource.", "id": "az_networkfabric_neighborgroup"}
+{"command": "az networkfabric taprule", "description": "Manage Network Tap Rule Resource.", "id": "az_networkfabric_taprule"}
+{"command": "az networkfabric controller", "description": "Manage Network Fabric Controller Resource.", "id": "az_networkfabric_controller"}
+{"command": "az sshkey", "description": "Manage ssh public key with vm.", "id": "az_sshkey"}
+{"command": "az connection", "description": "Commands to manage Service Connector local connections which allow local environment to connect Azure Resource. If you want to manage connection for compute service, please run 'az webapp/containerapp/spring connection'.", "id": "az_connection"}
+{"command": "az connection preview-configuration", "description": "Preview the expected configurations of local connection.", "id": "az_connection_preview-configuration"}
+{"command": "az connection create", "description": "Create a connection from local to a target resource.", "id": "az_connection_create"}
+{"command": "az connection update", "description": "Update a Service Connector local connection.", "id": "az_connection_update"}
+{"command": "az deployment-scripts", "description": "Manage deployment scripts at subscription or resource group scope.", "id": "az_deployment-scripts"}
+{"command": "az elastic-san", "description": "Manage Elastic SAN.", "id": "az_elastic-san"}
+{"command": "az elastic-san volume", "description": "Manage Elastic SAN Volume.", "id": "az_elastic-san_volume"}
+{"command": "az elastic-san volume-group", "description": "Manage Elastic SAN Volume Group.", "id": "az_elastic-san_volume-group"}
+{"command": "az elastic-san volume snapshot", "description": "Manage volume snapshot.", "id": "az_elastic-san_volume_snapshot"}
+{"command": "az bot", "description": "Manage Microsoft Azure Bot Service.", "id": "az_bot"}
+{"command": "az bot email", "description": "Manage the email Channel on a bot.", "id": "az_bot_email"}
+{"command": "az bot slack", "description": "Manage the Slack Channel on a bot.", "id": "az_bot_slack"}
+{"command": "az bot directline", "description": "Manage the Directline Channel on a bot.", "id": "az_bot_directline"}
+{"command": "az bot msteams", "description": "Manage the Microsoft Teams Channel on a bot.", "id": "az_bot_msteams"}
+{"command": "az bot skype", "description": "Manage the Skype Channel on a bot.", "id": "az_bot_skype"}
+{"command": "az bot authsetting", "description": "Manage OAuth connection settings on a bot.", "id": "az_bot_authsetting"}
+{"command": "az bot facebook", "description": "Manage the Facebook Channel on a bot.", "id": "az_bot_facebook"}
+{"command": "az bot telegram", "description": "Manage the Telegram Channel on a bot.", "id": "az_bot_telegram"}
+{"command": "az bot webchat", "description": "Manage the Webchat Channel on a bot.", "id": "az_bot_webchat"}
+{"command": "az bot sms", "description": "Manage the SMS Channel on a bot.", "id": "az_bot_sms"}
+{"command": "az bot kik", "description": "Manage the Kik Channel on a bot.", "id": "az_bot_kik"}
+{"command": "az netappfiles", "description": "Manage Azure NetApp Files (ANF) Resources.", "id": "az_netappfiles"}
+{"command": "az netappfiles snapshot", "description": "Manage Azure NetApp Files (ANF) Snapshot Resources.", "id": "az_netappfiles_snapshot"}
+{"command": "az netappfiles account", "description": "Manage Azure NetApp Files (ANF) Account Resources.", "id": "az_netappfiles_account"}
+{"command": "az netappfiles resource", "description": "Provides operations for Azure NetApp Files (ANF) Account Resources.", "id": "az_netappfiles_resource"}
+{"command": "az netappfiles subvolume", "description": "Manage Azure NetApp Files (ANF) Subvolume Resources.", "id": "az_netappfiles_subvolume"}
+{"command": "az netappfiles volume", "description": "Manage Azure NetApp Files (ANF) Volume Resources.", "id": "az_netappfiles_volume"}
+{"command": "az netappfiles volume-group", "description": "Manage Azure NetApp Files (ANF) Volume Group Resources.", "id": "az_netappfiles_volume-group"}
+{"command": "az netappfiles pool", "description": "Manage Azure NetApp Files (ANF) Pool Resources.", "id": "az_netappfiles_pool"}
+{"command": "az netappfiles snapshot policy", "description": "Manage Azure NetApp Files (ANF) Snapshot Policy Resources.", "id": "az_netappfiles_snapshot_policy"}
+{"command": "az netappfiles account backup", "description": "Manage Azure NetApp Files (ANF) Account Backup Resources.", "id": "az_netappfiles_account_backup"}
+{"command": "az netappfiles account backup-policy", "description": "Manage Azure NetApp Files (ANF) Backup Policy Resources.", "id": "az_netappfiles_account_backup-policy"}
+{"command": "az netappfiles account ad", "description": "Manage Azure NetApp Files (ANF) Account active directories.", "id": "az_netappfiles_account_ad"}
+{"command": "az netappfiles account backup-vault", "description": "Manage Azure NetApp Files (ANF) BackupVault Resources.", "id": "az_netappfiles_account_backup-vault"}
+{"command": "az netappfiles account backup-vault backup", "description": "Manage Azure NetApp Files (ANF) Backup Resources.", "id": "az_netappfiles_account_backup-vault_backup"}
+{"command": "az netappfiles volume export-policy", "description": "Manage Azure NetApp Files (ANF) Volume export policies.", "id": "az_netappfiles_volume_export-policy"}
+{"command": "az netappfiles volume replication", "description": "Manage Azure NetApp Files (ANF) Volume replication operations.", "id": "az_netappfiles_volume_replication"}
+{"command": "az netappfiles volume quota-rule", "description": "Manage Azure NetApp Files (ANF) Volume Quota Rules Resources.", "id": "az_netappfiles_volume_quota-rule"}
+{"command": "az netappfiles volume backup", "description": "Manage Azure NetApp Files (ANF) Volume Backup Resources.", "id": "az_netappfiles_volume_backup"}
+{"command": "az netappfiles volume latest-backup-status", "description": "Get the latest backup status of a volume.", "id": "az_netappfiles_volume_latest-backup-status"}
+{"command": "az netappfiles volume latest-backup-status current", "description": "Get the latest backup status of the current volume.", "id": "az_netappfiles_volume_latest-backup-status_current"}
+{"command": "az netappfiles subvolume metadata", "description": "Manage Azure NetApp Files (ANF) Subvolume Metadata Resources.", "id": "az_netappfiles_subvolume_metadata"}
+{"command": "az internet-analyzer", "description": "Commands to manage internet analyzer.", "id": "az_internet-analyzer"}
+{"command": "az internet-analyzer test", "description": "Commands to manage tests.", "id": "az_internet-analyzer_test"}
+{"command": "az internet-analyzer preconfigured-endpoint", "description": "Commands to manage preconfigured endpoints.", "id": "az_internet-analyzer_preconfigured-endpoint"}
+{"command": "az internet-analyzer profile", "description": "Commands to manage internet analyzer profile.", "id": "az_internet-analyzer_profile"}
+{"command": "az dynatrace", "description": "Manage dynatrace.", "id": "az_dynatrace"}
+{"command": "az dynatrace monitor", "description": "Manage dynatrace monitor.", "id": "az_dynatrace_monitor"}
+{"command": "az dynatrace monitor sso-config", "description": "Manage monitor sso-config.", "id": "az_dynatrace_monitor_sso-config"}
+{"command": "az dynatrace monitor tag-rule", "description": "Manage dynatrace monitor tag-rule.", "id": "az_dynatrace_monitor_tag-rule"}

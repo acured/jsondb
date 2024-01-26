@@ -1,0 +1,100 @@
+{"command": "az vmware script-package", "description": "Commands to list and show script packages available to run on the private cloud.", "id": "az_vmware_script-package"}
+{"command": "az vmware script-cmdlet", "description": "Commands to list and show script cmdlet resources.", "id": "az_vmware_script-cmdlet"}
+{"command": "az vmware addon srm", "description": "Commands to manage a Site Recovery Manager (SRM) addon.", "id": "az_vmware_addon_srm"}
+{"command": "az vmware addon vr", "description": "Commands to manage a vSphere Replication (VR) addon.", "id": "az_vmware_addon_vr"}
+{"command": "az vmware addon arc", "description": "Commands to manage a Arc addon.", "id": "az_vmware_addon_arc"}
+{"command": "az vmware addon hcx", "description": "Commands to manage a HCX addon.", "id": "az_vmware_addon_hcx"}
+{"command": "az vmware datastore disk-pool-volume", "description": "Create a VMFS datastore in a private cloud cluster using Microsoft.StoragePool provided iSCSI target.", "id": "az_vmware_datastore_disk-pool-volume"}
+{"command": "az vmware datastore netapp-volume", "description": "Create a new Microsoft.NetApp provided NetApp volume in a private cloud cluster.", "id": "az_vmware_datastore_netapp-volume"}
+{"command": "az vmware private-cloud identity", "description": "Commands for Managed Identity in a private cloud.", "id": "az_vmware_private-cloud_identity"}
+{"command": "az vmware private-cloud identity-source", "description": "Manage a vCenter Single Sign On Identity Source of a  private cloud.", "id": "az_vmware_private-cloud_identity-source"}
+{"command": "az vmware placement-policy vm", "description": "Commands to manage VM placement policies.", "id": "az_vmware_placement-policy_vm"}
+{"command": "az vmware placement-policy vm-host", "description": "Commands to manage VM Host placement policies.", "id": "az_vmware_placement-policy_vm-host"}
+{"command": "az vmware workload-network gateway", "description": "Commands to manage a Gateway workload network.", "id": "az_vmware_workload-network_gateway"}
+{"command": "az vmware workload-network public-ip", "description": "Commands to manage a Public-IP workload network.", "id": "az_vmware_workload-network_public-ip"}
+{"command": "az vmware workload-network vm-group", "description": "Commands to manage a VM Group workload network.", "id": "az_vmware_workload-network_vm-group"}
+{"command": "az vmware workload-network dhcp", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp"}
+{"command": "az vmware workload-network segment", "description": "Commands to manage a Segment workload network.", "id": "az_vmware_workload-network_segment"}
+{"command": "az vmware workload-network dns-service", "description": "Commands to manage a DNS Service workload network.", "id": "az_vmware_workload-network_dns-service"}
+{"command": "az vmware workload-network port-mirroring", "description": "Commands to manage a Port Mirroring workload network.", "id": "az_vmware_workload-network_port-mirroring"}
+{"command": "az vmware workload-network vm", "description": "Commands to manage a Virtual Machine workload network.", "id": "az_vmware_workload-network_vm"}
+{"command": "az vmware workload-network dns-zone", "description": "Commands to manage a DNS Zone workload network.", "id": "az_vmware_workload-network_dns-zone"}
+{"command": "az vmware workload-network dhcp server", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp_server"}
+{"command": "az vmware workload-network dhcp relay", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp_relay"}
+{"command": "az dns-resolver", "description": "Manage Dns Resolver.", "id": "az_dns-resolver"}
+{"command": "az dns-resolver inbound-endpoint", "description": "Manage inbound endpoint with dns resolver.", "id": "az_dns-resolver_inbound-endpoint"}
+{"command": "az dns-resolver forwarding-ruleset", "description": "Manage forwarding ruleset with dns resolver.", "id": "az_dns-resolver_forwarding-ruleset"}
+{"command": "az dns-resolver outbound-endpoint", "description": "Manage outbound endpoint with dns resolver.", "id": "az_dns-resolver_outbound-endpoint"}
+{"command": "az dns-resolver forwarding-rule", "description": "Manage forwarding rule with dns resolver.", "id": "az_dns-resolver_forwarding-rule"}
+{"command": "az dns-resolver vnet-link", "description": "Manage vnet link with dns resolver.", "id": "az_dns-resolver_vnet-link"}
+{"command": "az ssh", "description": "SSH into resources (Azure VMs, Arc servers, etc) using AAD issued openssh certificates.", "id": "az_ssh"}
+{"command": "az sshkey", "description": "Manage ssh public key with vm.", "id": "az_sshkey"}
+{"command": "az purview", "description": "Manage Purview.", "id": "az_purview"}
+{"command": "az purview default-account", "description": "Manage default account with purview.", "id": "az_purview_default-account"}
+{"command": "az purview account", "description": "Manage account with purview.", "id": "az_purview_account"}
+{"command": "az disk-pool", "description": "Manage Azure disk pool.", "id": "az_disk-pool"}
+{"command": "az disk-pool iscsi-target", "description": "Manage iSCSI target with a Disk Pool.", "id": "az_disk-pool_iscsi-target"}
+{"command": "az graph-services", "description": "Make operations on Microsoft.GraphServices resource types.", "id": "az_graph-services"}
+{"command": "az graph-services account", "description": "Make operations on Microsoft.GraphServices/Accounts.", "id": "az_graph-services_account"}
+{"command": "az boards", "description": "Manage Azure Boards.", "id": "az_boards"}
+{"command": "az boards iteration", "description": "Manage iterations.", "id": "az_boards_iteration"}
+{"command": "az boards work-item", "description": "Manage work items.", "id": "az_boards_work-item"}
+{"command": "az boards area", "description": "Manage area paths.", "id": "az_boards_area"}
+{"command": "az boards work-item relation", "description": "Manage work item relations.", "id": "az_boards_work-item_relation"}
+{"command": "az boards iteration project", "description": "Manage iterations for a project.", "id": "az_boards_iteration_project"}
+{"command": "az boards iteration team", "description": "Manage iterations for a team.", "id": "az_boards_iteration_team"}
+{"command": "az boards area project", "description": "Manage areas for a project.", "id": "az_boards_area_project"}
+{"command": "az boards area team", "description": "Manage areas for a team.", "id": "az_boards_area_team"}
+{"command": "az baremetalinstance", "description": "(PREVIEW) Manage BareMetal Instances.", "id": "az_baremetalinstance"}
+{"command": "az managementpartner", "description": "Allows the partners to associate a Microsoft Partner Network(MPN) ID to a user or service principal in the customer's Azure directory.", "id": "az_managementpartner"}
+{"command": "az keyvault", "description": "Manage KeyVault keys, secrets, and certificates.", "id": "az_keyvault"}
+{"command": "az keyvault role", "description": "Manage user roles for access control.", "id": "az_keyvault_role"}
+{"command": "az keyvault security-domain", "description": "Manage security domain operations.", "id": "az_keyvault_security-domain"}
+{"command": "az keyvault backup", "description": "Manage full HSM backup.", "id": "az_keyvault_backup"}
+{"command": "az keyvault key", "description": "Manage keys.", "id": "az_keyvault_key"}
+{"command": "az keyvault secret", "description": "Manage secrets.", "id": "az_keyvault_secret"}
+{"command": "az keyvault private-endpoint-connection", "description": "Manage vault/HSM private endpoint connections.", "id": "az_keyvault_private-endpoint-connection"}
+{"command": "az keyvault setting", "description": "Manage MHSM settings.", "id": "az_keyvault_setting"}
+{"command": "az keyvault restore", "description": "Manage full HSM restore.", "id": "az_keyvault_restore"}
+{"command": "az keyvault region", "description": "Manage MHSM multi-regions.", "id": "az_keyvault_region"}
+{"command": "az keyvault certificate", "description": "Manage certificates.", "id": "az_keyvault_certificate"}
+{"command": "az keyvault private-link-resource", "description": "Manage vault/HSM private link resources.", "id": "az_keyvault_private-link-resource"}
+{"command": "az keyvault network-rule", "description": "Manage vault network ACLs.", "id": "az_keyvault_network-rule"}
+{"command": "az keyvault key rotation-policy", "description": "Manage key's rotation policy.", "id": "az_keyvault_key_rotation-policy"}
+{"command": "az keyvault certificate pending", "description": "Manage pending certificate creation operations.", "id": "az_keyvault_certificate_pending"}
+{"command": "az keyvault certificate contact", "description": "Manage contacts for certificate management.", "id": "az_keyvault_certificate_contact"}
+{"command": "az keyvault certificate issuer", "description": "Manage certificate issuer information.", "id": "az_keyvault_certificate_issuer"}
+{"command": "az keyvault certificate issuer admin", "description": "Manage admin information for certificate issuers.", "id": "az_keyvault_certificate_issuer_admin"}
+{"command": "az keyvault role assignment", "description": "Manage role assignments.", "id": "az_keyvault_role_assignment"}
+{"command": "az keyvault role definition", "description": "Manage role definitions.", "id": "az_keyvault_role_definition"}
+{"command": "az powerbi", "description": "Manage PowerBI resources.", "id": "az_powerbi"}
+{"command": "az powerbi embedded-capacity", "description": "Manage PowerBI embedded capacity.", "id": "az_powerbi_embedded-capacity"}
+{"command": "az policy", "description": "Manage resource policies.", "id": "az_policy"}
+{"command": "az policy remediation", "description": "Manage resource policy remediations.", "id": "az_policy_remediation"}
+{"command": "az policy metadata", "description": "Get policy metadata resources.", "id": "az_policy_metadata"}
+{"command": "az policy assignment", "description": "Manage resource policy assignments.", "id": "az_policy_assignment"}
+{"command": "az policy event", "description": "Manage policy events.", "id": "az_policy_event"}
+{"command": "az policy attestation", "description": "Manage resource policy attestations.", "id": "az_policy_attestation"}
+{"command": "az policy set-definition", "description": "Manage resource policy set definitions.", "id": "az_policy_set-definition"}
+{"command": "az policy state", "description": "Manage policy compliance states.", "id": "az_policy_state"}
+{"command": "az policy exemption", "description": "Manage resource policy exemptions.", "id": "az_policy_exemption"}
+{"command": "az policy definition", "description": "Manage resource policy definitions.", "id": "az_policy_definition"}
+{"command": "az policy assignment non-compliance-message", "description": "Manage a policy assignment's non-compliance messages.", "id": "az_policy_assignment_non-compliance-message"}
+{"command": "az policy assignment identity", "description": "Manage a policy assignment's managed identity.", "id": "az_policy_assignment_identity"}
+{"command": "az policy remediation deployment", "description": "Manage resource policy remediation deployments.", "id": "az_policy_remediation_deployment"}
+{"command": "az billing", "description": "Manage Azure Billing.", "id": "az_billing"}
+{"command": "az billing-benefits", "description": "Azure billing benefits commands.", "id": "az_billing-benefits"}
+{"command": "az billing invoice", "description": "Get billing invoices for a subscription.", "id": "az_billing_invoice"}
+{"command": "az billing customer", "description": "Billing customer.", "id": "az_billing_customer"}
+{"command": "az billing balance", "description": "Billing balance.", "id": "az_billing_balance"}
+{"command": "az billing period", "description": "Manage billing periods for a subscription.", "id": "az_billing_period"}
+{"command": "az billing role-definition", "description": "Display billing role-definition.", "id": "az_billing_role-definition"}
+{"command": "az billing subscription", "description": "Billing subscription.", "id": "az_billing_subscription"}
+{"command": "az billing permission", "description": "List billing permissions.", "id": "az_billing_permission"}
+{"command": "az billing account", "description": "Billing account.", "id": "az_billing_account"}
+{"command": "az billing agreement", "description": "Display billing agreement.", "id": "az_billing_agreement"}
+{"command": "az billing policy", "description": "Billing policy.", "id": "az_billing_policy"}
+{"command": "az billing enrollment-account", "description": "Get enrollment accounts.", "id": "az_billing_enrollment-account"}
+{"command": "az billing instruction", "description": "Manage billing instruction.", "id": "az_billing_instruction"}
+{"command": "az billing transaction", "description": "Billing transaction.", "id": "az_billing_transaction"}
+{"command": "az billing role-assignment", "description": "Billing role-assignment.", "id": "az_billing_role-assignment"}

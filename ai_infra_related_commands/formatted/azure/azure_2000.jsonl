@@ -1,0 +1,100 @@
+{"command": "az automation schedule", "description": "Automation Schedule.", "id": "az_automation_schedule"}
+{"command": "az automation runbook", "description": "Automation Runbook.", "id": "az_automation_runbook"}
+{"command": "az automation job", "description": "Automation Job.", "id": "az_automation_job"}
+{"command": "az automation hrwg", "description": "Automation Hybrid Runbook Worker Group.", "id": "az_automation_hrwg"}
+{"command": "az automation python3-package", "description": "Python3-package.", "id": "az_automation_python3-package"}
+{"command": "az automation software-update-configuration runs", "description": "Software Update Configuration Runs.", "id": "az_automation_software-update-configuration_runs"}
+{"command": "az automation software-update-configuration machine-runs", "description": "Software Update Configuration Machine Runs.", "id": "az_automation_software-update-configuration_machine-runs"}
+{"command": "az automation hrwg hrw", "description": "Hrw.", "id": "az_automation_hrwg_hrw"}
+{"command": "az customlocation", "description": "Commands to Create, Get, List and Delete CustomLocations.", "id": "az_customlocation"}
+{"command": "az vmss", "description": "Manage groupings of virtual machines in an Azure Virtual Machine Scale Set (VMSS).", "id": "az_vmss"}
+{"command": "az vmss extension", "description": "Manage extensions on a VM scale set.", "id": "az_vmss_extension"}
+{"command": "az vmss disk", "description": "Manage data disks of a VMSS.", "id": "az_vmss_disk"}
+{"command": "az vmss encryption", "description": "Manage encryption of VMSS.", "id": "az_vmss_encryption"}
+{"command": "az vmss rolling-upgrade", "description": "Manage rolling upgrades.", "id": "az_vmss_rolling-upgrade"}
+{"command": "az vmss application", "description": "Manage applications for VM scale set.", "id": "az_vmss_application"}
+{"command": "az vmss identity", "description": "Manage service identities of a VM scaleset.", "id": "az_vmss_identity"}
+{"command": "az vmss diagnostics", "description": "Configure the Azure Virtual Machine Scale Set diagnostics extension.", "id": "az_vmss_diagnostics"}
+{"command": "az vmss run-command", "description": "Manage run commands on a Virtual Machine Scale Set.", "id": "az_vmss_run-command"}
+{"command": "az vmss nic", "description": "Manage network interfaces of a VMSS.", "id": "az_vmss_nic"}
+{"command": "az vmss extension image", "description": "Find the available VM extensions for a subscription and region.", "id": "az_vmss_extension_image"}
+{"command": "az ams", "description": "Manage Azure Media Services resources.", "id": "az_ams"}
+{"command": "az ams streaming-endpoint", "description": "Manage streaming endpoints for an Azure Media Service account.", "id": "az_ams_streaming-endpoint"}
+{"command": "az ams streaming-locator", "description": "Manage streaming locators for an Azure Media Services account.", "id": "az_ams_streaming-locator"}
+{"command": "az ams transform", "description": "Manage transforms for an Azure Media Services account.", "id": "az_ams_transform"}
+{"command": "az ams content-key-policy", "description": "Manage content key policies for an Azure Media Services account.", "id": "az_ams_content-key-policy"}
+{"command": "az ams account", "description": "Manage Azure Media Services accounts.", "id": "az_ams_account"}
+{"command": "az ams live-output", "description": "Manage live outputs for an Azure Media Service account.", "id": "az_ams_live-output"}
+{"command": "az ams asset-track", "description": "Manage asset tracks for an Azure Media Services account.", "id": "az_ams_asset-track"}
+{"command": "az ams job", "description": "Manage jobs for a transform.", "id": "az_ams_job"}
+{"command": "az ams asset-filter", "description": "Manage asset filters for an Azure Media Services account.", "id": "az_ams_asset-filter"}
+{"command": "az ams asset", "description": "Manage assets for an Azure Media Services account.", "id": "az_ams_asset"}
+{"command": "az ams account-filter", "description": "Manage account filters for an Azure Media Services account.", "id": "az_ams_account-filter"}
+{"command": "az ams streaming-policy", "description": "Manage streaming policies for an Azure Media Services account.", "id": "az_ams_streaming-policy"}
+{"command": "az ams live-event", "description": "Manage live events for an Azure Media Service account.", "id": "az_ams_live-event"}
+{"command": "az ams content-key-policy option", "description": "Manage options for an existing content key policy.", "id": "az_ams_content-key-policy_option"}
+{"command": "az ams account encryption", "description": "Manage encryption for an Azure Media Services account.", "id": "az_ams_account_encryption"}
+{"command": "az ams account identity", "description": "Manage managed identity settings for an Azure Media Services account.", "id": "az_ams_account_identity"}
+{"command": "az ams account sp", "description": "Manage service principal and role based access for an Azure Media Services account.", "id": "az_ams_account_sp"}
+{"command": "az ams account storage", "description": "Manage storage for an Azure Media Services account.", "id": "az_ams_account_storage"}
+{"command": "az ams account mru", "description": "Manage media reserved units for an Azure Media Services account. This doesn't work with accounts created with 2020-05-01 version of the Media Services API or later. Accounts created this way no longer need to set media reserved units as the system will automaticaly scale up and down based on load.", "id": "az_ams_account_mru"}
+{"command": "az ams transform output", "description": "Manage transform outputs for an Azure Media Services account.", "id": "az_ams_transform_output"}
+{"command": "az ams streaming-endpoint akamai", "description": "Manage AkamaiAccessControl objects to be used on streaming endpoints.", "id": "az_ams_streaming-endpoint_akamai"}
+{"command": "az blockchain", "description": "Manage blockchain.", "id": "az_blockchain"}
+{"command": "az blockchain member", "description": "Blockchain member.", "id": "az_blockchain_member"}
+{"command": "az blockchain transaction-node", "description": "Blockchain transaction-node.", "id": "az_blockchain_transaction-node"}
+{"command": "az blockchain consortium", "description": "Blockchain consortium.", "id": "az_blockchain_consortium"}
+{"command": "az lock", "description": "Manage Azure locks.", "id": "az_lock"}
+{"command": "az connectedmachine", "description": "Manage an Azure Arc-Enabled Server.", "id": "az_connectedmachine"}
+{"command": "az connectedmachine extension", "description": "Manage a VM extension on an Azure Arc-Enabled Server.", "id": "az_connectedmachine_extension"}
+{"command": "az connectedmachine private-link-scope", "description": "Manage private link scope of an Azure Arc-Enabled Server.", "id": "az_connectedmachine_private-link-scope"}
+{"command": "az connectedmachine private-endpoint-connection", "description": "Manage private endpoint connection with an Azure Arc-Enabled Server.", "id": "az_connectedmachine_private-endpoint-connection"}
+{"command": "az connectedmachine run-command", "description": "Manage run commands on an Azure Arc-Enabled Server.", "id": "az_connectedmachine_run-command"}
+{"command": "az connectedmachine private-link-resource", "description": "Manage private link resource of an Azure Arc-Enabled Server.", "id": "az_connectedmachine_private-link-resource"}
+{"command": "az connectedmachine extension image", "description": "Manage VM extension metadata available for Azure Arc-Enabled Servers.", "id": "az_connectedmachine_extension_image"}
+{"command": "az grafana", "description": "Commands to manage Azure Grafana instances.", "id": "az_grafana"}
+{"command": "az grafana dashboard", "description": "Commands to manage dashboards of an instance.", "id": "az_grafana_dashboard"}
+{"command": "az grafana folder", "description": "Commands to manage folders of an instance.", "id": "az_grafana_folder"}
+{"command": "az grafana api-key", "description": "Commands to manage api keys.", "id": "az_grafana_api-key"}
+{"command": "az grafana notification-channel", "description": "Commands to manage notification channels of an instance.", "id": "az_grafana_notification-channel"}
+{"command": "az grafana service-account", "description": "Commands to manage service accounts.", "id": "az_grafana_service-account"}
+{"command": "az grafana user", "description": "Commands to manage users of an instance.", "id": "az_grafana_user"}
+{"command": "az grafana data-source", "description": "Commands to manage data sources of an instance.", "id": "az_grafana_data-source"}
+{"command": "az grafana service-account token", "description": "Commands to manage service account tokens.", "id": "az_grafana_service-account_token"}
+{"command": "az command-change", "description": "Commands for CLI modules metadata management.", "id": "az_command-change"}
+{"command": "az confcom", "description": "Commands to generate security policies for confidential containers in Azure.", "id": "az_confcom"}
+{"command": "az storagesync", "description": "Manage Azure File Sync.", "id": "az_storagesync"}
+{"command": "az storage-mover", "description": "Manage top-level Storage Mover resource.", "id": "az_storage-mover"}
+{"command": "az storage", "description": "Manage Azure Cloud Storage resources.", "id": "az_storage"}
+{"command": "az storage-mover job-run", "description": "Manage Job Run resource.", "id": "az_storage-mover_job-run"}
+{"command": "az storage-mover project", "description": "Manage Project resource, which is a logical grouping of related jobs.", "id": "az_storage-mover_project"}
+{"command": "az storage-mover agent", "description": "Manage Agent resource, which references a hybrid compute machine that can run jobs.", "id": "az_storage-mover_agent"}
+{"command": "az storage-mover endpoint", "description": "Manage Endpoint resource, which represents a data transfer source or destination.", "id": "az_storage-mover_endpoint"}
+{"command": "az storage-mover job-definition", "description": "Manage Job Definition resource, which contains configuration for a single unit of managed data transfer.", "id": "az_storage-mover_job-definition"}
+{"command": "az storage queue", "description": "Manage storage queues.", "id": "az_storage_queue"}
+{"command": "az storage container", "description": "Manage blob storage containers.", "id": "az_storage_container"}
+{"command": "az storage logging", "description": "Manage storage service logging information.", "id": "az_storage_logging"}
+{"command": "az storage share", "description": "Manage file shares.", "id": "az_storage_share"}
+{"command": "az storage share-rm", "description": "Manage Azure file shares using the Microsoft.Storage resource provider.", "id": "az_storage_share-rm"}
+{"command": "az storage metrics", "description": "Manage storage service metrics.", "id": "az_storage_metrics"}
+{"command": "az storage container-rm", "description": "Manage Azure containers using the Microsoft.Storage resource provider.", "id": "az_storage_container-rm"}
+{"command": "az storage file", "description": "Manage file shares that use the SMB 3.0 protocol.", "id": "az_storage_file"}
+{"command": "az storage account", "description": "Manage storage accounts.", "id": "az_storage_account"}
+{"command": "az storage entity", "description": "Manage table storage entities.", "id": "az_storage_entity"}
+{"command": "az storage azcopy", "description": "[EXPERIMENTAL] Manage storage operations utilizing AzCopy.", "id": "az_storage_azcopy"}
+{"command": "az storage cors", "description": "Manage storage service Cross-Origin Resource Sharing (CORS).", "id": "az_storage_cors"}
+{"command": "az storage table", "description": "Manage NoSQL key-value storage.", "id": "az_storage_table"}
+{"command": "az storage fs", "description": "Manage file systems in Azure Data Lake Storage Gen2 account.", "id": "az_storage_fs"}
+{"command": "az storage directory", "description": "Manage file storage directories.", "id": "az_storage_directory"}
+{"command": "az storage message", "description": "Manage queue storage messages.", "id": "az_storage_message"}
+{"command": "az storage blob", "description": "Manage object storage for unstructured data (blobs).", "id": "az_storage_blob"}
+{"command": "az storage table policy", "description": "Manage shared access policies of a storage table.", "id": "az_storage_table_policy"}
+{"command": "az storage directory metadata", "description": "Manage file storage directory metadata.", "id": "az_storage_directory_metadata"}
+{"command": "az storage container metadata", "description": "Manage container metadata.", "id": "az_storage_container_metadata"}
+{"command": "az storage container policy", "description": "Manage container stored access policies.", "id": "az_storage_container_policy"}
+{"command": "az storage container immutability-policy", "description": "Manage container immutability policies.", "id": "az_storage_container_immutability-policy"}
+{"command": "az storage container legal-hold", "description": "Manage container legal holds.", "id": "az_storage_container_legal-hold"}
+{"command": "az storage container lease", "description": "Manage blob storage container leases.", "id": "az_storage_container_lease"}
+{"command": "az storage queue metadata", "description": "Manage the metadata for a storage queue.", "id": "az_storage_queue_metadata"}
+{"command": "az storage queue policy", "description": "Manage shared access policies for a storage queue.", "id": "az_storage_queue_policy"}
+{"command": "az storage fs access", "description": "Manage file system access and permissions for Azure Data Lake Storage Gen2 account.", "id": "az_storage_fs_access"}

@@ -1,0 +1,100 @@
+{"command": "az managed-cassandra cluster backup", "description": "Azure Managed Cassandra cluster Backup.", "id": "az_managed-cassandra_cluster_backup"}
+{"command": "az restore-point", "description": "Manage restore point with res.", "id": "az_restore-point"}
+{"command": "az restore-point collection", "description": "Create the restore point collection. Please refer to https://aka.ms/RestorePoints for more details. When updating a restore point collection, only tags may be modified.", "id": "az_restore-point_collection"}
+{"command": "az orbital", "description": "Azure Orbital Ground Station as-a-Service (GSaaS).", "id": "az_orbital"}
+{"command": "az orbital contact-profile", "description": "Contact profile is a reusable contact configuration.", "id": "az_orbital_contact-profile"}
+{"command": "az orbital spacecraft", "description": "Satellites must be registered as a spacecraft with Azure Orbital to establish contacts with the satellite.", "id": "az_orbital_spacecraft"}
+{"command": "az orbital operation-result", "description": "Result of a long running async operation.", "id": "az_orbital_operation-result"}
+{"command": "az orbital available-ground-station", "description": "Ground stations available to schedule contacts.", "id": "az_orbital_available-ground-station"}
+{"command": "az orbital spacecraft contact", "description": "At the scheduled time, the selected ground station will contact the spacecraft and start data retrieval/delivery using the contact profile.", "id": "az_orbital_spacecraft_contact"}
+{"command": "az sig", "description": "Manage shared image gallery.", "id": "az_sig"}
+{"command": "az signalr", "description": "Manage Azure SignalR Service.", "id": "az_signalr"}
+{"command": "az signalr custom-domain", "description": "Manage custom domain settings.", "id": "az_signalr_custom-domain"}
+{"command": "az signalr custom-certificate", "description": "Manage custom certificate settings.", "id": "az_signalr_custom-certificate"}
+{"command": "az signalr key", "description": "Manage keys for Azure SignalR Service.", "id": "az_signalr_key"}
+{"command": "az signalr identity", "description": "Manage managed identity settings.", "id": "az_signalr_identity"}
+{"command": "az signalr replica", "description": "Manage replica settings.", "id": "az_signalr_replica"}
+{"command": "az signalr cors", "description": "Manage CORS for Azure SignalR Service.", "id": "az_signalr_cors"}
+{"command": "az signalr upstream", "description": "Manage upstream settings.", "id": "az_signalr_upstream"}
+{"command": "az signalr network-rule", "description": "Manage network rules.", "id": "az_signalr_network-rule"}
+{"command": "az sig share", "description": "Manage gallery sharing profile.", "id": "az_sig_share"}
+{"command": "az sig gallery-application", "description": "Manage gallery application.", "id": "az_sig_gallery-application"}
+{"command": "az sig image-version", "description": "Manage shared gallery image version with VM.", "id": "az_sig_image-version"}
+{"command": "az sig image-definition", "description": "Manage shared gallery image with VM.", "id": "az_sig_image-definition"}
+{"command": "az sig gallery-application version", "description": "Manage gallery application version.", "id": "az_sig_gallery-application_version"}
+{"command": "az attestation", "description": "Manage Microsoft Azure Attestation (MAA).", "id": "az_attestation"}
+{"command": "az attestation signer", "description": "Manage signers.", "id": "az_attestation_signer"}
+{"command": "az attestation policy", "description": "Manage policies.", "id": "az_attestation_policy"}
+{"command": "az spatial-anchors-account", "description": "Manage spatial anchor account with mixed reality.", "id": "az_spatial-anchors-account"}
+{"command": "az spatial-anchors-account key", "description": "Manage developer keys of a spatial anchors account.", "id": "az_spatial-anchors-account_key"}
+{"command": "az cosmosdb", "description": "Manage Azure Cosmos DB database accounts.", "id": "az_cosmosdb"}
+{"command": "az cosmosdb sql", "description": "Manage SQL resources of Azure Cosmos DB account.", "id": "az_cosmosdb_sql"}
+{"command": "az cosmosdb cassandra", "description": "Manage Cassandra resources of Azure Cosmos DB account.", "id": "az_cosmosdb_cassandra"}
+{"command": "az cosmosdb identity", "description": "Manage Azure Cosmos DB managed service identities.", "id": "az_cosmosdb_identity"}
+{"command": "az cosmosdb gremlin", "description": "Manage Gremlin resources of Azure Cosmos DB account.", "id": "az_cosmosdb_gremlin"}
+{"command": "az cosmosdb mongodb", "description": "Manage MongoDB resources of Azure Cosmos DB account.", "id": "az_cosmosdb_mongodb"}
+{"command": "az cosmosdb mongocluster", "description": "Mongo cluster.", "id": "az_cosmosdb_mongocluster"}
+{"command": "az cosmosdb postgres", "description": "Manage Azure Cosmos DB for PostgreSQL resources.", "id": "az_cosmosdb_postgres"}
+{"command": "az cosmosdb service", "description": "Commands to perform operations on Service.", "id": "az_cosmosdb_service"}
+{"command": "az cosmosdb restorable-database-account", "description": "Manage restorable Azure Cosmos DB accounts.", "id": "az_cosmosdb_restorable-database-account"}
+{"command": "az cosmosdb collection", "description": "Manage Azure Cosmos DB collections.", "id": "az_cosmosdb_collection"}
+{"command": "az cosmosdb table", "description": "Manage Table resources of Azure Cosmos DB account.", "id": "az_cosmosdb_table"}
+{"command": "az cosmosdb copy", "description": "Manage container copy job.", "id": "az_cosmosdb_copy"}
+{"command": "az cosmosdb private-endpoint-connection", "description": "Manage Azure Cosmos DB private endpoint connections.", "id": "az_cosmosdb_private-endpoint-connection"}
+{"command": "az cosmosdb keys", "description": "Manage Azure Cosmos DB keys.", "id": "az_cosmosdb_keys"}
+{"command": "az cosmosdb locations", "description": "Manage Azure Cosmos DB location properties.", "id": "az_cosmosdb_locations"}
+{"command": "az cosmosdb dts", "description": "Manage data transfer job with cosmosdb.", "id": "az_cosmosdb_dts"}
+{"command": "az cosmosdb private-link-resource", "description": "Manage Azure Cosmos DB private link resources.", "id": "az_cosmosdb_private-link-resource"}
+{"command": "az cosmosdb network-rule", "description": "Manage Azure Cosmos DB network rules.", "id": "az_cosmosdb_network-rule"}
+{"command": "az cosmosdb database", "description": "Manage Azure Cosmos DB databases.", "id": "az_cosmosdb_database"}
+{"command": "az cosmosdb table restorable-table", "description": "Manage different versions of tables that are restorable in Azure Cosmos DB account.", "id": "az_cosmosdb_table_restorable-table"}
+{"command": "az cosmosdb table throughput", "description": "Manage throughput of Table under an Azure Cosmos DB account.", "id": "az_cosmosdb_table_throughput"}
+{"command": "az cosmosdb table restorable-resource", "description": "Manage the tables that can be restored in the given account at the given timestamp and region.", "id": "az_cosmosdb_table_restorable-resource"}
+{"command": "az cosmosdb sql role", "description": "Manage Azure Cosmos DB SQL role resources.", "id": "az_cosmosdb_sql_role"}
+{"command": "az cosmosdb sql container", "description": "Manage Azure Cosmos DB SQL containers.", "id": "az_cosmosdb_sql_container"}
+{"command": "az cosmosdb sql user-defined-function", "description": "Manage Azure Cosmos DB SQL user defined functions.", "id": "az_cosmosdb_sql_user-defined-function"}
+{"command": "az cosmosdb sql trigger", "description": "Manage Azure Cosmos DB SQL triggers.", "id": "az_cosmosdb_sql_trigger"}
+{"command": "az cosmosdb sql restorable-container", "description": "Manage different versions of sql containers that are restorable in a database of a Azure Cosmos DB account.", "id": "az_cosmosdb_sql_restorable-container"}
+{"command": "az cosmosdb sql restorable-resource", "description": "Manage the databases and its containers that can be restored in the given account at the given timesamp and region.", "id": "az_cosmosdb_sql_restorable-resource"}
+{"command": "az cosmosdb sql stored-procedure", "description": "Manage Azure Cosmos DB SQL stored procedures.", "id": "az_cosmosdb_sql_stored-procedure"}
+{"command": "az cosmosdb sql restorable-database", "description": "Manage different versions of sql databases that are restorable in a Azure Cosmos DB account.", "id": "az_cosmosdb_sql_restorable-database"}
+{"command": "az cosmosdb sql database", "description": "Manage Azure Cosmos DB SQL databases.", "id": "az_cosmosdb_sql_database"}
+{"command": "az cosmosdb sql container throughput", "description": "Manage throughput of SQL container under an Azure Cosmos DB account.", "id": "az_cosmosdb_sql_container_throughput"}
+{"command": "az cosmosdb sql database throughput", "description": "Manage throughput of SQL database under an Azure Cosmos DB account.", "id": "az_cosmosdb_sql_database_throughput"}
+{"command": "az cosmosdb sql role assignment", "description": "Manage Azure Cosmos DB SQL role assignments.", "id": "az_cosmosdb_sql_role_assignment"}
+{"command": "az cosmosdb sql role definition", "description": "Manage Azure Cosmos DB SQL role definitions.", "id": "az_cosmosdb_sql_role_definition"}
+{"command": "az cosmosdb gremlin restorable-graph", "description": "Manage different versions of gremlin graphs that are restorable in a database of a Azure Cosmos DB account.", "id": "az_cosmosdb_gremlin_restorable-graph"}
+{"command": "az cosmosdb gremlin graph", "description": "Manage Azure Cosmos DB Gremlin graphs.", "id": "az_cosmosdb_gremlin_graph"}
+{"command": "az cosmosdb gremlin restorable-resource", "description": "Manage the databases and its graphs that can be restored in the given account at the given timestamp and region.", "id": "az_cosmosdb_gremlin_restorable-resource"}
+{"command": "az cosmosdb gremlin restorable-database", "description": "Manage different versions of gremlin databases that are restorable in a Azure Cosmos DB account.", "id": "az_cosmosdb_gremlin_restorable-database"}
+{"command": "az cosmosdb gremlin database", "description": "Manage Azure Cosmos DB Gremlin databases.", "id": "az_cosmosdb_gremlin_database"}
+{"command": "az cosmosdb gremlin database throughput", "description": "Manage throughput of Gremlin database under an Azure Cosmos DB account.", "id": "az_cosmosdb_gremlin_database_throughput"}
+{"command": "az cosmosdb gremlin graph throughput", "description": "Manage throughput of Gremlin graph under an Azure Cosmos DB account.", "id": "az_cosmosdb_gremlin_graph_throughput"}
+{"command": "az cosmosdb postgres cluster", "description": "Manage Azure Cosmos DB for PostgreSQL clusters.", "id": "az_cosmosdb_postgres_cluster"}
+{"command": "az cosmosdb postgres role", "description": "Manage Azure Cosmos DB for PostgreSQL roles.", "id": "az_cosmosdb_postgres_role"}
+{"command": "az cosmosdb postgres firewall-rule", "description": "Manage Azure Cosmos DB for PostgreSQL firewall rules.", "id": "az_cosmosdb_postgres_firewall-rule"}
+{"command": "az cosmosdb postgres configuration", "description": "Manage Azure Cosmos DB for PostgreSQL configurations.", "id": "az_cosmosdb_postgres_configuration"}
+{"command": "az cosmosdb postgres configuration node", "description": "Manage Azure Cosmos DB for PostgreSQL node configurations.", "id": "az_cosmosdb_postgres_configuration_node"}
+{"command": "az cosmosdb postgres configuration server", "description": "Manage Azure Cosmos DB for PostgreSQL server configurations.", "id": "az_cosmosdb_postgres_configuration_server"}
+{"command": "az cosmosdb postgres configuration coordinator", "description": "Manage Azure Cosmos DB for PostgreSQL coordinator configurations.", "id": "az_cosmosdb_postgres_configuration_coordinator"}
+{"command": "az cosmosdb postgres cluster server", "description": "Manage Azure Cosmos DB for PostgreSQL cluster servers.", "id": "az_cosmosdb_postgres_cluster_server"}
+{"command": "az cosmosdb cassandra table", "description": "Manage Azure Cosmos DB Cassandra tables.", "id": "az_cosmosdb_cassandra_table"}
+{"command": "az cosmosdb cassandra keyspace", "description": "Manage Azure Cosmos DB Cassandra keyspaces.", "id": "az_cosmosdb_cassandra_keyspace"}
+{"command": "az cosmosdb cassandra table throughput", "description": "Manage throughput of Cassandra table under an Azure Cosmos DB account.", "id": "az_cosmosdb_cassandra_table_throughput"}
+{"command": "az cosmosdb cassandra keyspace throughput", "description": "Manage throughput of Cassandra keyspace under an Azure Cosmos DB account.", "id": "az_cosmosdb_cassandra_keyspace_throughput"}
+{"command": "az cosmosdb mongodb role", "description": "Manage Azure Cosmos DB Mongo role resources.", "id": "az_cosmosdb_mongodb_role"}
+{"command": "az cosmosdb mongodb restorable-collection", "description": "Manage different versions of mongodb collections that are restorable in a database of a Azure Cosmos DB account.", "id": "az_cosmosdb_mongodb_restorable-collection"}
+{"command": "az cosmosdb mongodb collection", "description": "Manage Azure Cosmos DB MongoDB collections.", "id": "az_cosmosdb_mongodb_collection"}
+{"command": "az cosmosdb mongodb restorable-resource", "description": "Manage the databases and its collections that can be restored in the given account at the given timesamp and region.", "id": "az_cosmosdb_mongodb_restorable-resource"}
+{"command": "az cosmosdb mongodb restorable-database", "description": "Manage different versions of mongodb databases that are restorable in a Azure Cosmos DB account.", "id": "az_cosmosdb_mongodb_restorable-database"}
+{"command": "az cosmosdb mongodb user", "description": "Manage Azure Cosmos DB Mongo user resources.", "id": "az_cosmosdb_mongodb_user"}
+{"command": "az cosmosdb mongodb database", "description": "Manage Azure Cosmos DB MongoDB databases.", "id": "az_cosmosdb_mongodb_database"}
+{"command": "az cosmosdb mongodb user definition", "description": "Manage Azure Cosmos DB Mongo user definitions.", "id": "az_cosmosdb_mongodb_user_definition"}
+{"command": "az cosmosdb mongodb database throughput", "description": "Manage throughput of MongoDB database under an Azure Cosmos DB account.", "id": "az_cosmosdb_mongodb_database_throughput"}
+{"command": "az cosmosdb mongodb role definition", "description": "Manage Azure Cosmos DB Mongo role definitions.", "id": "az_cosmosdb_mongodb_role_definition"}
+{"command": "az cosmosdb mongodb collection throughput", "description": "Manage throughput of MongoDB collection under an Azure Cosmos DB account.", "id": "az_cosmosdb_mongodb_collection_throughput"}
+{"command": "az cosmosdb mongocluster firewall", "description": "Mongo cluster firewall.", "id": "az_cosmosdb_mongocluster_firewall"}
+{"command": "az cosmosdb mongocluster firewall rule", "description": "Mongo cluster firewall rule.", "id": "az_cosmosdb_mongocluster_firewall_rule"}
+{"command": "az dt", "description": "Manage Azure Digital Twins solutions & infrastructure.", "id": "az_dt"}
+{"command": "az dt route", "description": "Manage and configure event routes.", "id": "az_dt_route"}
+{"command": "az dt twin", "description": "Manage and configure the digital twins of a Digital Twins instance.", "id": "az_dt_twin"}

@@ -1,0 +1,100 @@
+{"command": "az ml workspace", "description": "Manage Azure ML workspaces.", "id": "az_ml_workspace"}
+{"command": "az ml feature-set", "description": "Manage Azure ML feature sets.", "id": "az_ml_feature-set"}
+{"command": "az ml workspace-hub", "description": "Manage Azure ML WorkspaceHub.", "id": "az_ml_workspace-hub"}
+{"command": "az ml environment", "description": "Manage Azure ML environments.", "id": "az_ml_environment"}
+{"command": "az ml connection", "description": "Manage Azure ML workspace connection.", "id": "az_ml_connection"}
+{"command": "az ml online-endpoint", "description": "Manage Azure ML online endpoints.", "id": "az_ml_online-endpoint"}
+{"command": "az ml workspace outbound-rule", "description": "Manage outbound rules for the managed network of an Azure ML workspace.", "id": "az_ml_workspace_outbound-rule"}
+{"command": "az ml folder", "description": "Folder subgroup commands.", "id": "az_ml(v1)_folder"}
+{"command": "az ml datastore", "description": "Commands for managing and using datastores with the Azure ML Workspace.", "id": "az_ml(v1)_datastore"}
+{"command": "az ml dataset", "description": "Commands for managing datasets in Azure Machine Learning Workspace.", "id": "az_ml(v1)_dataset"}
+{"command": "az ml computetarget", "description": "Computetarget subgroup commands.", "id": "az_ml(v1)_computetarget"}
+{"command": "az ml run", "description": "Commands for submitting, updating, and monitoring runs.", "id": "az_ml(v1)_run"}
+{"command": "az ml model", "description": "Manage machine learning models.", "id": "az_ml(v1)_model"}
+{"command": "az ml endpoint", "description": "Manage machine learning endpoints.", "id": "az_ml(v1)_endpoint"}
+{"command": "az ml pipeline", "description": "Pipeline subgroup commands.", "id": "az_ml(v1)_pipeline"}
+{"command": "az ml service", "description": "Manage operationalized services.", "id": "az_ml(v1)_service"}
+{"command": "az ml experiment", "description": "Commands to manage experiments.", "id": "az_ml(v1)_experiment"}
+{"command": "az ml workspace", "description": "Workspace subgroup commands.", "id": "az_ml(v1)_workspace"}
+{"command": "az ml environment", "description": "Commands to manage environments.", "id": "az_ml(v1)_environment"}
+{"command": "az ml workspace private-endpoint", "description": "Workspace private endpoint subgroup commands.", "id": "az_ml(v1)_workspace_private-endpoint"}
+{"command": "az ml endpoint realtime", "description": "Manage operationalized realtime endpoints.", "id": "az_ml(v1)_endpoint_realtime"}
+{"command": "az ml computetarget amlcompute", "description": "AzureML compute commands.", "id": "az_ml(v1)_computetarget_amlcompute"}
+{"command": "az ml computetarget attach", "description": "Attach subgroup commands.", "id": "az_ml(v1)_computetarget_attach"}
+{"command": "az ml computetarget create", "description": "Create a compute target (aks or amlcompute or computeinstance).", "id": "az_ml(v1)_computetarget_create"}
+{"command": "az ml computetarget computeinstance", "description": "AzureML compute instance commands.", "id": "az_ml(v1)_computetarget_computeinstance"}
+{"command": "az ml computetarget update", "description": "Update a compute target (aks or amlcompute).", "id": "az_ml(v1)_computetarget_update"}
+{"command": "az ml computetarget amlcompute identity", "description": "AzureML compute target identity commands.", "id": "az_ml(v1)_computetarget_amlcompute_identity"}
+{"command": "az k8s-extension", "description": "Commands to manage Kubernetes Extensions.", "id": "az_k8s-extension"}
+{"command": "az k8s-extension extension-types", "description": "Commands to discover Kubernetes Extension Types.", "id": "az_k8s-extension_extension-types"}
+{"command": "az nginx", "description": "Manage NGINX deployment resources.", "id": "az_nginx"}
+{"command": "az nginx deployment", "description": "Manage NGINX deployment resources.", "id": "az_nginx_deployment"}
+{"command": "az nginx deployment configuration", "description": "Manage NGINX configuration resources.", "id": "az_nginx_deployment_configuration"}
+{"command": "az nginx deployment certificate", "description": "Manage NGINX certificate resources.", "id": "az_nginx_deployment_certificate"}
+{"command": "az identity", "description": "Managed Identities.", "id": "az_identity"}
+{"command": "az identity federated-credential", "description": "Manage federated identity credentials under user assigned identities.", "id": "az_identity_federated-credential"}
+{"command": "az managedapp", "description": "Manage template solutions provided and maintained by Independent Software Vendors (ISVs).", "id": "az_managedapp"}
+{"command": "az managedapp definition", "description": "Manage Azure Managed Applications.", "id": "az_managedapp_definition"}
+{"command": "az resourcemanagement", "description": "Resourcemanagement CLI command group.", "id": "az_resourcemanagement"}
+{"command": "az resourcemanagement private-link", "description": "Resourcemanagement private-link management on a resource.", "id": "az_resourcemanagement_private-link"}
+{"command": "az synapse", "description": "Manage and operate Synapse Workspace, Spark Pool, SQL Pool.", "id": "az_synapse"}
+{"command": "az synapse linked-service", "description": "Manage Synapse's linked services.", "id": "az_synapse_linked-service"}
+{"command": "az synapse role", "description": "Manage Synapse's role assignments and definitions.", "id": "az_synapse_role"}
+{"command": "az synapse data-flow", "description": "Manage Synapse's data flows.", "id": "az_synapse_data-flow"}
+{"command": "az synapse activity-run", "description": "Synapse activity-run.", "id": "az_synapse_activity-run"}
+{"command": "az synapse dataset", "description": "Manage Synapse's datasets.", "id": "az_synapse_dataset"}
+{"command": "az synapse sql", "description": "Manage SQL pools.", "id": "az_synapse_sql"}
+{"command": "az synapse integration-runtime-node", "description": "Manage Synapse's self-hosted integration runtime nodes.", "id": "az_synapse_integration-runtime-node"}
+{"command": "az synapse trigger", "description": "Manage Synapse's triggers.", "id": "az_synapse_trigger"}
+{"command": "az synapse workspace-package", "description": "Manage Synapse's workspace packages.", "id": "az_synapse_workspace-package"}
+{"command": "az synapse trigger-run", "description": "Synapse trigger-run.", "id": "az_synapse_trigger-run"}
+{"command": "az synapse pipeline-run", "description": "Manage Synapse's pipeline run.", "id": "az_synapse_pipeline-run"}
+{"command": "az synapse kql-script", "description": "Manage script with kusto.", "id": "az_synapse_kql-script"}
+{"command": "az synapse managed-private-endpoints", "description": "Manage synapse managed private endpoints.", "id": "az_synapse_managed-private-endpoints"}
+{"command": "az synapse kusto", "description": "Manage synapse kusto.", "id": "az_synapse_kusto"}
+{"command": "az synapse notebook", "description": "Manage Synapse's notebooks.", "id": "az_synapse_notebook"}
+{"command": "az synapse pipeline", "description": "Manage Synapse's pipelines.", "id": "az_synapse_pipeline"}
+{"command": "az synapse spark", "description": "Manage Spark pools and Spark jobs.", "id": "az_synapse_spark"}
+{"command": "az synapse spark-job-definition", "description": "Manage spark job definitions in a synapse workspace.", "id": "az_synapse_spark-job-definition"}
+{"command": "az synapse workspace", "description": "Manage Synapse workspaces.", "id": "az_synapse_workspace"}
+{"command": "az synapse kusto-operation", "description": "Manage kusto operation with synapse.", "id": "az_synapse_kusto-operation"}
+{"command": "az synapse link-connection", "description": "Manage Synapse's link connection.", "id": "az_synapse_link-connection"}
+{"command": "az synapse integration-runtime", "description": "Manage Synapse's integration runtimes.", "id": "az_synapse_integration-runtime"}
+{"command": "az synapse ad-only-auth", "description": "Manage Azure Active Directly only Authentication settings for this Synapse workspace.", "id": "az_synapse_ad-only-auth"}
+{"command": "az synapse sql-script", "description": "Manage SQL scripts in a synapse workspace.", "id": "az_synapse_sql-script"}
+{"command": "az synapse sql audit-policy", "description": "Manage SQL auditing policy.", "id": "az_synapse_sql_audit-policy"}
+{"command": "az synapse sql ad-admin", "description": "Manage SQL Active Directory administrator.", "id": "az_synapse_sql_ad-admin"}
+{"command": "az synapse sql pool", "description": "Manage SQL pools.", "id": "az_synapse_sql_pool"}
+{"command": "az synapse sql pool classification", "description": "Manage sensitivity classifications.", "id": "az_synapse_sql_pool_classification"}
+{"command": "az synapse sql pool threat-policy", "description": "Manage a SQL pool's threat detection policies.", "id": "az_synapse_sql_pool_threat-policy"}
+{"command": "az synapse sql pool audit-policy", "description": "Manage a SQL pool's auditing policy.", "id": "az_synapse_sql_pool_audit-policy"}
+{"command": "az synapse sql pool tde", "description": "Manage a SQL pool's transparent data encryption.", "id": "az_synapse_sql_pool_tde"}
+{"command": "az synapse sql pool classification recommendation", "description": "Manage sensitivity classification recommendations.", "id": "az_synapse_sql_pool_classification_recommendation"}
+{"command": "az synapse workspace managed-identity", "description": "Manage workspace's managed-identity.", "id": "az_synapse_workspace_managed-identity"}
+{"command": "az synapse workspace key", "description": "Manage workspace's keys.", "id": "az_synapse_workspace_key"}
+{"command": "az synapse workspace firewall-rule", "description": "Manage a workspace's firewall rules.", "id": "az_synapse_workspace_firewall-rule"}
+{"command": "az synapse spark statement", "description": "Manage Synapse Spark statements.", "id": "az_synapse_spark_statement"}
+{"command": "az synapse spark session", "description": "Manage Synapse Spark sessions.", "id": "az_synapse_spark_session"}
+{"command": "az synapse spark job", "description": "Manage Synapse Spark batch jobs.", "id": "az_synapse_spark_job"}
+{"command": "az synapse spark pool", "description": "Manage Spark pools.", "id": "az_synapse_spark_pool"}
+{"command": "az synapse kusto database-principal-assignment", "description": "Manage kusto pool database principal assignment with synapse.", "id": "az_synapse_kusto_database-principal-assignment"}
+{"command": "az synapse kusto attached-database-configuration", "description": "Manage kusto pool attached database configuration with synapse.", "id": "az_synapse_kusto_attached-database-configuration"}
+{"command": "az synapse kusto data-connection", "description": "Manage kusto pool data connection with synapse.", "id": "az_synapse_kusto_data-connection"}
+{"command": "az synapse kusto pool-principal-assignment", "description": "Manage kusto pool principal assignment with synapse.", "id": "az_synapse_kusto_pool-principal-assignment"}
+{"command": "az synapse kusto database", "description": "Manage kusto pool database with synapse.", "id": "az_synapse_kusto_database"}
+{"command": "az synapse kusto pool", "description": "Manage kusto pool with synapse.", "id": "az_synapse_kusto_pool"}
+{"command": "az synapse kusto data-connection iot-hub", "description": "Manage kusto pool data connection with synapse sub group iot-hub.", "id": "az_synapse_kusto_data-connection_iot-hub"}
+{"command": "az synapse kusto data-connection event-hub", "description": "Manage kusto pool data connection with synapse sub group event-hub.", "id": "az_synapse_kusto_data-connection_event-hub"}
+{"command": "az synapse kusto data-connection event-grid", "description": "Manage kusto pool data connection with synapse sub group event-grid.", "id": "az_synapse_kusto_data-connection_event-grid"}
+{"command": "az synapse role assignment", "description": "Manage Synapse's role assignments.", "id": "az_synapse_role_assignment"}
+{"command": "az synapse role scope", "description": "Manage Synapse's role scopes.", "id": "az_synapse_role_scope"}
+{"command": "az synapse role definition", "description": "Manage Synapse's role definitions.", "id": "az_synapse_role_definition"}
+{"command": "az synapse integration-runtime managed", "description": "Manage integration runtime with synapse sub group managed.", "id": "az_synapse_integration-runtime_managed"}
+{"command": "az synapse integration-runtime self-hosted", "description": "Manage integration runtime with synapse sub group self-hosted.", "id": "az_synapse_integration-runtime_self-hosted"}
+{"command": "az managedservices", "description": "Manage the registration assignments and definitions in Azure.", "id": "az_managedservices"}
+{"command": "az managedservices assignment", "description": "Manage the registration assignments in Azure.", "id": "az_managedservices_assignment"}
+{"command": "az managedservices definition", "description": "Manage the registration definitions in Azure.", "id": "az_managedservices_definition"}
+{"command": "az alerts-management", "description": "Manage Azure Alerts Management Service Resource.", "id": "az_alerts-management"}
+{"command": "az alerts-management prometheus-rule-group", "description": "Manage Prometheus Rule Group.", "id": "az_alerts-management_prometheus-rule-group"}
+{"command": "az scenario", "description": "E2E Scenario Usage Guidance.", "id": "az_scenario"}
+{"command": "az servicebus", "description": "Servicebus.", "id": "az_servicebus"}

@@ -1,0 +1,100 @@
+{"command": "az devcenter admin network-connection", "description": "Manage network connections.", "id": "az_devcenter_admin_network-connection"}
+{"command": "az devcenter admin image-version", "description": "Manage image versions.", "id": "az_devcenter_admin_image-version"}
+{"command": "az devcenter admin devcenter", "description": "Manage dev centers.", "id": "az_devcenter_admin_devcenter"}
+{"command": "az devcenter admin project-environment-type", "description": "Manage project environment types.", "id": "az_devcenter_admin_project-environment-type"}
+{"command": "az devcenter admin gallery", "description": "Manage galleries.", "id": "az_devcenter_admin_gallery"}
+{"command": "az devcenter admin pool", "description": "Manage pools.", "id": "az_devcenter_admin_pool"}
+{"command": "az vmware", "description": "Commands to manage Azure VMware Solution.", "id": "az_vmware"}
+{"command": "az vmss", "description": "Manage groupings of virtual machines in an Azure Virtual Machine Scale Set (VMSS).", "id": "az_vmss"}
+{"command": "az vm", "description": "Manage Linux or Windows virtual machines.", "id": "az_vm"}
+{"command": "az vm extension", "description": "Manage extensions on VMs.", "id": "az_vm_extension"}
+{"command": "az vm disk", "description": "Manage the managed data disks attached to a VM.", "id": "az_vm_disk"}
+{"command": "az vm encryption", "description": "Manage encryption of VM disks.", "id": "az_vm_encryption"}
+{"command": "az vm aem", "description": "Manage Azure Enhanced Monitoring Extension for SAP.", "id": "az_vm_aem"}
+{"command": "az vm application", "description": "Manage applications for VM.", "id": "az_vm_application"}
+{"command": "az vm identity", "description": "Manage service identities of a VM.", "id": "az_vm_identity"}
+{"command": "az vm image", "description": "Information on available virtual machine images.", "id": "az_vm_image"}
+{"command": "az vm boot-diagnostics", "description": "Troubleshoot the startup of an Azure Virtual Machine.", "id": "az_vm_boot-diagnostics"}
+{"command": "az vm secret", "description": "Manage VM secrets.", "id": "az_vm_secret"}
+{"command": "az vm repair", "description": "Auto repair commands to fix VMs.", "id": "az_vm_repair"}
+{"command": "az vm availability-set", "description": "Group resources into availability sets.", "id": "az_vm_availability-set"}
+{"command": "az vm host", "description": "Manage Dedicated Hosts for Virtual Machines.", "id": "az_vm_host"}
+{"command": "az vm diagnostics", "description": "Configure the Azure Virtual Machine diagnostics extension.", "id": "az_vm_diagnostics"}
+{"command": "az vm unmanaged-disk", "description": "Manage the unmanaged data disks attached to a VM.", "id": "az_vm_unmanaged-disk"}
+{"command": "az vm run-command", "description": "Manage run commands on a Virtual Machine.", "id": "az_vm_run-command"}
+{"command": "az vm user", "description": "Manage user accounts for a VM.", "id": "az_vm_user"}
+{"command": "az vm nic", "description": "Manage network interfaces. See also `az network nic`.", "id": "az_vm_nic"}
+{"command": "az vm monitor", "description": "Manage monitor aspect for a vm.", "id": "az_vm_monitor"}
+{"command": "az vm image terms", "description": "Manage Azure Marketplace image terms.", "id": "az_vm_image_terms"}
+{"command": "az vm extension image", "description": "Find the available VM extensions for a subscription and region.", "id": "az_vm_extension_image"}
+{"command": "az vm host group", "description": "Manage Dedicated Host Groups.", "id": "az_vm_host_group"}
+{"command": "az vm monitor metrics", "description": "Manage metrics for a vm.", "id": "az_vm_monitor_metrics"}
+{"command": "az vm monitor log", "description": "Manage log analytics workspace for a vm.", "id": "az_vm_monitor_log"}
+{"command": "az vmware datastore", "description": "Commands to manage a datastore in a private cloud cluster.", "id": "az_vmware_datastore"}
+{"command": "az vmware cluster", "description": "Commands to manage all the clusters in a private cloud, excluding the first cluster which is the default management cluster.", "id": "az_vmware_cluster"}
+{"command": "az vmware hcx-enterprise-site", "description": "Commands to manage HCX Enterprise Sites in a private cloud.", "id": "az_vmware_hcx-enterprise-site"}
+{"command": "az vmware script-execution", "description": "Commands to manage script executions in a private cloud.", "id": "az_vmware_script-execution"}
+{"command": "az vmware global-reach-connection", "description": "Commands to manage global reach connections in a private cloud.", "id": "az_vmware_global-reach-connection"}
+{"command": "az vmware addon", "description": "Commands to manage addons for a private cloud.", "id": "az_vmware_addon"}
+{"command": "az vmware authorization", "description": "Commands to manage the authorizations of an ExpressRoute Circuit for a private cloud.", "id": "az_vmware_authorization"}
+{"command": "az vmware private-cloud", "description": "Commands to manage private clouds.", "id": "az_vmware_private-cloud"}
+{"command": "az vmware cloud-link", "description": "Commands to manage cloud links in a private cloud.", "id": "az_vmware_cloud-link"}
+{"command": "az vmware location", "description": "Commands to check availability by location.", "id": "az_vmware_location"}
+{"command": "az vmware workload-network", "description": "Commands to manage workload-networks in a private cloud.", "id": "az_vmware_workload-network"}
+{"command": "az vmware vm", "description": "Commands to manage Virtual Machines.", "id": "az_vmware_vm"}
+{"command": "az vmware placement-policy", "description": "Commands to manage placement policies.", "id": "az_vmware_placement-policy"}
+{"command": "az vmware script-package", "description": "Commands to list and show script packages available to run on the private cloud.", "id": "az_vmware_script-package"}
+{"command": "az vmware script-cmdlet", "description": "Commands to list and show script cmdlet resources.", "id": "az_vmware_script-cmdlet"}
+{"command": "az vmware addon srm", "description": "Commands to manage a Site Recovery Manager (SRM) addon.", "id": "az_vmware_addon_srm"}
+{"command": "az vmware addon vr", "description": "Commands to manage a vSphere Replication (VR) addon.", "id": "az_vmware_addon_vr"}
+{"command": "az vmware addon arc", "description": "Commands to manage a Arc addon.", "id": "az_vmware_addon_arc"}
+{"command": "az vmware addon hcx", "description": "Commands to manage a HCX addon.", "id": "az_vmware_addon_hcx"}
+{"command": "az vmware datastore disk-pool-volume", "description": "Create a VMFS datastore in a private cloud cluster using Microsoft.StoragePool provided iSCSI target.", "id": "az_vmware_datastore_disk-pool-volume"}
+{"command": "az vmware datastore netapp-volume", "description": "Create a new Microsoft.NetApp provided NetApp volume in a private cloud cluster.", "id": "az_vmware_datastore_netapp-volume"}
+{"command": "az vmware private-cloud identity", "description": "Commands for Managed Identity in a private cloud.", "id": "az_vmware_private-cloud_identity"}
+{"command": "az vmware private-cloud identity-source", "description": "Manage a vCenter Single Sign On Identity Source of a  private cloud.", "id": "az_vmware_private-cloud_identity-source"}
+{"command": "az vmware placement-policy vm", "description": "Commands to manage VM placement policies.", "id": "az_vmware_placement-policy_vm"}
+{"command": "az vmware placement-policy vm-host", "description": "Commands to manage VM Host placement policies.", "id": "az_vmware_placement-policy_vm-host"}
+{"command": "az vmware workload-network gateway", "description": "Commands to manage a Gateway workload network.", "id": "az_vmware_workload-network_gateway"}
+{"command": "az vmware workload-network public-ip", "description": "Commands to manage a Public-IP workload network.", "id": "az_vmware_workload-network_public-ip"}
+{"command": "az vmware workload-network vm-group", "description": "Commands to manage a VM Group workload network.", "id": "az_vmware_workload-network_vm-group"}
+{"command": "az vmware workload-network dhcp", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp"}
+{"command": "az vmware workload-network segment", "description": "Commands to manage a Segment workload network.", "id": "az_vmware_workload-network_segment"}
+{"command": "az vmware workload-network dns-service", "description": "Commands to manage a DNS Service workload network.", "id": "az_vmware_workload-network_dns-service"}
+{"command": "az vmware workload-network port-mirroring", "description": "Commands to manage a Port Mirroring workload network.", "id": "az_vmware_workload-network_port-mirroring"}
+{"command": "az vmware workload-network vm", "description": "Commands to manage a Virtual Machine workload network.", "id": "az_vmware_workload-network_vm"}
+{"command": "az vmware workload-network dns-zone", "description": "Commands to manage a DNS Zone workload network.", "id": "az_vmware_workload-network_dns-zone"}
+{"command": "az vmware workload-network dhcp server", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp_server"}
+{"command": "az vmware workload-network dhcp relay", "description": "Commands to manage a DHCP (Data Host Configuration Protocol) workload network.", "id": "az_vmware_workload-network_dhcp_relay"}
+{"command": "az vmss extension", "description": "Manage extensions on a VM scale set.", "id": "az_vmss_extension"}
+{"command": "az vmss disk", "description": "Manage data disks of a VMSS.", "id": "az_vmss_disk"}
+{"command": "az vmss encryption", "description": "Manage encryption of VMSS.", "id": "az_vmss_encryption"}
+{"command": "az vmss rolling-upgrade", "description": "Manage rolling upgrades.", "id": "az_vmss_rolling-upgrade"}
+{"command": "az vmss application", "description": "Manage applications for VM scale set.", "id": "az_vmss_application"}
+{"command": "az vmss identity", "description": "Manage service identities of a VM scaleset.", "id": "az_vmss_identity"}
+{"command": "az vmss diagnostics", "description": "Configure the Azure Virtual Machine Scale Set diagnostics extension.", "id": "az_vmss_diagnostics"}
+{"command": "az vmss run-command", "description": "Manage run commands on a Virtual Machine Scale Set.", "id": "az_vmss_run-command"}
+{"command": "az vmss nic", "description": "Manage network interfaces of a VMSS.", "id": "az_vmss_nic"}
+{"command": "az vmss extension image", "description": "Find the available VM extensions for a subscription and region.", "id": "az_vmss_extension_image"}
+{"command": "az large-instance", "description": "Handle Operations for Compute Azure Large Instances.", "id": "az_large-instance"}
+{"command": "az change-analysis", "description": "List changes for resources.", "id": "az_change-analysis"}
+{"command": "az healthbot", "description": "Manage bot with healthbot.", "id": "az_healthbot"}
+{"command": "az lab", "description": "Manage Azure DevTest Labs.", "id": "az_lab"}
+{"command": "az lab artifact", "description": "Manage DevTest Labs artifacts.", "id": "az_lab_artifact"}
+{"command": "az lab vnet", "description": "Manage virtual networks of an Azure DevTest Lab.", "id": "az_lab_vnet"}
+{"command": "az lab secret", "description": "Manage secrets of an Azure DevTest Lab.", "id": "az_lab_secret"}
+{"command": "az lab custom-image", "description": "Manage custom images of a DevTest Lab.", "id": "az_lab_custom-image"}
+{"command": "az lab arm-template", "description": "Manage Azure Resource Manager (ARM) templates in an Azure DevTest Lab.", "id": "az_lab_arm-template"}
+{"command": "az lab artifact-source", "description": "Manage DevTest Lab artifact sources.", "id": "az_lab_artifact-source"}
+{"command": "az lab formula", "description": "Manage formulas for an Azure DevTest Lab.", "id": "az_lab_formula"}
+{"command": "az lab gallery-image", "description": "List Azure Marketplace images allowed for a DevTest Lab.", "id": "az_lab_gallery-image"}
+{"command": "az lab environment", "description": "Manage environments for an Azure DevTest Lab.", "id": "az_lab_environment"}
+{"command": "az lab vm", "description": "Manage VMs in an Azure DevTest Lab.", "id": "az_lab_vm"}
+{"command": "az networkcloud", "description": "Manage Network Cloud resources.", "id": "az_networkcloud"}
+{"command": "az networkcloud cloudservicesnetwork", "description": "Manage cloud services network.", "id": "az_networkcloud_cloudservicesnetwork"}
+{"command": "az networkcloud cluster", "description": "Manage cluster.", "id": "az_networkcloud_cluster"}
+{"command": "az networkcloud virtualmachine", "description": "Manage virtual machine.", "id": "az_networkcloud_virtualmachine"}
+{"command": "az networkcloud trunkednetwork", "description": "Manage trunked network.", "id": "az_networkcloud_trunkednetwork"}
+{"command": "az networkcloud l3network", "description": "Manage layer 3 (l3) network.", "id": "az_networkcloud_l3network"}
+{"command": "az networkcloud racksku", "description": "Manage rack SKU.", "id": "az_networkcloud_racksku"}
+{"command": "az networkcloud storageappliance", "description": "Manage storage appliance.", "id": "az_networkcloud_storageappliance"}

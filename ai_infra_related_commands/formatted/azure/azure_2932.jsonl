@@ -1,0 +1,32 @@
+{"command": "az monitor app-insights component linked-storage", "description": "Manage linked storage account for an Application Insights component.", "id": "az_monitor_app-insights_component_linked-storage"}
+{"command": "az monitor app-insights component continues-export", "description": "Manage Continuous Export configurations for an Application Insights component.", "id": "az_monitor_app-insights_component_continues-export"}
+{"command": "az monitor data-collection endpoint", "description": "Manage data collection endpoint for monitor control service.", "id": "az_monitor_data-collection_endpoint"}
+{"command": "az monitor data-collection rule", "description": "Manage data collection rule for monitor control service.", "id": "az_monitor_data-collection_rule"}
+{"command": "az monitor data-collection endpoint association", "description": "Monitor data-collection endpoint association.", "id": "az_monitor_data-collection_endpoint_association"}
+{"command": "az monitor data-collection rule association", "description": "Manage data collection rule association for monitor control service.", "id": "az_monitor_data-collection_rule_association"}
+{"command": "az monitor data-collection rule data-flow", "description": "Manage data flows.", "id": "az_monitor_data-collection_rule_data-flow"}
+{"command": "az monitor data-collection rule log-analytics", "description": "Manage Log Analytics destinations.", "id": "az_monitor_data-collection_rule_log-analytics"}
+{"command": "az monitor data-collection rule windows-event-log", "description": "Manage Windows Event Log data source.", "id": "az_monitor_data-collection_rule_windows-event-log"}
+{"command": "az monitor data-collection rule performance-counter", "description": "Manage Log performance counter data source.", "id": "az_monitor_data-collection_rule_performance-counter"}
+{"command": "az monitor data-collection rule syslog", "description": "Manage Syslog data source.", "id": "az_monitor_data-collection_rule_syslog"}
+{"command": "az monitor action-group test-notifications", "description": "Manage action groups test-notifications.", "id": "az_monitor_action-group_test-notifications"}
+{"command": "az monitor private-link-scope private-endpoint-connection", "description": "Manage private endpoint connection of a private link scope resource.", "id": "az_monitor_private-link-scope_private-endpoint-connection"}
+{"command": "az monitor private-link-scope private-link-resource", "description": "Manage private link resource of a private link scope resource.", "id": "az_monitor_private-link-scope_private-link-resource"}
+{"command": "az monitor private-link-scope scoped-resource", "description": "Manage scoped resource of a private link scope resource.", "id": "az_monitor_private-link-scope_scoped-resource"}
+{"command": "az monitor autoscale rule", "description": "Manage autoscale scaling rules.", "id": "az_monitor_autoscale_rule"}
+{"command": "az monitor autoscale profile", "description": "Manage autoscaling profiles.", "id": "az_monitor_autoscale_profile"}
+{"command": "az monitor diagnostic-settings categories", "description": "Retrieve service diagnostic settings categories.", "id": "az_monitor_diagnostic-settings_categories"}
+{"command": "az monitor diagnostic-settings subscription", "description": "Manage diagnostic settings for subscription.", "id": "az_monitor_diagnostic-settings_subscription"}
+{"command": "az quantum", "description": "Manage Azure Quantum Workspaces and submit jobs to Azure Quantum Providers.", "id": "az_quantum"}
+{"command": "az quantum target", "description": "Manage targets for Azure Quantum workspaces.", "id": "az_quantum_target"}
+{"command": "az quantum offerings", "description": "Manage provider offerings for Azure Quantum.", "id": "az_quantum_offerings"}
+{"command": "az quantum job", "description": "Manage jobs for Azure Quantum.", "id": "az_quantum_job"}
+{"command": "az quantum workspace", "description": "Manage Azure Quantum workspaces.", "id": "az_quantum_workspace"}
+{"command": "az stack-hci-vm", "description": "Manage virtualmachine with stack-hci-vm.", "id": "az_stack-hci-vm"}
+{"command": "az stack-hci-vm disk", "description": "Manage virtualharddisk with stack-hci-vm.", "id": "az_stack-hci-vm_disk"}
+{"command": "az stack-hci-vm network", "description": "Manage network with stack-hvi-vm.", "id": "az_stack-hci-vm_network"}
+{"command": "az stack-hci-vm storagepath", "description": "Manage storagepath with stack-hci-vm.", "id": "az_stack-hci-vm_storagepath"}
+{"command": "az stack-hci-vm image", "description": "Manage images with stack-hci-vm.", "id": "az_stack-hci-vm_image"}
+{"command": "az stack-hci-vm nic", "description": "Manage vNIC of a virtual machine with stack-hci-vm.", "id": "az_stack-hci-vm_nic"}
+{"command": "az stack-hci-vm network lnet", "description": "Manage logicalnetworks with stack-hci-vm.", "id": "az_stack-hci-vm_network_lnet"}
+{"command": "az stack-hci-vm network nic", "description": "Manage networkinterface with stack-hci-vm.", "id": "az_stack-hci-vm_network_nic"}

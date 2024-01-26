@@ -1,0 +1,100 @@
+{"command": "az functionapp deployment github-actions", "description": "Configure GitHub Actions for a functionapp.", "id": "az_functionapp_deployment_github-actions"}
+{"command": "az functionapp deployment user", "description": "Manage user credentials for deployment.", "id": "az_functionapp_deployment_user"}
+{"command": "az functionapp deployment source", "description": "Manage function app deployment via source control.", "id": "az_functionapp_deployment_source"}
+{"command": "az functionapp config container", "description": "Manage an existing function app's container settings.", "id": "az_functionapp_config_container"}
+{"command": "az functionapp config appsettings", "description": "Configure function app settings.", "id": "az_functionapp_config_appsettings"}
+{"command": "az functionapp config hostname", "description": "Configure hostnames for a function app.", "id": "az_functionapp_config_hostname"}
+{"command": "az functionapp config access-restriction", "description": "Methods that show, set, add, and remove access restrictions on a functionapp.", "id": "az_functionapp_config_access-restriction"}
+{"command": "az functionapp config ssl", "description": "Configure SSL certificates.", "id": "az_functionapp_config_ssl"}
+{"command": "az functionapp connection create", "description": "Create a connection between a functionapp and a target resource.", "id": "az_functionapp_connection_create"}
+{"command": "az functionapp connection update", "description": "Update a functionapp connection.", "id": "az_functionapp_connection_update"}
+{"command": "az functionapp function keys", "description": "Manage function keys.", "id": "az_functionapp_function_keys"}
+{"command": "az functionapp log deployment", "description": "Manage function app deployment logs.", "id": "az_functionapp_log_deployment"}
+{"command": "az dms", "description": "Manage Azure Data Migration Service (classic) instances.", "id": "az_dms"}
+{"command": "az dms project", "description": "Manage projects for an instance of the Azure Database Migration Service (classic).", "id": "az_dms_project"}
+{"command": "az dms project task", "description": "Manage tasks for a Azure Database Migration Service (classic) instance's project.", "id": "az_dms_project_task"}
+{"command": "az acr", "description": "Manage private registries with Azure Container Registries.", "id": "az_acr"}
+{"command": "az acr token", "description": "Manage tokens for an Azure Container Registry.", "id": "az_acr_token"}
+{"command": "az acr credential", "description": "Manage login credentials for Azure Container Registries.", "id": "az_acr_credential"}
+{"command": "az acr encryption", "description": "Manage container registry encryption.", "id": "az_acr_encryption"}
+{"command": "az acr replication", "description": "Manage geo-replicated regions of Azure Container Registries.", "id": "az_acr_replication"}
+{"command": "az acr webhook", "description": "Manage webhooks for Azure Container Registries.", "id": "az_acr_webhook"}
+{"command": "az acr config", "description": "Configure policies for Azure Container Registries.", "id": "az_acr_config"}
+{"command": "az acr helm", "description": "Manage helm charts for Azure Container Registries.", "id": "az_acr_helm"}
+{"command": "az acr connected-registry", "description": "Manage connected registry resources with Azure Container Registries.", "id": "az_acr_connected-registry"}
+{"command": "az acr agentpool", "description": "Manage private Tasks agent pools with Azure Container Registries.", "id": "az_acr_agentpool"}
+{"command": "az acr artifact-streaming", "description": "Manage artifact streaming for any repositories or supported images in an ACR.", "id": "az_acr_artifact-streaming"}
+{"command": "az acr identity", "description": "Manage service (managed) identities for a container registry.", "id": "az_acr_identity"}
+{"command": "az acr export-pipeline", "description": "Manage ACR export pipelines.", "id": "az_acr_export-pipeline"}
+{"command": "az acr pack", "description": "Manage Azure Container Registry Tasks that use Cloud Native Buildpacks.", "id": "az_acr_pack"}
+{"command": "az acr pipeline-run", "description": "Manage ACR import and export pipeline-runs.", "id": "az_acr_pipeline-run"}
+{"command": "az acr taskrun", "description": "Manage taskruns using Azure Container Registries.", "id": "az_acr_taskrun"}
+{"command": "az acr credential-set", "description": "Manage credential sets in Azure Container Registries.", "id": "az_acr_credential-set"}
+{"command": "az acr repository", "description": "Manage repositories (image names) for Azure Container Registries.", "id": "az_acr_repository"}
+{"command": "az acr private-endpoint-connection", "description": "Manage container registry private endpoint connections.", "id": "az_acr_private-endpoint-connection"}
+{"command": "az acr import-pipeline", "description": "Manage ACR import pipelines.", "id": "az_acr_import-pipeline"}
+{"command": "az acr private-link-resource", "description": "Manage registry private link resources.", "id": "az_acr_private-link-resource"}
+{"command": "az acr task", "description": "Manage a collection of steps for building, testing and OS & Framework patching container images using Azure Container Registries.", "id": "az_acr_task"}
+{"command": "az acr scope-map", "description": "Manage scope access maps for Azure Container Registries.", "id": "az_acr_scope-map"}
+{"command": "az acr network-rule", "description": "Manage network rules for Azure Container Registries.", "id": "az_acr_network-rule"}
+{"command": "az acr manifest", "description": "Manage artifact manifests in Azure Container Registries.", "id": "az_acr_manifest"}
+{"command": "az acr cache", "description": "Manage cache rules in Azure Container Registries.", "id": "az_acr_cache"}
+{"command": "az acr helm repo", "description": "Manage helm chart repositories for Azure Container Registries.", "id": "az_acr_helm_repo"}
+{"command": "az acr token credential", "description": "Manage credentials of a token for an Azure Container Registry.", "id": "az_acr_token_credential"}
+{"command": "az acr manifest metadata", "description": "Manage artifact manifest metadata in Azure Container Registries.", "id": "az_acr_manifest_metadata"}
+{"command": "az acr task credential", "description": "Manage credentials for a task. Please see https://aka.ms/acr/tasks/cross-registry-authentication for more information.", "id": "az_acr_task_credential"}
+{"command": "az acr task identity", "description": "Managed Identities for Task. Please see https://aka.ms/acr/tasks/task-create-managed-identity for more information.", "id": "az_acr_task_identity"}
+{"command": "az acr task timer", "description": "Manage timer triggers for a task.", "id": "az_acr_task_timer"}
+{"command": "az acr config content-trust", "description": "Manage content-trust policy for Azure Container Registries.", "id": "az_acr_config_content-trust"}
+{"command": "az acr config authentication-as-arm", "description": "Manage 'Azure AD authenticate as ARM' policy for Azure Container Registries.", "id": "az_acr_config_authentication-as-arm"}
+{"command": "az acr config soft-delete", "description": "Manage soft-delete policy for Azure Container Registries.", "id": "az_acr_config_soft-delete"}
+{"command": "az acr config retention", "description": "Manage retention policy for Azure Container Registries.", "id": "az_acr_config_retention"}
+{"command": "az acr artifact-streaming operation", "description": "Manage the streaming artifact creation operations for ACR.", "id": "az_acr_artifact-streaming_operation"}
+{"command": "az acr connected-registry permissions", "description": "Manage the repository permissions accross multiple connected registries. Please see https://aka.ms/acr/connected-registry for more information.", "id": "az_acr_connected-registry_permissions"}
+{"command": "az acr connected-registry install", "description": "Help to access the necessary information for installing a connected registry. Please see https://aka.ms/acr/connected-registry for more information.", "id": "az_acr_connected-registry_install"}
+{"command": "az bicep", "description": "Bicep CLI command group.", "id": "az_bicep"}
+{"command": "az tsi", "description": "Manage Azure Time Series Insights.", "id": "az_tsi"}
+{"command": "az ts", "description": "Manage template specs at subscription or resource group scope.", "id": "az_ts"}
+{"command": "az tsi access-policy", "description": "Manage access policy with timeseriesinsights.", "id": "az_tsi_access-policy"}
+{"command": "az tsi event-source", "description": "Manage event source with timeseriesinsights.", "id": "az_tsi_event-source"}
+{"command": "az tsi reference-data-set", "description": "Manage reference data set with timeseriesinsights.", "id": "az_tsi_reference-data-set"}
+{"command": "az tsi environment", "description": "Manage environment with Azure Time Series Insights.", "id": "az_tsi_environment"}
+{"command": "az tsi event-source eventhub", "description": "Manage event source with timeseriesinsights sub group event-hub.", "id": "az_tsi_event-source_eventhub"}
+{"command": "az tsi event-source iothub", "description": "Manage event source with timeseriesinsights sub group iot-hub.", "id": "az_tsi_event-source_iothub"}
+{"command": "az tsi environment gen2", "description": "Manage a gen2 environment in the specified subscription and resource group.", "id": "az_tsi_environment_gen2"}
+{"command": "az tsi environment gen1", "description": "Manage a gen1 environment in the specified subscription and resource group.", "id": "az_tsi_environment_gen1"}
+{"command": "az dnc", "description": "Manage Delegated Network.", "id": "az_dnc"}
+{"command": "az dnc delegated-subnet-service", "description": "Manage delegated subnet service with dnc.", "id": "az_dnc_delegated-subnet-service"}
+{"command": "az dnc orchestrator-instance-service", "description": "Manage orchestrator instance service with dnc.", "id": "az_dnc_orchestrator-instance-service"}
+{"command": "az dnc controller", "description": "Manage controller with dnc.", "id": "az_dnc_controller"}
+{"command": "az staticwebapp", "description": "Manage static apps.", "id": "az_staticwebapp"}
+{"command": "az staticwebapp enterprise-edge", "description": "Manage the Azure Front Door CDN for static webapps. For optimal experience and availability please check our documentation https://aka.ms/swaedge.", "id": "az_staticwebapp_enterprise-edge"}
+{"command": "az staticwebapp appsettings", "description": "Manage app settings the static app.", "id": "az_staticwebapp_appsettings"}
+{"command": "az staticwebapp identity", "description": "Manage a static web app's managed identity.", "id": "az_staticwebapp_identity"}
+{"command": "az staticwebapp hostname", "description": "Manage custom hostnames of Functions of the static app.", "id": "az_staticwebapp_hostname"}
+{"command": "az staticwebapp dbconnection", "description": "Manage Static Web App database connections.", "id": "az_staticwebapp_dbconnection"}
+{"command": "az staticwebapp backends", "description": "Link or unlink a prexisting backend with a static web app. Also known as \"Bring your own API.\".", "id": "az_staticwebapp_backends"}
+{"command": "az staticwebapp secrets", "description": "Manage deployment token for the static app.", "id": "az_staticwebapp_secrets"}
+{"command": "az staticwebapp functions", "description": "Link or unlink a prexisting functionapp with a static webapp. Also known as \"Bring your own Functions.\".", "id": "az_staticwebapp_functions"}
+{"command": "az staticwebapp environment", "description": "Manage environment of the static app.", "id": "az_staticwebapp_environment"}
+{"command": "az staticwebapp users", "description": "Manage users of the static app.", "id": "az_staticwebapp_users"}
+{"command": "az adp", "description": "Manage Azure Autonomous Development Platform resources.", "id": "az_adp"}
+{"command": "az advisor", "description": "Manage Azure Advisor.", "id": "az_advisor"}
+{"command": "az ad", "description": "Manage Azure Active Directory Graph entities needed for Role Based Access Control.", "id": "az_ad"}
+{"command": "az adp account", "description": "Manage adp accounts.", "id": "az_adp_account"}
+{"command": "az adp workspace", "description": "Manage adp workspace.", "id": "az_adp_workspace"}
+{"command": "az adp account data-pool", "description": "Manage adp data-pool.", "id": "az_adp_account_data-pool"}
+{"command": "az advisor configuration", "description": "Manage Azure Advisor configuration.", "id": "az_advisor_configuration"}
+{"command": "az advisor recommendation", "description": "Review Azure Advisor recommendations.", "id": "az_advisor_recommendation"}
+{"command": "az ad ds", "description": "Manage domain service with azure active directory.", "id": "az_ad_ds"}
+{"command": "az ad group", "description": "Manage Azure Active Directory groups.", "id": "az_ad_group"}
+{"command": "az ad sp", "description": "Manage Azure Active Directory service principals for automation authentication.", "id": "az_ad_sp"}
+{"command": "az ad signed-in-user", "description": "Show graph information about current signed-in user in CLI.", "id": "az_ad_signed-in-user"}
+{"command": "az ad app", "description": "Manage applications with AAD Graph.", "id": "az_ad_app"}
+{"command": "az ad user", "description": "Manage Azure Active Directory users and user authentication.", "id": "az_ad_user"}
+{"command": "az ad app credential", "description": "Manage an application's password or certificate credentials.", "id": "az_ad_app_credential"}
+{"command": "az ad app federated-credential", "description": "Manage application federated identity credentials.", "id": "az_ad_app_federated-credential"}
+{"command": "az ad app permission", "description": "Manage an application's OAuth2 permissions.", "id": "az_ad_app_permission"}
+{"command": "az ad app owner", "description": "Manage application owners.", "id": "az_ad_app_owner"}
+{"command": "az ad sp credential", "description": "Manage a service principal's password or certificate credentials.", "id": "az_ad_sp_credential"}
+{"command": "az ad sp owner", "description": "Manage service principal owners.", "id": "az_ad_sp_owner"}

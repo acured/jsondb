@@ -1,0 +1,100 @@
+{"command": "az webpubsub service", "description": "Commands to manage Webpubsub service.", "id": "az_webpubsub_service"}
+{"command": "az webpubsub network-rule", "description": "Commands to manage Webpubsub network rules.", "id": "az_webpubsub_network-rule"}
+{"command": "az webpubsub service group", "description": "Commands to manage Webpubsub service groups.", "id": "az_webpubsub_service_group"}
+{"command": "az webpubsub service permission", "description": "Commands to manage Webpubsub service permissions.", "id": "az_webpubsub_service_permission"}
+{"command": "az webpubsub service connection", "description": "Commands to manage Webpubsub service connections.", "id": "az_webpubsub_service_connection"}
+{"command": "az webpubsub service user", "description": "Commands to manage Webpubsub service users.", "id": "az_webpubsub_service_user"}
+{"command": "az tsi", "description": "Manage Azure Time Series Insights.", "id": "az_tsi"}
+{"command": "az tsi access-policy", "description": "Manage access policy with timeseriesinsights.", "id": "az_tsi_access-policy"}
+{"command": "az tsi event-source", "description": "Manage event source with timeseriesinsights.", "id": "az_tsi_event-source"}
+{"command": "az tsi reference-data-set", "description": "Manage reference data set with timeseriesinsights.", "id": "az_tsi_reference-data-set"}
+{"command": "az tsi environment", "description": "Manage environment with Azure Time Series Insights.", "id": "az_tsi_environment"}
+{"command": "az tsi event-source eventhub", "description": "Manage event source with timeseriesinsights sub group event-hub.", "id": "az_tsi_event-source_eventhub"}
+{"command": "az tsi event-source iothub", "description": "Manage event source with timeseriesinsights sub group iot-hub.", "id": "az_tsi_event-source_iothub"}
+{"command": "az tsi environment gen2", "description": "Manage a gen2 environment in the specified subscription and resource group.", "id": "az_tsi_environment_gen2"}
+{"command": "az tsi environment gen1", "description": "Manage a gen1 environment in the specified subscription and resource group.", "id": "az_tsi_environment_gen1"}
+{"command": "az webapp", "description": "Manage web apps.", "id": "az_webapp"}
+{"command": "az webapp webjob", "description": "Allows management operations for webjobs on a web app.", "id": "az_webapp_webjob"}
+{"command": "az webapp vnet-integration", "description": "Methods that list, add, and remove virtual network integrations from a webapp.", "id": "az_webapp_vnet-integration"}
+{"command": "az webapp config", "description": "Configure a web app.", "id": "az_webapp_config"}
+{"command": "az webapp hybrid-connection", "description": "Methods that list, add and remove hybrid-connections from webapps.", "id": "az_webapp_hybrid-connection"}
+{"command": "az webapp identity", "description": "Manage web app's managed identity.", "id": "az_webapp_identity"}
+{"command": "az webapp log", "description": "Manage web app logs.", "id": "az_webapp_log"}
+{"command": "az webapp deployment", "description": "Manage web app deployments.", "id": "az_webapp_deployment"}
+{"command": "az webapp traffic-routing", "description": "Manage traffic routing for web apps.", "id": "az_webapp_traffic-routing"}
+{"command": "az webapp cors", "description": "Manage Cross-Origin Resource Sharing (CORS).", "id": "az_webapp_cors"}
+{"command": "az webapp scan", "description": "Holds group of commands which cater to webapp scans. Currently available only for Linux based webapps.", "id": "az_webapp_scan"}
+{"command": "az webapp deleted", "description": "Manage deleted web apps.", "id": "az_webapp_deleted"}
+{"command": "az webapp auth-classic", "description": "Manage webapp authentication and authorization in the classic format.", "id": "az_webapp_auth-classic"}
+{"command": "az webapp connection", "description": "Commands to manage webapp connections.", "id": "az_webapp_connection"}
+{"command": "az webapp auth", "description": "Manage webapp authentication and authorization. To use v2 auth commands, run \"az extension add --name authV2\" to add the authV2 CLI extension.", "id": "az_webapp_auth"}
+{"command": "az webapp deployment container", "description": "Manage container-based continuous deployment.", "id": "az_webapp_deployment_container"}
+{"command": "az webapp deployment slot", "description": "Manage web app deployment slots.", "id": "az_webapp_deployment_slot"}
+{"command": "az webapp deployment github-actions", "description": "Configure GitHub Actions for a webapp.", "id": "az_webapp_deployment_github-actions"}
+{"command": "az webapp deployment user", "description": "Manage user credentials for deployment.", "id": "az_webapp_deployment_user"}
+{"command": "az webapp deployment source", "description": "Manage web app deployment via source control.", "id": "az_webapp_deployment_source"}
+{"command": "az webapp auth github", "description": "Manage webapp authentication and authorization of the GitHub identity provider.", "id": "az_webapp_auth_github"}
+{"command": "az webapp auth config-version", "description": "Manage the state of the configuration version for the authentication settings for the webapp. Configuration version v1 refers to the /authSettings endpoints whereas v2 refers to the /authSettingsV2 endpoints.", "id": "az_webapp_auth_config-version"}
+{"command": "az webapp auth google", "description": "Manage webapp authentication and authorization of the Google identity provider.", "id": "az_webapp_auth_google"}
+{"command": "az webapp auth microsoft", "description": "Manage webapp authentication and authorization of the Microsoft identity provider.", "id": "az_webapp_auth_microsoft"}
+{"command": "az webapp auth apple", "description": "Manage webapp authentication and authorization of the Apple identity provider.", "id": "az_webapp_auth_apple"}
+{"command": "az webapp auth openid-connect", "description": "Manage webapp authentication and authorization of the custom OpenID Connect identity providers.", "id": "az_webapp_auth_openid-connect"}
+{"command": "az webapp auth facebook", "description": "Manage webapp authentication and authorization of the Facebook identity provider.", "id": "az_webapp_auth_facebook"}
+{"command": "az webapp auth twitter", "description": "Manage webapp authentication and authorization of the Twitter identity provider.", "id": "az_webapp_auth_twitter"}
+{"command": "az webapp config container", "description": "Manage an existing web app's container settings.", "id": "az_webapp_config_container"}
+{"command": "az webapp config backup", "description": "Manage backups for web apps.", "id": "az_webapp_config_backup"}
+{"command": "az webapp config appsettings", "description": "Configure web app settings. Updating or removing application settings will cause an app recycle.", "id": "az_webapp_config_appsettings"}
+{"command": "az webapp config snapshot", "description": "Manage web app snapshots.", "id": "az_webapp_config_snapshot"}
+{"command": "az webapp config hostname", "description": "Configure hostnames for a web app.", "id": "az_webapp_config_hostname"}
+{"command": "az webapp config access-restriction", "description": "Methods that show, set, add, and remove access restrictions on a webapp.", "id": "az_webapp_config_access-restriction"}
+{"command": "az webapp config ssl", "description": "Configure SSL certificates for web apps.", "id": "az_webapp_config_ssl"}
+{"command": "az webapp config storage-account", "description": "Manage a web app's Azure storage account configurations. (Linux Web Apps and Windows Containers Web Apps Only).", "id": "az_webapp_config_storage-account"}
+{"command": "az webapp config connection-string", "description": "Manage a web app's connection strings.", "id": "az_webapp_config_connection-string"}
+{"command": "az webapp connection create", "description": "Create a connection between a webapp and a target resource.", "id": "az_webapp_connection_create"}
+{"command": "az webapp connection update", "description": "Update a webapp connection.", "id": "az_webapp_connection_update"}
+{"command": "az webapp log deployment", "description": "Manage web app deployment logs.", "id": "az_webapp_log_deployment"}
+{"command": "az webapp webjob triggered", "description": "Allows management operations of triggered webjobs on a web app.", "id": "az_webapp_webjob_triggered"}
+{"command": "az webapp webjob continuous", "description": "Allows management operations of continuous webjobs on a web app.", "id": "az_webapp_webjob_continuous"}
+{"command": "az ai-examples", "description": "Add AI powered examples to help content.", "id": "az_ai-examples"}
+{"command": "az account", "description": "Manage Azure subscription information.", "id": "az_account"}
+{"command": "az account tenant", "description": "Manage tenant.", "id": "az_account_tenant"}
+{"command": "az account subscription", "description": "Manage subscriptions.", "id": "az_account_subscription"}
+{"command": "az account management-group", "description": "Manage Azure Management Groups.", "id": "az_account_management-group"}
+{"command": "az account lock", "description": "Manage Azure subscription level locks.", "id": "az_account_lock"}
+{"command": "az account alias", "description": "Manage subscription alias.", "id": "az_account_alias"}
+{"command": "az account management-group tenant-backfill", "description": "Backfill Tenant Subscription Operations for Management Groups.", "id": "az_account_management-group_tenant-backfill"}
+{"command": "az account management-group subscription", "description": "Subscription operations for Management Groups.", "id": "az_account_management-group_subscription"}
+{"command": "az account management-group entities", "description": "Entity operations (Management Group and Subscriptions) for Management Groups.", "id": "az_account_management-group_entities"}
+{"command": "az account management-group hierarchy-settings", "description": "Provide operations for hierarchy settings defined at the management group level. Settings can only be set on the root Management Group of the hierarchy.", "id": "az_account_management-group_hierarchy-settings"}
+{"command": "az deployment", "description": "Manage Azure Resource Manager template deployment at subscription scope.", "id": "az_deployment"}
+{"command": "az deployment-scripts", "description": "Manage deployment scripts at subscription or resource group scope.", "id": "az_deployment-scripts"}
+{"command": "az deployment tenant", "description": "Manage Azure Resource Manager template deployment at tenant scope.", "id": "az_deployment_tenant"}
+{"command": "az deployment group", "description": "Manage Azure Resource Manager template deployment at resource group.", "id": "az_deployment_group"}
+{"command": "az deployment operation", "description": "Manage deployment operations at subscription scope.", "id": "az_deployment_operation"}
+{"command": "az deployment mg", "description": "Manage Azure Resource Manager template deployment at management group.", "id": "az_deployment_mg"}
+{"command": "az deployment sub", "description": "Manage Azure Resource Manager template deployment at subscription scope.", "id": "az_deployment_sub"}
+{"command": "az deployment operation tenant", "description": "Manage deployment operations at tenant scope.", "id": "az_deployment_operation_tenant"}
+{"command": "az deployment operation group", "description": "Manage deployment operations at resource group.", "id": "az_deployment_operation_group"}
+{"command": "az deployment operation mg", "description": "Manage deployment operations at management group.", "id": "az_deployment_operation_mg"}
+{"command": "az deployment operation sub", "description": "Manage deployment operations at subscription scope.", "id": "az_deployment_operation_sub"}
+{"command": "az appservice", "description": "Manage App Service plans.", "id": "az_appservice"}
+{"command": "az appservice domain", "description": "Manage custom domains.", "id": "az_appservice_domain"}
+{"command": "az appservice vnet-integration", "description": "A method that lists the virtual network integrations used in an appservice plan.", "id": "az_appservice_vnet-integration"}
+{"command": "az appservice hybrid-connection", "description": "A method that sets the key a hybrid-connection uses.", "id": "az_appservice_hybrid-connection"}
+{"command": "az appservice kube", "description": "Manage Kubernetes Environments.", "id": "az_appservice_kube"}
+{"command": "az appservice ase", "description": "Manage App Service Environments.", "id": "az_appservice_ase"}
+{"command": "az appservice plan", "description": "Manage app service plans.", "id": "az_appservice_plan"}
+{"command": "az vmware", "description": "Commands to manage Azure VMware Solution.", "id": "az_vmware"}
+{"command": "az vmware datastore", "description": "Commands to manage a datastore in a private cloud cluster.", "id": "az_vmware_datastore"}
+{"command": "az vmware cluster", "description": "Commands to manage all the clusters in a private cloud, excluding the first cluster which is the default management cluster.", "id": "az_vmware_cluster"}
+{"command": "az vmware hcx-enterprise-site", "description": "Commands to manage HCX Enterprise Sites in a private cloud.", "id": "az_vmware_hcx-enterprise-site"}
+{"command": "az vmware script-execution", "description": "Commands to manage script executions in a private cloud.", "id": "az_vmware_script-execution"}
+{"command": "az vmware global-reach-connection", "description": "Commands to manage global reach connections in a private cloud.", "id": "az_vmware_global-reach-connection"}
+{"command": "az vmware addon", "description": "Commands to manage addons for a private cloud.", "id": "az_vmware_addon"}
+{"command": "az vmware authorization", "description": "Commands to manage the authorizations of an ExpressRoute Circuit for a private cloud.", "id": "az_vmware_authorization"}
+{"command": "az vmware private-cloud", "description": "Commands to manage private clouds.", "id": "az_vmware_private-cloud"}
+{"command": "az vmware cloud-link", "description": "Commands to manage cloud links in a private cloud.", "id": "az_vmware_cloud-link"}
+{"command": "az vmware location", "description": "Commands to check availability by location.", "id": "az_vmware_location"}
+{"command": "az vmware workload-network", "description": "Commands to manage workload-networks in a private cloud.", "id": "az_vmware_workload-network"}
+{"command": "az vmware vm", "description": "Commands to manage Virtual Machines.", "id": "az_vmware_vm"}
+{"command": "az vmware placement-policy", "description": "Commands to manage placement policies.", "id": "az_vmware_placement-policy"}

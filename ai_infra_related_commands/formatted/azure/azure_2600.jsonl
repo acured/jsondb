@@ -1,0 +1,100 @@
+{"command": "az relay", "description": "Manage Azure Relay Service namespaces, WCF relays, hybrid connections, and rules.", "id": "az_relay"}
+{"command": "az relay hyco", "description": "Manage Azure Relay Service Hybrid Connection and Authorization Rule.", "id": "az_relay_hyco"}
+{"command": "az relay wcfrelay", "description": "Manage Azure Relay Service WCF Relay and Authorization Rule.", "id": "az_relay_wcfrelay"}
+{"command": "az relay namespace", "description": "Manage Azure Relay Service Namespace.", "id": "az_relay_namespace"}
+{"command": "az relay wcfrelay authorization-rule", "description": "Manage Azure Relay Service WCF Relay Authorization Rule.", "id": "az_relay_wcfrelay_authorization-rule"}
+{"command": "az relay wcfrelay authorization-rule keys", "description": "Manage Azure Authorization Rule keys for Relay Service WCF Relay.", "id": "az_relay_wcfrelay_authorization-rule_keys"}
+{"command": "az relay namespace authorization-rule", "description": "Manage Azure Relay Service Namespace Authorization Rule.", "id": "az_relay_namespace_authorization-rule"}
+{"command": "az relay namespace authorization-rule keys", "description": "Manage Azure Authorization Rule connection strings for Namespace.", "id": "az_relay_namespace_authorization-rule_keys"}
+{"command": "az relay hyco authorization-rule", "description": "Manage Azure Relay Service Hybrid Connection Authorization Rule.", "id": "az_relay_hyco_authorization-rule"}
+{"command": "az relay hyco authorization-rule keys", "description": "Manage Azure Authorization Rule keys for Relay Service Hybrid Connection.", "id": "az_relay_hyco_authorization-rule_keys"}
+{"command": "az batchai", "description": "Manage Batch AI resources.", "id": "az_batchai"}
+{"command": "az batch", "description": "Manage Azure Batch.", "id": "az_batch"}
+{"command": "az batch node", "description": "Manage Batch compute nodes.", "id": "az_batch_node"}
+{"command": "az batch application", "description": "Manage Batch applications.", "id": "az_batch_application"}
+{"command": "az batch file", "description": "Manage Batch input files.", "id": "az_batch_file"}
+{"command": "az batch account", "description": "Manage Azure Batch accounts.", "id": "az_batch_account"}
+{"command": "az batch location", "description": "Manage Batch service options for a subscription at the region level.", "id": "az_batch_location"}
+{"command": "az batch job-schedule", "description": "Manage Batch job schedules.", "id": "az_batch_job-schedule"}
+{"command": "az batch private-endpoint-connection", "description": "Manage Batch account private endpoint connections.", "id": "az_batch_private-endpoint-connection"}
+{"command": "az batch job", "description": "Manage Batch jobs.", "id": "az_batch_job"}
+{"command": "az batch certificate", "description": "Manage Batch certificates.", "id": "az_batch_certificate"}
+{"command": "az batch private-link-resource", "description": "Manage Batch account private Link Resources.", "id": "az_batch_private-link-resource"}
+{"command": "az batch task", "description": "Manage Batch tasks.", "id": "az_batch_task"}
+{"command": "az batch pool", "description": "Manage Batch pools.", "id": "az_batch_pool"}
+{"command": "az batch job prep-release-status", "description": "View the status of Batch job preparation and release tasks.", "id": "az_batch_job_prep-release-status"}
+{"command": "az batch job task-counts", "description": "View the number of tasks and slots in a Batch job and their states.", "id": "az_batch_job_task-counts"}
+{"command": "az batch task file", "description": "Manage Batch task files.", "id": "az_batch_task_file"}
+{"command": "az batch task subtask", "description": "Manage subtask information of a Batch task.", "id": "az_batch_task_subtask"}
+{"command": "az batch account autostorage-keys", "description": "Manage the access keys for the auto storage account configured for a Batch account.", "id": "az_batch_account_autostorage-keys"}
+{"command": "az batch account identity", "description": "Manage identities of a batch account.", "id": "az_batch_account_identity"}
+{"command": "az batch account keys", "description": "Manage Batch account keys.", "id": "az_batch_account_keys"}
+{"command": "az batch account network-profile", "description": "Manage Batch account Network profiles.", "id": "az_batch_account_network-profile"}
+{"command": "az batch account network-profile network-rule", "description": "Manage Batch account Network rules in Network Profile.", "id": "az_batch_account_network-profile_network-rule"}
+{"command": "az batch application package", "description": "Manage Batch application packages.", "id": "az_batch_application_package"}
+{"command": "az batch application summary", "description": "View a summary of Batch application packages.", "id": "az_batch_application_summary"}
+{"command": "az batch node remote-desktop", "description": "Retrieve the remote desktop protocol file for a Batch compute node.", "id": "az_batch_node_remote-desktop"}
+{"command": "az batch node file", "description": "Manage Batch compute node files.", "id": "az_batch_node_file"}
+{"command": "az batch node scheduling", "description": "Manage task scheduling for a Batch compute node.", "id": "az_batch_node_scheduling"}
+{"command": "az batch node service-logs", "description": "Manage the service log files of a Batch compute node.", "id": "az_batch_node_service-logs"}
+{"command": "az batch node remote-login-settings", "description": "Retrieve the remote login settings for a Batch compute node.", "id": "az_batch_node_remote-login-settings"}
+{"command": "az batch node user", "description": "Manage the user accounts of a Batch compute node.", "id": "az_batch_node_user"}
+{"command": "az batch location quotas", "description": "Manage Batch service quotas at the region level.", "id": "az_batch_location_quotas"}
+{"command": "az batch pool supported-images", "description": "Query information on VM images supported by Azure Batch service.", "id": "az_batch_pool_supported-images"}
+{"command": "az batch pool node-counts", "description": "Get node counts for Batch pools.", "id": "az_batch_pool_node-counts"}
+{"command": "az batch pool autoscale", "description": "Manage automatic scaling of Batch pools.", "id": "az_batch_pool_autoscale"}
+{"command": "az batch pool usage-metrics", "description": "View usage metrics of Batch pools.", "id": "az_batch_pool_usage-metrics"}
+{"command": "az batchai cluster", "description": "Commands to manage clusters.", "id": "az_batchai_cluster"}
+{"command": "az batchai file-server", "description": "Commands to manage file servers.", "id": "az_batchai_file-server"}
+{"command": "az batchai experiment", "description": "Commands to manage experiments.", "id": "az_batchai_experiment"}
+{"command": "az batchai job", "description": "Commands to manage jobs.", "id": "az_batchai_job"}
+{"command": "az batchai workspace", "description": "Commands to manage workspaces.", "id": "az_batchai_workspace"}
+{"command": "az batchai job node", "description": "Commands to work with nodes which executed a job.", "id": "az_batchai_job_node"}
+{"command": "az batchai job file", "description": "Commands to list and stream files in job's output directories.", "id": "az_batchai_job_file"}
+{"command": "az batchai cluster node", "description": "Commands to work with cluster nodes.", "id": "az_batchai_cluster_node"}
+{"command": "az batchai cluster file", "description": "Commands to work with files generated by node setup task.", "id": "az_batchai_cluster_file"}
+{"command": "az devops", "description": "Manage Azure DevOps organization level operations.", "id": "az_devops"}
+{"command": "az devops extension", "description": "Manage extensions.", "id": "az_devops_extension"}
+{"command": "az devops service-endpoint", "description": "Manage service endpoints/connections.", "id": "az_devops_service-endpoint"}
+{"command": "az devops project", "description": "Manage team projects.", "id": "az_devops_project"}
+{"command": "az devops team", "description": "Manage teams.", "id": "az_devops_team"}
+{"command": "az devops wiki", "description": "Manage wikis.", "id": "az_devops_wiki"}
+{"command": "az devops admin", "description": "Manage administration operations.", "id": "az_devops_admin"}
+{"command": "az devops user", "description": "Manage users.", "id": "az_devops_user"}
+{"command": "az devops security", "description": "Manage security related operations.", "id": "az_devops_security"}
+{"command": "az devops wiki page", "description": "Manage wiki pages.", "id": "az_devops_wiki_page"}
+{"command": "az devops security group", "description": "Manage security groups.", "id": "az_devops_security_group"}
+{"command": "az devops security permission", "description": "Manage security permissions.", "id": "az_devops_security_permission"}
+{"command": "az devops security permission namespace", "description": "Manage security namespaces.", "id": "az_devops_security_permission_namespace"}
+{"command": "az devops security group membership", "description": "Manage memberships for security groups.", "id": "az_devops_security_group_membership"}
+{"command": "az devops service-endpoint github", "description": "Manage GitHub service endpoints/connections.", "id": "az_devops_service-endpoint_github"}
+{"command": "az devops service-endpoint azurerm", "description": "Manage Azure RM service endpoints/connections.", "id": "az_devops_service-endpoint_azurerm"}
+{"command": "az devops admin banner", "description": "Manage organization banner.", "id": "az_devops_admin_banner"}
+{"command": "az footprint", "description": null, "id": "az_footprint"}
+{"command": "az footprint measurement-endpoint-condition", "description": "Commands to manage measurement endpoint conditions under a measurement endpoint.", "id": "az_footprint_measurement-endpoint-condition"}
+{"command": "az footprint measurement-endpoint", "description": "Commands to manage measurement endpoints under a profile.", "id": "az_footprint_measurement-endpoint"}
+{"command": "az footprint experiment", "description": "Commands to manage experiments under a profile.", "id": "az_footprint_experiment"}
+{"command": "az footprint profile", "description": "Commands to manage Footprint profiles.", "id": "az_footprint_profile"}
+{"command": "az devcenter", "description": "Manage resources with devcenter.", "id": "az_devcenter"}
+{"command": "az devcenter dev", "description": "Manage devcenter developer resources.", "id": "az_devcenter_dev"}
+{"command": "az devcenter admin", "description": "Manage devcenter admin resources.", "id": "az_devcenter_admin"}
+{"command": "az devcenter dev dev-box", "description": "Manage dev boxes.", "id": "az_devcenter_dev_dev-box"}
+{"command": "az devcenter dev catalog", "description": "Manage catalogs.", "id": "az_devcenter_dev_catalog"}
+{"command": "az devcenter dev project", "description": "Manage projects.", "id": "az_devcenter_dev_project"}
+{"command": "az devcenter dev environment-type", "description": "Manage environment types.", "id": "az_devcenter_dev_environment-type"}
+{"command": "az devcenter dev schedule", "description": "Manage schedules.", "id": "az_devcenter_dev_schedule"}
+{"command": "az devcenter dev environment-definition", "description": "Manage environment definitions.", "id": "az_devcenter_dev_environment-definition"}
+{"command": "az devcenter dev environment", "description": "Manage environments.", "id": "az_devcenter_dev_environment"}
+{"command": "az devcenter dev pool", "description": "Manage pools.", "id": "az_devcenter_dev_pool"}
+{"command": "az devcenter admin usage", "description": "Manage usages.", "id": "az_devcenter_admin_usage"}
+{"command": "az devcenter admin catalog", "description": "Manage catalogs.", "id": "az_devcenter_admin_catalog"}
+{"command": "az devcenter admin project", "description": "Manage projects.", "id": "az_devcenter_admin_project"}
+{"command": "az devcenter admin environment-type", "description": "Manage environment types.", "id": "az_devcenter_admin_environment-type"}
+{"command": "az devcenter admin image", "description": "Manage images.", "id": "az_devcenter_admin_image"}
+{"command": "az devcenter admin attached-network", "description": "Manage attached networks.", "id": "az_devcenter_admin_attached-network"}
+{"command": "az devcenter admin schedule", "description": "Manage schedules.", "id": "az_devcenter_admin_schedule"}
+{"command": "az devcenter admin check-name-availability", "description": "Manage check name availability.", "id": "az_devcenter_admin_check-name-availability"}
+{"command": "az devcenter admin project-allowed-environment-type", "description": "Manage project allowed environment types.", "id": "az_devcenter_admin_project-allowed-environment-type"}
+{"command": "az devcenter admin devbox-definition", "description": "Manage dev box definitions.", "id": "az_devcenter_admin_devbox-definition"}
+{"command": "az devcenter admin sku", "description": "Manage skus.", "id": "az_devcenter_admin_sku"}
+{"command": "az devcenter admin environment-definition", "description": "Mange environment definitions in the catalog.", "id": "az_devcenter_admin_environment-definition"}

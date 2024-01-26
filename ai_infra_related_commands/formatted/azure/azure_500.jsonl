@@ -1,0 +1,100 @@
+{"command": "az eventgrid topic key", "description": "Manage shared access keys of a topic.", "id": "az_eventgrid_topic_key"}
+{"command": "az eventgrid topic event-subscription", "description": "Manage event subscriptions of topic.", "id": "az_eventgrid_topic_event-subscription"}
+{"command": "az eventgrid topic private-endpoint-connection", "description": "Manage private endpoint connections of a topic.", "id": "az_eventgrid_topic_private-endpoint-connection"}
+{"command": "az eventgrid topic private-link-resource", "description": "Manage private link resource of a topic.", "id": "az_eventgrid_topic_private-link-resource"}
+{"command": "az eventgrid domain key", "description": "Manage shared access keys of a domain.", "id": "az_eventgrid_domain_key"}
+{"command": "az eventgrid domain topic", "description": "Manage event domain topics.", "id": "az_eventgrid_domain_topic"}
+{"command": "az eventgrid domain event-subscription", "description": "Manage event subscriptions of domain.", "id": "az_eventgrid_domain_event-subscription"}
+{"command": "az eventgrid domain private-endpoint-connection", "description": "Manage private endpoint connection resources of a domain.", "id": "az_eventgrid_domain_private-endpoint-connection"}
+{"command": "az eventgrid domain private-link-resource", "description": "Manage private link resource of a domain.", "id": "az_eventgrid_domain_private-link-resource"}
+{"command": "az eventgrid domain topic event-subscription", "description": "Manage event subscriptions of a domain topic.", "id": "az_eventgrid_domain_topic_event-subscription"}
+{"command": "az appconfig", "description": "Manage App Configurations.", "id": "az_appconfig"}
+{"command": "az appconfig credential", "description": "Manage credentials for App Configurations.", "id": "az_appconfig_credential"}
+{"command": "az appconfig snapshot", "description": "Manage snapshots associated with an app configuration store.", "id": "az_appconfig_snapshot"}
+{"command": "az appconfig kv", "description": "Manage key-values stored in an App Configuration.", "id": "az_appconfig_kv"}
+{"command": "az appconfig identity", "description": "Managed identities for App Configurations.", "id": "az_appconfig_identity"}
+{"command": "az appconfig replica", "description": "Manage replicas of an App Configuration.", "id": "az_appconfig_replica"}
+{"command": "az appconfig feature", "description": "Manage feature flags stored in an App Configuration.", "id": "az_appconfig_feature"}
+{"command": "az appconfig revision", "description": "Manage revisions for key-values stored in an App Configuration.", "id": "az_appconfig_revision"}
+{"command": "az appconfig feature filter", "description": "Manage filters associated with feature flags stored in an App Configuration.", "id": "az_appconfig_feature_filter"}
+{"command": "az remote-rendering-account", "description": "Manage remote rendering account with mixed reality.", "id": "az_remote-rendering-account"}
+{"command": "az remote-rendering-account key", "description": "Manage developer keys of a remote rendering account.", "id": "az_remote-rendering-account_key"}
+{"command": "az stack", "description": "A deployment stack is a native Azure resource type that enables you to perform operations on a resource collection as an atomic unit.", "id": "az_stack"}
+{"command": "az stack-hci", "description": "Manage Azure Stack HCI.", "id": "az_stack-hci"}
+{"command": "az stack-hci-vm", "description": "Manage virtualmachine with stack-hci-vm.", "id": "az_stack-hci-vm"}
+{"command": "az stack group", "description": "Manage Deployment Stacks at resource group.", "id": "az_stack_group"}
+{"command": "az stack mg", "description": "Manage Deployment Stacks at management group.", "id": "az_stack_mg"}
+{"command": "az stack sub", "description": "Manage Deployment Stacks at subscription.", "id": "az_stack_sub"}
+{"command": "az stack-hci-vm disk", "description": "Manage virtualharddisk with stack-hci-vm.", "id": "az_stack-hci-vm_disk"}
+{"command": "az stack-hci-vm network", "description": "Manage network with stack-hvi-vm.", "id": "az_stack-hci-vm_network"}
+{"command": "az stack-hci-vm storagepath", "description": "Manage storagepath with stack-hci-vm.", "id": "az_stack-hci-vm_storagepath"}
+{"command": "az stack-hci-vm image", "description": "Manage images with stack-hci-vm.", "id": "az_stack-hci-vm_image"}
+{"command": "az stack-hci-vm nic", "description": "Manage vNIC of a virtual machine with stack-hci-vm.", "id": "az_stack-hci-vm_nic"}
+{"command": "az stack-hci-vm network lnet", "description": "Manage logicalnetworks with stack-hci-vm.", "id": "az_stack-hci-vm_network_lnet"}
+{"command": "az stack-hci-vm network nic", "description": "Manage networkinterface with stack-hci-vm.", "id": "az_stack-hci-vm_network_nic"}
+{"command": "az stack-hci extension", "description": "Manage extension with stack hci.", "id": "az_stack-hci_extension"}
+{"command": "az stack-hci cluster", "description": "Manage cluster with stack hci.", "id": "az_stack-hci_cluster"}
+{"command": "az stack-hci arc-setting", "description": "Manage arc setting with stack hci.", "id": "az_stack-hci_arc-setting"}
+{"command": "az stack-hci cluster identity", "description": "Manage identity.", "id": "az_stack-hci_cluster_identity"}
+{"command": "az group", "description": "Manage resource groups and template deployments.", "id": "az_group"}
+{"command": "az group deployment", "description": "Manage Azure Resource Manager deployments.", "id": "az_group_deployment"}
+{"command": "az group lock", "description": "Manage Azure resource group locks.", "id": "az_group_lock"}
+{"command": "az group deployment operation", "description": "Manage deployment operations.", "id": "az_group_deployment_operation"}
+{"command": "az hpc-cache", "description": "Commands to manage hpc cache.", "id": "az_hpc-cache"}
+{"command": "az hpc-cache blob-storage-target", "description": "Commands to create hpc cache blob storage target.", "id": "az_hpc-cache_blob-storage-target"}
+{"command": "az hpc-cache nfs-storage-target", "description": "Commands to create hpc cache nfs storage target.", "id": "az_hpc-cache_nfs-storage-target"}
+{"command": "az hpc-cache usage-model", "description": "Commands to manage hpc cache usage model.", "id": "az_hpc-cache_usage-model"}
+{"command": "az hpc-cache storage-target", "description": "Commands to manage hpc cache storage target.", "id": "az_hpc-cache_storage-target"}
+{"command": "az hpc-cache skus", "description": "Commands to manage hpc cache skus.", "id": "az_hpc-cache_skus"}
+{"command": "az azurestackhci", "description": "Manage azurestackhci.", "id": "az_azurestackhci"}
+{"command": "az azurestackhci virtualmachine", "description": "Manage virtualmachine with azurestackhci.", "id": "az_azurestackhci_virtualmachine"}
+{"command": "az azurestackhci virtualharddisk", "description": "Manage virtualharddisk with azurestackhci.", "id": "az_azurestackhci_virtualharddisk"}
+{"command": "az azurestackhci storagepath", "description": "Manage storagepath with azurestackhci.", "id": "az_azurestackhci_storagepath"}
+{"command": "az azurestackhci image", "description": "Manage images with azurestackhci.", "id": "az_azurestackhci_image"}
+{"command": "az azurestackhci virtualnetwork", "description": "Manage virtualnetwork with azurestackhci.", "id": "az_azurestackhci_virtualnetwork"}
+{"command": "az azurestackhci networkinterface", "description": "Manage networkinterface with azurestackhci.", "id": "az_azurestackhci_networkinterface"}
+{"command": "az azurestackhci galleryimage", "description": "Please use 'az azurestackhci image' instead of 'az azurestackhci galleryimage'.", "id": "az_azurestackhci_galleryimage"}
+{"command": "az azurestackhci virtualmachine extension", "description": "Manage virtualmachine extension with azurestackhci.", "id": "az_azurestackhci_virtualmachine_extension"}
+{"command": "az azurestackhci virtualmachine vnic", "description": "Manage vNIC of a virtual machine with azurestackhci.", "id": "az_azurestackhci_virtualmachine_vnic"}
+{"command": "az repos", "description": "Manage Azure Repos.", "id": "az_repos"}
+{"command": "az repos ref", "description": "Manage Git references.", "id": "az_repos_ref"}
+{"command": "az repos policy", "description": "Manage branch policy.", "id": "az_repos_policy"}
+{"command": "az repos import", "description": "Manage Git repositories import.", "id": "az_repos_import"}
+{"command": "az repos pr", "description": "Manage pull requests.", "id": "az_repos_pr"}
+{"command": "az repos policy merge-strategy", "description": "Manage merge strategy policy.", "id": "az_repos_policy_merge-strategy"}
+{"command": "az repos policy file-size", "description": "Manage file size policy.", "id": "az_repos_policy_file-size"}
+{"command": "az repos policy build", "description": "Manage build policy.", "id": "az_repos_policy_build"}
+{"command": "az repos policy approver-count", "description": "Manage approver count policy.", "id": "az_repos_policy_approver-count"}
+{"command": "az repos policy work-item-linking", "description": "Manage work item linking policy.", "id": "az_repos_policy_work-item-linking"}
+{"command": "az repos policy case-enforcement", "description": "Manage case enforcement policy.", "id": "az_repos_policy_case-enforcement"}
+{"command": "az repos policy comment-required", "description": "Manage comment required policy.", "id": "az_repos_policy_comment-required"}
+{"command": "az repos policy required-reviewer", "description": "Manage required reviewer policy.", "id": "az_repos_policy_required-reviewer"}
+{"command": "az repos pr work-item", "description": "Manage work items associated with pull requests.", "id": "az_repos_pr_work-item"}
+{"command": "az repos pr policy", "description": "Manage pull request policy.", "id": "az_repos_pr_policy"}
+{"command": "az repos pr reviewer", "description": "Manage pull request reviewers.", "id": "az_repos_pr_reviewer"}
+{"command": "az containerapp", "description": "Manage Azure Container Apps.", "id": "az_containerapp"}
+{"command": "az containerapp compose", "description": "Commands to create Azure Container Apps from Compose specifications.", "id": "az_containerapp_compose"}
+{"command": "az containerapp identity", "description": "Commands to manage managed identities.", "id": "az_containerapp_identity"}
+{"command": "az containerapp registry", "description": "Commands to manage container registry information.", "id": "az_containerapp_registry"}
+{"command": "az containerapp resiliency", "description": "Commands to manage resiliency policies for a container app.", "id": "az_containerapp_resiliency"}
+{"command": "az containerapp hostname", "description": "Commands to manage hostnames of a container app.", "id": "az_containerapp_hostname"}
+{"command": "az containerapp secret", "description": "Commands to manage secrets.", "id": "az_containerapp_secret"}
+{"command": "az containerapp replica", "description": "Manage container app replicas.", "id": "az_containerapp_replica"}
+{"command": "az containerapp connected-env", "description": "Commands to manage Container Apps Connected environments for use with Arc enabled Container Apps.", "id": "az_containerapp_connected-env"}
+{"command": "az containerapp logs", "description": "Show container app logs.", "id": "az_containerapp_logs"}
+{"command": "az containerapp service", "description": "Commands to manage services available within the environment.", "id": "az_containerapp_service"}
+{"command": "az containerapp dapr", "description": "Commands to manage Dapr. To manage Dapr components, see `az containerapp env dapr-component`.", "id": "az_containerapp_dapr"}
+{"command": "az containerapp job", "description": "Commands to manage Container Apps jobs.", "id": "az_containerapp_job"}
+{"command": "az containerapp env", "description": "Commands to manage Container Apps environments.", "id": "az_containerapp_env"}
+{"command": "az containerapp ssl", "description": "Upload certificate to a managed environment, add hostname to an app in that environment, and bind the certificate to the hostname.", "id": "az_containerapp_ssl"}
+{"command": "az containerapp connection", "description": "Commands to manage containerapp connections.", "id": "az_containerapp_connection"}
+{"command": "az containerapp auth", "description": "Manage containerapp authentication and authorization.", "id": "az_containerapp_auth"}
+{"command": "az containerapp github-action", "description": "Commands to manage GitHub Actions.", "id": "az_containerapp_github-action"}
+{"command": "az containerapp patch", "description": "Patch Azure Container Apps. Patching is only available for the apps built using the source to cloud feature. See https://aka.ms/aca-local-source-to-cloud.", "id": "az_containerapp_patch"}
+{"command": "az containerapp ingress", "description": "Commands to manage ingress and traffic-splitting.", "id": "az_containerapp_ingress"}
+{"command": "az containerapp revision", "description": "Commands to manage revisions.", "id": "az_containerapp_revision"}
+{"command": "az containerapp add-on", "description": "Commands to manage add-ons available within the environment.", "id": "az_containerapp_add-on"}
+{"command": "az containerapp job identity", "description": "Commands to manage managed identities for container app job.", "id": "az_containerapp_job_identity"}
+{"command": "az containerapp job execution", "description": "Commands to view executions of a Container App Job.", "id": "az_containerapp_job_execution"}
+{"command": "az containerapp job secret", "description": "Commands to manage secrets.", "id": "az_containerapp_job_secret"}
+{"command": "az containerapp env dapr-component", "description": "Commands to manage Dapr components for the Container Apps environment.", "id": "az_containerapp_env_dapr-component"}

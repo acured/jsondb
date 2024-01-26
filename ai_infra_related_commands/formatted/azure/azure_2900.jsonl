@@ -1,0 +1,100 @@
+{"command": "az security assessment-metadata", "description": "View your security assessment metadata.", "id": "az_security_assessment-metadata"}
+{"command": "az security sub-assessment", "description": "View your security sub assessments.", "id": "az_security_sub-assessment"}
+{"command": "az security va", "description": "View Vulnerability Assessment.", "id": "az_security_va"}
+{"command": "az security secure-score-control-definitions", "description": "Secure score control definitions.", "id": "az_security_secure-score-control-definitions"}
+{"command": "az security iot-analytics", "description": "View IoT Security Analytics metrics.", "id": "az_security_iot-analytics"}
+{"command": "az security setting", "description": "View your security settings.", "id": "az_security_setting"}
+{"command": "az security discovered-security-solution", "description": "View your discovered security solutions.", "id": "az_security_discovered-security-solution"}
+{"command": "az security automation-rule", "description": "Creates security automation rule.", "id": "az_security_automation-rule"}
+{"command": "az security automation-source", "description": "Creates security automation source.", "id": "az_security_automation-source"}
+{"command": "az security jit-policy", "description": "Manage your Just in Time network access policies.", "id": "az_security_jit-policy"}
+{"command": "az security security-solutions-reference-data", "description": "Display all security solutions reference data at the subscription level.", "id": "az_security_security-solutions-reference-data"}
+{"command": "az security automation-action-event-hub", "description": "Creates security automation event hub action.", "id": "az_security_automation-action-event-hub"}
+{"command": "az security task", "description": "View security tasks (recommendations).", "id": "az_security_task"}
+{"command": "az security assessment", "description": "View your security assessment results.", "id": "az_security_assessment"}
+{"command": "az security iot-alerts", "description": "View IoT Security aggregated alerts.", "id": "az_security_iot-alerts"}
+{"command": "az security regulatory-compliance-standards", "description": "Regulatory compliance standards.", "id": "az_security_regulatory-compliance-standards"}
+{"command": "az security automation-action-logic-app", "description": "Creates security automation logic app action.", "id": "az_security_automation-action-logic-app"}
+{"command": "az security automation-action-workspace", "description": "Creates security automation workspace action.", "id": "az_security_automation-action-workspace"}
+{"command": "az security va sql", "description": "View Sql Vulnerability Assessment scan results and manage baseline.", "id": "az_security_va_sql"}
+{"command": "az security va sql results", "description": "View Sql Vulnerability Assessment scan results.", "id": "az_security_va_sql_results"}
+{"command": "az security va sql scans", "description": "View Sql Vulnerability Assessment scan summaries.", "id": "az_security_va_sql_scans"}
+{"command": "az security va sql baseline", "description": "View and manage Sql Vulnerability Assessment baseline.", "id": "az_security_va_sql_baseline"}
+{"command": "az security atp storage", "description": "View and manage Advanced Threat Protection settings for storage accounts.", "id": "az_security_atp_storage"}
+{"command": "az security atp cosmosdb", "description": "View and manage Advanced Threat Protection settings for Cosmos DB accounts.", "id": "az_security_atp_cosmosdb"}
+{"command": "az hdinsight-on-aks", "description": "HDInsight on Aks CLI.", "id": "az_hdinsight-on-aks"}
+{"command": "az hdinsight-on-aks cluster", "description": "Cluster operations.", "id": "az_hdinsight-on-aks_cluster"}
+{"command": "az hdinsight-on-aks clusterpool", "description": "Clusterpool operations.", "id": "az_hdinsight-on-aks_clusterpool"}
+{"command": "az hdinsight-on-aks cluster secret", "description": "Manage secret reference.", "id": "az_hdinsight-on-aks_cluster_secret"}
+{"command": "az hdinsight-on-aks cluster job", "description": "Cluster job operations.", "id": "az_hdinsight-on-aks_cluster_job"}
+{"command": "az hdinsight-on-aks cluster trino-hive-catalog", "description": "Manage hive catalog config.", "id": "az_hdinsight-on-aks_cluster_trino-hive-catalog"}
+{"command": "az hdinsight-on-aks cluster node-profile", "description": "Manage compute node profile.", "id": "az_hdinsight-on-aks_cluster_node-profile"}
+{"command": "az providerhub", "description": "Manage resources with ProviderHub.", "id": "az_providerhub"}
+{"command": "az providerhub provider-registration", "description": "Manage provider registration with providerhub.", "id": "az_providerhub_provider-registration"}
+{"command": "az providerhub operation", "description": "Manage operation with providerhub.", "id": "az_providerhub_operation"}
+{"command": "az providerhub notification-registration", "description": "Manage notification registration with providerhub.", "id": "az_providerhub_notification-registration"}
+{"command": "az providerhub custom-rollout", "description": "Manage custom rollout with providerhub.", "id": "az_providerhub_custom-rollout"}
+{"command": "az providerhub sku", "description": "Manage sku with providerhub.", "id": "az_providerhub_sku"}
+{"command": "az providerhub default-rollout", "description": "Manage default rollout with providerhub.", "id": "az_providerhub_default-rollout"}
+{"command": "az providerhub manifest", "description": "Manage with providerhub manifest operations.", "id": "az_providerhub_manifest"}
+{"command": "az providerhub resource-type-registration", "description": "Manage resource type registration with providerhub.", "id": "az_providerhub_resource-type-registration"}
+{"command": "az import-export", "description": "Manage Import Export.", "id": "az_import-export"}
+{"command": "az import-export bit-locker-key", "description": "Import-export bit-locker-key.", "id": "az_import-export_bit-locker-key"}
+{"command": "az import-export location", "description": "Import-export location.", "id": "az_import-export_location"}
+{"command": "az sphere", "description": "Manage Azure Sphere.", "id": "az_sphere"}
+{"command": "az sphere image-package", "description": "Manage image packaging.", "id": "az_sphere_image-package"}
+{"command": "az sphere catalog", "description": "Manage Azure Sphere Catalogs.", "id": "az_sphere_catalog"}
+{"command": "az sphere image", "description": "Manage images in your Azure Sphere Catalog.", "id": "az_sphere_image"}
+{"command": "az sphere deployment", "description": "Manage deployments in your Azure Sphere Catalog.", "id": "az_sphere_deployment"}
+{"command": "az sphere ca-certificate", "description": "Manage certificates in your Azure Sphere Catalog.", "id": "az_sphere_ca-certificate"}
+{"command": "az sphere device", "description": "Manage Azure Sphere devices.", "id": "az_sphere_device"}
+{"command": "az sphere product", "description": "Manage products in your Azure Sphere Catalog.", "id": "az_sphere_product"}
+{"command": "az sphere device-group", "description": "Manage device groups in your Azure Sphere Catalog.", "id": "az_sphere_device-group"}
+{"command": "az sphere device manufacturing-state", "description": "Manage the manufacturing state of attached devices.", "id": "az_sphere_device_manufacturing-state"}
+{"command": "az sphere device sideload", "description": "Deploy and manage applications on the attached device.", "id": "az_sphere_device_sideload"}
+{"command": "az sphere device network", "description": "Provides information about the status of network interfaces on the attached device.", "id": "az_sphere_device_network"}
+{"command": "az sphere device image", "description": "Manage device images.", "id": "az_sphere_device_image"}
+{"command": "az sphere device app", "description": "Manage applications on the attached device.", "id": "az_sphere_device_app"}
+{"command": "az sphere device certificate", "description": "Manage certificates on the attached device.", "id": "az_sphere_device_certificate"}
+{"command": "az sphere device wifi", "description": "Manage Wi-Fi configurations for the attached device.", "id": "az_sphere_device_wifi"}
+{"command": "az sphere device capability", "description": "Manage device capability configurations.", "id": "az_sphere_device_capability"}
+{"command": "az sphere device network proxy", "description": "Manage proxy address use for network connection.", "id": "az_sphere_device_network_proxy"}
+{"command": "az monitor", "description": "Manage the Azure Monitor Service.", "id": "az_monitor"}
+{"command": "az monitor data-collection", "description": "Manage data collection for monitor control service.", "id": "az_monitor_data-collection"}
+{"command": "az monitor activity-log", "description": "Manage activity logs.", "id": "az_monitor_activity-log"}
+{"command": "az monitor app-insights", "description": "Commands for querying data in Application Insights applications.", "id": "az_monitor_app-insights"}
+{"command": "az monitor metrics", "description": "View Azure resource metrics.", "id": "az_monitor_metrics"}
+{"command": "az monitor account", "description": "Manage monitor account.", "id": "az_monitor_account"}
+{"command": "az monitor private-link-scope", "description": "Manage monitor private link scope resource.", "id": "az_monitor_private-link-scope"}
+{"command": "az monitor autoscale", "description": "Manage autoscale settings.", "id": "az_monitor_autoscale"}
+{"command": "az monitor log-analytics", "description": "Manage Azure log analytics.", "id": "az_monitor_log-analytics"}
+{"command": "az monitor scheduled-query", "description": "Commands to manage scheduled queries.", "id": "az_monitor_scheduled-query"}
+{"command": "az monitor diagnostic-settings", "description": "Manage service diagnostic settings.", "id": "az_monitor_diagnostic-settings"}
+{"command": "az monitor action-group", "description": "Manage action groups.", "id": "az_monitor_action-group"}
+{"command": "az monitor log-profiles", "description": "Manage log profiles.", "id": "az_monitor_log-profiles"}
+{"command": "az monitor alert-processing-rule", "description": "Manage alert processing rule with alertsmanagement.", "id": "az_monitor_alert-processing-rule"}
+{"command": "az monitor metrics alert", "description": "Manage near-realtime metric alert rules.", "id": "az_monitor_metrics_alert"}
+{"command": "az monitor metrics alert condition", "description": "Manage near-realtime metric alert rule conditions.", "id": "az_monitor_metrics_alert_condition"}
+{"command": "az monitor metrics alert dimension", "description": "Manage near-realtime metric alert rule dimensions.", "id": "az_monitor_metrics_alert_dimension"}
+{"command": "az monitor log-analytics cluster", "description": "Manage Azure log analytics cluster.", "id": "az_monitor_log-analytics_cluster"}
+{"command": "az monitor log-analytics query-pack", "description": "Manage Azure log analytics query pack.", "id": "az_monitor_log-analytics_query-pack"}
+{"command": "az monitor log-analytics workspace", "description": "Manage Azure log analytics workspace.", "id": "az_monitor_log-analytics_workspace"}
+{"command": "az monitor log-analytics solution", "description": "Commands to manage monitor log-analytics solution.", "id": "az_monitor_log-analytics_solution"}
+{"command": "az monitor log-analytics query-pack query", "description": "Manage the query of log analytics query pack.", "id": "az_monitor_log-analytics_query-pack_query"}
+{"command": "az monitor log-analytics workspace linked-service", "description": "Manage linked service for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_linked-service"}
+{"command": "az monitor log-analytics workspace data-export", "description": "Manage data export ruls for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_data-export"}
+{"command": "az monitor log-analytics workspace pack", "description": "Manage intelligent packs for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_pack"}
+{"command": "az monitor log-analytics workspace saved-search", "description": "Manage saved search for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_saved-search"}
+{"command": "az monitor log-analytics workspace linked-storage", "description": "Manage linked storage account for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_linked-storage"}
+{"command": "az monitor log-analytics workspace table", "description": "Manage tables for log analytics workspace.", "id": "az_monitor_log-analytics_workspace_table"}
+{"command": "az monitor log-analytics workspace table search-job", "description": "Manage tables for log analytics workspace search results table.", "id": "az_monitor_log-analytics_workspace_table_search-job"}
+{"command": "az monitor log-analytics workspace table restore", "description": "Manage tables for log analytics workspace restore logs table.", "id": "az_monitor_log-analytics_workspace_table_restore"}
+{"command": "az monitor activity-log alert", "description": "Manage activity log alert rules.", "id": "az_monitor_activity-log_alert"}
+{"command": "az monitor activity-log alert action-group", "description": null, "id": "az_monitor_activity-log_alert_action-group"}
+{"command": "az monitor activity-log alert scope", "description": null, "id": "az_monitor_activity-log_alert_scope"}
+{"command": "az monitor app-insights api-key", "description": "Operations on API keys associated with an Application Insights component.", "id": "az_monitor_app-insights_api-key"}
+{"command": "az monitor app-insights component", "description": "Manage an Application Insights component or its subcomponents.", "id": "az_monitor_app-insights_component"}
+{"command": "az monitor app-insights metrics", "description": "Retrieve metrics from an application.", "id": "az_monitor_app-insights_metrics"}
+{"command": "az monitor app-insights web-test", "description": "Manage web test with application insights.", "id": "az_monitor_app-insights_web-test"}
+{"command": "az monitor app-insights events", "description": "Retrieve events from an application.", "id": "az_monitor_app-insights_events"}
+{"command": "az monitor app-insights component billing", "description": "Manage an Application Insights component billing features.", "id": "az_monitor_app-insights_component_billing"}

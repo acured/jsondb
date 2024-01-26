@@ -1,0 +1,100 @@
+{"command": "az site-recovery network", "description": "Manage network.", "id": "az_site-recovery_network"}
+{"command": "az site-recovery recovery-plan", "description": "Manage the recovery plans in the vault.", "id": "az_site-recovery_recovery-plan"}
+{"command": "az site-recovery policy", "description": "Manage the replication policies for a vault.", "id": "az_site-recovery_policy"}
+{"command": "az site-recovery protectable-item", "description": "Manage Protectable Item.", "id": "az_site-recovery_protectable-item"}
+{"command": "az site-recovery protection-container", "description": "Manage Protection Container.", "id": "az_site-recovery_protection-container"}
+{"command": "az site-recovery vmware-site", "description": "Manage vmware-site.", "id": "az_site-recovery_vmware-site"}
+{"command": "az site-recovery recovery-services-provider", "description": "Manage fabric recovery-services-provider.", "id": "az_site-recovery_recovery-services-provider"}
+{"command": "az site-recovery logical-network", "description": "Manage logical-network.", "id": "az_site-recovery_logical-network"}
+{"command": "az site-recovery protected-item", "description": "Manage Protected Item.", "id": "az_site-recovery_protected-item"}
+{"command": "az site-recovery event", "description": "Manage the events of the vault.", "id": "az_site-recovery_event"}
+{"command": "az site-recovery job", "description": "Manage Azure Site Recovery Jobs for the vault.", "id": "az_site-recovery_job"}
+{"command": "az site-recovery replication-eligibility", "description": "Manage Replication Eligibility.", "id": "az_site-recovery_replication-eligibility"}
+{"command": "az site-recovery vmware-site run-as-account", "description": "Manage vmware-site run-as-account.", "id": "az_site-recovery_vmware-site_run-as-account"}
+{"command": "az site-recovery vmware-site machine", "description": "Manage vmware-site machines.", "id": "az_site-recovery_vmware-site_machine"}
+{"command": "az site-recovery protection-container mapping", "description": "Manage a protection container mapping for a protection container.", "id": "az_site-recovery_protection-container_mapping"}
+{"command": "az site-recovery vault health", "description": "Manage the health details of the vault.", "id": "az_site-recovery_vault_health"}
+{"command": "az site-recovery network mapping", "description": "Manage Network Mapping.", "id": "az_site-recovery_network_mapping"}
+{"command": "az blueprint", "description": "Commands to manage blueprint.", "id": "az_blueprint"}
+{"command": "az blueprint artifact", "description": "Commands to manage blueprint artifact.", "id": "az_blueprint_artifact"}
+{"command": "az blueprint version", "description": "Commands to manage published blueprint versions.", "id": "az_blueprint_version"}
+{"command": "az blueprint resource-group", "description": "Commands to manage blueprint resource group artifact.", "id": "az_blueprint_resource-group"}
+{"command": "az blueprint assignment", "description": "Commands to manage blueprint assignment.", "id": "az_blueprint_assignment"}
+{"command": "az blueprint version artifact", "description": "Commands to manage published blueprint artifacts.", "id": "az_blueprint_version_artifact"}
+{"command": "az blueprint artifact role", "description": "Commands to manage blueprint role assignment artifact.", "id": "az_blueprint_artifact_role"}
+{"command": "az blueprint artifact template", "description": "Commands to manage blueprint ARM template artifact.", "id": "az_blueprint_artifact_template"}
+{"command": "az blueprint artifact policy", "description": "Commands to manage blueprint policy assignment artifact.", "id": "az_blueprint_artifact_policy"}
+{"command": "az datamigration", "description": "Manage Data Migration.", "id": "az_datamigration"}
+{"command": "az datamigration sql-vm", "description": "Manage database migrations to SQL VM.", "id": "az_datamigration_sql-vm"}
+{"command": "az datamigration sql-db", "description": "Manage database migrations to SQL DB.", "id": "az_datamigration_sql-db"}
+{"command": "az datamigration sql-managed-instance", "description": "Manage database migrations to SQL Managed Instance.", "id": "az_datamigration_sql-managed-instance"}
+{"command": "az datamigration sql-service", "description": "Manage Database Migration Service.", "id": "az_datamigration_sql-service"}
+{"command": "az resource-mover", "description": "Manage Resource Mover Service API.", "id": "az_resource-mover"}
+{"command": "az resource-mover move-resource", "description": "Manage move-resource.", "id": "az_resource-mover_move-resource"}
+{"command": "az resource-mover move-collection", "description": "Manage move-collection.", "id": "az_resource-mover_move-collection"}
+{"command": "az apic", "description": "API Center.", "id": "az_apic"}
+{"command": "az apic metadata-schema", "description": "Metadata schema.", "id": "az_apic_metadata-schema"}
+{"command": "az apic service", "description": "API Center service.", "id": "az_apic_service"}
+{"command": "az apic environment", "description": "Environment.", "id": "az_apic_environment"}
+{"command": "az apic api", "description": "API.", "id": "az_apic_api"}
+{"command": "az apic api version", "description": "API version.", "id": "az_apic_api_version"}
+{"command": "az apic api deployment", "description": "API deployment.", "id": "az_apic_api_deployment"}
+{"command": "az apic api definition", "description": "API definition.", "id": "az_apic_api_definition"}
+{"command": "az logicapp", "description": "Manage logic apps.", "id": "az_logicapp"}
+{"command": "az logic", "description": "Manage logic.", "id": "az_logic"}
+{"command": "az logicapp config", "description": "Configure a logic app.", "id": "az_logicapp_config"}
+{"command": "az logicapp deployment", "description": "Manage logic app deployments.", "id": "az_logicapp_deployment"}
+{"command": "az logicapp deployment source", "description": "Manage logicapp app deployment via source control.", "id": "az_logicapp_deployment_source"}
+{"command": "az logicapp config appsettings", "description": "Configure logic app settings.", "id": "az_logicapp_config_appsettings"}
+{"command": "az logic integration-account", "description": "Manage logic integration account.", "id": "az_logic_integration-account"}
+{"command": "az logic workflow", "description": "Manage workflow.", "id": "az_logic_workflow"}
+{"command": "az logic integration-account map", "description": "Manage logic integration account map.", "id": "az_logic_integration-account_map"}
+{"command": "az logic workflow identity", "description": "Manage workflow identity.", "id": "az_logic_workflow_identity"}
+{"command": "az sapmonitor", "description": "(PREVIEW) Manage Azure SAP Monitor.", "id": "az_sapmonitor"}
+{"command": "az sapmonitor provider-instance", "description": "Manage the provider instance for the SAP Monitor.", "id": "az_sapmonitor_provider-instance"}
+{"command": "az arcdata", "description": "Commands for using Azure Arc-enabled data services.", "id": "az_arcdata"}
+{"command": "az arcdata ad-connector", "description": "Manage Active Directory authentication for Azure Arc data services.", "id": "az_arcdata_ad-connector"}
+{"command": "az arcdata resource-kind", "description": "Resource-kind commands to define and template custom resources on your cluster.", "id": "az_arcdata_resource-kind"}
+{"command": "az arcdata dc", "description": "Create, delete, and manage data controllers.", "id": "az_arcdata_dc"}
+{"command": "az arcdata dc config", "description": "Configuration commands.", "id": "az_arcdata_dc_config"}
+{"command": "az arcdata dc endpoint", "description": "Endpoint commands.", "id": "az_arcdata_dc_endpoint"}
+{"command": "az arcdata dc debug", "description": "Debug data controller.", "id": "az_arcdata_dc_debug"}
+{"command": "az arcdata dc status", "description": "Status commands.", "id": "az_arcdata_dc_status"}
+{"command": "az sentinel", "description": "Manage Microsoft Sentinel.", "id": "az_sentinel"}
+{"command": "az sentinel enrichment", "description": "Manage enrichment with sentinel.", "id": "az_sentinel_enrichment"}
+{"command": "az sentinel onboarding-state", "description": "Manage onboarding state with sentinel.", "id": "az_sentinel_onboarding-state"}
+{"command": "az sentinel metadata", "description": "Manage metadata with sentinel.", "id": "az_sentinel_metadata"}
+{"command": "az sentinel incident", "description": "Manage incident with sentinel.", "id": "az_sentinel_incident"}
+{"command": "az sentinel watchlist", "description": "Manage watchlist with sentinel.", "id": "az_sentinel_watchlist"}
+{"command": "az sentinel data-connector", "description": "Manage data connector with sentinel.", "id": "az_sentinel_data-connector"}
+{"command": "az sentinel office-consent", "description": "Manage office consent with sentinel.", "id": "az_sentinel_office-consent"}
+{"command": "az sentinel source-control", "description": "Manage source control with sentinel.", "id": "az_sentinel_source-control"}
+{"command": "az sentinel setting", "description": "Manage setting with sentinel.", "id": "az_sentinel_setting"}
+{"command": "az sentinel automation-rule", "description": "Manage automation rule with sentinel.", "id": "az_sentinel_automation-rule"}
+{"command": "az sentinel alert-rule", "description": "Manage alert rule with sentinel.", "id": "az_sentinel_alert-rule"}
+{"command": "az sentinel entity-query", "description": "Manage entity query with sentinel.", "id": "az_sentinel_entity-query"}
+{"command": "az sentinel bookmark", "description": "Manage bookmark with sentinel.", "id": "az_sentinel_bookmark"}
+{"command": "az sentinel threat-indicator", "description": "Manage threat intelligence indicator with sentinel.", "id": "az_sentinel_threat-indicator"}
+{"command": "az sentinel analytics-setting", "description": "Manage security ml analytics setting with sentinel.", "id": "az_sentinel_analytics-setting"}
+{"command": "az sentinel enrichment domain-whois", "description": "Manage domain whois with sentinel.", "id": "az_sentinel_enrichment_domain-whois"}
+{"command": "az sentinel enrichment ip-geodata", "description": "Manage ip geodata with sentinel.", "id": "az_sentinel_enrichment_ip-geodata"}
+{"command": "az sentinel incident comment", "description": "Manage incident comment with sentinel.", "id": "az_sentinel_incident_comment"}
+{"command": "az sentinel incident relation", "description": "Manage incident relation with sentinel.", "id": "az_sentinel_incident_relation"}
+{"command": "az sentinel bookmark relation", "description": "Manage bookmark relation with sentinel.", "id": "az_sentinel_bookmark_relation"}
+{"command": "az sentinel entity-query template", "description": "Manage entity query template with sentinel.", "id": "az_sentinel_entity-query_template"}
+{"command": "az sentinel threat-indicator metric", "description": "Manage threat intelligence indicator metric with sentinel.", "id": "az_sentinel_threat-indicator_metric"}
+{"command": "az sentinel alert-rule template", "description": "Manage alert rule template with sentinel.", "id": "az_sentinel_alert-rule_template"}
+{"command": "az sentinel alert-rule action", "description": "Manage alert rule action with sentinel.", "id": "az_sentinel_alert-rule_action"}
+{"command": "az mariadb", "description": "Manage Azure Database for MariaDB servers.", "id": "az_mariadb"}
+{"command": "az mariadb server", "description": "Manage MariaDB servers.", "id": "az_mariadb_server"}
+{"command": "az mariadb db", "description": "Manage MariaDB databases on a server.", "id": "az_mariadb_db"}
+{"command": "az mariadb server-logs", "description": "Manage server logs.", "id": "az_mariadb_server-logs"}
+{"command": "az mariadb server firewall-rule", "description": "Manage firewall rules for a server.", "id": "az_mariadb_server_firewall-rule"}
+{"command": "az mariadb server replica", "description": "Manage read replicas.", "id": "az_mariadb_server_replica"}
+{"command": "az mariadb server vnet-rule", "description": "Manage a server's virtual network rules.", "id": "az_mariadb_server_vnet-rule"}
+{"command": "az mariadb server configuration", "description": "Manage configuration values for a server.", "id": "az_mariadb_server_configuration"}
+{"command": "az mariadb server private-endpoint-connection", "description": "Manage MariaDB server private endpoint connections.", "id": "az_mariadb_server_private-endpoint-connection"}
+{"command": "az mariadb server private-link-resource", "description": "Manage MariaDB server private link resources.", "id": "az_mariadb_server_private-link-resource"}
+{"command": "az automation", "description": "Manage Automation Account.", "id": "az_automation"}
+{"command": "az automation software-update-configuration", "description": "Automation software-update-configuration.", "id": "az_automation_software-update-configuration"}
+{"command": "az automation account", "description": "Automation Account.", "id": "az_automation_account"}

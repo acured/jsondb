@@ -1,0 +1,100 @@
+{"command": "az ml endpoint realtime", "description": "Manage operationalized realtime endpoints.", "id": "az_ml(v1)_endpoint_realtime"}
+{"command": "az ml computetarget amlcompute", "description": "AzureML compute commands.", "id": "az_ml(v1)_computetarget_amlcompute"}
+{"command": "az ml computetarget attach", "description": "Attach subgroup commands.", "id": "az_ml(v1)_computetarget_attach"}
+{"command": "az ml computetarget create", "description": "Create a compute target (aks or amlcompute or computeinstance).", "id": "az_ml(v1)_computetarget_create"}
+{"command": "az ml computetarget computeinstance", "description": "AzureML compute instance commands.", "id": "az_ml(v1)_computetarget_computeinstance"}
+{"command": "az ml computetarget update", "description": "Update a compute target (aks or amlcompute).", "id": "az_ml(v1)_computetarget_update"}
+{"command": "az ml computetarget amlcompute identity", "description": "AzureML compute target identity commands.", "id": "az_ml(v1)_computetarget_amlcompute_identity"}
+{"command": "az dedicated-hsm", "description": "Manage dedicated hsm with hardware security modules.", "id": "az_dedicated-hsm"}
+{"command": "az mysql", "description": "Manage Azure Database for MySQL servers.", "id": "az_mysql"}
+{"command": "az mysql server", "description": "Manage MySQL servers.", "id": "az_mysql_server"}
+{"command": "az mysql db", "description": "Manage MySQL databases on a server.", "id": "az_mysql_db"}
+{"command": "az mysql flexible-server", "description": "Manage Azure Database for MySQL Flexible Servers.", "id": "az_mysql_flexible-server"}
+{"command": "az mysql server-logs", "description": "Manage server logs.", "id": "az_mysql_server-logs"}
+{"command": "az mysql flexible-server db", "description": "Manage MySQL databases on a flexible server.", "id": "az_mysql_flexible-server_db"}
+{"command": "az mysql flexible-server deploy", "description": "Enable and run GitHub Actions workflow for MySQL server.", "id": "az_mysql_flexible-server_deploy"}
+{"command": "az mysql flexible-server backup", "description": "Manage flexible server backups.", "id": "az_mysql_flexible-server_backup"}
+{"command": "az mysql flexible-server identity", "description": "Manage server user assigned identities.", "id": "az_mysql_flexible-server_identity"}
+{"command": "az mysql flexible-server firewall-rule", "description": "Manage firewall rules for a server.", "id": "az_mysql_flexible-server_firewall-rule"}
+{"command": "az mysql flexible-server replica", "description": "Manage read replicas.", "id": "az_mysql_flexible-server_replica"}
+{"command": "az mysql flexible-server import", "description": "Manage import workflows for MySQL Flexible Servers.", "id": "az_mysql_flexible-server_import"}
+{"command": "az mysql flexible-server ad-admin", "description": "Manage server Active Directory administrator.", "id": "az_mysql_flexible-server_ad-admin"}
+{"command": "az mysql flexible-server parameter", "description": "Commands for managing server parameter values for flexible server.", "id": "az_mysql_flexible-server_parameter"}
+{"command": "az mysql flexible-server gtid", "description": "Manage GTID on a server.", "id": "az_mysql_flexible-server_gtid"}
+{"command": "az mysql flexible-server server-logs", "description": "Manage server logs.", "id": "az_mysql_flexible-server_server-logs"}
+{"command": "az mysql flexible-server export", "description": "Manage export backup on a server.", "id": "az_mysql_flexible-server_export"}
+{"command": "az mysql server key", "description": "Manage MySQL server keys.", "id": "az_mysql_server_key"}
+{"command": "az mysql server firewall-rule", "description": "Manage firewall rules for a server.", "id": "az_mysql_server_firewall-rule"}
+{"command": "az mysql server replica", "description": "Manage read replicas.", "id": "az_mysql_server_replica"}
+{"command": "az mysql server vnet-rule", "description": "Manage a server's virtual network rules.", "id": "az_mysql_server_vnet-rule"}
+{"command": "az mysql server configuration", "description": "Manage configuration values for a server.", "id": "az_mysql_server_configuration"}
+{"command": "az mysql server private-endpoint-connection", "description": "Manage MySQL server private endpoint connections.", "id": "az_mysql_server_private-endpoint-connection"}
+{"command": "az mysql server ad-admin", "description": "Manage a MySQL server's Active Directory administrator.", "id": "az_mysql_server_ad-admin"}
+{"command": "az mysql server private-link-resource", "description": "Manage MySQL server private link resources.", "id": "az_mysql_server_private-link-resource"}
+{"command": "az aosm", "description": "Commands to interact with Azure Operator Service Manager (AOSM).", "id": "az_aosm"}
+{"command": "az aosm nsd", "description": "Manage AOSM publisher Network Service Designs.", "id": "az_aosm_nsd"}
+{"command": "az aosm nfd", "description": "Manage AOSM publisher Network Function Definitions.", "id": "az_aosm_nfd"}
+{"command": "az maps", "description": "Manage Azure Maps.", "id": "az_maps"}
+{"command": "az maps account", "description": "Manage Azure Maps accounts.", "id": "az_maps_account"}
+{"command": "az maps map", "description": "Manage map with maps.", "id": "az_maps_map"}
+{"command": "az maps creator", "description": "Manage creator with maps.", "id": "az_maps_creator"}
+{"command": "az maps account keys", "description": "Manage Azure Maps account keys.", "id": "az_maps_account_keys"}
+{"command": "az reservations", "description": "Azure Reservations.", "id": "az_reservations"}
+{"command": "az reservations reservation", "description": "Reservations reservation.", "id": "az_reservations_reservation"}
+{"command": "az reservations catalog", "description": "Reservations catalog.", "id": "az_reservations_catalog"}
+{"command": "az reservations reservation-order", "description": "Reservations reservation-order.", "id": "az_reservations_reservation-order"}
+{"command": "az reservations reservation-order-id", "description": "Reservations reservation-order-id.", "id": "az_reservations_reservation-order-id"}
+{"command": "az cli-translator", "description": "Translate ARM template or REST API to CLI scripts.", "id": "az_cli-translator"}
+{"command": "az cli-translator arm", "description": "Translate ARM template to CLI scripts(Currently only support Compute, Network and Storage).", "id": "az_cli-translator_arm"}
+{"command": "az datashare", "description": "Manage Data Share.", "id": "az_datashare"}
+{"command": "az datashare consumer-invitation", "description": "Manage consumer invitation with datashare.", "id": "az_datashare_consumer-invitation"}
+{"command": "az datashare share-subscription", "description": "Manage share subscription with datashare.", "id": "az_datashare_share-subscription"}
+{"command": "az datashare trigger", "description": "Manage trigger with datashare.", "id": "az_datashare_trigger"}
+{"command": "az datashare synchronization-setting", "description": "Manage synchronization setting with datashare.", "id": "az_datashare_synchronization-setting"}
+{"command": "az datashare data-set-mapping", "description": "Manage data set mapping with datashare.", "id": "az_datashare_data-set-mapping"}
+{"command": "az datashare data-set", "description": "Manage data set with datashare.", "id": "az_datashare_data-set"}
+{"command": "az datashare account", "description": "Manage account with datashare.", "id": "az_datashare_account"}
+{"command": "az datashare consumer-source-data-set", "description": "Manage consumer source data set with datashare.", "id": "az_datashare_consumer-source-data-set"}
+{"command": "az datashare invitation", "description": "Manage invitation with datashare.", "id": "az_datashare_invitation"}
+{"command": "az datashare email-registration", "description": "Manage email registration with datashare.", "id": "az_datashare_email-registration"}
+{"command": "az datashare provider-share-subscription", "description": "Manage provider share subscription with datashare.", "id": "az_datashare_provider-share-subscription"}
+{"command": "az fzf", "description": "Commands to select active or default objects via fzf.", "id": "az_fzf"}
+{"command": "az artifacts", "description": "Manage Azure Artifacts.", "id": "az_artifacts"}
+{"command": "az artifacts universal", "description": "Manage Universal Packages.", "id": "az_artifacts_universal"}
+{"command": "az fluid-relay", "description": "Manage Fluid Relay.", "id": "az_fluid-relay"}
+{"command": "az fluid-relay server", "description": "Manage Fluid Relay Server.", "id": "az_fluid-relay_server"}
+{"command": "az fluid-relay container", "description": "Manage Fluid Relay Container.", "id": "az_fluid-relay_container"}
+{"command": "az snapshot", "description": "Manage point-in-time copies of managed disks, native blobs, or other snapshots.", "id": "az_snapshot"}
+{"command": "az connectedvmware", "description": "Commands to manage Connected VMware.", "id": "az_connectedvmware"}
+{"command": "az connectedvmware datastore", "description": "Datastore resource.", "id": "az_connectedvmware_datastore"}
+{"command": "az connectedvmware cluster", "description": "Cluster resource.", "id": "az_connectedvmware_cluster"}
+{"command": "az connectedvmware vcenter", "description": "Vcenter resource.", "id": "az_connectedvmware_vcenter"}
+{"command": "az connectedvmware host", "description": "Host resource.", "id": "az_connectedvmware_host"}
+{"command": "az connectedvmware resource-pool", "description": "Resource pool resource.", "id": "az_connectedvmware_resource-pool"}
+{"command": "az connectedvmware virtual-network", "description": "Virtual network resource.", "id": "az_connectedvmware_virtual-network"}
+{"command": "az connectedvmware vm-template", "description": "Vm template resource.", "id": "az_connectedvmware_vm-template"}
+{"command": "az connectedvmware vm", "description": "Vm resource.", "id": "az_connectedvmware_vm"}
+{"command": "az connectedvmware vm extension", "description": "Manage vm extension with connectedvmware.", "id": "az_connectedvmware_vm_extension"}
+{"command": "az connectedvmware vm disk", "description": "Vm disk.", "id": "az_connectedvmware_vm_disk"}
+{"command": "az connectedvmware vm nic", "description": "Vm nic.", "id": "az_connectedvmware_vm_nic"}
+{"command": "az connectedvmware vm guest-agent", "description": "Vm guest agent.", "id": "az_connectedvmware_vm_guest-agent"}
+{"command": "az connectedvmware vcenter inventory-item", "description": "Inventory item resource.", "id": "az_connectedvmware_vcenter_inventory-item"}
+{"command": "az workloads", "description": "Manage workloads.", "id": "az_workloads"}
+{"command": "az workloads sap-virtual-instance", "description": "Manage virtual instance.", "id": "az_workloads_sap-virtual-instance"}
+{"command": "az workloads sap-application-server-instance", "description": "Manage application instance.", "id": "az_workloads_sap-application-server-instance"}
+{"command": "az workloads sap-database-instance", "description": "Manage database instance.", "id": "az_workloads_sap-database-instance"}
+{"command": "az workloads sap-central-instance", "description": "Manage central instance.", "id": "az_workloads_sap-central-instance"}
+{"command": "az workloads monitor", "description": "Manage workloads monitor.", "id": "az_workloads_monitor"}
+{"command": "az workloads monitor provider-instance", "description": "Manage monitor provider instance.", "id": "az_workloads_monitor_provider-instance"}
+{"command": "az workloads monitor sap-landscape-monitor", "description": "Manage monitor sap landscape monitor.", "id": "az_workloads_monitor_sap-landscape-monitor"}
+{"command": "az redisenterprise", "description": "Manage the redisenterprise cache.", "id": "az_redisenterprise"}
+{"command": "az redisenterprise operation-status", "description": "Get the status of an operation.", "id": "az_redisenterprise_operation-status"}
+{"command": "az redisenterprise database", "description": "Manage Redis Enterprise databases.", "id": "az_redisenterprise_database"}
+{"command": "az network-function", "description": "Manage network function.", "id": "az_network-function"}
+{"command": "az network", "description": "Manage Azure Network resources.", "id": "az_network"}
+{"command": "az network-analytics", "description": "Network Analytics command group Azure Operator Insights resource manipulation.", "id": "az_network-analytics"}
+{"command": "az networkfabric", "description": "Manage Azure Network Fabric Management Service API.", "id": "az_networkfabric"}
+{"command": "az networkcloud", "description": "Manage Network Cloud resources.", "id": "az_networkcloud"}
+{"command": "az networkcloud cloudservicesnetwork", "description": "Manage cloud services network.", "id": "az_networkcloud_cloudservicesnetwork"}
+{"command": "az networkcloud cluster", "description": "Manage cluster.", "id": "az_networkcloud_cluster"}
+{"command": "az networkcloud virtualmachine", "description": "Manage virtual machine.", "id": "az_networkcloud_virtualmachine"}
