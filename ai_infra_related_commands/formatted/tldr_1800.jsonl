@@ -1,0 +1,150 @@
+{"command": "phpunit", "description": "PHPUnit command-line test runner."}
+{"command": "piactl", "description": "The command-line tool for Private Internet Access, a commercial VPN provider."}
+{"command": "pic", "description": "Picture preprocessor for the groff (GNU Troff) document formatting system.See also groff and troff."}
+{"command": "picard", "description": "Next generation MusicBrainz tagging application."}
+{"command": "pickle", "description": "A PHP extension installer based on Composer."}
+{"command": "picom-trans", "description": "Set the window opacity for the picom window compositor."}
+{"command": "pigz", "description": "Multithreaded zlib compression utility."}
+{"command": "ping", "description": "Send ICMP ECHO_REQUEST packets to network hosts."}
+{"command": "ping6", "description": "Send ICMP ECHO_REQUEST packets to network hosts via IPv6 address."}
+{"command": "pinky", "description": "Print user information using the finger protocol."}
+{"command": "Pint", "description": "An opinionated PHP code style fixer based on PHP-CS-Fixer."}
+{"command": "pinta", "description": "A free, open source program for drawing and image editing."}
+{"command": "pio access", "description": "Set the access level on published resources (packages) in the registry."}
+{"command": "pio account", "description": "Manage your PlatformIO account in the command-line."}
+{"command": "pio boards", "description": "List pre-configured embedded boards available in PlatformIO."}
+{"command": "pio check", "description": "Perform a static analysis check on a PlatformIO project."}
+{"command": "pio ci", "description": "Build PlatformIO projects with an arbitrary source code structure.This will create a new temporary project which the source code will be copied into."}
+{"command": "pio debug", "description": "Debug PlatformIO projects."}
+{"command": "pio device", "description": "Manage and monitor PlatformIO devices."}
+{"command": "pio home", "description": "Launch the PlatformIO Home web server."}
+{"command": "pio init", "description": "This command is an alias of pio project init."}
+{"command": "pio lib", "description": "Manage PlatformIO libraries."}
+{"command": "pio org", "description": "Manage PlatformIO organizations and their owners."}
+{"command": "pio package", "description": "Manage packages in the registry.Packages can only be removed within 72 hours (3 days) from the date that they are published."}
+{"command": "pio platform", "description": "Manage PlatformIO development platforms."}
+{"command": "pio project", "description": "Tool to manage PlatformIO projects."}
+{"command": "pio remote", "description": "Helper command for PlatformIO Remote Development.pio remote [command] takes the same arguments as its locally executing counterpart pio [command]."}
+{"command": "pio run", "description": "Run PlatformIO project targets."}
+{"command": "pio settings", "description": "View and modify PlatformIO settings."}
+{"command": "pio system", "description": "Miscellaneous system commands for PlatformIO."}
+{"command": "pio team", "description": "Manage PlatformIO teams."}
+{"command": "pio test", "description": "Run local tests on a PlatformIO project."}
+{"command": "pio update", "description": "Update installed PlatformIO Core packages, development platforms and global libraries.See also: pio platform update, pio lib update."}
+{"command": "pio upgrade", "description": "Update PlatformIO to the latest version."}
+{"command": "pio", "description": "Development environment for embedded boards.Some subcommands such as pio run have their own usage documentation."}
+{"command": "piodebuggdb", "description": "This command is an alias of pio debug --interface=gdb."}
+{"command": "pip install", "description": "Install Python packages."}
+{"command": "pip uninstall", "description": "Uninstall Python packages."}
+{"command": "pip", "description": "Python package manager.Some subcommands such as pip install have their own usage documentation."}
+{"command": "pip3", "description": "Python package manager."}
+{"command": "pipenv", "description": "Simple and unified Python development workflow.Manages packages and the virtual environment for a project."}
+{"command": "pipx", "description": "Install and run Python applications in isolated environments."}
+{"command": "pixiecore", "description": "Tool to manage the network booting of machines."}
+{"command": "pixterm", "description": "Image printing in the terminal.See also: chafa, catimg."}
+{"command": "pkg-config", "description": "Provide the details of installed libraries for compiling applications."}
+{"command": "pkill", "description": "Signal process by name.Mostly used for stopping processes."}
+{"command": "plantuml", "description": "Create UML diagrams from a plain text language and render them in different formats."}
+{"command": "platformio", "description": "This command is an alias of pio."}
+{"command": "play", "description": "Audio player of SoX - Sound eXchange.Plays any audio, with audio formats identified by the extension."}
+{"command": "plenv", "description": "Switch between multiple versions of Perl."}
+{"command": "plesk", "description": "Plesk hosting control panel."}
+{"command": "plocate", "description": "Find filenames quickly.Make sure to run sudo updatedb to include new files."}
+{"command": "pm2", "description": "Process manager for Node.js.Used for log management, monitoring and configuring processes."}
+{"command": "pngcheck", "description": "Print detailed information about and verify PNG, JNG, and MNG files."}
+{"command": "pngcrush", "description": "PNG compression utility."}
+{"command": "pngquant", "description": "PNG converter and lossy image compressor."}
+{"command": "pnpm", "description": "Fast, disk space efficient package manager for Node.js.Manage Node.js projects and their module dependencies."}
+{"command": "pnpx", "description": "Directly execute binaries from npm packages, using pnpm instead of npm."}
+{"command": "podman build", "description": "Daemonless tool for building container images.Podman provides a Docker-CLI comparable command-line. Simply put: alias docker=podman."}
+{"command": "podman-compose", "description": "Run and manage Compose Specification container definition."}
+{"command": "podman image", "description": "Manage Docker images.See also: podman build, podman import, and podman pull."}
+{"command": "podman images", "description": "Manage Podman images."}
+{"command": "podman machine", "description": "Create and manage virtual machines running Podman.Included with Podman version 4 or greater."}
+{"command": "podman ps", "description": "List Podman containers."}
+{"command": "podman rmi", "description": "Remove one or more Podman images."}
+{"command": "podman run", "description": "Run a command in a new Podman container."}
+{"command": "podman", "description": "Simple management tool for pods, containers and images.Podman provides a Docker-CLI comparable command-line. Simply put: alias docker=podman."}
+{"command": "poetry", "description": "Manage Python packages and dependencies.See also: asdf."}
+{"command": "polybar-msg", "description": "Control polybar using inter-process-messaging (IPC).Note: IPC is disabled by default and can be enabled by setting enable-ipc = true in the Polybar config."}
+{"command": "polybar", "description": "A fast and easy-to-use status bar."}
+{"command": "pop", "description": "Send emails from your terminal."}
+{"command": "popd", "description": "Remove a directory placed on the directory stack via the pushd shell built-in.See also pushd to place a directory on the stack and dirs to display directory stack contents."}
+{"command": "popeye", "description": "Utility that reports potential issues with Kubernetes deployment manifests."}
+{"command": "postcss", "description": "A tool for transforming styles with JS plugins."}
+{"command": "powershell", "description": "This command may be mistaken as the cross-platform version of PowerShell (formerly known as PowerShell Core), which uses pwsh instead of powershell.The original powershell command in Windows is still available to use the legacy Windows version of PowerShell (version 5.1 and below)."}
+{"command": "pppd", "description": "Establish Point-to-Point connection to another computer.It should not be invoked manually."}
+{"command": "pprof", "description": "Command-line tool for visualization and analysis of profile data."}
+{"command": "pr", "description": "Paginate or columnate files for printing."}
+{"command": "pre-commit", "description": "Create Git hooks that get run before a commit."}
+{"command": "prettier", "description": "An opinionated code formatter for JavaScript, JSON, CSS, YAML, and more."}
+{"command": "pretty-bytes", "description": "Convert bytes to a human-readable string."}
+{"command": "printenv", "description": "Print values of all or specific environment variables."}
+{"command": "printf", "description": "Format and print text."}
+{"command": "procs", "description": "Display information about the active processes."}
+{"command": "progpilot", "description": "A PHP static analysis tool for detecting security vulnerabilities."}
+{"command": "progress", "description": "Display/Monitor the progress of running coreutils."}
+{"command": "Projucer", "description": "A project manager for JUCE framework applications."}
+{"command": "promtool", "description": "Tooling for the Prometheus monitoring system."}
+{"command": "prosodyctl", "description": "The control tool for the Prosody XMPP server."}
+{"command": "protector", "description": "Protect or unprotect branches on GitHub repositories."}
+{"command": "protoc", "description": "Parse Google Protobuf .proto files and generate output in the specified language."}
+{"command": "prqlc", "description": "PRQL compiler.PRQL is a modern language for transforming data - a simple, powerful, pipelined SQL replacement."}
+{"command": "ps", "description": "Information about running processes."}
+{"command": "psalm", "description": "A static analysis tool for finding errors in PHP applications."}
+{"command": "psgrep", "description": "Search running processes with grep."}
+{"command": "psql", "description": "PostgreSQL command-line client."}
+{"command": "pssh", "description": "Parallel SSH program."}
+{"command": "psysh", "description": "A runtime developer console, interactive debugger and REPL for PHP."}
+{"command": "pt", "description": "Platinum Searcher.A code search tool similar to ag."}
+{"command": "ptargrep", "description": "Find regular expression patterns in one or more tar archive files."}
+{"command": "ptpython", "description": "A better Python REPL."}
+{"command": "ptpython3", "description": "This command is an alias of ptpython."}
+{"command": "pueue add", "description": "Enqueue a task for execution."}
+{"command": "pueue clean", "description": "Remove all finished tasks from the list and clear logs."}
+{"command": "pueue completions", "description": "Generates shell completion files for Bash, Elvish, Fish, PowerShell, and Zsh."}
+{"command": "pueue edit", "description": "Edit the command or path of a stashed or queued task."}
+{"command": "pueue enqueue", "description": "Enqueue stashed tasks.See also: pueue stash."}
+{"command": "pueue follow", "description": "Follow the output of a currently running task.See also: pueue log."}
+{"command": "pueue group", "description": "Display, add or remove groups."}
+{"command": "pueue help", "description": "Display help for subcommands."}
+{"command": "pueue kill", "description": "Kill running tasks or whole groups."}
+{"command": "pueue log", "description": "Display the log output of 1 or more tasks.See also: pueue status."}
+{"command": "pueue parallel", "description": "Set the amount of allowed parallel tasks."}
+{"command": "pueue pause", "description": "Pause running tasks or groups.See also: pueue start."}
+{"command": "pueue remove", "description": "Remove tasks from the list. Running or paused tasks need to be killed first."}
+{"command": "pueue reset", "description": "Kill everything and reset."}
+{"command": "pueue restart", "description": "Restart tasks."}
+{"command": "pueue send", "description": "Send input to a task."}
+{"command": "pueue shutdown", "description": "Remotely shut down the daemon.Only use this subcommand if the daemon isn't started by a service manager."}
+{"command": "pueue start", "description": "Resume operation of specific tasks or groups of tasks.See also: pueue pause."}
+{"command": "pueue stash", "description": "Stash tasks to prevent them starting automatically.See also pueue start and pueue enqueue."}
+{"command": "pueue status", "description": "Display the current status of all tasks."}
+{"command": "pueue switch", "description": "Switches the queue position of two enqueued or stashed commands."}
+{"command": "pueue", "description": "A task management tool for sequential and parallel execution of long-running tasks.Some subcommands such as pueue add have their own usage documentation."}
+{"command": "pulumi", "description": "Define infrastructure on any cloud using familiar programming languages.Some subcommands such as pulumi up have their own usage documentation."}
+{"command": "pup", "description": "Command-line HTML parsing tool."}
+{"command": "puppet agent", "description": "Retrieves the client configuration from a Puppet server and applies it to the local host."}
+{"command": "puppet apply", "description": "Apply Puppet manifests locally."}
+{"command": "puppet", "description": "Help to manage and automate the configuration of servers.Some subcommands such as puppet agent have their own usage documentation."}
+{"command": "pushd", "description": "Place a directory on a stack so it can be accessed later.See also popd to switch back to original directory and dirs to display directory stack contents."}
+{"command": "pv", "description": "Monitor the progress of data through a pipe."}
+{"command": "pve-firewall", "description": "Manage Proxmox VE Firewall."}
+{"command": "pvecm", "description": "Proxmox VE Cluster Manager."}
+{"command": "pveperf", "description": "A benchmarking tool in Proxmox Server. Gather CPU and hard disk performance data for the hard disk."}
+{"command": "pwd", "description": "Print name of current/working directory."}
+{"command": "pwgen", "description": "Generate pronounceable passwords."}
+{"command": "pwsh", "description": "Command-line shell and scripting language designed especially for system administration.This command refers to PowerShell version 6 and above (also known as PowerShell Core and cross-platform PowerShell).To use the original Windows version (5.1 and below, also known as the legacy Windows PowerShell), use powershell instead of pwsh."}
+{"command": "py-spy", "description": "A sampling profiler for Python programs."}
+{"command": "pyats shell", "description": "Start a pre-loaded pyATS interactive Python Shell to save time in prototyping."}
+{"command": "pyats version", "description": "View and upgrade the pyATS installation."}
+{"command": "pyATS", "description": "A vendor agnostic test automation framework by Cisco Systems, used for network and systems testing."}
+{"command": "pycodestyle", "description": "A tool to check Python code against PEP 8 style conventions."}
+{"command": "pydoc", "description": "Display offline Python documentation."}
+{"command": "pyenv virtualenv", "description": "Create virtual environments based on one's installed Python distributions."}
+{"command": "pyenv", "description": "Switch between multiple versions of Python easily.See also: asdf."}
+{"command": "pyflakes", "description": "Checks Python source code files for errors."}
+{"command": "pygmentize", "description": "Python-based syntax highlighter."}
+{"command": "pyinfra", "description": "Automates infrastructure at a large scale."}
+{"command": "pylint", "description": "A Python code linter."}
+{"command": "pypy", "description": "Fast and compliant alternative implementation of the Python language."}

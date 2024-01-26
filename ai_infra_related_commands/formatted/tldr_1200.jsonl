@@ -1,0 +1,150 @@
+{"command": "hg remove", "description": "Remove specified files from the staging area."}
+{"command": "hg root", "description": "Display the root location of a Hg repository."}
+{"command": "hg serve", "description": "Start a standalone Mercurial web server for browsing repositories."}
+{"command": "hg status", "description": "Show files that have changed in the working directory."}
+{"command": "hg update", "description": "Update the working directory to a specified changeset."}
+{"command": "hg", "description": "Mercurial - a distributed source control management system.Some subcommands such as hg commit have their own usage documentation."}
+{"command": "highlight", "description": "Outputs syntax-highlighted source code to a variety of formats."}
+{"command": "history", "description": "Command-line history."}
+{"command": "hive", "description": "CLI tool for Apache Hive."}
+{"command": "hledger", "description": "A plain text accounting software for the command-line."}
+{"command": "hn", "description": "Command-line interface for Hacker News."}
+{"command": "holehe", "description": "Check if an email is attached to an account on sites like Twitter, Instagram, Imgur and over 120 others."}
+{"command": "home-manager", "description": "Manage a user environment using Nix."}
+{"command": "host", "description": "Lookup Domain Name Server."}
+{"command": "hostapd", "description": "Start an access point using a wireless interface."}
+{"command": "hostess", "description": "Manage the /etc/hosts file."}
+{"command": "hostid", "description": "Prints the numeric identifier for the current host (not necessarily the IP address)."}
+{"command": "hostname", "description": "Show or set the system's host name."}
+{"command": "hping", "description": "This command is an alias of hping3."}
+{"command": "hping3", "description": "Advanced ping utility which supports protocols such TCP, UDP, and raw IP.Best run with elevated privileges."}
+{"command": "hr", "description": "Print a horizontal rule in the terminal."}
+{"command": "hsd-cli", "description": "The command-line REST tool for the Handshake blockchain."}
+{"command": "hsw-cli", "description": "The command-line REST tool for the Handshake wallet."}
+{"command": "html5validator", "description": "Validate HTML5."}
+{"command": "htop", "description": "Display dynamic real-time information about running processes. An enhanced version of top."}
+{"command": "htpasswd", "description": "Create and manage htpasswd files to protect web server directories using basic authentication."}
+{"command": "http-server-upload", "description": "Zero-configuration command-line HTTP server which provides a lightweight interface to upload files."}
+{"command": "http-server", "description": "Simple static HTTP server to serve static files."}
+{"command": "http", "description": "HTTPie: HTTP client, aims to be easier to use than cURL."}
+{"command": "httpflow", "description": "A command-line utility to capture and dump HTTP streams."}
+{"command": "httping", "description": "Measure the latency and throughput of a web server."}
+{"command": "httprobe", "description": "Take a list of domains and probe for working HTTP and HTTPS servers."}
+{"command": "httpry", "description": "A lightweight packet sniffer for displaying and logging HTTP traffic.It can be run in real-time displaying the traffic as it is parsed, or as a daemon process that logs to an output file."}
+{"command": "hub", "description": "A wrapper for Git that adds commands for working with GitHub-based projects.If set up as instructed by hub alias, one can use git to run hub commands."}
+{"command": "hugo", "description": "Template-based static site generator. Uses modules, components, and themes."}
+{"command": "hunspell", "description": "Check spelling."}
+{"command": "husky", "description": "Native Git hooks made easy."}
+{"command": "hx", "description": "This command is an alias of helix."}
+{"command": "hydra", "description": "Online password guessing tool.Protocols supported include FTP, HTTP(S), SMTP, SNMP, XMPP, SSH, and more."}
+{"command": "hyperfine", "description": "A command-line benchmarking tool."}
+{"command": "ia", "description": "Command-line tool to interact with archive.org."}
+{"command": "ibmcloud login", "description": "Log in to the IBM Cloud."}
+{"command": "ibmcloud", "description": "A command-line tool for managing IBM Cloud apps and services."}
+{"command": "ical", "description": "A Hirji/Islamic calendar and converter for the terminal."}
+{"command": "iconv", "description": "Converts text from one encoding to another."}
+{"command": "id", "description": "Display current user and group identity."}
+{"command": "id3tag", "description": "Tool for reading, writing, and manipulating ID3v1 and ID3v2 tags of MP3 files."}
+{"command": "identify", "description": "Describe the format and characteristics of one or more image files.Part of ImageMagick."}
+{"command": "idnits", "description": "Check internet-drafts for submission nits.Looks for violations of Section 2.1 and 2.2 of the requirements listed on https://www.ietf.org/id-info/checklist."}
+{"command": "iex", "description": "IEx is the interactive shell for Elixir."}
+{"command": "if", "description": "Performs conditional processing in shell scripts.See also: test, [."}
+{"command": "ifconfig", "description": "Network Interface Configurator."}
+{"command": "ignite", "description": "A CLI for React Native boilerplates, plugins, generators, and more."}
+{"command": "imapsync", "description": "Email IMAP tool for syncing, copying and migrating email mailboxes between two IMAP servers, one way, and without duplicates."}
+{"command": "img2pdf", "description": "Command-line lossless converter of raster images to PDF."}
+{"command": "imgcat", "description": "Display images on the command-line.Requires a compatible terminal such as iTerm2."}
+{"command": "import", "description": "Capture some or all of an X server screen, and save the image to a file.Part of ImageMagick."}
+{"command": "in-toto-record", "description": "Create a signed link metadata file to provide evidence for supply chain steps."}
+{"command": "in-toto-run", "description": "Generating link metadata while carrying out a supply chain step."}
+{"command": "in-toto-sign", "description": "Sign in-toto link or layout metadata or verify their signatures."}
+{"command": "in2csv", "description": "Converts various tabular data formats into CSV.Included in csvkit."}
+{"command": "indent", "description": "Change the appearance of a C/C++ program by inserting or deleting whitespace."}
+{"command": "infection", "description": "A mutation testing framework for PHP."}
+{"command": "influx", "description": "InfluxDB command-line client."}
+{"command": "info", "description": "Reads documentation stored in the info format."}
+{"command": "initdb", "description": "Create a PostgreSQL database on disk."}
+{"command": "inkmake", "description": "GNU Makefile-style SVG exporting using Inkscape's backend."}
+{"command": "inkscape", "description": "An SVG (Scalable Vector Graphics) editing program.For Inkscape versions up to 0.92.x, use -e instead of -o."}
+{"command": "inkview", "description": "Inkscape graphical SVG previewer.Also functions as a slideshow viewer."}
+{"command": "install-tl", "description": "TeX Live cross-platform installer."}
+{"command": "install", "description": "Copy files and set attributes.Copy files (often executable) to a system location like /usr/local/bin, give them the appropriate permissions/ownership."}
+{"command": "interdiff", "description": "Show differences between two diff files."}
+{"command": "ionic", "description": "A framework to build hybrid mobile apps."}
+{"command": "ionice", "description": "Get or set program I/O scheduling class and priority.Scheduling classes: 1 (realtime), 2 (best-effort), 3 (idle).Priority levels: 0 (the highest) - 7 (the lowest)."}
+{"command": "ioping", "description": "Monitor I/O latency in real time."}
+{"command": "iotop", "description": "Display a table of current I/O usage by processes or threads."}
+{"command": "ipaggcreate", "description": "Produce aggregate statistics of TCP/IP dumps."}
+{"command": "ipaggmanip", "description": "Manipulate aggregate statistics produced by ipaggcreate."}
+{"command": "ipcs", "description": "Display information about resources used in IPC (Inter-process Communication)."}
+{"command": "iperf", "description": "Measure network bandwidth between computers."}
+{"command": "iperf3", "description": "Traffic generator for testing network bandwidth."}
+{"command": "ipfs", "description": "Inter Planetary File System.A peer-to-peer hypermedia protocol. Aims to make the web more open."}
+{"command": "ipsumdump", "description": "Summarise TCP/IP dumps into a human and machine readable ASCII format."}
+{"command": "IPython", "description": "A Python shell with automatic history, dynamic object introspection, easier configuration, command completion, access to the system shell and more."}
+{"command": "irb", "description": "Interactive Ruby shell.Evaluate Ruby code read from stdin."}
+{"command": "irssi", "description": "Text based IRC client."}
+{"command": "is-up", "description": "Check whether a website is up or down."}
+{"command": "isisdl", "description": "A downloading utility for ISIS of TU-Berlin. Download all your files and videos from ISIS."}
+{"command": "iverilog", "description": "Preprocesses and compiles Verilog HDL (IEEE-1364) code into executable programs for simulation."}
+{"command": "ivpn", "description": "Command-line interface for the IVPN client."}
+{"command": "jadx", "description": "Dex to Java decompiler.Produces Java source code from Android Dex and APK files."}
+{"command": "jar", "description": "Java applications/libraries packager."}
+{"command": "jarsigner", "description": "Sign and verify Java archive (JAR) files."}
+{"command": "java", "description": "Java application launcher."}
+{"command": "javac", "description": "Java application compiler."}
+{"command": "javadoc", "description": "Generate Java API documentation in HTML format from source code."}
+{"command": "javap", "description": "Disassemble one or more class files and list them."}
+{"command": "jc", "description": "A utility to convert the output of multiple commands to JSON."}
+{"command": "jcal", "description": "Display calendar information in the Jalali format, with the current day highlighted."}
+{"command": "jdeps", "description": "Java class dependency analyzer."}
+{"command": "jdupes", "description": "A powerful duplicate file finder and an enhanced fork of fdupes."}
+{"command": "jekyll", "description": "A simple, blog-aware, static site generator."}
+{"command": "jello", "description": "A command-line JSON processor using Python syntax."}
+{"command": "jenv", "description": "Command-line tool to manage the \"JAVA_HOME\" environment variable."}
+{"command": "jest", "description": "A zero-configuration JavaScript testing platform."}
+{"command": "jetifier", "description": "Jetifier AndroidX transition tool in npm format, with a react-native compatible style."}
+{"command": "jf", "description": "Interact with JFrog products like Artifactory, Xray, Distribution, Pipelines and Mission Control."}
+{"command": "jhat", "description": "Java heap analysis tool."}
+{"command": "jhipster", "description": "Web application generator using either monolithic or microservices architecture."}
+{"command": "jhsdb", "description": "Attach to a Java process or launch a postmortem debugger to analyze the core dump from a crashed Java Virtual Machine."}
+{"command": "jigsaw", "description": "A Laravel-based static site builder for PHP."}
+{"command": "jmap", "description": "Java memory map tool."}
+{"command": "jmeter", "description": "Open source java application designed for load testing functional behavior and measure performance."}
+{"command": "jmtpfs", "description": "FUSE-based filesystem for accessing MTP devices."}
+{"command": "jobs", "description": "Display status of jobs in the current session."}
+{"command": "joe", "description": "Joe's own text editor."}
+{"command": "john", "description": "Password cracker."}
+{"command": "join", "description": "Join lines of two sorted files on a common field."}
+{"command": "josm", "description": "Extensible OpenStreetMap editor for Java 8+."}
+{"command": "jp2a", "description": "Convert JPEG images to ASCII."}
+{"command": "jpegoptim", "description": "Optimise JPEG images."}
+{"command": "jps", "description": "Show JVM process status of current user."}
+{"command": "jq", "description": "A command-line JSON processor that uses a domain-specific language (DSL)."}
+{"command": "jrnl", "description": "A simple journal application for your command-line."}
+{"command": "json5", "description": "A command-line tool for converting JSON5 files to JSON."}
+{"command": "jstack", "description": "Java stack trace tool."}
+{"command": "jtbl", "description": "Utility to print JSON and JSON Lines data as a table in the terminal."}
+{"command": "julia", "description": "A high-level, high-performance dynamic programming language for technical computing."}
+{"command": "jupyter", "description": "Web application to create and share documents that contain code, visualizations and notes.Primarily used for data analysis, scientific computing and machine learning."}
+{"command": "jupytext", "description": "Tool to convert Jupyter notebooks to plain text documents, and back again."}
+{"command": "just", "description": "just can refer to multiple commands with the same name."}
+{"command": "jwt", "description": "Work with JSON Web Tokens (JWTs).Encryption algorithms available are HS256, HS384, HS512, RS256, RS384, RS512, ES256, ES384."}
+{"command": "k3d", "description": "A wrapper to easily create k3s clusters inside Docker."}
+{"command": "k6", "description": "Open source load testing tool and SaaS for engineering teams."}
+{"command": "k8s-unused-secret-detector", "description": "Command-line interface tool for detecting unused Kubernetes secrets."}
+{"command": "k8sec", "description": "Command-line interface tool to manage Kubernetes secrets."}
+{"command": "kafkacat", "description": "This command is an alias of kcat."}
+{"command": "kaggle", "description": "Official CLI for Kaggle implemented in Python 3."}
+{"command": "kahlan", "description": "A unit and Behaviour Driven Development test framework for PHP."}
+{"command": "kak", "description": "Kakoune is a mode-based code editor implementing the \"multiple selections\" paradigm.Data can be selected and simultaneously edited in different locations, using multiple selections; users can also connect to the same session for collaborative editing."}
+{"command": "kate", "description": "KDE's advanced text editor."}
+{"command": "kcadm.sh", "description": "Perform administration tasks."}
+{"command": "kcat", "description": "Apache Kafka producer and consumer tool."}
+{"command": "kdeconnect-cli", "description": "KDE's Connect CLI."}
+{"command": "kdenlive", "description": "KDE's non-linear video editor."}
+{"command": "kdig", "description": "Advanced DNS lookup utility."}
+{"command": "keep-header", "description": "Keep first line untouched by a command, passing it directly to stdout."}
+{"command": "keepass2", "description": "A light-weight password manager."}
+{"command": "keepassxc-cli", "description": "Command-line interface for KeepassXC."}
+{"command": "keybase", "description": "Key directory that maps social media identities to encryption keys in a publicly auditable manner."}

@@ -1,0 +1,150 @@
+{"command": "now", "description": "Cloud platform for serverless deployment.This command is deprecated. See vercel, the updated version of this tool."}
+{"command": "nping", "description": "Network packet generation tool/ping utility."}
+{"command": "npm-check", "description": "Check for outdated, incorrect, and unused npm package dependencies."}
+{"command": "npm fund", "description": "Retrieve funding information from packages."}
+{"command": "npm-home", "description": "Open the npm page, Yarn page, or GitHub repository of a package in the web browser."}
+{"command": "npm-name", "description": "Check whether a package or organization name is available on npm."}
+{"command": "npm query", "description": "Print an array of dependency objects using CSS-like selectors."}
+{"command": "npm-why", "description": "Identifies why an npm package is installed."}
+{"command": "npm", "description": "JavaScript and Node.js package manager.Manage Node.js projects and their module dependencies."}
+{"command": "nproc", "description": "Print the number of processing units (normally CPUs) available."}
+{"command": "npx", "description": "Execute binaries from npm packages."}
+{"command": "nrm", "description": "npm registry manager.Helps to easily switch between different npm registries."}
+{"command": "nslookup", "description": "Query name server(s) for various domain records."}
+{"command": "nth", "description": "Name That Hash - Instantly name the type of any hash."}
+{"command": "ntl", "description": "This command is an alias of netlify."}
+{"command": "nu", "description": "Nushell (\"a new type of shell\") takes a modern, structured approach to your command-line.See also: elvish."}
+{"command": "nudoku", "description": "Sudoku game in terminal."}
+{"command": "numfmt", "description": "Convert numbers to and from human-readable strings."}
+{"command": "nvidia-smi", "description": "Aid the management and monitoring of NVIDIA GPU devices."}
+{"command": "nvim", "description": "Neovim, a programmer's text editor based on Vim, provides several modes for different kinds of text manipulation.Pressing i in normal mode enters insert mode. <Esc> goes back to normal mode, which doesn't allow regular text insertion.See also: vim, vimtutor, vimdiff."}
+{"command": "nvm", "description": "Install, uninstall or switch between Node.js versions.Supports version numbers like \"12.8\" or \"v16.13.1\", and labels like \"stable\", \"system\", etc.See also: asdf."}
+{"command": "nvm", "description": "Install, uninstall or switch between Node.js versions.Supports version numbers like \"12.8\" or \"v16.13.1\", and labels like \"stable\", \"system\", etc.See also: asdf."}
+{"command": "nvme", "description": "NVMe storage user space utility."}
+{"command": "nx", "description": "Manage nx workspaces."}
+{"command": "nyxt", "description": "A keyboard-driven web browser for power users."}
+{"command": "oathtool", "description": "OATH one-time password tool."}
+{"command": "objdump", "description": "View information about object files."}
+{"command": "obs", "description": "Open Broadcaster Software.Video recording and livestreaming program."}
+{"command": "oc", "description": "The OpenShift Container Platform CLI.Allows for application and container management."}
+{"command": "ocaml", "description": "The OCaml repl (read-evaluate-print-loop).Interprets Ocaml commands."}
+{"command": "ocamlc", "description": "The OCaml bytecode compiler.Produces executables runnable by the OCaml interpreter."}
+{"command": "ocamlfind", "description": "The findlib package manager for OCaml.Simplifies linking executables with external libraries."}
+{"command": "ocamlopt", "description": "The OCaml native code compiler.Produces native executables, e.g. ELF on Linux."}
+{"command": "ocrmypdf", "description": "Generate a searchable PDF or PDF/A from a scanned PDF or an image of text."}
+{"command": "octave", "description": "A programming language for scientific computing."}
+{"command": "od", "description": "Display file contents in octal, decimal or hexadecimal format.Optionally display the byte offsets and/or printable representation for each line."}
+{"command": "odps auth", "description": "User authorities in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps func", "description": "Manage functions in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps inst", "description": "Manage instances in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps resource", "description": "Manage resources in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps table", "description": "Create and modify tables in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps tunnel", "description": "Data tunnel in ODPS (Open Data Processing Service).See also odps."}
+{"command": "odps", "description": "Aliyun ODPS (Open Data Processing Service) command-line tool.Some subcommands such as odps inst have their own usage documentation."}
+{"command": "offlineimap", "description": "Synchronize a remote IMAP server with local Maildir folders."}
+{"command": "ogr2ogr", "description": "Convert geospatial vector data between file formats."}
+{"command": "ogrinfo", "description": "List information about an OGR-supported data source."}
+{"command": "ogrmerge.py", "description": "Merge several vector datasets into a single one."}
+{"command": "ohdear-cli", "description": "An unofficial Oh Dear CLI written with Laravel Zero."}
+{"command": "okular", "description": "View documents."}
+{"command": "omf", "description": "Oh My Fish, the Fishshell Framework.Install packages to extend and modify the fish shell."}
+{"command": "omz", "description": "Oh My Zsh command-line tool."}
+{"command": "ooniprobe", "description": "Open Observatory of Network Interference (OONI).Test the blocking of websites and apps. Measure the speed and performance of your network."}
+{"command": "opam", "description": "OCaml Package Manager.Manage OCaml compilers, tools and libraries."}
+{"command": "openai", "description": "CLI tool providing access to the OpenAI API."}
+{"command": "openconnect", "description": "A VPN client, for Cisco AnyConnect VPNs and others."}
+{"command": "openscad", "description": "Software for creating solid 3D CAD objects."}
+{"command": "openssl dgst", "description": "OpenSSL command to generate digest values and perform signature operations."}
+{"command": "openssl genpkey", "description": "OpenSSL command to generate asymmetric key pairs."}
+{"command": "openssl genrsa", "description": "OpenSSL command to generate RSA private keys."}
+{"command": "openssl prime", "description": "OpenSSL command to compute prime numbers."}
+{"command": "openssl req", "description": "OpenSSL command to manage PKCS#10 Certificate Signing Requests."}
+{"command": "openssl s_client", "description": "OpenSSL command to create TLS client connections."}
+{"command": "openssl ts", "description": "OpenSSL command to generate and verify timestamps."}
+{"command": "openssl x509", "description": "OpenSSL command to manage X.509 certificates."}
+{"command": "openssl", "description": "OpenSSL cryptographic toolkit.Some subcommands such as openssl req have their own usage documentation."}
+{"command": "openttd", "description": "Open source clone of the Microprose game \"Transport Tycoon Deluxe\"."}
+{"command": "openvpn", "description": "OpenVPN client and daemon binary."}
+{"command": "opt", "description": "A tool that takes LLVM source files and runs specified optimizations and/or analyses on them."}
+{"command": "optipng", "description": "PNG file optimization utility."}
+{"command": "opusenc", "description": "Convert WAV or FLAC audio to Opus."}
+{"command": "orca-c", "description": "A C-port of the ORCA live programming environment.ORCA is an esoteric programming language for creating procedural sequencers."}
+{"command": "osage", "description": "Render an image of a clustered network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "osmium", "description": "Multipurpose tool for handling OpenStreetMap (OSM) files."}
+{"command": "osv-scanner", "description": "Scan various mediums for dependencies and matches them against the OSV database."}
+{"command": "ouch", "description": "Command-line utility for compressing and decompressing files and directories."}
+{"command": "p10k", "description": "Manage configurations for powerlevel10k."}
+{"command": "p4", "description": "Perforce Version Control System."}
+{"command": "p5", "description": "Template builder and sketch manager for p5.js."}
+{"command": "p7zip", "description": "Wrapper of 7-Zip file archiver with high compression ratio.Internally executes either 7za or 7zr command."}
+{"command": "paci", "description": "A package manager for Bash scripts."}
+{"command": "packer", "description": "Build automated machine images."}
+{"command": "packtpub", "description": "Download freely offered books from packtpub.com."}
+{"command": "pactl", "description": "Control a running PulseAudio sound server."}
+{"command": "pageres", "description": "Capture screenshots of websites in various resolutions."}
+{"command": "pake", "description": "Turn any webpage into a desktop app with Rust/Tauri."}
+{"command": "pamixer", "description": "A simple command-line mixer for PulseAudio."}
+{"command": "pandoc", "description": "Convert documents between various formats."}
+{"command": "paperkey", "description": "An OpenPGP key archiver."}
+{"command": "parallel-lint", "description": "A tool to check the syntax of PHP files in parallel."}
+{"command": "parallel", "description": "Run commands on multiple CPU cores."}
+{"command": "parquet-tools", "description": "A tool to show, inspect and manipulate Parquet file."}
+{"command": "particle", "description": "Interact with Particle devices."}
+{"command": "pass otp", "description": "A pass extension for managing one-time-password (OTP) tokens."}
+{"command": "pass", "description": "Tool for storing and reading passwords or other sensitive data.All data is GPG-encrypted, and managed with a Git repository."}
+{"command": "passwd", "description": "Change a user's password."}
+{"command": "paste", "description": "Merge lines of files."}
+{"command": "pastel", "description": "Generate, analyze, convert and manipulate colors."}
+{"command": "patch", "description": "Patch a file (or files) with a diff file.Note that diff files should be generated by the diff command."}
+{"command": "patchwork", "description": "Render an image of a squareified treemap network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "pathchk", "description": "Check the validity and portability of one or more pathnames."}
+{"command": "pax", "description": "Archiving and copying utility."}
+{"command": "pdf-parser", "description": "Identify fundamental elements of a PDF file without rendering it."}
+{"command": "pdffonts", "description": "Portable Document Format (PDF) file fonts information viewer."}
+{"command": "pdfgrep", "description": "Search text in PDF files."}
+{"command": "pdfimages", "description": "Utility for extracting images from PDFs."}
+{"command": "pdfinfo", "description": "Portable Document Format (PDF) file information viewer."}
+{"command": "pdfjam", "description": "Shell frontend for the LaTeX pdfpages package for mingling PDFs."}
+{"command": "pdfjoin", "description": "PDF merging utility based on pdfjam."}
+{"command": "pdflatex", "description": "Compile a PDF document from LaTeX source files."}
+{"command": "pdfposter", "description": "Convert a large-sheeted PDF into multiple A4 pages for printing."}
+{"command": "pdfseparate", "description": "Portable Document Format (PDF) file page extractor."}
+{"command": "pdftex", "description": "Compile a PDF document from TeX source files."}
+{"command": "pdftk", "description": "PDF toolkit."}
+{"command": "pdftocairo", "description": "Converts PDF files to PNG/JPEG/TIFF/PDF/PS/EPS/SVG using cairo."}
+{"command": "pdftotext", "description": "Convert PDF files to plain text format."}
+{"command": "pdfunite", "description": "PDF merging utility."}
+{"command": "peco", "description": "Interactive filtering tool."}
+{"command": "peerflix", "description": "Stream video- or audio-based torrents to a media player."}
+{"command": "peerindex", "description": "Inspect MRT TABLE_DUMPV2 Peer Index Table.Can read files compressed with gzip, bzip2 and xz."}
+{"command": "peludna-prognoza", "description": "Fetch pollen measurement data for Croatian cities from your terminal using Pliva's allergies data API."}
+{"command": "perl", "description": "The Perl 5 language interpreter."}
+{"command": "pest", "description": "A PHP testing framework with a focus on simplicity."}
+{"command": "pfetch", "description": "Display system information."}
+{"command": "pg_ctl", "description": "Utility for controlling a PostgreSQL server and database cluster."}
+{"command": "pg_dump", "description": "Extract a PostgreSQL database into a script file or other archive file."}
+{"command": "pg_dumpall", "description": "Extract a PostgreSQL database cluster into a script file or other archive file."}
+{"command": "pg_isready", "description": "Check the connection status of a PostgreSQL server."}
+{"command": "pg_restore", "description": "Restore a PostgreSQL database from an archive file created by pg_dump."}
+{"command": "pgbench", "description": "Run a benchmark test on PostgreSQL."}
+{"command": "pgrep", "description": "Find or signal processes by name."}
+{"command": "phan", "description": "A static analysis tool for PHP."}
+{"command": "phing", "description": "A PHP build tool based on Apache Ant."}
+{"command": "phive", "description": "The Phar Installation and Verification Environment for secure PHP application deployment."}
+{"command": "php artisan", "description": "Laravel's Artisan command-line interface."}
+{"command": "php-coveralls", "description": "A PHP client for Coveralls."}
+{"command": "PHP-CS-Fixer", "description": "Automatic coding style fixer for PHP."}
+{"command": "php yii", "description": "Yii Framework's command-line interface."}
+{"command": "php", "description": "PHP command-line interface."}
+{"command": "phpbu", "description": "A backup utility framework for PHP."}
+{"command": "phpcbf", "description": "Fix violations detected by phpcs."}
+{"command": "phpcpd", "description": "A copy and paste detector for PHP code."}
+{"command": "phpcs", "description": "Tokenize PHP, JavaScript and CSS files to detect violations of a defined set of coding standards."}
+{"command": "phpdox", "description": "A PHP documentation generator."}
+{"command": "phpenv", "description": "A PHP version manager for development purposes."}
+{"command": "phpize", "description": "Prepare a PHP extension for compiling."}
+{"command": "phploc", "description": "A tool for quickly measuring the size and analyzing the structure of a PHP project."}
+{"command": "phpmd", "description": "A PHP mess detector that checks for common potential problems."}
+{"command": "phpspec", "description": "A Behaviour Driven Development tool for PHP."}
+{"command": "phpstan", "description": "A PHP static analysis tool to discover bugs in code."}
+{"command": "phpstorm", "description": "A cross-platform IDE for PHP based on the JetBrains IntelliJ platform."}

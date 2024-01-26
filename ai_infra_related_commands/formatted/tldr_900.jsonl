@@ -1,0 +1,150 @@
+{"command": "git archive", "description": "Create an archive of files from a named tree."}
+{"command": "git authors", "description": "Generate a list of committers of a Git repository.Part of git-extras."}
+{"command": "git bisect", "description": "Use binary search to find the commit that introduced a bug.Git automatically jumps back and forth in the commit graph to progressively narrow down the faulty commit."}
+{"command": "git blame-someone-else", "description": "Blame someone else for your bad code."}
+{"command": "git blame", "description": "Show commit hash and last author on each line of a file."}
+{"command": "git branch", "description": "Main Git command for working with branches."}
+{"command": "git browse-ci", "description": "Open the current git repository's CI website in the default web browser.Part of git-extras."}
+{"command": "git browse", "description": "View an upstream repository in the default browser.Part of git-extras."}
+{"command": "git brv", "description": "Print a list of branches, sorted by last commit date.Part of git-extras."}
+{"command": "git bug", "description": "A distributed bug tracker that uses git's internal storage, so no files are added in your project.You may submit your problems to the same git remote you use to interact with others, much like commits and branches."}
+{"command": "git bugreport", "description": "Captures debug information from the system and user, generating a text file to aid in the reporting of a bug in Git."}
+{"command": "git bulk", "description": "Execute operations on multiple Git repositories.Part of git-extras."}
+{"command": "git bundle", "description": "Package objects and references into an archive."}
+{"command": "git cat-file", "description": "Provide content or type and size information for Git repository objects."}
+{"command": "git changelog", "description": "Generate a changelog report from repository commits and tags.Part of git-extras."}
+{"command": "git check-attr", "description": "For every pathname, list if each attribute is unspecified, set, or unset as a gitattribute on that pathname."}
+{"command": "git check-ignore", "description": "Analyze and debug Git ignore/exclude (\".gitignore\") files."}
+{"command": "git check-mailmap", "description": "Show canonical names and email addresses of contacts."}
+{"command": "git check-ref-format", "description": "Check if a given refname is acceptable, and exit with a non-zero status if it is not."}
+{"command": "git checkout-index", "description": "Copy files from the index to the working tree."}
+{"command": "git checkout", "description": "Checkout a branch or paths to the working tree."}
+{"command": "git cherry-pick", "description": "Apply the changes introduced by existing commits to the current branch.To apply changes to another branch, first use git checkout to switch to the desired branch."}
+{"command": "git cherry", "description": "Find commits that have yet to be applied upstream."}
+{"command": "git clean", "description": "Remove untracked files from the working tree."}
+{"command": "git clear-soft", "description": "Clear a Git working directory as if it was freshly cloned with the current branch excluding files in .gitignore.Part of git-extras."}
+{"command": "git clear", "description": "Clear a Git working directory as if it was freshly cloned with the current branch including files in .gitignore.Part of git-extras."}
+{"command": "git clone", "description": "Clone an existing repository."}
+{"command": "git coauthor", "description": "Add another author to the latest commit. Since this command rewrites the Git history, --force will be needed when pushing next time.Part of git-extras."}
+{"command": "git cola", "description": "A powerful Git GUI with a slick and intuitive user interface."}
+{"command": "git column", "description": "Display data in columns."}
+{"command": "git commit-graph", "description": "Write and verify Git commit-graph files."}
+{"command": "git commit-tree", "description": "Low level utility to create commit objects.See also: git commit."}
+{"command": "git commit", "description": "Commit files to the repository."}
+{"command": "git commits-since", "description": "Display commits since a specific time or date.Part of git-extras."}
+{"command": "git config", "description": "Manage custom configuration options for Git repositories.These configurations can be local (for the current repository) or global (for the current user)."}
+{"command": "git contrib", "description": "Display commits from a specific author.Part of git-extras."}
+{"command": "git count-objects", "description": "Count the number of unpacked objects and their disk consumption."}
+{"command": "git count", "description": "Print the total number of commits.Part of git-extras."}
+{"command": "git cp", "description": "Copy an existing file to a new location, preserving history.Part of git-extras."}
+{"command": "git create-branch", "description": "Create a Git branch in a repository.Part of git-extras."}
+{"command": "git credential-cache", "description": "Git helper to temporarily store passwords in memory."}
+{"command": "git credential-store", "description": "git helper to store passwords on disk."}
+{"command": "git credential", "description": "Retrieve and store user credentials."}
+{"command": "git cvsexportcommit", "description": "Export a single Git commit to a CVS checkout."}
+{"command": "git daemon", "description": "A really simple server for Git repositories."}
+{"command": "git delete-branch", "description": "Delete local and remote Git branches.Part of git-extras. If deleting the checked out branch, only the remote branch will be deleted."}
+{"command": "git delete-merged-branches", "description": "Delete branches that are listed in git branch --merged excluding master.Part of git-extras."}
+{"command": "git delete-submodule", "description": "Delete a specific submodule from a git repository.Part of git-extras."}
+{"command": "git delete-tag", "description": "Delete existing local and remote tags.Part of git-extras."}
+{"command": "git delta", "description": "List files that differ from another branch.Part of git-extras."}
+{"command": "git describe", "description": "Give an object a human-readable name based on an available ref."}
+{"command": "git diff-files", "description": "Compare files using their sha1 hashes and modes."}
+{"command": "git diff", "description": "Show changes to tracked files."}
+{"command": "git difftool", "description": "Show file changes using external diff tools. Accepts the same options and arguments as git diff.See also: git diff."}
+{"command": "git effort", "description": "Display how much activity a file has had, showing commits per file and \"active days\" i.e. total number of days that contributed to the file.Part of git-extras."}
+{"command": "git extras", "description": "Git extension pack."}
+{"command": "git fame", "description": "Pretty-print Git repository contributions."}
+{"command": "git feature", "description": "Create or merge feature branches.Feature branches obey the format feature/."}
+{"command": "git fetch", "description": "Download objects and refs from a remote repository."}
+{"command": "git filter-repo", "description": "A versatile tool for rewriting Git history.See also: bfg."}
+{"command": "git flow", "description": "A collection of Git extensions to provide high-level repository operations."}
+{"command": "git for-each-repo", "description": "Run a Git command on a list of repositories.Note: this command is experimental and may change."}
+{"command": "git force-clone", "description": "Provides the basic functionality of git clone, but if the destination git repository already exists it will force-reset it to resemble a clone of the remote.Part of git-extras."}
+{"command": "git fork", "description": "Fork the given GitHub repo. Like git clone but forks first.Part of git-extras."}
+{"command": "git format-patch", "description": "Prepare .patch files. Useful when emailing commits elsewhere.See also git am, which can apply generated .patch files."}
+{"command": "git fsck", "description": "Verify the validity and connectivity of nodes in a Git repository index.Does not make any modifications. See git gc for cleaning up dangling blobs."}
+{"command": "git gc", "description": "Optimise the local repository by cleaning unnecessary files."}
+{"command": "git gh-pages", "description": "Create a new branch inside the current repository called gh-pages.Part of git-extras."}
+{"command": "git graft", "description": "Merge commits from a specific branch into another branch and delete the source branch.Part of git-extras."}
+{"command": "git-grep", "description": "Find strings inside files anywhere in a repository's history.Accepts a lot of the same flags as regular grep."}
+{"command": "git hash-object", "description": "Computes the unique hash key of content and optionally creates an object with specified type."}
+{"command": "git help", "description": "Display help information about Git."}
+{"command": "git ignore-io", "description": "Generate .gitignore files from predefined templates."}
+{"command": "git ignore", "description": "Show/update .gitignore files.Part of git-extras. See also git ignore-io."}
+{"command": "git-imerge", "description": "Perform a merge or rebase between two Git branches incrementally.Conflicts between branches are tracked down to pairs of individual commits, to simplify conflict resolution."}
+{"command": "git info", "description": "Display Git repository information.Part of git-extras."}
+{"command": "git init", "description": "Initializes a new local Git repository."}
+{"command": "git instaweb", "description": "Helper to launch a GitWeb server."}
+{"command": "git lfs", "description": "Work with large files in Git repositories."}
+{"command": "git local-commits", "description": "Show local commits that haven't been pushed to origin. Any additional arguments will be passed directly to git log.Part of `git-extras."}
+{"command": "git lock", "description": "Lock a file in a Git repository from being modified by a commit.Part of git-extras. See also git-unlock."}
+{"command": "git locked", "description": "List locked files in a Git repository.Part of git-extras."}
+{"command": "git log", "description": "Show a history of commits."}
+{"command": "git ls-files", "description": "Show information about files in the index and the working tree."}
+{"command": "git ls-remote", "description": "Git command for listing references in a remote repository based on name or URL.If no name or URL are given, then the configured upstream branch will be used, or remote origin if the former is not configured."}
+{"command": "git ls-tree", "description": "List the contents of a tree object."}
+{"command": "git mailinfo", "description": "Extract patch and authorship information from a single email message."}
+{"command": "git-maintenance", "description": "Run tasks to optimize Git repository data."}
+{"command": "git merge-base", "description": "Find a common ancestor of two commits."}
+{"command": "git merge-into", "description": "Merge one branch into another branch.Part of git-extras."}
+{"command": "git merge-repo", "description": "Merge two repository histories.Part of git-extras."}
+{"command": "git merge", "description": "Merge branches."}
+{"command": "git mergetool", "description": "Run merge conflict resolution tools to resolve merge conflicts."}
+{"command": "git missing", "description": "Show commits which aren't shared between two branches.Part of git-extras."}
+{"command": "git mr", "description": "Check out GitLab merge requests locally.Part of git-extras."}
+{"command": "git mv", "description": "Move or rename files and update the Git index."}
+{"command": "git notes", "description": "Add or inspect object notes."}
+{"command": "git obliterate", "description": "Delete specific files and erase their history from a Git repository.Part of git-extras."}
+{"command": "git pr", "description": "Check out GitHub pull requests locally.Part of git-extras."}
+{"command": "git prune", "description": "Git command for pruning all unreachable objects from the object database.This command is often not used directly but as an internal command that is used by Git gc."}
+{"command": "git pull", "description": "Fetch branch from a remote repository and merge it to local repository."}
+{"command": "git push", "description": "Push commits to a remote repository."}
+{"command": "git range-diff", "description": "Compare two commit ranges (e.g. two versions of a branch)."}
+{"command": "git reauthor", "description": "Change details about an author identity. Since this command rewrites the Git history, --force will be needed when pushing next time.Part of git-extras."}
+{"command": "git rebase", "description": "Reapply commits from one branch on top of another branch.Commonly used to \"move\" an entire branch to another base, creating copies of the commits in the new location."}
+{"command": "git reflog", "description": "Show a log of changes to local references like HEAD, branches or tags."}
+{"command": "git release", "description": "Create a Git tag for a release.Part of git-extras."}
+{"command": "git remote", "description": "Manage set of tracked repositories (\"remotes\")."}
+{"command": "git rename-branch", "description": "Rename a Git branch.Part of git-extras."}
+{"command": "git rename-remote", "description": "Change remote for pulling and pushing.Part of git-extras."}
+{"command": "git rename-tag", "description": "Rename a Git tag.Part of git-extras."}
+{"command": "git repack", "description": "Pack unpacked objects in a Git repository."}
+{"command": "git repl", "description": "Git REPL (read-evaluate-print-loop) - an interactive Git shell.Part of git-extras."}
+{"command": "git replace", "description": "Create, list, and delete refs to replace objects."}
+{"command": "git request-pull", "description": "Generate a request asking the upstream project to pull changes into its tree."}
+{"command": "git reset-file", "description": "Revert a file to HEAD or a specific commit.Part of git-extras."}
+{"command": "git reset", "description": "Undo commits or unstage changes, by resetting the current Git HEAD to the specified state.If a path is passed, it works as \"unstage\"; if a commit hash or branch is passed, it works as \"uncommit\"."}
+{"command": "git restore", "description": "Restore working tree files. Requires Git version 2.23+.See also git checkout and git reset."}
+{"command": "git rev-list", "description": "List revisions (commits) in reverse chronological order."}
+{"command": "git rev-parse", "description": "Display metadata related to specific revisions."}
+{"command": "git revert", "description": "Create new commits which reverse the effect of earlier ones."}
+{"command": "git rm", "description": "Remove files from repository index and local filesystem."}
+{"command": "git root", "description": "Print the root directory of the current Git repository.Part of git-extras."}
+{"command": "git scp", "description": "Copy files from the current working tree to the working directory of a remote repository.Part of git-extras. Uses rsync to transfer files."}
+{"command": "git secret", "description": "Bash tool which stores private data inside a Git repository."}
+{"command": "git sed", "description": "Replace patterns in git-controlled files using sed.Part of git-extras."}
+{"command": "git send-email", "description": "Send a collection of patches as emails.Patches can be specified as files, directions, or a revision list."}
+{"command": "git setup", "description": "Create a Git repository in a specific directory and commit all files.Part of git-extras."}
+{"command": "git shortlog", "description": "Summarizes the git log output."}
+{"command": "git show-branch", "description": "Show branches and their commits."}
+{"command": "git show-index", "description": "Show the packed archive index of a Git repository."}
+{"command": "git show-merged-branches", "description": "Print all branches which are merged into the current head."}
+{"command": "git show-ref", "description": "Git command for listing references."}
+{"command": "git show-tree", "description": "Show a decorated tree graph with all branches of a Git repository, showing annotations.Part of git-extras."}
+{"command": "git show-unmerged-branches", "description": "Print all branches which are not merged into the current HEAD."}
+{"command": "git show", "description": "Show various types of Git objects (commits, tags, etc.)."}
+{"command": "git sizer", "description": "Computes various Git repository size metrics and alerts you to any that might cause problems or inconvenience."}
+{"command": "git squash", "description": "Squash multiple commits into a single commit.Part of git-extras."}
+{"command": "git stage", "description": "This command is an alias of git add."}
+{"command": "git stamp", "description": "Stamp the last commit message, with the possibility to reference the issues numbers from your bug tracker or link to its review page.Part of git-extras."}
+{"command": "git standup", "description": "See commits from a specified user.Part of git-extras."}
+{"command": "git stash", "description": "Stash local Git changes in a temporary area."}
+{"command": "git status", "description": "Show the changes to files in a Git repository.Lists changed, added and deleted files compared to the currently checked-out commit."}
+{"command": "git stripspace", "description": "Read text (e.g. commit messages, notes, tags, and branch descriptions) from stdin and clean it into the manner used by Git."}
+{"command": "git submodule", "description": "Inspects, updates and manages submodules."}
+{"command": "git subtree", "description": "Tool to manage project dependencies as subprojects."}
+{"command": "git summary", "description": "Display information about a Git repository.Part of git-extras."}
+{"command": "git svn", "description": "Bidirectional operation between a Subversion repository and Git."}
+{"command": "git switch", "description": "Switch between Git branches. Requires Git version 2.23+.See also git checkout."}
+{"command": "git symbolic-ref", "description": "Read, change, or delete files that store references."}

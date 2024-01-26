@@ -1,0 +1,150 @@
+{"command": "strip", "description": "Discard symbols from executables or object files."}
+{"command": "swaks", "description": "Swiss Army Knife SMTP, the all-purpose SMTP transaction tester."}
+{"command": "swaplabel", "description": "Print or change the label or UUID of a swap area.Note: path/to/file can either point to a regular file or a swap partition."}
+{"command": "swapoff", "description": "Disable devices and files for swapping.Note: path/to/file can either point to a regular file or a swap partition."}
+{"command": "swapon", "description": "Enable devices and files for swapping.Note: path/to/file can either point to a regular file or a swap partition."}
+{"command": "swupd", "description": "Package management utility for Clear Linux."}
+{"command": "sxiv", "description": "Simple X Image Viewer."}
+{"command": "synopkg", "description": "Package management utility for Synology DiskStation Manager."}
+{"command": "synoupgrade", "description": "Upgrade Synology DiskStation Manager (DSM) - the Synology NAS operating system."}
+{"command": "sysctl", "description": "List and change kernel runtime variables."}
+{"command": "systemctl", "description": "Control the systemd system and service manager."}
+{"command": "systemd-ac-power", "description": "Report whether the computer is connected to an external power source."}
+{"command": "systemd-analyze", "description": "Analyze and debug system manager.Show timing details about the boot process of units (services, mount points, devices, sockets)."}
+{"command": "systemd-cat", "description": "Connect a pipeline or program's output streams with the systemd journal."}
+{"command": "systemd-delta", "description": "Find overridden systemd-related configuration files."}
+{"command": "systemd-firstboot", "description": "Initialize basic system settings on or before the first boot-up of a system."}
+{"command": "systemd-hwdb", "description": "Hardware database management tool."}
+{"command": "systemd-mount", "description": "Establish and destroy transient mount or auto-mount points."}
+{"command": "systemd-notify", "description": "Notify the service manager about start-up completion and other daemon status changes.This command is useless outside systemd service scripts."}
+{"command": "systemd-path", "description": "List and query system and user paths."}
+{"command": "systemd-run", "description": "Run programs in transient scope units, service units, or path-, socket-, or timer-triggered service units."}
+{"command": "systemd-umount", "description": "This command is an alias of systemd-mount --umount."}
+{"command": "tac", "description": "Display and concatenate files with lines in reversed order.See also: cat."}
+{"command": "taskset", "description": "Get or set a process' CPU affinity or start a new process with a defined CPU affinity."}
+{"command": "tc", "description": "Show/manipulate traffic control settings."}
+{"command": "tcpflow", "description": "Capture TCP traffic for debugging and analysis."}
+{"command": "tcpkill", "description": "Kills specified in-progress TCP connections."}
+{"command": "tcptraceroute", "description": "A traceroute implementation using TCP packets."}
+{"command": "telinit", "description": "Change SysV runlevel.Since the concept SysV runlevels is obsolete the runlevel requests will be transparently translated into systemd unit activation requests."}
+{"command": "terminator", "description": "Arrange multiple GNOME terminals in one window."}
+{"command": "termusic", "description": "A terminal music player written in Rust that uses vim-like key bindings."}
+{"command": "tftp", "description": "Trivial File Transfer Protocol client."}
+{"command": "thunar", "description": "Graphical file manager for XFCE desktop environments."}
+{"command": "tic", "description": "Compile terminfo and install for ncurses."}
+{"command": "timedatectl", "description": "Control the system time and date."}
+{"command": "timeshift", "description": "System restore utility."}
+{"command": "tlp-stat", "description": "A tool to generate TLP status reports.See also tlp."}
+{"command": "tlp", "description": "Advanced power management for Linux.See also tlp-stat."}
+{"command": "toilet", "description": "A tool to display ASCII-art fonts."}
+{"command": "tomb", "description": "Manage encrypted storage directories that can be safely transported and hidden in a filesystem."}
+{"command": "toolbox create", "description": "Create a new toolbox container."}
+{"command": "toolbox enter", "description": "Enter a toolbox container for interactive use.See also: toolbox run."}
+{"command": "toolbox help", "description": "Displays help information about toolbox."}
+{"command": "toolbox init-container", "description": "Initialize a running toolbox container.This command should not be executed by the user, and cannot be run on the host."}
+{"command": "toolbox list", "description": "List existing toolbox containers and images."}
+{"command": "toolbox rm", "description": "Remove one or more toolbox containers.See also: toolbox rmi."}
+{"command": "toolbox rmi", "description": "Remove one or more toolbox images.See also: toolbox rm."}
+{"command": "toolbox run", "description": "Run a command in an existing toolbox container.See also: toolbox enter."}
+{"command": "toolbox", "description": "Tool for containerized command-line environments on Linux.Some subcommands such as toolbox create have their own usage documentation."}
+{"command": "top", "description": "Display dynamic real-time information about running processes."}
+{"command": "trace-cmd", "description": "Utility to interact with the Ftrace Linux kernel internal tracer.This utility only runs as root."}
+{"command": "tracepath", "description": "Trace the path to a network host discovering MTU along this path."}
+{"command": "trash", "description": "Manage the trashcan/recycling bin."}
+{"command": "trashy", "description": "An alternative to rm and trash-cli written in Rust."}
+{"command": "trayer", "description": "A lightweight GTK-2 based systray."}
+{"command": "treetime", "description": "TreeTime provides routines for ancestral sequence reconstruction and inference of molecular-clock phylogenies."}
+{"command": "trizen", "description": "Arch Linux utility for building packages from the Arch User Repository (AUR)."}
+{"command": "trust", "description": "Tool for operating on the trust policy store."}
+{"command": "tshark", "description": "Packet analysis tool, CLI version of Wireshark."}
+{"command": "ttyplot", "description": "A realtime plotting utility for the command-line with data input from stdin."}
+{"command": "tune2fs", "description": "Adjust parameters of an ext2, ext3 or ext4 filesystem.May be used on mounted filesystems."}
+{"command": "tuxi", "description": "Scrape Google search results and SERPs and provide instant and concise answers."}
+{"command": "ubuntu-bug", "description": "This command is an alias of apport-bug."}
+{"command": "ubuntu-security-status", "description": "Display information about security support for installed Ubuntu packages."}
+{"command": "udevadm", "description": "Linux udev management tool."}
+{"command": "udisksctl", "description": "Interact with udisksd to query and manipulate storage devices."}
+{"command": "ufw", "description": "Uncomplicated Firewall.Frontend for iptables aiming to make configuration of a firewall easier."}
+{"command": "ul", "description": "Performs the underlining of a text.Each character in a given string must be underlined separately."}
+{"command": "uname", "description": "Print details about the current machine and the operating system running on it.See also lsb_release."}
+{"command": "unix2dos", "description": "Change Unix-style line endings to DOS-style.Replaces LF with CRLF."}
+{"command": "unix2mac", "description": "Change Unix-style line endings to macOS-style.Replaces LF with CR."}
+{"command": "unset", "description": "Remove shell variables or functions."}
+{"command": "unshadow", "description": "Utility provided by the John the Ripper project to obtain the traditional Unix password file if the system uses shadow passwords."}
+{"command": "unshare", "description": "Execute a command in new user-defined namespaces."}
+{"command": "unsquashfs", "description": "Uncompress, extract and list files in squashfs filesystems."}
+{"command": "unzipsfx", "description": "Create a self-extracting compressed binary file by prepending self-extracting stubs on a zip file."}
+{"command": "update-alternatives", "description": "A convenient tool for maintaining symbolic links to determine default commands."}
+{"command": "update-rc.d", "description": "Install and remove services which are System-V style init script links.Init scripts are in the /etc/init.d/."}
+{"command": "updatedb", "description": "Create or update the database used by locate.It is usually run daily by cron."}
+{"command": "updpkgsums", "description": "Update the checksums of the sources in a PKGBUILD.Unless a preexisting hashing algorithm is used, SHA256 will be used."}
+{"command": "upower", "description": "System utility to provide power and battery information and statistics."}
+{"command": "uprecords", "description": "Displays a summary of historical uptime records."}
+{"command": "urxvt", "description": "Rxvt-unicode.A customizable terminal emulator."}
+{"command": "usbip", "description": "Use USB devices remotely."}
+{"command": "useradd", "description": "Create a new user.See also: users, userdel, usermod."}
+{"command": "userdel", "description": "Remove a user account or remove a user from a group.See also: users, useradd, usermod."}
+{"command": "usermod", "description": "Modifies a user account.See also: users, useradd, userdel."}
+{"command": "utmpdump", "description": "Dump and load btmp, utmp and wtmp accounting files."}
+{"command": "uuid", "description": "Generate and decode Universally Unique Identifiers (UUID).See also uuidgen."}
+{"command": "uuidd", "description": "Daemon for generating UUIDs."}
+{"command": "uuidgen", "description": "Generate unique identifiers (UUIDs).See also uuid."}
+{"command": "uvcdynctrl", "description": "A libwebcam command-line tool to manage dynamic controls in uvcvideo."}
+{"command": "v4l2-ctl", "description": "Control video devices."}
+{"command": "vcgencmd", "description": "Print system information for a Raspberry Pi."}
+{"command": "veracrypt", "description": "Free and open source disk encryption software."}
+{"command": "vgchange", "description": "Change the attributes of a Logical Volume Manager (LVM) volume group.See also: lvm."}
+{"command": "vgcreate", "description": "Create volume groups combining multiple mass-storage devices.See also: lvm."}
+{"command": "vgdisplay", "description": "Display information about Logical Volume Manager (LVM) volume groups.See also: lvm."}
+{"command": "vgs", "description": "Display information about volume groups.See also: lvm."}
+{"command": "vgscan", "description": "Scan for volume groups on all supported Logical Volume Manager (LVM) block devices.See also: lvm and vgchange."}
+{"command": "viewnior", "description": "Simple and elegant image viewer."}
+{"command": "vigr", "description": "Edit the group file."}
+{"command": "vipw", "description": "Edit the password file."}
+{"command": "virt-manager", "description": "CLI launcher for virt-manager, a desktop user interface for managing KVM and Xen virtual machines and LXC containers."}
+{"command": "virt-viewer", "description": "Minimal graphical interface for a virtual machine (VM).NOTE: 'domain' refers to the name, UUID or ID for the existing VMs (See: tldr virsh)."}
+{"command": "virt-xml-validate", "description": "Validate libvirt XML files against a schema.If a schema is not specified, the schema is determined by the root element in the XML file."}
+{"command": "virt-xml", "description": "Edit libvirt Domain XML files with explicit command-line options.NOTE: 'domain' refers to the name, UUID or ID for the existing VMs (See: tldr virsh)."}
+{"command": "vkpurge", "description": "List or remove old kernel versions left behind by xbps.The version arguments support shell globs."}
+{"command": "vmstat", "description": "Report information about processes, memory, paging, block IO, traps, disks and CPU activity."}
+{"command": "vmware-checkvm", "description": "Check if the current host is a VMware VM or not."}
+{"command": "vncserver", "description": "Launches a VNC (Virtual Network Computing) desktop."}
+{"command": "vncviewer", "description": "Launches a VNC (Virtual Network Computing) client."}
+{"command": "vnstat", "description": "A console-based network traffic monitor."}
+{"command": "vnstati", "description": "PNG image output support for vnStat."}
+{"command": "vpnc", "description": "A VPN client for the Cisco 3000 VPN Concentrator."}
+{"command": "vrms", "description": "Report non-free packages installed on Debian-based OSes."}
+{"command": "vso", "description": "Package manager, system updater and a task automator for Vanilla OS."}
+{"command": "w", "description": "Show who is logged on and what they are doing.Print user login, TTY, remote host, login time, idle time, current process."}
+{"command": "wajig", "description": "Simplified all-in-one-place system support tool for Debian-based systems."}
+{"command": "wal-telegram", "description": "Generates themes for Telegram based the colors generated by pywal/wal."}
+{"command": "wall", "description": "Write a message on the terminals of users currently logged in."}
+{"command": "warpd", "description": "A modal keyboard driven pointer manipulation program."}
+{"command": "watch", "description": "Execute a program periodically, showing output fullscreen."}
+{"command": "wdctl", "description": "Show the hardware watchdog status."}
+{"command": "wg-quick", "description": "Quickly set up WireGuard tunnels based on config files."}
+{"command": "wg", "description": "Manage the configuration of WireGuard interfaces."}
+{"command": "whatis", "description": "Display one-line descriptions from manual pages."}
+{"command": "whiptail", "description": "Display text-based dialog boxes from shell scripts."}
+{"command": "wifi-menu", "description": "Interactively connect to a wireless network."}
+{"command": "wine", "description": "Run Windows executables on Unix-based systems."}
+{"command": "winetricks", "description": "Manage Wine virtual Windows environments."}
+{"command": "wipefs", "description": "Wipe filesystem, raid, or partition-table signatures from a device."}
+{"command": "wl-copy", "description": "Wayland clipboard manipulation tool.See also: wl-paste."}
+{"command": "wl-paste", "description": "Tool to access data stored in the clipboard for Wayland.See also: wl-copy."}
+{"command": "wmctrl", "description": "CLI for X Window Manager."}
+{"command": "wodim", "description": "Command (aliased as cdrecord on some systems) for recording data to CDs or DVDs.Some invocations of wodim can cause destructive actions, such as erasing all the data on a disc."}
+{"command": "woeusb", "description": "Windows media creation tool."}
+{"command": "wol", "description": "Client for sending Wake-on-LAN magic packets."}
+{"command": "wpa_cli", "description": "Add and configure wlan interfaces."}
+{"command": "wpa_passphrase", "description": "Generate a WPA-PSK key from an ASCII passphrase for a given SSID."}
+{"command": "wpctl", "description": "Manage WirePlumber, a session and policy manager for PipeWire.Note: you can use the special name @DEFAULT_SINK@ in place of id to operate on the default sink."}
+{"command": "wtf", "description": "Show the expansions of acronyms."}
+{"command": "x0vncserver", "description": "TigerVNC Server for X displays."}
+{"command": "x11vnc", "description": "A VNC server that will enable VNC on an existing display server.By default, the server will automatically terminate once all clients disconnect from it."}
+{"command": "xauth", "description": "Edit and display the authorization information used in connecting to the X server."}
+{"command": "xbacklight", "description": "Utility to adjust backlight brightness using the RandR extension."}
+{"command": "xbps-install", "description": "XBPS utility to (re)install and update packages.See also: xbps."}
+{"command": "xbps-query", "description": "XBPS utility to query for package and repository information.See also: xbps."}
+{"command": "xbps-remove", "description": "XBPS utility to remove packages.See also: xbps."}
+{"command": "xbps", "description": "The X Binary Package System is the package manager used by Void Linux.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}

@@ -1,0 +1,150 @@
+{"command": "clementine", "description": "A modern music player and library organizer."}
+{"command": "clido", "description": "Save-state TODO app for the terminal."}
+{"command": "clifm", "description": "The command-line file manager."}
+{"command": "clip-view", "description": "Command Line Interface Pages render.Render for a TlDr-like project with much a more extensive syntax and several render modes."}
+{"command": "clj", "description": "Clojure tool to start a REPL or invoke a specific function with data.All options can be defined in a deps.edn file."}
+{"command": "cloc", "description": "Count, and compute differences of, lines of source code and comments."}
+{"command": "clockwork-cli", "description": "A command-line interface for the Clockwork PHP debugging framework."}
+{"command": "clojure", "description": "This command is an alias of clj."}
+{"command": "cloudflared", "description": "Command-line tool to create a persistent connection to the Cloudflare network."}
+{"command": "cmake", "description": "Cross-platform build automation system, that generates recipes for native build systems."}
+{"command": "cmark", "description": "Converts CommonMark Markdown formatted text to other formats."}
+{"command": "cmatrix", "description": "Shows a scrolling Matrix like screen in the terminal."}
+{"command": "cmctl", "description": "Manage cert-manager resources inside your cluster.Check cert signing status, approve/deny requests, and issue new certificate requests."}
+{"command": "cmp", "description": "Compare two files byte by byte."}
+{"command": "code", "description": "Cross platform and extensible code editor."}
+{"command": "codespell", "description": "Spellchecker for source code."}
+{"command": "coffee", "description": "Executes CoffeeScript scripts or compiles them into JavaScript."}
+{"command": "cola", "description": "This command is an alias of git-cola."}
+{"command": "colordiff", "description": "A wrapper around diff that produces the same output but with pretty syntax highlighting.Color schemes can be customized."}
+{"command": "colorls", "description": "A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons."}
+{"command": "colorpicker", "description": "A minimalist X11 colorpicker.Any mouse gesture except left click will exit the program."}
+{"command": "column", "description": "Format stdin or a file into multiple columns.Columns are filled before rows; the default separator is a whitespace."}
+{"command": "comby", "description": "Tool for structural code search and replace that supports many languages."}
+{"command": "comm", "description": "Select or reject lines common to two files. Both files must be sorted."}
+{"command": "command", "description": "Command forces the shell to execute the program and ignore any functions, builtins and aliases with the same name."}
+{"command": "compare", "description": "Create a comparison image to visually annotate the difference between two images.Part of ImageMagick."}
+{"command": "compgen", "description": "A built-in command for auto-completion in Bash, which is called on pressing TAB key twice."}
+{"command": "complete", "description": "Provides argument autocompletion to shell commands."}
+{"command": "composer-require-checker", "description": "Analyze Composer dependencies for soft dependencies."}
+{"command": "composer", "description": "A package-based dependency manager for PHP projects."}
+{"command": "conan frogarian", "description": "Displays the conan frogarian."}
+{"command": "conan", "description": "The open source, decentralized and cross-platform package manager to create and share all your native binaries.Some subcommands such as conan frogarian have their own usage documentation."}
+{"command": "conda create", "description": "Create new conda environments."}
+{"command": "conda install", "description": "Install packages into an existing conda environment."}
+{"command": "conda", "description": "Package, dependency and environment management for any programming language.Some subcommands such as conda create have their own usage documentation."}
+{"command": "consul-kv", "description": "Distributed key-value store with health checking and service discovery."}
+{"command": "consul", "description": "Distributed key-value store with health checking and service discovery.Some subcommands such as consul kv have their own usage documentation."}
+{"command": "convert", "description": "Image conversion tool.Part of ImageMagick."}
+{"command": "convmv", "description": "Convert filenames (NOT file content) from one encoding to another."}
+{"command": "coproc", "description": "Bash builtin for creating interactive asynchronous subshells."}
+{"command": "copyq", "description": "Clipboard manager with advanced features."}
+{"command": "cordova", "description": "Mobile apps with HTML, CSS & JS."}
+{"command": "core-validate-commit", "description": "Validate commit messages for Node.js core."}
+{"command": "corepack", "description": "Zero-runtime-dependency package acting as bridge between Node projects and their package managers."}
+{"command": "cosign", "description": "Container Signing, Verification and Storage in an OCI registry."}
+{"command": "cotton", "description": "Markdown test specification runner."}
+{"command": "couchdb", "description": "Command-line interface for Apache CouchDB database server."}
+{"command": "cowsay", "description": "Print ASCII art (by default a cow) saying or thinking something."}
+{"command": "cp", "description": "Copy files and directories."}
+{"command": "cpdf", "description": "Manipulate PDF files."}
+{"command": "cpio", "description": "Copies files in and out of archives.Supports the following archive formats: cpio's custom binary, old ASCII, new ASCII, crc, HPUX binary, HPUX old ASCII, old tar, and POSIX.1 tar."}
+{"command": "cppcheck", "description": "A static analysis tool for C/C++ code.Instead of syntax errors, it focuses on the types of bugs that compilers normally do not detect."}
+{"command": "cppclean", "description": "Find unused code in C++ projects."}
+{"command": "cradle deploy", "description": "Manage Cradle deployments."}
+{"command": "cradle elastic", "description": "Manage the Elasticsearch instances for a Cradle instance."}
+{"command": "cradle install", "description": "Installs the Cradle PHP framework components."}
+{"command": "cradle package", "description": "Manage packages for a Cradle instance."}
+{"command": "cradle sql", "description": "Manage Cradle SQL databases."}
+{"command": "cradle", "description": "The Cradle PHP framework.Some subcommands such as cradle install have their own usage documentation."}
+{"command": "createdb", "description": "Create a PostgreSQL database."}
+{"command": "crictl", "description": "Command-line for CRI-compatible container runtimes."}
+{"command": "croc", "description": "Send and receive files easily and securely over any network."}
+{"command": "cron", "description": "A system scheduler for running jobs or tasks unattended.The command to submit, edit or delete entries to cron is called crontab."}
+{"command": "cronic", "description": "Bash script for wrapping cron jobs to prevent excess email sending."}
+{"command": "crontab", "description": "Schedule cron jobs to run on a time interval for the current user."}
+{"command": "crunch", "description": "Wordlist generator."}
+{"command": "cryfs", "description": "A cryptographic filesystem for the cloud."}
+{"command": "crystal", "description": "Tool for managing Crystal source code."}
+{"command": "cs complete dep", "description": "Search for libraries without doing it directly on the web."}
+{"command": "cs fetch", "description": "Fetch fetches the JARs of one or more dependencies."}
+{"command": "cs install", "description": "Install an application in the installation directory onfigured when installing cs (to enable the binary to be loaded add to your .bash_profile the $ eval \"$(cs install --env)\" command)."}
+{"command": "cs java", "description": "The java and java-home commands fetch and install JVMs. The java command runs them too."}
+{"command": "cs launch", "description": "Launch an application from the name directly from one or more Maven dependencies without the need of installing it."}
+{"command": "cs resolve", "description": "Resolve lists the transitive dependencies of one or more other dependencies."}
+{"command": "csc", "description": "The Microsoft C# Compiler."}
+{"command": "csh", "description": "The shell (command interpreter) with C-like syntax.See also: tcsh."}
+{"command": "csslint", "description": "A linter for CSS code."}
+{"command": "csv-diff", "description": "View differences between two CSV, TSV or JSON files."}
+{"command": "csv2tsv", "description": "Convert CSV (comma-separated) text to TSV (tab-separated) format."}
+{"command": "csvclean", "description": "Finds and cleans common syntax errors in CSV files.Included in csvkit."}
+{"command": "csvcut", "description": "Filter and truncate CSV files. Like Unix's cut command, but for tabular data.Included in csvkit."}
+{"command": "csvformat", "description": "Convert a CSV file to a custom output format.Included in csvkit."}
+{"command": "csvgrep", "description": "Filter CSV rows with string and pattern matching.Included in csvkit."}
+{"command": "csvkit", "description": "Manipulation toolkit for CSV files.See also: csvclean, csvcut, csvformat, csvgrep, csvlook, csvpy, csvsort, csvstat."}
+{"command": "csvlook", "description": "Render a CSV file in the console as a fixed-width table.Included in csvkit."}
+{"command": "csvpy", "description": "Loads a CSV file into a Python shell.Included in csvkit."}
+{"command": "csvsort", "description": "Sorts CSV files.Included in csvkit."}
+{"command": "csvsql", "description": "Generate SQL statements for a CSV file or execute those statements directly on a database.Included in csvkit."}
+{"command": "csvstat", "description": "Print descriptive statistics for all columns in a CSV file.Included in csvkit."}
+{"command": "csvtool", "description": "Utility to filter and extract data from CSV formatted sources."}
+{"command": "ctags", "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages."}
+{"command": "ctest", "description": "CMake test driver program."}
+{"command": "cups-config", "description": "Show technical information about your CUPS print server installation."}
+{"command": "cupsd", "description": "Server daemon for the CUPS print server."}
+{"command": "curl", "description": "Transfers data from or to a server.Supports most protocols, including HTTP, FTP, and POP3."}
+{"command": "cut", "description": "Cut out fields from stdin or files."}
+{"command": "cvs", "description": "Concurrent Versions System, a revision control system."}
+{"command": "cwebp", "description": "Compress an image file to a WebP file."}
+{"command": "czkawka-cli", "description": "Command-line version of czkawka a multi-functional app to find duplicates, empty folders, similar images and much more."}
+{"command": "d8", "description": "Developer shell for the V8 JavaScript engine."}
+{"command": "daps", "description": "An open source program for transforming DocBook XML into output formats such as HTML or PDF."}
+{"command": "darkhttpd", "description": "Darkhttpd web server."}
+{"command": "dart", "description": "The tool for managing Dart projects."}
+{"command": "dash", "description": "Debian Almquist Shell, a modern, POSIX-compliant implementation of sh (not Bash-compatible)."}
+{"command": "datashader_cli", "description": "Quick visualization of large datasets using CLI based on datashader."}
+{"command": "date", "description": "Set or display the system date."}
+{"command": "dc", "description": "An arbitrary precision calculator. Uses reverse polish notation (RPN).See also: bc."}
+{"command": "dcfldd", "description": "Enhanced version of dd for forensics and security."}
+{"command": "dcg", "description": "Drupal code generator."}
+{"command": "dcode", "description": "Recursively detect and decode strings, supporting hex, decimal, binary, base64, URL, FromChar encodings, Caesar ciphers, and MD5, SHA1, and SHA2 hashes.Warning: uses 3rd-party web services for MD5, SHA1 and SHA2 hash lookups. For sensitive data, use -s to avoid these services."}
+{"command": "dd", "description": "Convert and copy a file."}
+{"command": "ddev", "description": "Container based local development tool for PHP environments."}
+{"command": "deb-get", "description": "apt-get functionality for .deb packages published in third party repositories or via direct download.Works with Linux distributions which use apt-get."}
+{"command": "decaffeinate", "description": "Move your CoffeeScript source to modern JavaScript."}
+{"command": "declare", "description": "Declare variables and give them attributes."}
+{"command": "deemix", "description": "A barebone deezer downloader library built from the ashes of Deezloader Remix.It can be used as a standalone CLI app or implemented in a UI using the API."}
+{"command": "delta", "description": "A viewer for Git and diff output."}
+{"command": "deluge-console", "description": "An interactive interface for the Deluge BitTorrent client."}
+{"command": "deluge", "description": "A command-line BitTorrent client."}
+{"command": "deluged", "description": "A daemon process for the Deluge BitTorrent client."}
+{"command": "deno", "description": "A secure runtime for JavaScript and TypeScript."}
+{"command": "dep", "description": "Deploy PHP applications.Note: The Go command dep with the same name is deprecated and archived."}
+{"command": "detox", "description": "Renames files to make them easier to work with.It removes spaces and other such annoyances like duplicate underline characters."}
+{"command": "dexdump", "description": "Display information about Android DEX files."}
+{"command": "dexter", "description": "Tool for authenticating the kubectl users with OpenId Connect."}
+{"command": "df", "description": "Display an overview of the filesystem disk space usage."}
+{"command": "dfc", "description": "Gives an overview of the filesystem disk space usage with colors and graphs."}
+{"command": "dhclient", "description": "DHCP client."}
+{"command": "dhcpig", "description": "Initiates an advanced DHCP exhaustion attack and stress test.DHCPig needs to be run with root privileges."}
+{"command": "dhcpwn", "description": "Test DHCP IP exhaustion attacks and sniff local DHCP traffic."}
+{"command": "dict", "description": "Command line dictionary using the DICT protocol."}
+{"command": "diff-pdf", "description": "Tool for comparing two PDFs."}
+{"command": "diff", "description": "Compare files and directories."}
+{"command": "diffoscope", "description": "Compare files, archives, and directories."}
+{"command": "diffstat", "description": "Create a histogram from the output of the diff command."}
+{"command": "dig", "description": "DNS lookup utility."}
+{"command": "dillo", "description": "A lightweight web browser intended for slow computers."}
+{"command": "dircolors", "description": "Output commands to set the LS_COLOR environment variable and style ls, dir, etc."}
+{"command": "direnv", "description": "Shell extension to load and unload environment variables depending on the current directory."}
+{"command": "dirname", "description": "Calculates the parent directory of a given file or directory path."}
+{"command": "dirs", "description": "Displays or manipulates the directory stack.The directory stack is a list of recently visited directories that can be manipulated with the pushd and popd commands."}
+{"command": "dirsearch", "description": "Web path scanner."}
+{"command": "diskonaut", "description": "Terminal disk space navigator, written in Rust."}
+{"command": "distccd", "description": "Server daemon for the distcc distributed compiler."}
+{"command": "dive", "description": "A tool for exploring a Docker image, layer contents, and discovering ways to shrink it."}
+{"command": "django-admin", "description": "Django\u2019s utility for administrative tasks."}
+{"command": "dlv", "description": "Debugger for the Go programming language."}
+{"command": "doas", "description": "Executes a command as another user."}
+{"command": "docker build", "description": "Build an image from a Dockerfile."}
+{"command": "docker commit", "description": "Create a new image from a container\u2019s changes."}

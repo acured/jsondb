@@ -1,0 +1,149 @@
+{"command": "2to3", "description": "Automated Python 2 to 3 code conversion."}
+{"command": "7z", "description": "File archiver with a high compression ratio."}
+{"command": "7za", "description": "File archiver with a high compression ratio.Similar to 7z except that it supports fewer file types but is cross-platform."}
+{"command": "7zr", "description": "File archiver with a high compression ratio.Similar to 7z except that it only supports .7z files."}
+{"command": "[", "description": "Check file types and compare values.Returns a status of 0 if the condition evaluates to true, 1 if it evaluates to false."}
+{"command": "[[", "description": "Check file types and compare values.Returns a status of 0 if the condition evaluates to true, 1 if it evaluates to false."}
+{"command": "aapt", "description": "Android Asset Packaging Tool.Compile and package an Android app's resources."}
+{"command": "ab", "description": "Apache HTTP server benchmarking tool."}
+{"command": "abduco", "description": "Terminal session manager."}
+{"command": "ac", "description": "Print statistics on how long users have been connected."}
+{"command": "ack", "description": "A search tool like grep, optimized for developers.See also: rg, which is much faster."}
+{"command": "acme.sh", "description": "Shell script implementing ACME client protocol, an alternative to certbot.See also acme.sh dns."}
+{"command": "act", "description": "Execute GitHub Actions locally using Docker."}
+{"command": "acyclic", "description": "Make a directed graph acyclic by reversing some edges.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "adb install", "description": "Android Debug Bridge Install: Push packages to an Android emulator instance or connected Android devices."}
+{"command": "adb logcat", "description": "Dump a log of system messages."}
+{"command": "adb reverse", "description": "Android Debug Bridge Reverse: reverse socket connections from an Android emulator instance or connected Android devices."}
+{"command": "adb shell", "description": "Android Debug Bridge Shell: Run remote shell commands on an Android emulator instance or connected Android devices."}
+{"command": "adb", "description": "Android Debug Bridge: communicate with an Android emulator instance or connected Android devices.Some subcommands such as adb shell have their own usage documentation."}
+{"command": "AdGuardHome", "description": "A network-wide software for blocking ads & tracking."}
+{"command": "adscript", "description": "Compiler for Adscript files."}
+{"command": "afconvert", "description": "Convert between AFF and raw file formats."}
+{"command": "ag", "description": "The Silver Searcher. Like ack, but aims to be faster."}
+{"command": "agate", "description": "A simple server for the Gemini network protocol."}
+{"command": "age-keygen", "description": "Generate age key pairs.See age for how to encrypt/decrypt files."}
+{"command": "age", "description": "A simple, modern and secure file encryption tool.See age-keygen for how to generate key pairs."}
+{"command": "aircrack-ng", "description": "Crack WEP and WPA/WPA2 keys from handshake in captured packets.Part of Aircrack-ng network software suite."}
+{"command": "airdecap-ng", "description": "Decrypt a WEP, WPA, or WPA2 encrypted capture file.Part of Aircrack-ng network software suite."}
+{"command": "aireplay-ng", "description": "Inject packets into a wireless network.Part of aircrack-ng."}
+{"command": "airmon-ng", "description": "Activate monitor mode on wireless network devices.Part of aircrack-ng."}
+{"command": "airodump-ng", "description": "Capture packets and display information about wireless networks.Part of aircrack-ng."}
+{"command": "airpaste", "description": "Share messages and files on the same network using mDNS."}
+{"command": "airshare", "description": "Transfer data between two machines in a local network."}
+{"command": "ajson", "description": "Executes JSONPath on JSON objects."}
+{"command": "alacritty", "description": "Cross-platform, GPU-accelerated terminal emulator."}
+{"command": "alex", "description": "A tool that catches insensitive, inconsiderate writing.It helps you find gender favouring, polarising, race related, religion inconsiderate, or other unequal phrasing in text."}
+{"command": "alias", "description": "Creates aliases -- words that are replaced by a command string.Aliases expire with the current shell session unless defined in the shell's configuration file, e.g. ~/.bashrc."}
+{"command": "amass db", "description": "Interact with an Amass database."}
+{"command": "amass enum", "description": "Find subdomains of a domain."}
+{"command": "amass intel", "description": "Collect open source intel on an organisation like root domains and ASNs."}
+{"command": "amass", "description": "In-depth Attack Surface Mapping and Asset Discovery tool.Some subcommands such as amass db have their own usage documentation."}
+{"command": "androguard", "description": "Reverse engineering tool for Android applications. Written in Python."}
+{"command": "ani-cli", "description": "A cli to browse and watch anime."}
+{"command": "anki", "description": "Powerful, intelligent flashcard program."}
+{"command": "ansible-doc", "description": "Display information on modules installed in Ansible libraries.Display a terse listing of plugins and their short descriptions."}
+{"command": "ansible-galaxy", "description": "Create and manage Ansible roles."}
+{"command": "ansible-inventory", "description": "Display or dump an Ansible inventory.See also: ansible."}
+{"command": "ansible-playbook", "description": "Execute tasks defined in playbook on remote machines over SSH."}
+{"command": "ansible-pull", "description": "Pull ansible playbooks from a VCS repo and executes them for the local host."}
+{"command": "ansible-vault", "description": "Encrypts & decrypts values, data structures and files within Ansible projects."}
+{"command": "ansible", "description": "Manage groups of computers remotely over SSH. (use the /etc/ansible/hosts file to add new groups/hosts).Some subcommands such as ansible galaxy have their own usage documentation."}
+{"command": "ansiweather", "description": "A shell script for displaying the current weather conditions in your terminal."}
+{"command": "ant", "description": "Apache Ant.Tool for building and managing Java-based projects."}
+{"command": "antibody", "description": "\"The fastest\" shell plugin manager."}
+{"command": "apg", "description": "Creates arbitrarily complex random passwords."}
+{"command": "apktool", "description": "Reverse engineer APK files."}
+{"command": "apm", "description": "Atom editor Package Manager.See atom."}
+{"command": "apropos", "description": "Search the manual pages for names and descriptions."}
+{"command": "ar", "description": "Create, modify, and extract from Unix archives. Typically used for static libraries (.a) and Debian packages (.deb).See also: tar."}
+{"command": "arc", "description": "Arcanist: A CLI for Phabricator."}
+{"command": "arch", "description": "Display the name of the system architecture.See also uname."}
+{"command": "arduino-builder", "description": "Compile arduino sketches.DEPRECATION WARNING: This tool is being phased out in favor of arduino."}
+{"command": "arduino", "description": "Arduino Studio - Integrated Development Environment for the Arduino platform."}
+{"command": "argocd app", "description": "Command-line interface to manage applications by Argo CD."}
+{"command": "argocd", "description": "Command-line interface to control a Argo CD server.Some subcommands such as argocd app have their own usage documentation."}
+{"command": "argon2", "description": "Calculate Argon2 cryptographic hashes."}
+{"command": "aria2", "description": "This command is an alias of aria2c."}
+{"command": "aria2c", "description": "Fast download utility.Supports HTTP(S), FTP, SFTP, BitTorrent, and Metalink."}
+{"command": "arp-scan", "description": "Send ARP packets to hosts (specified as IP addresses or hostnames) to scan the local network."}
+{"command": "arp", "description": "Show and manipulate your system's ARP cache."}
+{"command": "arping", "description": "Discover and probe hosts in a network using the ARP protocol.Useful for MAC address discovery."}
+{"command": "asar", "description": "A file archiver for the Electron platform."}
+{"command": "asciidoctor", "description": "A processor that converts AsciiDoc files to a publishable format."}
+{"command": "asciinema", "description": "Record and replay terminal sessions, and optionally share them on asciinema.org."}
+{"command": "asdf", "description": "Command-line interface for managing versions of different packages."}
+{"command": "assimp", "description": "Command-line client for the Open Asset Import Library.Supports loading of 40+ 3D file formats, and exporting to several popular 3D formats."}
+{"command": "astronomer", "description": "Tool that detects illegitimate stars from bot accounts on GitHub projects."}
+{"command": "astyle", "description": "Source code indenter, formatter, and beautifier for the C, C++, C# and Java programming languages.Upon running, a copy of the original file is created with an \".orig\" appended to the original file name."}
+{"command": "at", "description": "Execute commands once at a later time.Service atd (or atrun) should be running for the actual executions."}
+{"command": "atom", "description": "A cross-platform pluggable text editor.Plugins are managed by apm."}
+{"command": "atoum", "description": "A simple, modern and intuitive unit testing framework for PHP."}
+{"command": "atq", "description": "Show jobs scheduled by at or batch commands."}
+{"command": "atrm", "description": "Remove jobs scheduled by at or batch commands.To find job numbers use atq."}
+{"command": "atuin", "description": "Store your shell history in a searchable database.Optionally sync your encrypted history between machines."}
+{"command": "audacious", "description": "An open-source audio player."}
+{"command": "auditd", "description": "This responds to requests from the audit utility and notifications from the kernel.It should not be invoked manually."}
+{"command": "autoconf", "description": "Generate configuration scripts to automatically configure software source code packages."}
+{"command": "autoflake", "description": "A tool to remove unused imports and variables from Python code."}
+{"command": "autojump", "description": "Quickly jump among the directories you visit the most.Aliases like j or jc are provided for even less typing."}
+{"command": "autopep8", "description": "Format Python code according to the PEP 8 style guide."}
+{"command": "autossh", "description": "Run, monitor and restart SSH connections.Auto-reconnects to keep port forwarding tunnels up. Accepts all ssh flags."}
+{"command": "avo", "description": "The official command-line interface for Avo."}
+{"command": "avrdude", "description": "Driver program for Atmel AVR microcontrollers programming."}
+{"command": "awk", "description": "A versatile programming language for working on files."}
+{"command": "aws backup", "description": "Unified backup service designed to protect Amazon Web Services services and their associated data."}
+{"command": "aws batch", "description": "Run batch computing workloads through the AWS Batch service."}
+{"command": "aws cloudformation", "description": "Model, provision, and manage AWS and third-party resources by treating infrastructure as code."}
+{"command": "aws cloudwatch", "description": "Monitor AWS resources to gain system-wide visibility into resource utilization, application performance, and operational health."}
+{"command": "aws codecommit", "description": "A managed source control service that hosts private Git repositories."}
+{"command": "aws cognito-idp", "description": "Manage Amazon Cognito user pool and its users and groups using the CLI."}
+{"command": "aws configure", "description": "Manage configuration for the AWS CLI."}
+{"command": "aws cur", "description": "Create, query, and delete AWS usage report definitions."}
+{"command": "aws ec2", "description": "CLI for AWS EC2.Provides secure and resizable computing capacity in the AWS cloud to enable faster development and deployment of applications."}
+{"command": "aws ecr", "description": "Push, pull, and manage container images."}
+{"command": "aws glue", "description": "CLI for AWS Glue.Defines the public endpoint for the AWS Glue service."}
+{"command": "aws-google-auth", "description": "Command-line tool to acquire AWS temporary (STS) credentials using Google Apps as a federated (Single Sign-On) provider."}
+{"command": "aws help", "description": "Display help information about the AWS CLI."}
+{"command": "aws history", "description": "Print the command-line history for AWS CLI commands (the record of history of AWS CLI commands must be enabled)."}
+{"command": "aws iam", "description": "CLI for AWS IAM."}
+{"command": "aws kinesis", "description": "Official AWS CLI for Amazon Kinesis streaming data services."}
+{"command": "aws lambda", "description": "CLI for AWS lambda."}
+{"command": "aws lightsail", "description": "Manage Amazon Lightsail resources."}
+{"command": "aws pricing", "description": "Query services, products, and pricing information from Amazon Web Services."}
+{"command": "aws quicksight", "description": "CLI for AWS QuickSight.Access QuickSight entities."}
+{"command": "aws rds", "description": "CLI for AWS Relational Database Service.Create and manage relational databases."}
+{"command": "aws route53", "description": "CLI for AWS Route53 - Route 53 is a highly available and scalable Domain Name System (DNS) web service."}
+{"command": "aws s3 cp", "description": "Copy local files or S3 objects to another location locally or in S3."}
+{"command": "aws s3 ls", "description": "List AWS S3 buckets, folders (prefixes), and files (objects)."}
+{"command": "aws s3 mb", "description": "Create S3 buckets."}
+{"command": "aws s3 mv", "description": "Move local files or S3 objects to another location locally or in S3."}
+{"command": "aws s3 presign", "description": "Generate pre-signed URLs for Amazon S3 objects."}
+{"command": "aws s3 rm", "description": "Delete S3 objects."}
+{"command": "aws s3", "description": "CLI for AWS S3 - provides storage through web services interfaces.Some subcommands such as aws s3 cp have their own usage documentation."}
+{"command": "aws s3api", "description": "Create and delete Amazon S3 buckets and edit bucket properties."}
+{"command": "aws secretsmanager", "description": "Store, manage, and retrieve secrets."}
+{"command": "aws ses", "description": "CLI for AWS Simple Email Service.High-scale inbound and outbound cloud email service."}
+{"command": "aws sqs", "description": "Create, delete, and send messages to queues for the AWS SQS service."}
+{"command": "aws sts", "description": "Security Token Service (STS) allows to request temporary credentials for (IAM) users or federated users."}
+{"command": "aws-vault", "description": "A vault for securely storing and accessing AWS credentials in development environments."}
+{"command": "aws workmail", "description": "Manage Amazon WorkMail."}
+{"command": "aws", "description": "The official CLI tool for Amazon Web Services.Some subcommands such as aws s3 have their own usage documentation."}
+{"command": "awslogs", "description": "Queries groups, streams and events from Amazon CloudWatch logs."}
+{"command": "axel", "description": "Download accelerator.Supports HTTP, HTTPS, and FTP."}
+{"command": "az account", "description": "Manage Azure subscription information.Part of azure-cli (also known as az)."}
+{"command": "az appconfig", "description": "Manage App configurations on Azure.Part of azure-cli (also known as az)."}
+{"command": "az bicep", "description": "Bicep CLI command group.Part of azure-cli (also known as az)."}
+{"command": "az config", "description": "Manage Azure CLI configuration.Part of azure-cli (also known as az)."}
+{"command": "az devops", "description": "Manage Azure DevOps organizations.Part of azure-cli (also known as az)."}
+{"command": "az feedback", "description": "Send feedback to the Azure CLI Team.Part of azure-cli (also known as az)."}
+{"command": "az group", "description": "Manage resource groups and template deployments.Part of azure-cli (also known as az)."}
+{"command": "az lock", "description": "Manage Azure locks.Part of azure-cli (also known as az)."}
+{"command": "az login", "description": "Log in to Azure.Part of azure-cli (also known as az)."}
+{"command": "az logout", "description": "Log out from an Azure subscription.Part of azure-cli (also known as az)."}
+{"command": "az network", "description": "Manage Azure Network resources.Part of azure-cli (also known as az)."}
+{"command": "az pipelines", "description": "Manage Azure Pipelines resources.Part of azure-cli (also known as az)."}
+{"command": "az provider", "description": "Manage resource providers.Part of azure-cli (also known as az)."}
+{"command": "az redis", "description": "Manage Redis caches.Part of azure-cli (also known as az)."}
+{"command": "az repos", "description": "Manage Azure DevOps repos.Part of azure-cli (also known as az)."}
+{"command": "az sshkey", "description": "Manage ssh public keys with virtual machines.Part of azure-cli (also known as az)."}

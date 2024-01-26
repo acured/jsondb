@@ -1,0 +1,150 @@
+{"command": "vela", "description": "Command-line tools for the Vela pipeline."}
+{"command": "velero", "description": "Backup and migrate Kubernetes applications and their persistent volumes."}
+{"command": "venv", "description": "Create lightweight virtual environments in python."}
+{"command": "vercel", "description": "Deploy and manage your Vercel deployments."}
+{"command": "verilator", "description": "Converts Verilog and SystemVerilog hardware description language (HDL) design into a C++ or SystemC model to be executed after compiling."}
+{"command": "vgmstream_cli", "description": "Play a wide variety of audio formats used in video games and convert them into wav."}
+{"command": "vgrep", "description": "A user friendly pager for grep.See also: ugrep, rg."}
+{"command": "vhs", "description": "Generate terminal gifs from a tape file."}
+{"command": "vi", "description": "This command is an alias of vim."}
+{"command": "view", "description": "A read-only version of vim.This is equivalent to vim -R."}
+{"command": "vifm", "description": "VI File Manager is a command-line file manager."}
+{"command": "vim", "description": "Vim (Vi IMproved), a command-line text editor, provides several modes for different kinds of text manipulation.Pressing i in normal mode enters insert mode. Pressing <Esc> goes back to normal mode, which enables the use of Vim commands.See also: vimdiff, vimtutor, nvim."}
+{"command": "vimdiff", "description": "Open up two or more files in vim and show the differences between them.See also: vim, vimtutor, nvim."}
+{"command": "vimtutor", "description": "Vim tutor, teaching the basic vim commands.See also: vim, vimdiff, nvim."}
+{"command": "virsh-connect", "description": "Connect to a virtual machine hypervisor.See also: virsh."}
+{"command": "virsh-domblklist", "description": "List information about block devices associated with a virtual machine.See also: virsh."}
+{"command": "virsh-help", "description": "Display information about virsh commands or command groups.See also: virsh."}
+{"command": "virsh-list", "description": "List the ID, name, and state of virtual machines.See also: virsh."}
+{"command": "virsh pool-autostart", "description": "Enable or disable autostart for a virtual machine storage pool.See also: virsh."}
+{"command": "virsh pool-build", "description": "Build the underlying storage system for a virtual machine storage pool as defined in it's configuration file in /etc/libvirt/storage.See also: virsh, virsh-pool-define-as, virsh-pool-start."}
+{"command": "virsh pool-define-as", "description": "Create a configuration file in /etc/libvirt/storage for a persistent virtual machine storage pool from the provided arguments.See also: virsh, virsh-pool-build, virsh-pool-start."}
+{"command": "virsh pool-delete", "description": "Delete the underlying storage system of an inactive virtual machine storage pool.See also: virsh, virsh-pool-destroy, virsh-pool-undefine."}
+{"command": "virsh pool-destroy", "description": "Stop an active virtual machine storage pool.See also: virsh, virsh-pool-delete."}
+{"command": "virsh pool-info", "description": "List information about a virtual machine storage pool.See also: virsh."}
+{"command": "virsh pool-list", "description": "List information about virtual machine storage pools.See also: virsh, virsh-pool-autostart, virsh-pool-define-as."}
+{"command": "virsh pool-start", "description": "Start a previously configured but inactive virtual machine storage pool.See also: virsh, virsh-pool-define-as, virsh-pool-destroy."}
+{"command": "virsh pool-undefine", "description": "Delete the configuration file in /etc/libvirt/storage for a stopped virtual machine storage pool.See also: virsh, virsh-pool-destroy."}
+{"command": "virsh-undefine", "description": "Delete a virtual machine."}
+{"command": "virsh", "description": "Manage virsh guest domains. (NOTE: 'guest_id' can be the id, name or UUID of the guest).Some subcommands such as virsh list have their own usage documentation."}
+{"command": "virt-clone", "description": "Clone a libvirt virtual machine."}
+{"command": "virt-install", "description": "Create virtual machines with libvirt and begin OS installation."}
+{"command": "virt-sparsify", "description": "Make virtual machine drive images thin-provisioned.NOTE: Use only for offline machines to avoid data corruption."}
+{"command": "virt-sysprep", "description": "Reset, unconfigure, or customize a virtual machine image."}
+{"command": "virtualenv", "description": "Create virtual isolated Python environments."}
+{"command": "virtualenvwrapper", "description": "Group of simple wrapper commands for Python's virtualenv tool."}
+{"command": "visudo", "description": "Safely edit the sudoers file."}
+{"command": "Vite", "description": "Create a Vite project.Used to build JavaScript projects.Available templates: vanilla, vanilla-ts, vue, vue-ts, react, react-ts, react-swc, react-swc-ts, preact, preact-ts, lit, lit-ts, svelte, svelte-ts."}
+{"command": "viu", "description": "View images on the terminal."}
+{"command": "vladimyr", "description": "Dario Vladovi\u0107's personal CLI."}
+{"command": "vlc", "description": "Cross-platform multimedia player."}
+{"command": "volta", "description": "A JavaScript Tool Manager that installs Node.js runtimes, npm and Yarn package managers, or any binaries from npm."}
+{"command": "vsce", "description": "Extension manager for Visual Studio Code."}
+{"command": "vt", "description": "Command-line interface for VirusTotal.API key from a VirusTotal account is required for this command."}
+{"command": "vue build", "description": "A subcommand provided by @vue/cli and @vue/cli-service-global that enables quick prototyping."}
+{"command": "vue init", "description": "Legacy project initialization subcommand of the Vue.js framework."}
+{"command": "vue serve", "description": "A subcommand provided by @vue/cli and @vue/cli-service-global that enables quick prototyping."}
+{"command": "vue", "description": "Multi-purpose CLI for Vue.js.Some subcommands such as vue build have their own usage documentation."}
+{"command": "vzdump", "description": "Backup Utility for virtual machines and containers."}
+{"command": "w", "description": "Show who is logged on and what they are doing.Print user login, TTY, remote host, login time, idle time, current process."}
+{"command": "w3m", "description": "A text-based web browser.Supports SSL and mouse input, even over SSH."}
+{"command": "waifu2x-ncnn-vulkan", "description": "Image upscaler for manga/anime-style images using NCNN neural network framework."}
+{"command": "wait", "description": "Wait for a process to complete before proceeding."}
+{"command": "waitress-serve", "description": "Pure Python WSGI HTTP Server."}
+{"command": "wal", "description": "A tool to create color schemes based on the dominant colors of a wallpaper."}
+{"command": "wapm", "description": "The WebAssembly package manager."}
+{"command": "warp-cli", "description": "Official command-line client for Cloudflare's WARP service."}
+{"command": "warp-diag", "description": "Diagnostic and feedback tool for Cloudflare's WARP service.See also: warp-cli."}
+{"command": "wasm-objdump", "description": "Display information from WebAssembly binaries."}
+{"command": "wasm-opt", "description": "Optimize WebAssembly binary files."}
+{"command": "wasm2c", "description": "Convert a file from the WebAssembly binary format to a C source file and header."}
+{"command": "wasm2wat", "description": "Convert a file from the WebAssembly binary format to the text format."}
+{"command": "wat2wasm", "description": "Convert a file from the WebAssembly text format to the binary format."}
+{"command": "watch", "description": "Execute a program periodically, showing output fullscreen."}
+{"command": "watchexec", "description": "Run arbitrary commands when files change."}
+{"command": "watson", "description": "A wonderful CLI to track your time."}
+{"command": "wc", "description": "Count lines, words, and bytes."}
+{"command": "weasyprint", "description": "Render HTML to PDF or PNG."}
+{"command": "web-ext", "description": "A command-line tool for managing web extension development."}
+{"command": "webpack", "description": "Bundle a web project's js files and other assets into a single output file."}
+{"command": "webstorm", "description": "The JetBrains JavaScript IDE."}
+{"command": "webtorrent", "description": "The command-line interface for WebTorrent.Supports magnets, URLs, info hashes and .torrent files."}
+{"command": "weechat", "description": "Command-line internet relay chat client with various features."}
+{"command": "wfuzz", "description": "A web application bruteforcer."}
+{"command": "wget", "description": "Download files from the Web.Supports HTTP, HTTPS, and FTP."}
+{"command": "where", "description": "Reports all known instances of a command.It could be an executable in the PATH environment variable, an alias, or a shell builtin."}
+{"command": "whereis", "description": "Locate the binary, source, and manual page files for a command."}
+{"command": "which", "description": "Locate a program in the user's path."}
+{"command": "while", "description": "Simple shell loop."}
+{"command": "whisper", "description": "Convert audio files to txt, vtt, srt, tsv and json."}
+{"command": "who", "description": "Display who is logged in and related data (processes, boot time)."}
+{"command": "whoami", "description": "Print the username associated with the current effective user ID."}
+{"command": "whois", "description": "Command-line client for the WHOIS (RFC 3912) protocol."}
+{"command": "wipeclean", "description": "Clear the terminal screen using an animated wiper."}
+{"command": "wondershaper", "description": "Allows the user to limit the bandwidth of one or more network adapters."}
+{"command": "wordgrinder", "description": "Command-line word processor."}
+{"command": "wormhole", "description": "Get things from one computer to another, safely."}
+{"command": "wp", "description": "The official command-line interface to manage WordPress instances."}
+{"command": "wpa_supplicant", "description": "Manage protected wireless networks."}
+{"command": "wpaclean", "description": "Clean capture files to get only the 4-way handshake and a beacon.Part of Aircrack-ng network software suite."}
+{"command": "wpm", "description": "Typeracer-like console app for measuring your WPM."}
+{"command": "wpscan", "description": "WordPress vulnerability scanner."}
+{"command": "wrangler", "description": "Cloudflare Workers command-line tool."}
+{"command": "write", "description": "Write a message on the terminal of a specified logged in user (ctrl-C to stop writing messages).Use the who command to find out all terminal_ids of all active users active on the system. See also mesg."}
+{"command": "wrk", "description": "HTTP benchmarking tool."}
+{"command": "wuzz", "description": "Tool to interactively inspect HTTP requests and responses."}
+{"command": "x11docker", "description": "Securely run GUI applications and desktop UIs in Docker containers.See also xephyr."}
+{"command": "x_x", "description": "View Excel and CSV files."}
+{"command": "xar", "description": "Manage .xar archives."}
+{"command": "xargs", "description": "Execute a command with piped arguments coming from another command, a file, etc.The input is treated as a single block of text and split into separate pieces on spaces, tabs, newlines and end-of-file."}
+{"command": "xcaddy", "description": "The custom build tool for the Caddy Web Server."}
+{"command": "xcv", "description": "Cut, copy, and paste in the command-line."}
+{"command": "xdelta", "description": "Delta encoding utility.Often used for applying patches to binary files."}
+{"command": "xe", "description": "Execute a command once for each line piped from another command or file."}
+{"command": "Xephyr", "description": "A nested X server that runs as an X application."}
+{"command": "xetex", "description": "Compile a PDF document from XeTeX source files."}
+{"command": "xev", "description": "Print contents of X events."}
+{"command": "xgettext", "description": "Extract gettext strings from code files."}
+{"command": "xh", "description": "Friendly and fast tool for sending HTTP requests."}
+{"command": "xidel", "description": "Download and extract data from HTML/XML pages as well as JSON APIs."}
+{"command": "xkcdpass", "description": "A flexible and scriptable password generator which generates strong passphrases.Inspired by XKCD 936."}
+{"command": "xkill", "description": "Kill a window interactively in a graphical session.See also: kill, killall."}
+{"command": "xml canonic", "description": "Make XML documents canonical."}
+{"command": "xml depyx", "description": "Convert a PYX (ESIS - ISO 8879) document to XML format."}
+{"command": "xml edit", "description": "Edit an XML document."}
+{"command": "xml elements", "description": "Extract elements and display the structure of an XML document."}
+{"command": "xml escape", "description": "Escape special XML characters, e.g. <a1> \u2192 &lt;a1&gt;."}
+{"command": "xml format", "description": "Format an XML document."}
+{"command": "xml list", "description": "List a directory's contents (like ls) in XML format."}
+{"command": "xml pyx", "description": "Convert an XML document to PYX (ESIS - ISO 8879) format."}
+{"command": "xml select", "description": "Select from XML documents using XPATHs.Tip: use xml elements to display the XPATHs of an XML document."}
+{"command": "xml transform", "description": "Transform XML documents using XSLT."}
+{"command": "xml unescape", "description": "Unescape special XML characters, e.g. &lt;a1&gt; \u2192 <a1>."}
+{"command": "xml validate", "description": "Validate XML documents."}
+{"command": "xml", "description": "XMLStarlet Toolkit: Query, edit, check, convert and transform XML documents.This command also has documentation about its subcommands, e.g. xml validate."}
+{"command": "xmllint", "description": "XML parser and linter that supports XPath, a syntax for navigating XML trees."}
+{"command": "xmlstarlet", "description": "A command-line XML/XSLT toolkit.Note: You will likely need to know XPath: https://developer.mozilla.org/en-US/docs/Web/XPath."}
+{"command": "xmlto", "description": "Apply an XSL stylesheet to an XML document."}
+{"command": "xo", "description": "A pluggable, zero-configuration linting utility for JavaScript."}
+{"command": "xonsh", "description": "Python-powered, cross-platform, Unix-gazing shell.Write and mix sh/Python code in Xonsh (pronounced conch)."}
+{"command": "xpdf", "description": "Portable Document Format (PDF) file viewer."}
+{"command": "xplr", "description": "Terminal-based file system explorer."}
+{"command": "xprop", "description": "A tool for displaying window and font properties in an X server."}
+{"command": "xsp", "description": "Mono ASP.NET Web Server."}
+{"command": "xsv", "description": "A CSV command-line toolkit written in Rust."}
+{"command": "xxd", "description": "Create a hexadecimal representation (hexdump) from a binary file, or vice-versa."}
+{"command": "xxh", "description": "Bring your shell with all of your customizations through SSH sessions.Note: xxh does not install anything into system directories on the target machine; removing ~/.xxh will clear all traces of xxh on the target machine."}
+{"command": "xz", "description": "Compress or decompress .xz and .lzma files."}
+{"command": "xzcat", "description": "This command is an alias of xz --decompress --stdout."}
+{"command": "xzcmp", "description": "Invokes cmp on files compressed with xz, lzma, gzip, bzip2, lzop, or zstd.All options specified are passed directly to cmp."}
+{"command": "xzdiff", "description": "Invokes diff on files compressed with xz, lzma, gzip, bzip2, lzop, or zstd.All options specified are passed directly to diff."}
+{"command": "xzegrep", "description": "This command is an alias of xzgrep --extended-regexp.See also: egrep."}
+{"command": "xzfgrep", "description": "This command is an alias of xzgrep --fixed-strings.See also: fgrep."}
+{"command": "xzgrep", "description": "Search files possibly compressed with xz, lzma, gzip, bzip2, lzop, or zstd using regular expressions.See also: grep."}
+{"command": "xzless", "description": "Display text from xz and lzma compressed files.See also: less."}
+{"command": "xzmore", "description": "Display text from xz or lzma compressed files.Almost equivalent to xzless, except it respects the PAGER environment variable, uses more by default and you cannot pass options to the pager."}
+{"command": "yacas", "description": "Yet Another Computer Algebra System."}
+{"command": "yacc", "description": "Generate an LALR parser (in C) with a given formal grammar specification file.See also: bison."}
+{"command": "yank", "description": "Read input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard."}
+{"command": "yapf", "description": "Python style guide checker."}
+{"command": "yard", "description": "Documentation tool for Ruby."}

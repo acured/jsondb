@@ -1,0 +1,150 @@
+{"command": "jpegtran", "description": "Perform lossless transformation of JPEG files."}
+{"command": "just", "description": "just can refer to multiple commands with the same name."}
+{"command": "kde-inhibit", "description": "Inhibit various desktop functions while a command runs."}
+{"command": "kdialog", "description": "Show KDE dialog boxes from within shell scripts."}
+{"command": "kdocker", "description": "Easily dock applications to the system tray."}
+{"command": "kexec", "description": "Directly reboot into a new kernel."}
+{"command": "keyctl", "description": "Manipulate the Linux kernel keyring."}
+{"command": "killall", "description": "Send kill signal to all instances of a process by name (must be exact name).All signals except SIGKILL and SIGSTOP can be intercepted by the process, allowing a clean exit."}
+{"command": "kjv", "description": "The word of God available right on your desktop."}
+{"command": "konsave", "description": "Save and apply your Linux customizations with just one command."}
+{"command": "konsole", "description": "KDE's terminal emulator."}
+{"command": "kpackagetool5", "description": "KPackage Manager: Install, list, remove Plasma packages."}
+{"command": "kpartx", "description": "Create device maps from partition tables."}
+{"command": "kreadconfig5", "description": "Read KConfig entries for KDE Plasma."}
+{"command": "krita", "description": "A sketching and painting program designed for digital artists.See also: gimp."}
+{"command": "kscreen-console", "description": "Command-line tool to query KScreen's status."}
+{"command": "kscreen-doctor", "description": "Change and manipulate the screen setup."}
+{"command": "ksvgtopng5", "description": "Convert SVG files to PNG format."}
+{"command": "kwrite", "description": "Text editor of the KDE Desktop project.See also kate."}
+{"command": "kwriteconfig5", "description": "Write KConfig entries for KDE Plasma."}
+{"command": "laptop-detect", "description": "Attempt to determine if the script is running on a laptop or desktop."}
+{"command": "larasail", "description": "Manage Laravel on Digital Ocean servers."}
+{"command": "lastb", "description": "Show a listing of last logged in users."}
+{"command": "lastcomm", "description": "Show last commands executed."}
+{"command": "lastlog", "description": "Show the most recent login of all users or of a given user."}
+{"command": "latte-dock", "description": "Replacement dock for Plasma desktop."}
+{"command": "lci", "description": "LOLCODE interpreter written in C."}
+{"command": "ldapdomaindump", "description": "Dump users, computers, groups, OS and membership information via LDAP to HTML, JSON and greppable output.See also ldapsearch."}
+{"command": "ldconfig", "description": "Configure symlinks and cache for shared library dependencies."}
+{"command": "ldd", "description": "Display shared library dependencies of a binary.Do not use on an untrusted binary, use objdump for that instead."}
+{"command": "lddd", "description": "Find broken library links on the system.This tool is only available on Arch Linux."}
+{"command": "ledctl", "description": "Intel(R) Enclosure LED Control Application."}
+{"command": "legit", "description": "Complementary command-line interface for Git."}
+{"command": "lex", "description": "Lexical analyzer generator.Given the specification for a lexical analyzer, generates C code implementing it.NOTE: on most major OSes, this command is an alias for flex."}
+{"command": "lftp", "description": "Sophisticated file transfer program."}
+{"command": "libreoffice", "description": "CLI for the powerful and free office suite LibreOffice."}
+{"command": "light", "description": "Control the backlight of your screen."}
+{"command": "line", "description": "Read a single line of input."}
+{"command": "links", "description": "Command-line web browser."}
+{"command": "lnav", "description": "Advanced log file viewer to analyze logs with little to no setup."}
+{"command": "loadkeys", "description": "Load the kernel keymap for the console."}
+{"command": "locale", "description": "Get locale-specific information."}
+{"command": "localectl", "description": "Control the system locale and keyboard layout settings."}
+{"command": "locate", "description": "Find filenames quickly."}
+{"command": "login", "description": "Initiates a session for a user."}
+{"command": "loginctl", "description": "Manage the systemd login manager."}
+{"command": "logrotate", "description": "Rotates, compresses, and mails system logs."}
+{"command": "logsave", "description": "Save the output of a command in a logfile."}
+{"command": "logwatch", "description": "Summarizes many different logs for common services (e.g. apache, pam_unix, sshd, etc.) in a single report."}
+{"command": "losetup", "description": "Set up and control loop devices."}
+{"command": "lrunzip", "description": "A large file decompression program.See also: lrzip, lrztar, lrzuntar."}
+{"command": "lrzip", "description": "A large file compression program.See also: lrunzip, lrztar, lrzuntar."}
+{"command": "lrztar", "description": "A wrapper for lrzip to simplify compression of directories.See also: tar, lrzuntar, lrunzip."}
+{"command": "lrzuntar", "description": "A wrapper for lrunzip to simplify decompression of directories.See also: lrztar, lrzip."}
+{"command": "lsattr", "description": "List file attributes on a Linux filesystem."}
+{"command": "lsb_release", "description": "Provides certain LSB (Linux Standard Base) and distribution-specific information."}
+{"command": "lsblk", "description": "Lists information about devices."}
+{"command": "lscpu", "description": "Displays information about the CPU architecture."}
+{"command": "lshw", "description": "List detailed information about hardware configurations as root user."}
+{"command": "lslocks", "description": "List local system locks."}
+{"command": "lslogins", "description": "Show information about users on a Linux system."}
+{"command": "lsmod", "description": "Shows the status of Linux kernel modules.See also modprobe, which loads kernel modules."}
+{"command": "lsns", "description": "List information about all namespaces or about the specified namespace."}
+{"command": "lspci", "description": "List all PCI devices."}
+{"command": "lsscsi", "description": "List SCSI devices (or hosts) and their attributes."}
+{"command": "lsusb", "description": "Display information about USB buses and devices connected to them."}
+{"command": "ltrace", "description": "Display dynamic library calls of a process."}
+{"command": "lvcreate", "description": "Create a logical volume in an existing volume group. A volume group is a collection of logical and physical volumes.See also: lvm."}
+{"command": "lvdisplay", "description": "Display information about Logical Volume Manager (LVM) logical volumes.See also: lvm."}
+{"command": "lvextend", "description": "Increase the size of a logical volume.See also: lvm."}
+{"command": "lvm", "description": "Manage physical volumes, volume groups, and logical volumes using the Logical Volume Manager (LVM) interactive shell."}
+{"command": "lvreduce", "description": "Reduce the size of a logical volume.See also: lvm."}
+{"command": "lvremove", "description": "Remove one or more logical volumes.See also: lvm."}
+{"command": "lvresize", "description": "Change the size of a logical volume.See also: lvm."}
+{"command": "lvs", "description": "Display information about logical volumes.See also: lvm."}
+{"command": "lxc network", "description": "Manage networks for LXD containers."}
+{"command": "lxc profile", "description": "Manage profiles for LXD containers."}
+{"command": "lxc", "description": "Manage Linux containers using the lxd REST API.Any container names or patterns can be prefixed with the name of a remote server."}
+{"command": "lxi", "description": "Control LXI compatible instruments such as oscilloscopes."}
+{"command": "lxterminal", "description": "Terminal emulator for LXDE."}
+{"command": "lynis", "description": "System and security auditing tool."}
+{"command": "mac2unix", "description": "Change macOS-style line endings to Unix-style.Replaces CR with LF."}
+{"command": "macchanger", "description": "Command-line utility for manipulating network interface MAC addresses."}
+{"command": "maim", "description": "Screenshot utility."}
+{"command": "makepkg", "description": "Create a package which can be used with pacman.Uses the PKGBUILD file in the current working directory by default."}
+{"command": "man", "description": "Format and display manual pages."}
+{"command": "mandb", "description": "Manage the pre-formatted manual page database."}
+{"command": "manpath", "description": "Determine the search path for manual pages."}
+{"command": "mashtree", "description": "Makes a fast tree from genomes.Does not make a phylogeny."}
+{"command": "mate-about", "description": "Show information about MATE desktop environment."}
+{"command": "mate-calc-cmd", "description": "Calculate mathematic expressions in MATE desktop environment in terminal."}
+{"command": "mate-calc", "description": "Calculate mathematic expressions in MATE desktop environment."}
+{"command": "mate-screenshot", "description": "Make screenshots in MATE desktop environment."}
+{"command": "mate-search-tool", "description": "Search files in MATE desktop environment."}
+{"command": "mcookie", "description": "Generates random 128-bit hexadecimal numbers."}
+{"command": "mdadm", "description": "RAID management utility."}
+{"command": "mdbook", "description": "Create online books by writing Markdown files."}
+{"command": "mediamtx", "description": "Real-time media server and proxy."}
+{"command": "Medusa", "description": "A modular and parallel login brute-forcer for a variety of protocols."}
+{"command": "megadl", "description": "This command is an alias of megatools-dl."}
+{"command": "megatools-dl", "description": "Download files from mega.nz.Part of the megatools suite."}
+{"command": "microcom", "description": "A minimalistic terminal program, used to access remote devices via a serial, CAN or telnet connection from the console."}
+{"command": "mimetype", "description": "Automatically determine the MIME type of a file."}
+{"command": "minicom", "description": "A program to communicate with the serial interface of a device."}
+{"command": "mke2fs", "description": "Creates a Linux filesystem inside a partition."}
+{"command": "mkfs.btrfs", "description": "Create a btrfs filesystem.Defaults to raid1, which specifies 2 copies of a given data block spread across 2 different devices."}
+{"command": "mkfs.cramfs", "description": "Creates a ROM filesystem inside a partition."}
+{"command": "mkfs.exfat", "description": "Creates an exfat filesystem inside a partition."}
+{"command": "mkfs.ext4", "description": "Creates an ext4 filesystem inside a partition."}
+{"command": "mkfs.fat", "description": "Creates an MS-DOS filesystem inside a partition."}
+{"command": "mkfs", "description": "Build a Linux filesystem on a hard disk partition.This command is deprecated in favor of filesystem specific mkfs. utils."}
+{"command": "mkfs.minix", "description": "Creates a Minix filesystem inside a partition."}
+{"command": "mkfs.ntfs", "description": "Creates a NTFS filesystem inside a partition."}
+{"command": "mkfs.vfat", "description": "Creates an MS-DOS filesystem inside a partition."}
+{"command": "mkhomedir_helper", "description": "Create the user's home directory after creating the user."}
+{"command": "mkinitcpio", "description": "Generates initial ramdisk environments for booting the Linux kernel based on the specified preset(s)."}
+{"command": "mkisofs", "description": "Create ISO files from directories.Also aliased as genisoimage."}
+{"command": "mklost+found", "description": "Create a lost+found directory."}
+{"command": "mknod", "description": "Create block or character device special files."}
+{"command": "mksquashfs", "description": "Create or append files and directories to squashfs filesystems."}
+{"command": "mkswap", "description": "Set up a Linux swap area on a device or in a file.Note: path/to/file can either point to a regular file or a swap partition."}
+{"command": "mktemp", "description": "Create a temporary file or directory."}
+{"command": "mlabel", "description": "Set an MS-DOS volume label for FAT and VFAT filesystems."}
+{"command": "mmcli", "description": "Control and monitor the ModemManager."}
+{"command": "mmdebstrap", "description": "Create a Debian chroot.Alternative to debootstrap."}
+{"command": "mocp", "description": "Music on Console (MOC) audio player."}
+{"command": "modinfo", "description": "Extract information about a Linux kernel module."}
+{"command": "modprobe", "description": "Add or remove modules from the Linux kernel."}
+{"command": "module", "description": "Modify a users' environment using the module command."}
+{"command": "mokutil", "description": "Configure Secure Boot Machine Owner Keys (MOK).Some operations, such as enabling and disabling Secure Boot or enrolling keys require a reboot."}
+{"command": "mono", "description": "Runtime for the .NET Framework."}
+{"command": "mons", "description": "A tool to quickly manage two displays."}
+{"command": "mount.cifs", "description": "Mount SMB (Server Message Block) or CIFS (Common Internet File System) shares.Note: you can also do the same thing by passing the -t cifs option to mount."}
+{"command": "mount.smb3", "description": "This command is an alias of mount.cifs.Note: for SMB versions before 3 you have to use mount.cifs instead."}
+{"command": "mountpoint", "description": "Test if a directory is a filesystem mountpoint."}
+{"command": "mpg123", "description": "Console MPEG audio player."}
+{"command": "mpicc", "description": "Open MPI C wrapper compiler.The wrappers are simply thin shells on top of a C compiler, they add the relevant compiler and linker flags to the command-line that are necessary to compile/link Open MPI programs, and then invoke the underlying C compiler to actually perform the command."}
+{"command": "mpstat", "description": "Report CPU statistics."}
+{"command": "mssh", "description": "GTK+ based SSH client for interacting with multiple SSH servers at once."}
+{"command": "mt", "description": "Control magnetic tape drive operation (commonly LTO tape)."}
+{"command": "mycli", "description": "A command-line client for MySQL that can do auto-completion and syntax highlighting."}
+{"command": "nala", "description": "Package management utility with better formatting.Front-end for the python-apt API."}
+{"command": "namcap", "description": "Check binary packages and source PKGBUILDs for common packaging mistakes."}
+{"command": "named", "description": "Execute the DNS (Dynamic Name Service) server daemon that converts host names to IP addresses and vice versa."}
+{"command": "namei", "description": "Follows a pathname (which can be a symbolic link) until a terminal point is found (a file/directory/char device etc).This program is useful for finding \"too many levels of symbolic links\" problems."}
+{"command": "nautilus", "description": "Default file explorer for GNOME desktop environment.Also known as GNOME Files."}
+{"command": "ncal", "description": "This command is an alias of cal."}
+{"command": "ncat", "description": "Use the normal cat functionality over networks."}
+{"command": "ndctl", "description": "Utility for managing Non-Volatile DIMMs."}
+{"command": "needrestart", "description": "Check which daemons need to be restarted after library upgrades."}

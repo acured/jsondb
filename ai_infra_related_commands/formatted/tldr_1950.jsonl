@@ -1,0 +1,150 @@
+{"command": "pystun3", "description": "Classic STUN client written in Python."}
+{"command": "pytest", "description": "Run Python tests."}
+{"command": "python", "description": "Python language interpreter."}
+{"command": "python3", "description": "This command is an alias of python."}
+{"command": "q", "description": "Execute SQL-like queries on .csv and .tsv files."}
+{"command": "qcp", "description": "Copy files using the default text editor to define the filenames."}
+{"command": "qdbus", "description": "Inter-Process Communication (IPC) and Remote Procedure Calling (RPC) mechanism originally developed for Linux."}
+{"command": "qemu-img", "description": "Tool for Quick Emulator Virtual HDD image creation and manipulation."}
+{"command": "qemu", "description": "Generic machine emulator and virtualizer.Supports a large variety of CPU architectures."}
+{"command": "qm nbdstop", "description": "Stop embedded nbd server."}
+{"command": "qm stop", "description": "Stop a virtual machine."}
+{"command": "qmmp", "description": "An audio player."}
+{"command": "qmv", "description": "Move files and directories using the default text editor to define the filenames."}
+{"command": "qpdf", "description": "Versatile PDF transformation software."}
+{"command": "qr", "description": "Generate QR codes in the terminal with ANSI VT-100 escape codes."}
+{"command": "qrencode", "description": "QR Code generator. Supports PNG and EPS."}
+{"command": "qtcreator", "description": "Cross-platform IDE for Qt applications."}
+{"command": "quarto", "description": "An open-source scientific and technical publishing system built on Pandoc."}
+{"command": "quilt", "description": "Tool to manage a series of patches."}
+{"command": "quota", "description": "Display users' disk space usage and allocated limits."}
+{"command": "qutebrowser", "description": "A keyboard-driven, vim-like browser based on PyQt5."}
+{"command": "R", "description": "R language interpreter."}
+{"command": "r2", "description": "This command is an alias of radare2."}
+{"command": "r2e", "description": "Forwards RSS feeds to an email address.Requires a configured sendmail or smtp setup."}
+{"command": "rabin2", "description": "Get information about binary files (ELF, PE, Java CLASS, Mach-O) - symbols, sections, linked libraries, etc.Comes bundled with radare2."}
+{"command": "racket", "description": "Racket language interpreter."}
+{"command": "raco", "description": "Racket command-line tools."}
+{"command": "radare2", "description": "A set of reverse engineering tools."}
+{"command": "rails db", "description": "Various database-related subcommands for Ruby on Rails."}
+{"command": "rails destroy", "description": "Destroy Rails resources."}
+{"command": "rails generate", "description": "Generate new Rails templates in an existing project."}
+{"command": "rails routes", "description": "List routes in a Rails application."}
+{"command": "rails", "description": "A server-side MVC framework written in Ruby.Some subcommands such as rails generate have their own usage documentation."}
+{"command": "railway", "description": "Connect code to a Railway project."}
+{"command": "rainbowstream", "description": "Terminal-based Twitter client supporting realtime tweetstream, trends, sending, search, favorites and user management.Online help with h, up and down arrows for history, tab to auto-complete and 2-tab for suggestion."}
+{"command": "rake", "description": "A Make-like program for Ruby.Tasks for rake are specified in a Rakefile."}
+{"command": "ranger", "description": "Console file manager with VI key bindings."}
+{"command": "rapper", "description": "The Raptor RDF parsing utility.Part of the Raptor RDF Syntax Library."}
+{"command": "rar", "description": "The RAR archiver. Supports multi-volume archives that can be optionally self-extracting."}
+{"command": "rarcrack", "description": "Password cracker for rar, zip and 7z archives."}
+{"command": "rbac-lookup", "description": "Find roles and cluster roles attached to any user, service account or group name in your Kubernetes cluster."}
+{"command": "rbash", "description": "Restricted Bash shell, equivalent to bash --restricted.Does not permit changing the working directory, redirecting command output, or modifying environment variables, among other things.See also histexpand for history expansion."}
+{"command": "rbenv", "description": "A tool to easily install Ruby versions and manage application environments.See also: asdf."}
+{"command": "rbt", "description": "RBTools is a set of command-line tools for working with Review Board and RBCommons."}
+{"command": "rc", "description": "A modern simplistic port listener & reverse shell.Similar to nc."}
+{"command": "rcat", "description": "This command is an alias of rc."}
+{"command": "rclone", "description": "Copy, synchronize or move files and directories to and from many cloud services."}
+{"command": "rdfind", "description": "Find files with duplicate content and get rid of them."}
+{"command": "react-native start", "description": "Command-line tools to start the React Native server."}
+{"command": "react-native", "description": "A framework for building native apps with React."}
+{"command": "read", "description": "Shell builtin for retrieving data from stdin."}
+{"command": "readlink", "description": "Follow symlinks and get symlink information."}
+{"command": "realpath", "description": "Display the resolved absolute path for a file or directory."}
+{"command": "recsel", "description": "Print records from a recfile: a human-editable, plain text database."}
+{"command": "rector", "description": "An automated tool for updating and refactoring PHP 5.3+ code."}
+{"command": "redis-benchmark", "description": "A tool to benchmark a Redis server."}
+{"command": "redis-cli", "description": "Opens a connection to a Redis server."}
+{"command": "redis-server", "description": "Persistent key-value database."}
+{"command": "redshift", "description": "Adjust the color temperature of your screen according to your surroundings."}
+{"command": "reflac", "description": "Recompress FLAC files in-place while preserving metadata."}
+{"command": "reflex", "description": "Tool to watch a directory and rerun a command when certain files change."}
+{"command": "rekor-cli", "description": "Immutable tamper resistant ledger of metadata generated within a software projects supply chain."}
+{"command": "renice", "description": "Alter the scheduling priority/niceness of one or more running processes.Niceness values range from -20 (most favorable to the process) to 19 (least favorable to the process).See also: nice."}
+{"command": "repren", "description": "Multi-pattern string replacement and file renaming tool."}
+{"command": "restic", "description": "A backup program that aims to be fast, secure and efficient."}
+{"command": "resume", "description": "Easily setup a new resume."}
+{"command": "retry", "description": "Repeat command until it succeeds or a criterion is met."}
+{"command": "rev", "description": "Reverse a line of text."}
+{"command": "rfetch", "description": "A configurable fetch program to output system information."}
+{"command": "rg", "description": "Ripgrep is a recursive line-oriented search tool.Aims to be a faster alternative to grep."}
+{"command": "rga", "description": "Ripgrep wrapper with rich file type searching capabilities."}
+{"command": "rgpt", "description": "An automated code review tool that uses GPT you can use straight from your terminal."}
+{"command": "rgrep", "description": "Recursively find patterns in files using regular expressions.Equivalent to grep -r."}
+{"command": "rhash", "description": "Calculate or check common message digests."}
+{"command": "rich", "description": "A toolbox for fancy output in the terminal."}
+{"command": "rip", "description": "Remove files or directories by sending them to the graveyard, allowing for them to be recovered."}
+{"command": "ripgrep", "description": "ripgrep is the common name for the command rg."}
+{"command": "rm", "description": "Remove files or directories.See also: rmdir."}
+{"command": "rmdir", "description": "Remove directories without files.See also: rm."}
+{"command": "rmlint", "description": "Find space waste and other broken things on your filesystem."}
+{"command": "roave-backward-compatibility-check", "description": "A tool that can be used to verify backward compatibility breaks between two versions of a PHP library."}
+{"command": "robo", "description": "PHP task runner."}
+{"command": "roll", "description": "Rolls a user-defined dice sequence."}
+{"command": "route", "description": "Use route cmd to set the route table."}
+{"command": "rpi-imager", "description": "Flash images onto storage devices."}
+{"command": "rr", "description": "Debugging tool designed to record and replay program execution."}
+{"command": "Rscript", "description": "Run a script with the R programming language."}
+{"command": "rspec", "description": "Behavior-driven development testing framework written in Ruby to test Ruby code."}
+{"command": "rss2email", "description": "Tool for delivering news from RSS feeds to an email program."}
+{"command": "rsstail", "description": "tail for RSS feeds."}
+{"command": "rsync", "description": "Transfer files either to or from a remote host (but not between two remote hosts), by default using SSH.To specify a remote path, use user@host:path/to/file_or_directory."}
+{"command": "rtl_sdr", "description": "Raw data recorder for RTL-SDR receivers.Data is encoded using I/Q sampling (aka quadrature sampling)."}
+{"command": "rtmpdump", "description": "A tool to dump media content streamed over the RTMP protocol."}
+{"command": "rtv", "description": "Reddit Terminal Viewer.Use arrow keys to navigate. Right and Left to view and return from a submission, respectively."}
+{"command": "rubocop", "description": "Lint Ruby files."}
+{"command": "ruby", "description": "Ruby programming language interpreter.See also: gem, bundler, rake, irb."}
+{"command": "runit", "description": "3-stage init system."}
+{"command": "runsv", "description": "Start and manage a runit service."}
+{"command": "runsvchdir", "description": "Change the directory runsvdir uses by default."}
+{"command": "runsvdir", "description": "Run an entire directory of services."}
+{"command": "rustc", "description": "The Rust compiler.Rust projects usually use cargo instead of invoking rustc directly."}
+{"command": "rustfmt", "description": "Tool for formatting Rust source code."}
+{"command": "rustup-init.sh", "description": "Script to install rustup and the Rust toolchain."}
+{"command": "rustup", "description": "Install, manage, and update Rust toolchains.Some subcommands, such as toolchain, target, update, etc. have their own usage documentation."}
+{"command": "rvm", "description": "A tool for easily installing, managing, and working with multiple ruby environments."}
+{"command": "s", "description": "Web search from the terminal."}
+{"command": "s3cmd", "description": "Command line tool and client for uploading, retrieving and managing data in S3 compatible object storage."}
+{"command": "safe", "description": "Interact with HashiCorp Vault."}
+{"command": "sails", "description": "A realtime enterprise level MVC framework built on top of Node.js."}
+{"command": "salt-call", "description": "Invoke salt locally on a salt minion."}
+{"command": "salt-key", "description": "Manages salt minion keys on the salt master.Needs to be run on the salt master, likely as root or with sudo."}
+{"command": "salt-run", "description": "Frontend for executing salt-runners on minions."}
+{"command": "salt", "description": "Execute commands and assert state on remote salt minions."}
+{"command": "sam2p", "description": "Raster (bitmap) image converter with smart PDF and PostScript (EPS) output."}
+{"command": "samtools", "description": "Tools for handling high-throughput sequencing (genomics) data.Used for reading/writing/editing/indexing/viewing of data in SAM/BAM/CRAM format."}
+{"command": "sass", "description": "Converts SCSS or Sass files to CSS."}
+{"command": "satis", "description": "The command-line utility for the Satis static Composer repository."}
+{"command": "sbcl", "description": "High performance Common Lisp compiler."}
+{"command": "sbt", "description": "Build tool for Scala and Java projects."}
+{"command": "SC-IM", "description": "A curses based, vim-like spreadsheet calculator.Use hjkl or arrow keys to navigate."}
+{"command": "scala", "description": "Scala application launcher and interactive interpreter."}
+{"command": "scalafmt", "description": "Code formatter for Scala.Configurations are stored in the .scalafmt.conf file."}
+{"command": "scan-build", "description": "Command-line utility to run a static analyzer over a codebase as part of performing a regular build."}
+{"command": "scc", "description": "Tool written in Go that counts lines of code."}
+{"command": "sccmap", "description": "Extract strongly connected components of directed graphs.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "scd", "description": "File manager focused on shell integration."}
+{"command": "scheme", "description": "MIT Scheme language interpreter and REPL (interactive shell)."}
+{"command": "scp", "description": "Secure copy.Copy files between hosts using Secure Copy Protocol over SSH."}
+{"command": "scrapy", "description": "Web-crawling framework."}
+{"command": "scrcpy", "description": "Display and control your Android device on a desktop."}
+{"command": "screen", "description": "Hold a session open on a remote server. Manage multiple windows with a single SSH connection.See also tmux and zellij."}
+{"command": "screenfetch", "description": "Display system information."}
+{"command": "script", "description": "Make a typescript file of a terminal session."}
+{"command": "sd", "description": "Intuitive find and replace."}
+{"command": "sdcv", "description": "StarDict, a command-line dictionary client.Dictionaries are provided separately from the client."}
+{"command": "sdiff", "description": "Compare the differences between and optionally merge 2 files."}
+{"command": "sdk", "description": "Tool for managing parallel versions of multiple Software Development Kits.Supports Java, Groovy, Scala, Kotlin, Gradle, Maven, Vert.x and many others."}
+{"command": "sdkmanager", "description": "Tool to install packages for the Android SDK."}
+{"command": "searchsploit", "description": "Searchsploit searches exploit database's database for exploits, shellcodes and/or papers.If known version numbers are used as search terms, exploits for both the exact version and others whose version range covers the one specified are shown."}
+{"command": "secrethub", "description": "A tool to keep secrets out of config files."}
+{"command": "security-checker", "description": "Check if a PHP application uses dependencies with known security vulnerabilities."}
+{"command": "sed", "description": "Edit text in a scriptable manner.See also: awk, ed."}
+{"command": "semver", "description": "Semantic version string parser."}
+{"command": "sendmail", "description": "Send email."}
+{"command": "seq", "description": "Output a sequence of numbers to stdout."}
+{"command": "sequelize", "description": "Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server."}
+{"command": "serialver", "description": "Returns the serialVersionUID of classes.It does not set a security manager by default."}
+{"command": "serve", "description": "Static file serving and directory listing."}
+{"command": "serverless", "description": "Toolkit for deploying and operating serverless architectures on AWS, Google Cloud, Azure and IBM OpenWhisk.Commands can be run either using the serverless command or its alias, sls."}
+{"command": "set", "description": "Toggle shell options or set the values of positional parameters."}

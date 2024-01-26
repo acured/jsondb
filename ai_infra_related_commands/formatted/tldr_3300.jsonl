@@ -1,0 +1,150 @@
+{"command": "qm list", "description": "List all virtual machines."}
+{"command": "qm listsnapshot", "description": "List snapshots of virtual machines."}
+{"command": "qm migrate", "description": "Migrate a virtual machine.Used to create a new migration task."}
+{"command": "qm monitor", "description": "Enter the QEMU Monitor interface."}
+{"command": "qm move_disk", "description": "This command is an alias of qm disk move."}
+{"command": "qm mtunnel", "description": "Used by qmigrate.It should not be invoked manually."}
+{"command": "qm pending", "description": "Get the virtual machine configuration with both current and pending values."}
+{"command": "qm reboot", "description": "Reboot a virtual machine by shutting it down, and starting it again after applying pending changes."}
+{"command": "qm rescan", "description": "Rescan all storages and update disk sizes and unused disk images of a virtual machine."}
+{"command": "qm reset", "description": "Reset a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm resize", "description": "This command is an alias of qm-disk-resize."}
+{"command": "qm resume", "description": "Resume a virtual machine."}
+{"command": "qm rollback", "description": "Rollback the VM state to a specified snapshot."}
+{"command": "qm sendkey", "description": "Send QEMU monitor encoding key event to a virtual machine."}
+{"command": "qm showcmd", "description": "Show command-line which is used to start the VM (debug info)."}
+{"command": "qm shutdown", "description": "Shutdown a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm snapshot", "description": "Create virtual machine snapshots."}
+{"command": "qm start", "description": "Start a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm status", "description": "Show virtual machine status."}
+{"command": "qm suspend", "description": "Suspends a virtual machine (VM) in the Proxmox Virtual Environment (PVE).Use --skiplock and --skiplockstorage flags with caution, as they may lead to data corruption in certain situations."}
+{"command": "qm template", "description": "Create a Proxmox VM template."}
+{"command": "qm unlock", "description": "Unlock a virtual machine in QEMU/KVM Virtual Machine Manager."}
+{"command": "qm vncproxy", "description": "Proxy Virtual Machine VNC (Virtual network computing) traffic to stdin or stdout."}
+{"command": "qm wait", "description": "Wait until the virtual machine is stopped."}
+{"command": "qm", "description": "QEMU/KVM Virtual Machine Manager."}
+{"command": "qmrestore", "description": "Restore QemuServer vzdump backups."}
+{"command": "qrcp", "description": "A file transfer tool."}
+{"command": "qsub", "description": "Submits a script to the queue management system TORQUE."}
+{"command": "qtchooser", "description": "A wrapper used to select between Qt development binary versions."}
+{"command": "qtile", "description": "A full-featured, hackable tiling window manager written and configured in Python."}
+{"command": "quotacheck", "description": "Scan a filesystem for disk usage; create, check and repair quota files.It is best to run quota check with quotas turned off to prevent damage or loss to quota files."}
+{"command": "radeontop", "description": "Show utilization of AMD GPUs.May require root privileges depending on your system."}
+{"command": "rankmirrors", "description": "Rank a list of Pacman mirrors by connection and opening speed.Writes the new mirrorlist to stdout."}
+{"command": "raspi-config", "description": "An ncurses terminal GUI to config a Raspberry Pi."}
+{"command": "raspinfo", "description": "Display Raspberry Pi system information."}
+{"command": "raw", "description": "Bind a Unix raw character device."}
+{"command": "rc-service", "description": "Locate and run OpenRC services with arguments.See also openrc."}
+{"command": "rc-status", "description": "Show status info about runlevels.See also openrc."}
+{"command": "rc-update", "description": "Add and remove OpenRC services to and from runlevels.See also openrc."}
+{"command": "rdesktop", "description": "Remote Desktop Protocol client.It can be used to connect the remote computer using the RDP protocol."}
+{"command": "read", "description": "Shell builtin for retrieving data from stdin."}
+{"command": "readelf", "description": "Displays information about ELF files."}
+{"command": "readpe", "description": "Displays information about PE files."}
+{"command": "reboot", "description": "Reboot the system."}
+{"command": "reflector", "description": "Arch script to fetch and sort mirrorlists."}
+{"command": "register_new_matrix_user", "description": "Used to register new users with a given home server when registration has been disabled."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "repo-add", "description": "Package database maintenance utility which enables installation of said package via Pacman."}
+{"command": "reportbug", "description": "Bug report tool of Debian distribution."}
+{"command": "repquota", "description": "Display a summary of existing file quotas for a filesystem."}
+{"command": "reptyr", "description": "Move a running process to a new terminal.Best used when you forget to start a long running task in screen."}
+{"command": "reset", "description": "Reinitializes the current terminal. Clears the entire terminal screen."}
+{"command": "resize2fs", "description": "Resize an ext2, ext3 or ext4 filesystem.Does not resize the underlying partition. The filesystem may have to be unmounted first, read the man page for more details."}
+{"command": "resolvectl", "description": "Resolve domain names, IPv4 and IPv6 addresses, DNS resource records, and services.Introspect and reconfigure the DNS resolver."}
+{"command": "resolveip", "description": "Resolve hostnames to their IP addresses and vice versa."}
+{"command": "restorecon", "description": "Restore SELinux security context on files/directories according to persistent rules.See also: semanage-fcontext."}
+{"command": "retroarch", "description": "A frontend for emulators, game engines and media players.The reference implementation of the libretro API."}
+{"command": "rfkill", "description": "Enable and disable wireless devices."}
+{"command": "rig", "description": "Utility to piece together a random first name, last name, street number and address, along with a geographically consistent (ie, they all match the same area) city, state, ZIP code, and area code."}
+{"command": "rkhunter", "description": "Searches for rootkits and malware."}
+{"command": "rm", "description": "Remove files or directories.See also: rmdir."}
+{"command": "rmdir", "description": "Remove directories without files.See also: rm."}
+{"command": "rmmod", "description": "Remove modules from the Linux kernel."}
+{"command": "rofi", "description": "An application launcher and window switcher."}
+{"command": "rolldice", "description": "Roll virtual dice."}
+{"command": "rpcclient", "description": "MS-RPC client tool (part of the samba suite)."}
+{"command": "rpcinfo", "description": "Makes an RPC call to an RPC server and reports what it finds."}
+{"command": "rpi-eeprom-update", "description": "Tool to update EEPROM and view other EEPROM information."}
+{"command": "rpm-ostree", "description": "A hybrid image/package system.Manage ostree deployments, package layers, filesystem overlays, and boot configuration."}
+{"command": "rpm", "description": "RPM Package Manager.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "rpm2cpio", "description": "Convert an RPM package to a cpio archive."}
+{"command": "rpmbuild", "description": "RPM Package Build tool."}
+{"command": "rpmspec", "description": "Query a RPM spec file."}
+{"command": "rspamc", "description": "Command-line client for rspamd servers."}
+{"command": "rtcwake", "description": "Enter a system sleep state until specified wakeup time relative to your BIOS clock."}
+{"command": "rtorrent", "description": "Download torrents."}
+{"command": "ruget", "description": "Alternative to wget written in Rust."}
+{"command": "run-mailcap", "description": "Run MailCap Programs.Run mailcap view, see, edit, compose, print - execute programs via entries in the mailcap file (or any of its aliases) will use the given action to process each mime-type/file."}
+{"command": "runcon", "description": "Run a program in a different SELinux security context.With neither context nor command, print the current security context."}
+{"command": "runlim", "description": "A tool for sampling and limiting time and memory usage of a program and its child processes using the proc file system on Linux."}
+{"command": "runuser", "description": "Run commands as a specific user and group without asking for password (needs root privileges)."}
+{"command": "rusnapshot", "description": "BTRFS snapshotting utility written in Rust."}
+{"command": "sa", "description": "Summarizes accounting information. Part of the acct package.Shows commands called by users, including basic info on CPU time spent processing and I/O rates."}
+{"command": "sacct", "description": "Display accounting data from the Slurm service."}
+{"command": "sacctmgr", "description": "View, setup, and manage Slurm accounts."}
+{"command": "sam", "description": "AWS Serverless Application Model (SAM) CLI."}
+{"command": "sar", "description": "Monitor performance of various Linux subsystems."}
+{"command": "sbatch", "description": "Submit a batch job to the SLURM scheduler."}
+{"command": "scancel", "description": "Cancel a Slurm job."}
+{"command": "scanimage", "description": "Scan images with the Scanner Access Now Easy API."}
+{"command": "schroot", "description": "Run a command or start an interactive shell with a different root directory. More customizable than chroot."}
+{"command": "scontrol", "description": "View information about and modify jobs."}
+{"command": "screenkey", "description": "A screencast tool to display keys pressed."}
+{"command": "script", "description": "Make a typescript file of a terminal session."}
+{"command": "scriptreplay", "description": "Replay a typescript created by the script command to stdout."}
+{"command": "scrot", "description": "Screen capture utility."}
+{"command": "sed", "description": "Edit text in a scriptable manner.See also: awk, ed."}
+{"command": "see", "description": "Alias to run-mailcap's view.An alias to a run-mailcap's action print."}
+{"command": "select", "description": "Bash builtin construct for creating menus."}
+{"command": "semanage fcontext", "description": "Manage persistent SELinux security context rules on files/directories.See also: semanage, restorecon."}
+{"command": "semanage", "description": "SELinux Policy Management tool."}
+{"command": "sensible-browser", "description": "Open the default browser."}
+{"command": "sensible-editor", "description": "Open the default editor."}
+{"command": "sensors", "description": "Report sensors information."}
+{"command": "service", "description": "Manage services by running init scripts.The full script path should be omitted (/etc/init.d/ is assumed)."}
+{"command": "setcap", "description": "Set capabilities of specified file.See also: tldr getcap."}
+{"command": "setfacl", "description": "Set file access control lists (ACL)."}
+{"command": "setserial", "description": "Read and modify serial port information."}
+{"command": "setsid", "description": "Run a program in a new session if the calling process is not a process group leader.The created session is by default not controlled by the current terminal."}
+{"command": "setxkbmap", "description": "Set the keyboard using the X Keyboard Extension."}
+{"command": "sfill", "description": "Securely overwrite the free space and inodes of the partition where the specified directory resides."}
+{"command": "sherlock", "description": "Find usernames across social networks."}
+{"command": "shiny-mirrors", "description": "Generate a pacman mirror list for Manjaro Linux.Every run of shiny-mirrors requires you to synchronize your database and update your system using sudo pacman -Syyu."}
+{"command": "shutdown", "description": "Shutdown and reboot the system."}
+{"command": "sic", "description": "Simple IRC client.Part of the suckless tools."}
+{"command": "silentcast", "description": "Silent screencast creator. Saves in .mkv and animated GIF formats."}
+{"command": "sinfo", "description": "View information about Slurm nodes and partitions.See also squeue and sbatch, which are also part of the Slurm workload manager."}
+{"command": "size", "description": "Displays the sizes of sections inside binary files."}
+{"command": "slapt-get", "description": "An apt like system for Slackware package management.Package sources need to be configured in the slapt-getrc file."}
+{"command": "slapt-src", "description": "A utility to automate building of slackbuilds.SlackBuild sources need to be configured in the slapt-srcrc file."}
+{"command": "sleep", "description": "Delay for a specified amount of time."}
+{"command": "slop", "description": "Get a selection of the screen."}
+{"command": "sm", "description": "Displays a short message fullscreen."}
+{"command": "smbclient", "description": "FTP-like client to access SMB/CIFS resources on servers."}
+{"command": "smbget", "description": "wget-like utility for downloading files from SMB servers."}
+{"command": "smbmap", "description": "Allow users to enumerate samba share drives across an entire domain."}
+{"command": "smbnetfs", "description": "Mount SMB shares interactively."}
+{"command": "smbpasswd", "description": "Add/remove a Samba user or change its password.Samba users must have an existing local Unix account."}
+{"command": "smem", "description": "Print memory usage for programs."}
+{"command": "snake4", "description": "Snake game in the terminal."}
+{"command": "snake4scores", "description": "Show the high scores from the snake4 game."}
+{"command": "snap", "description": "Manage the \"snap\" self-contained software packages.Similar to what apt is for .deb."}
+{"command": "snapper", "description": "Filesystem snapshot management tool."}
+{"command": "snmpwalk", "description": "SNMP query tool."}
+{"command": "spectre-meltdown-checker", "description": "Spectre and Meltdown mitigation detection tool."}
+{"command": "speedometer", "description": "Python script that shows a network traffic graph in the terminal."}
+{"command": "spi", "description": "A meta package manager that handles both packages and slackbuilds."}
+{"command": "sqfscat", "description": "Concatenate files from a squashfs filesystem and print them to stdout."}
+{"command": "sqfstar", "description": "Create a squashfs filesystem from a tar archive."}
+{"command": "squeue", "description": "View the jobs queued in the SLURM scheduler."}
+{"command": "sreport", "description": "Generate reports on jobs, users, and clusters from accounting data."}
+{"command": "srun", "description": "Create an interactive slurm job or connect to an existing job."}
+{"command": "ss", "description": "Utility to investigate sockets."}
+{"command": "sstat", "description": "View information about running jobs."}
+{"command": "st", "description": "A simple terminal emulator for the X Window System."}
+{"command": "startx", "description": "A front-end to xinit that provides a nice user interface for running a single session of the X Window System."}
+{"command": "steghide", "description": "Steganography tool for JPEG, BMP, WAV and AU file formats."}
+{"command": "stegsnow", "description": "Steganography tool for concealing and extracting messages in text files encoded as tabs and spaces."}
+{"command": "strace", "description": "Troubleshooting tool for tracing system calls."}
+{"command": "stress", "description": "A tool to stress test CPU, memory, and IO on a Linux system."}

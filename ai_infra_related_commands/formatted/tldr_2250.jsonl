@@ -1,0 +1,150 @@
+{"command": "telnet", "description": "Connect to a specified port of a host using the telnet protocol."}
+{"command": "termdown", "description": "Countdown timer and stopwatch for the command-line."}
+{"command": "terminalizer", "description": "Utility program which records the terminal and generate animated GIFs or share a video."}
+{"command": "terraform fmt", "description": "Format configuration according to Terraform language style conventions."}
+{"command": "terraform plan", "description": "Generate and show Terraform execution plans."}
+{"command": "terraform", "description": "Create and deploy infrastructure as code to cloud providers."}
+{"command": "terragrunt", "description": "Keep your Terraform CLI arguments DRY."}
+{"command": "tesseract", "description": "OCR (Optical Character Recognition) engine."}
+{"command": "test", "description": "Check file types and compare values.Returns 0 if the condition evaluates to true, 1 if it evaluates to false."}
+{"command": "testssl", "description": "Check SSL/TLS protocols and ciphers supported by a server."}
+{"command": "tex", "description": "Compile a DVI document from TeX source files."}
+{"command": "texdoc", "description": "Search for appropriate documentation for (La)TeX commands or packages."}
+{"command": "texliveonfly", "description": "Downloads missing TeX Live packages while compiling .tex files."}
+{"command": "textql", "description": "Execute SQL against structured text like csv or tsv files."}
+{"command": "theHarvester", "description": "A tool designed to be used in the early stages of a penetration test."}
+{"command": "thunderbird", "description": "Email client and RSS reader."}
+{"command": "tig", "description": "A text-mode interface for Git."}
+{"command": "time", "description": "Measure how long a command took to run.Note: time can either exist as a shell builtin, a standalone program or both."}
+{"command": "timeout", "description": "Run a command with a time limit."}
+{"command": "timetrap", "description": "Simple command-line time tracker written in Ruby."}
+{"command": "timew", "description": "A time tracking tool used to measure the duration of activities."}
+{"command": "timidity", "description": "A MIDI file player and converter."}
+{"command": "tlmgr generate", "description": "Remake configuration files from information stored locally."}
+{"command": "tldr-lint", "description": "Lint and format tldr pages."}
+{"command": "tldr", "description": "Display simple help pages for command-line tools from the tldr-pages project.Note: the --language and --list options are not required by the client specification, but most clients implement them."}
+{"command": "tldrl", "description": "This command is an alias of tldr-lint."}
+{"command": "tlmgr arch", "description": "This command is an alias of tlmgr platform."}
+{"command": "tlmgr backup", "description": "Manage backups of TeX Live packages.The default backup directory is specified by the backupdir option, and can be obtained with tlmgr option."}
+{"command": "tlmgr candidates", "description": "Get available candidate repositories from which a TeX Live package can be installed."}
+{"command": "tlmgr check", "description": "Check the consistency of a TeX Live installation."}
+{"command": "tlmgr conf", "description": "Manage the TeX Live configuration."}
+{"command": "tlmgr dump-tlpdb", "description": "Dump the TeX Live package database."}
+{"command": "tlmgr gui", "description": "Start a graphical user interface for tlmgr.tlmgr gui depends on the package perl-tk, which has to be installed manually."}
+{"command": "tlmgr info", "description": "Show information about TeX Live packages."}
+{"command": "tlmgr install", "description": "Install TeX Live packages."}
+{"command": "tlmgr key", "description": "Manage GPG keys used to verify TeX Live databases."}
+{"command": "tlmgr option", "description": "TeX Live settings manager."}
+{"command": "tlmgr paper", "description": "Manage paper size options of an TeX Live installation."}
+{"command": "tlmgr path", "description": "Add or remove symlinks for TeX Live executables, man pages and info pages.This command has to be re-run for files added in the future."}
+{"command": "tlmgr pinning", "description": "The pinning action manages the pinning file."}
+{"command": "tlmgr recreate-tlpdb", "description": "Recreate the TeX Live package database.This command has a lack of documentation and should be used with caution."}
+{"command": "tlmgr remove", "description": "Uninstall TeX Live packages.By default, removed packages will be backed up to ./tlpkg/backups under the TL installation directory."}
+{"command": "tlmgr repository", "description": "Manage repositories of a TeX Live installation."}
+{"command": "tlmgr restore", "description": "Restore package backups created with tlmgr backup.The default backup directory is specified by the backupdir option, and can be obtained with tlmgr option."}
+{"command": "tlmgr search", "description": "Search for TeX Live packages using (Perl) regular expressions."}
+{"command": "tlmgr shell", "description": "Start an interactive shell of the native TeX Live manager."}
+{"command": "tlmgr update", "description": "Update TeX Live packages."}
+{"command": "tlmgr", "description": "Manages packages and configuration options of an existing TeX Live installation.Some subcommands such as tlmgr paper have their own usage documentation."}
+{"command": "tmpmail", "description": "A temporary email right from your terminal written in POSIX sh."}
+{"command": "tmsu", "description": "Simple command-line tool for tagging files."}
+{"command": "tmux", "description": "Terminal multiplexer.It allows multiple sessions with windows, panes, and more.See also: zellij, screen."}
+{"command": "tmuxinator", "description": "Create and manage tmux sessions easily."}
+{"command": "todo", "description": "A simple, standards-based, cli todo manager."}
+{"command": "todoist", "description": "Access https://todoist.com from the command-line."}
+{"command": "todoman", "description": "A simple, standards-based, cli todo manager.todoman is a common name for the command todo, but not a command itself."}
+{"command": "tokei", "description": "A program that prints out statistics about code."}
+{"command": "topgrade", "description": "Update all applications on the system."}
+{"command": "topydo", "description": "A to-do list application that uses the todo.txt format."}
+{"command": "touch", "description": "Create files and set access/modification times."}
+{"command": "tox", "description": "Automate Python testing across multiple Python versions.Use tox.ini to configure environments and test command."}
+{"command": "tpp", "description": "Command-Line based presentation tool."}
+{"command": "tput", "description": "View and modify terminal settings and capabilities."}
+{"command": "tr", "description": "Translate characters: run replacements based on single characters and character sets."}
+{"command": "traceroute", "description": "Print the route packets trace to network host."}
+{"command": "traefik", "description": "An HTTP reverse proxy and load balancer."}
+{"command": "trans", "description": "Translate Shell is a command-line translator."}
+{"command": "transcode", "description": "Transcode video and audio codecs, and convert between media formats."}
+{"command": "transcrypt", "description": "Transparently encrypt files within a Git repository."}
+{"command": "transfersh", "description": "An unofficial command-line client for transfer.sh."}
+{"command": "transmission-cli", "description": "A lightweight, command-line BitTorrent client.This tool has been deprecated, please see transmission-remote."}
+{"command": "transmission-create", "description": "Create BitTorrent .torrent files.See also: transmission."}
+{"command": "transmission-daemon", "description": "Daemon controlled with transmission-remote or its web interface.See also: transmission."}
+{"command": "transmission-edit", "description": "Modify announce URLs from torrent files.See also: transmission."}
+{"command": "transmission-remote", "description": "Remote control utility for transmission-daemon and transmission."}
+{"command": "transmission-show", "description": "Get information about a torrent file.See also: transmission."}
+{"command": "transmission", "description": "A simple torrent client.Transmission isn't a command, but a set of commands. See the pages below."}
+{"command": "trap", "description": "Execute a command upon an event."}
+{"command": "trash-cli", "description": "A command-line interface to the trashcan APIs."}
+{"command": "travis", "description": "Command-line client to interface with Travis CI."}
+{"command": "trawl", "description": "Prints out network interface information to the console, much like ifconfig/ipconfig/ip/ifdata."}
+{"command": "tre", "description": "Show the contents of the current directory as a tree.Respects the .gitignore settings by default."}
+{"command": "tred", "description": "Compute the transitive reduction of directed graphs.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "tree", "description": "Show the contents of the current directory as a tree."}
+{"command": "trivy", "description": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues."}
+{"command": "troff", "description": "Typesetting processor for the groff (GNU Troff) document formatting system.See also groff."}
+{"command": "true", "description": "Returns a successful exit status code of 0.Use this with the || operator to make a command always exit with 0."}
+{"command": "truffle", "description": "A tool for developing smart contracts for running services on the Ethereum blockchain."}
+{"command": "truncate", "description": "Shrink or extend the size of a file to the specified size."}
+{"command": "ts-node", "description": "Run TypeScript code directly, without any compiling."}
+{"command": "ts", "description": "Add timestamps to every line from stdin."}
+{"command": "tsc", "description": "TypeScript compiler."}
+{"command": "tslint", "description": "A pluggable linting utility for TypeScript."}
+{"command": "tsort", "description": "Perform a topological sort.A common use is to show the dependency order of nodes in a directed acyclic graph."}
+{"command": "tsv-filter", "description": "Filter lines of a TSV file by running tests against individual fields."}
+{"command": "tts", "description": "Synthesize speech."}
+{"command": "tty", "description": "Returns terminal name."}
+{"command": "tuckr", "description": "Dotfile manager written in Rust."}
+{"command": "tuir", "description": "A text user-interface (TUI) to view and interact with Reddit from your terminal.Navigate with the Vim keys."}
+{"command": "turbo", "description": "High-performance build system for JavaScript and TypeScript codebases.See also: nx."}
+{"command": "twine", "description": "Utility for publishing Python packages on PyPI."}
+{"command": "twm", "description": "A window manager for the X Window system."}
+{"command": "twopi", "description": "Render an image of a radial network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "twurl", "description": "Curl-like command but tailored specifically for the Twitter API."}
+{"command": "tye", "description": "Developer tool that makes developing, testing, and deploying microservices and distributed applications easier."}
+{"command": "type", "description": "Display the type of command the shell will execute."}
+{"command": "typeorm", "description": "A JavaScript ORM that can run on Node.js, browser, Cordova, Ionic, React Native, NativeScript, and Electron platforms."}
+{"command": "typeset", "description": "Declare variables and give them attributes."}
+{"command": "typst", "description": "Compile a Typst file to PDF.Note: Specifying the output location is optional."}
+{"command": "u3d", "description": "A set of tools to interact with Unity."}
+{"command": "ufraw-batch", "description": "Convert RAW files from cameras into standard image files."}
+{"command": "ugrep", "description": "Ultra fast search tool with query TUI."}
+{"command": "ulimit", "description": "Get and set user limits."}
+{"command": "umask", "description": "Manage the read/write/execute permissions that are masked out (i.e. restricted) for newly created files by the user."}
+{"command": "umount", "description": "Unlink a filesystem from its mount point, making it no longer accessible.A filesystem cannot be unmounted when it is busy."}
+{"command": "unalias", "description": "Remove aliases."}
+{"command": "uname", "description": "Print details about the current machine and the operating system running on it.See also lsb_release."}
+{"command": "unar", "description": "Extract contents from archive files."}
+{"command": "unclutter", "description": "Hides the mouse cursor."}
+{"command": "uncrustify", "description": "C, C++, C#, D, Java and Pawn source code formatter."}
+{"command": "unexpand", "description": "Convert spaces to tabs."}
+{"command": "unflatten", "description": "Adjust directed graphs to improve the layout aspect ratio.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "uniq", "description": "Output the unique lines from the given input or file.Since it does not detect repeated lines unless they are adjacent, we need to sort them first."}
+{"command": "unison", "description": "Bidirectional file synchronisation tool."}
+{"command": "units", "description": "Provide the conversion between two units of measure."}
+{"command": "unlink", "description": "Remove a link to a file from the filesystem.The file contents is lost if the link is the last one to the file."}
+{"command": "unlzma", "description": "This command is an alias of xz --format=lzma --decompress."}
+{"command": "unrar", "description": "Extract RAR archives."}
+{"command": "unxz", "description": "This command is an alias of xz --decompress."}
+{"command": "unzip", "description": "Extract files/directories from ZIP archives.See also: zip."}
+{"command": "unzstd", "description": "This command is an alias of zstd --decompress."}
+{"command": "updog", "description": "A replacement for Python's SimpleHTTPServer.It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."}
+{"command": "uptime", "description": "Tell how long the system has been running and other information."}
+{"command": "upx", "description": "Compress or decompress executables."}
+{"command": "users", "description": "Display a list of logged in users.See also: useradd, userdel, usermod."}
+{"command": "uudecode", "description": "Decode files encoded by uuencode."}
+{"command": "uuencode", "description": "Encode binary files into ASCII for transport via mediums that only support simple ASCII encoding."}
+{"command": "uvicorn", "description": "Python ASGI HTTP Server, for asynchronous projects."}
+{"command": "vagrant", "description": "Manage lightweight, reproducible, and portable development environments."}
+{"command": "vala", "description": "Vala code runner.Tutorial: https://wiki.gnome.org/Projects/Vala/Tutorial."}
+{"command": "valac", "description": "Vala code compiler.Tutorial: https://wiki.gnome.org/Projects/Vala/Tutorial."}
+{"command": "vale", "description": "Extensible style checker that supports multiple markup formats, such as Markdown and AsciiDoc."}
+{"command": "valgrind", "description": "Wrapper for a set of expert tools for profiling, optimizing and debugging programs.Commonly used tools include memcheck, cachegrind, callgrind, massif, helgrind, and drd."}
+{"command": "var-dump-server", "description": "Symfony dump server.Collects data dumped by the Symfony VarDumper component."}
+{"command": "varnishlog", "description": "Display Varnish logs."}
+{"command": "vault", "description": "Interact with HashiCorp Vault."}
+{"command": "VBoxManage", "description": "Command-line interface to VirtualBox.Includes all the functionality of the GUI and more.Some subcommands such as vboxmanage startvm have their own usage documentation."}
+{"command": "vcsh", "description": "Version Control System for the home directory using Git repositories."}
+{"command": "vdir", "description": "List directory contents.Drop-in replacement for ls -l."}
+{"command": "vectorize-pixelart", "description": "Convert PNG pixel art graphics to SVG/EPS vector images."}
+{"command": "vegeta", "description": "A command-line utility and a library for HTTP load testing.See also ab."}

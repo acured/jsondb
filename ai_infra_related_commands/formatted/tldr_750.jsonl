@@ -1,0 +1,150 @@
+{"command": "false", "description": "Returns a non-zero exit code."}
+{"command": "fast", "description": "Test your download and upload speed using fast.com."}
+{"command": "fastboot", "description": "Communicate with connected Android devices when in bootloader mode (the one place adb doesn't work)."}
+{"command": "fastd", "description": "VPN daemon.Works on Layer 2 or Layer 3, supports different encryption methods, used by Freifunk."}
+{"command": "fastfetch", "description": "Display information about your operating system, software and hardware."}
+{"command": "fastlane", "description": "Build and release mobile applications."}
+{"command": "fastmod", "description": "A fast partial replacement for the codemod tool, replace and replace all in the whole codebase.Regexes are matched by Rust regex crate."}
+{"command": "fc-cache", "description": "Scan font directories to build font cache files."}
+{"command": "fc-list", "description": "List available fonts installed on the system."}
+{"command": "fc-match", "description": "Match available fonts."}
+{"command": "fc-pattern", "description": "Shows information about a font matching a pattern."}
+{"command": "fc", "description": "Open the most recent command and edit it."}
+{"command": "fd", "description": "An alternative to find.Aims to be faster and easier to use than find."}
+{"command": "fdp", "description": "Render an image of a force-directed network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "fdroid", "description": "F-Droid build tool.F-Droid is an installable catalog of FOSS (Free and Open Source Software) applications for the Android platform."}
+{"command": "fdroidcl", "description": "F-Droid CLI client."}
+{"command": "fdupes", "description": "Finds duplicate files in a given set of directories."}
+{"command": "feh", "description": "Lightweight image viewing utility."}
+{"command": "feroxbuster", "description": "Simple, fast, recursive content discovery tool written in Rust.Used to brute-force hidden paths on web servers and more."}
+{"command": "ffe", "description": "Extract fields from a flat database file and write to another format.A configuration file is required to interpret the input and format the output."}
+{"command": "ffmpeg", "description": "Video conversion tool."}
+{"command": "ffplay", "description": "A simple and portable media player using the FFmpeg libraries and the SDL library."}
+{"command": "ffprobe", "description": "Multimedia stream analyzer."}
+{"command": "ffsend", "description": "Easily and securely share files."}
+{"command": "fg", "description": "Run jobs in foreground."}
+{"command": "fgrep", "description": "Matches fixed strings in files.Equivalent to grep -F."}
+{"command": "figlet", "description": "Generate ASCII banners from user input.See also: showfigfonts."}
+{"command": "file", "description": "Determine file type."}
+{"command": "fin", "description": "Docksal command-line utility."}
+{"command": "find", "description": "Find files or directories under the given directory tree, recursively."}
+{"command": "finger", "description": "User information lookup program."}
+{"command": "fio", "description": "Flexible I/O tester.Tool that will spawn a number of threads or processes doing a particular type of I/O action."}
+{"command": "firebase", "description": "Test, manage, and deploy Firebase projects."}
+{"command": "firefox", "description": "A free and open source web browser."}
+{"command": "fish", "description": "The Friendly Interactive SHell, a command-line interpreter designed to be user friendly."}
+{"command": "fisher", "description": "Fisher, a fish-shell plugin manager.Install plugins by name or from a managed 'fishfile' for bundled installs."}
+{"command": "fkill", "description": "Fabulously kill processes. Cross-platform."}
+{"command": "flac", "description": "Encodes, decodes and tests FLAC files."}
+{"command": "flake8", "description": "Tool to check the style and quality of Python code."}
+{"command": "flarectl", "description": "Official CLI for Cloudflare."}
+{"command": "flask", "description": "A general utility script for Flask applications. Loads the application defined in the FLASK_APP environment variable."}
+{"command": "flex", "description": "Lexical analyzer generator. A rewrite of lex with extensions to the POSIX specification.Given the specification for a lexical analyzer, generates C code implementing it.NOTE: long options don't work on OpenBSD."}
+{"command": "flips", "description": "Create and apply patches for IPS and BPS files."}
+{"command": "flite", "description": "Speech synthesis engine."}
+{"command": "flow", "description": "A static type checker for JavaScript."}
+{"command": "fls", "description": "List files and directories in an image file or device."}
+{"command": "flutter", "description": "Google's free, open source, and cross-platform mobile app SDK.Some subcommands such as flutter pub have their own usage documentation."}
+{"command": "fluxctl", "description": "Command-line tool for Flux v1."}
+{"command": "fly", "description": "Command-line tool for concourse-ci."}
+{"command": "flyctl", "description": "Command-line tool for flyctl.io."}
+{"command": "fmt", "description": "Reformat a text file by joining its paragraphs and limiting the line width to given number of characters (75 by default)."}
+{"command": "fnm", "description": "Fast Node.js version manager.Install, uninstall or switch between Node.js versions."}
+{"command": "fold", "description": "Wrap each line in an input file to fit a specified width and print it to stdout."}
+{"command": "for", "description": "Perform a command several times."}
+{"command": "forever", "description": "Server-side JavaScript application that makes sure Node.js applications run indefinitely (restarts after exit)."}
+{"command": "fortune", "description": "Print a random quotation (fortune-cookie style)."}
+{"command": "fossa", "description": "CLI for the Fossa service - Generate realtime license audits, vulnerability scans and reports about dependencies licenses."}
+{"command": "fossil add", "description": "Put files or directories under Fossil version control."}
+{"command": "fossil ci", "description": "This command is an alias of fossil commit."}
+{"command": "fossil commit", "description": "Commit files to a Fossil repository."}
+{"command": "fossil delete", "description": "This command is an alias of fossil rm."}
+{"command": "fossil forget", "description": "This command is an alias of fossil rm, with the exception that it never removes files from the disk."}
+{"command": "fossil init", "description": "Initialize a new repository for a project.See also: fossil clone."}
+{"command": "fossil new", "description": "This command is an alias of fossil init."}
+{"command": "fossil rm", "description": "Remove files or directories from Fossil version control.See also: fossil forget."}
+{"command": "fossil", "description": "Distributed version control system.Some subcommands such as fossil commit have their own usage documentation."}
+{"command": "fping", "description": "A more powerful ping which can ping multiple hosts."}
+{"command": "freshclam", "description": "Update virus definitions for ClamAV antivirus program."}
+{"command": "from", "description": "Prints mail header lines from the current user's mailbox."}
+{"command": "fselect", "description": "Find files with SQL-like queries."}
+{"command": "fswatch", "description": "A cross-platform file change monitor."}
+{"command": "fswebcam", "description": "Small and simple webcam for *nix."}
+{"command": "ftp", "description": "Tools to interact with a server via File Transfer Protocol."}
+{"command": "fuck", "description": "Corrects your previous console command."}
+{"command": "func", "description": "Azure Functions Core Tools: Develop and test Azure Functions locally.Local functions can connect to live Azure services, and can deploy a function app to an Azure subscription."}
+{"command": "funzip", "description": "Print the content of the first (non-directory) member in an archive without extraction."}
+{"command": "fusermount", "description": "Mount and unmount FUSE filesystems."}
+{"command": "fzf", "description": "Command-line fuzzy finder.Similar to sk."}
+{"command": "g++", "description": "Compiles C++ source files.Part of GCC (GNU Compiler Collection)."}
+{"command": "gacutil", "description": "Global Assembly Cache (CAG) management utility."}
+{"command": "gallery-dl", "description": "Download image galleries and collections from several image hosting sites."}
+{"command": "ganache-cli", "description": "Command-line version of Ganache, your personal blockchain for Ethereum development."}
+{"command": "gatsby", "description": "Static site generator for React."}
+{"command": "gcal", "description": "Displays calendar."}
+{"command": "gcalcli", "description": "Command-line tool to interact with Google Calendar.Requests Google API authorization upon first launch."}
+{"command": "gcc", "description": "Preprocess and compile C and C++ source files, then assemble and link them together."}
+{"command": "gcloud", "description": "The official CLI tool for Google Cloud Platform.Note: gcloud subcommands have their own usage documentation."}
+{"command": "gcpdiag", "description": "Google Cloud Platform troubleshooting and diagnostics tool.Run in a docker container or in GCP Cloudshell."}
+{"command": "gdal2tiles.py", "description": "Generate TMS or XYZ tiles for a raster dataset."}
+{"command": "gdal_contour", "description": "Create contour lines and polygons from a digital elevation model."}
+{"command": "gdal_translate", "description": "Convert raster data between different formats."}
+{"command": "gdaladdo", "description": "Build overview images of raster datasets."}
+{"command": "gdalbuildvrt", "description": "Build Virtual Datasets from a list of existing datasets."}
+{"command": "gdaldem", "description": "Tool to analyze and visualize digital elevation models (DEM)."}
+{"command": "gdalinfo", "description": "List various information about a GDAL supported raster dataset."}
+{"command": "gdalwarp", "description": "Image reprojection and warping utility."}
+{"command": "gdb", "description": "The GNU Debugger."}
+{"command": "gdrive", "description": "Command-line tool to interact with Google Drive.Folder/file ID can be obtained from the Google Drive folder or ID URL."}
+{"command": "gdu", "description": "Disk usage analyzer with console interface."}
+{"command": "gem", "description": "A package manager for the Ruby programming language."}
+{"command": "geth", "description": "The go-ethereum command-line interface."}
+{"command": "gfortran", "description": "Preprocess and compile Fortran source files, then assemble and link them together."}
+{"command": "gh alias", "description": "Manage GitHub CLI command aliases."}
+{"command": "gh api", "description": "Makes authenticated HTTP requests to the GitHub API and prints the response."}
+{"command": "gh auth", "description": "Authenticate with a GitHub host."}
+{"command": "gh browse", "description": "Open a GitHub repository in the browser or print the URL."}
+{"command": "gh codespace", "description": "Connect and manage your codespaces in GitHub."}
+{"command": "gh completion", "description": "Generate shell completion scripts for GitHub CLI commands."}
+{"command": "gh config", "description": "Change configuration for GitHub cli."}
+{"command": "gh cs", "description": "This command is an alias of gh codespace."}
+{"command": "gh environment", "description": "Display help about environment variables for the GitHub CLI command."}
+{"command": "gh extension", "description": "Manage extensions for the GitHub CLI."}
+{"command": "gh formatting", "description": "Formatting options for JSON data exported from gh GitHub CLI command."}
+{"command": "gh gist", "description": "Work with GitHub Gists."}
+{"command": "gh help", "description": "Display help about the GitHub CLI command."}
+{"command": "gh issue create", "description": "Create GitHub issues on a repository."}
+{"command": "gh issue", "description": "Manage GitHub issues."}
+{"command": "gh label", "description": "Work with GitHub labels."}
+{"command": "gh mintty", "description": "Display help about MinTTY integration for the GitHub CLI command."}
+{"command": "gh pr create", "description": "Manage GitHub pull requests."}
+{"command": "gh pr merge", "description": "Merge GitHub pull requests."}
+{"command": "gh pr", "description": "Manage GitHub pull requests.Some subcommands such as gh pr create have their own usage documentation."}
+{"command": "gh reference", "description": "Display a reference about the GitHub CLI command."}
+{"command": "gh release", "description": "Manage GitHub releases."}
+{"command": "gh repo", "description": "Work with GitHub repositories."}
+{"command": "gh run", "description": "View, run and watch recent GitHub Actions workflow runs."}
+{"command": "gh screensaver", "description": "Extension for GitHub CLI that runs animated terminal screensavers.See also: gh extension."}
+{"command": "gh secret set", "description": "Create or update GitHub secrets."}
+{"command": "gh secret", "description": "Manage GitHub secrets."}
+{"command": "gh ssh-key", "description": "Manage GitHub SSH keys."}
+{"command": "gh workflow", "description": "List, view, and run GitHub Actions workflows."}
+{"command": "gh", "description": "Work seamlessly with GitHub.Some subcommands such as gh config have their own usage documentation."}
+{"command": "ghc", "description": "The Glasgow Haskell Compiler.Compiles and links Haskell source files."}
+{"command": "ghci", "description": "The Glasgow Haskell Compiler's interactive environment."}
+{"command": "ghcup", "description": "Haskell toolchain installer.Install, manage, and update Haskell toolchains."}
+{"command": "ghdl", "description": "Open-source simulator for the VHDL language."}
+{"command": "ghost", "description": "A blogging platform and headless CMS."}
+{"command": "gibo", "description": "Fetch gitignore boilerplates."}
+{"command": "gifdiff", "description": "Compare two GIFs for identical visual appearance.See also: gifsicle."}
+{"command": "gifsicle", "description": "GIF manipulator."}
+{"command": "gimp", "description": "GNU image manipulation program.See also: krita."}
+{"command": "gist", "description": "Upload code to https://gist.github.com."}
+{"command": "git abort", "description": "Abort an ongoing rebase, merge, or cherry-pick.Part of git-extras."}
+{"command": "git add", "description": "Adds changed files to the index."}
+{"command": "git alias", "description": "Create shortcuts for Git commands.Part of git-extras."}
+{"command": "git am", "description": "Apply patch files and create a commit. Useful when receiving commits via email.See also git format-patch, which can generate patch files."}
+{"command": "git annex", "description": "Manage files with Git, without checking their contents in.When a file is annexed, its content is moved into a key-value store, and a symlink is made that points to the content."}
+{"command": "git annotate", "description": "Show commit hash and last author on each line of a file.See git blame, which is preferred over git annotate.git annotate is provided for those familiar with other version control systems."}
+{"command": "git apply", "description": "Apply a patch to files and/or to the index without creating a commit.See also git am, which applies a patch and also creates a commit."}
+{"command": "git archive-file", "description": "Export all the files of the current Git branch into a zip archive.Part of git-extras."}

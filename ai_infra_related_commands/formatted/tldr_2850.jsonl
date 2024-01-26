@@ -1,0 +1,150 @@
+{"command": "elink", "description": "Look up precomputed neighbors within a database, or find associated records in other databases.It is part of the edirect package."}
+{"command": "emerge", "description": "Gentoo Linux package manager utility.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "engrampa", "description": "Package files into zip/tar file in MATE desktop environment.See also: zip, tar."}
+{"command": "enum4linux", "description": "Tool for enumerating Windows and Samba information from remote systems."}
+{"command": "envycontrol", "description": "GPU switching utility for Nvidia Optimus laptops."}
+{"command": "eopkg", "description": "Package manager for Solus."}
+{"command": "equery", "description": "View information about Portage packages."}
+{"command": "snap", "description": "Manage the \"snap\" self-contained software packages.Similar to what apt is for .deb."}
+{"command": "esearch", "description": "Perform a new Entrez search using terms in indexed fields.It is part of the edirect package."}
+{"command": "etckeeper", "description": "Track system configuration files in Git."}
+{"command": "ethtool", "description": "Display and modify Network Interface Controller (NIC) parameters."}
+{"command": "exif", "description": "Show and change EXIF information in JPEG files."}
+{"command": "expect", "description": "Script executor that interacts with other programs that require user input."}
+{"command": "extrace", "description": "Trace exec() calls."}
+{"command": "extundelete", "description": "Recover deleted files from ext3 or ext4 partitions by parsing the journal.See also date for Unix time information and umount for unmounting partitions."}
+{"command": "eyeD3", "description": "Read and manipulate metadata of MP3 files."}
+{"command": "f5fpc", "description": "A proprietary commercial SSL VPN client by BIG-IP Edge."}
+{"command": "fail2ban-client", "description": "Configure and control fail2ban server."}
+{"command": "faillock", "description": "Display and modify authentication failure record files."}
+{"command": "fakeroot", "description": "Run a command in an environment faking root privileges for file manipulation."}
+{"command": "faketime", "description": "Fake the system time for a given command."}
+{"command": "fallocate", "description": "Reserve or deallocate disk space to files.The utility allocates space without zeroing."}
+{"command": "farge", "description": "Display the color of a specific pixel on the screen in either hexadecimal or RGB formats."}
+{"command": "fatlabel", "description": "Sets or gets the label of a FAT32 partition."}
+{"command": "fcrackzip", "description": "ZIP archive password cracking utility."}
+{"command": "fdisk", "description": "A program for managing partition tables and partitions on a hard disk.See also: partprobe."}
+{"command": "feedreader", "description": "A GUI desktop RSS client."}
+{"command": "ffuf", "description": "A fast web fuzzer written in Go.The FUZZ keyword is used as a placeholder. ffuf will try to hit the URL by replacing the word FUZZ with every word in the wordlist."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "filefrag", "description": "Report how badly fragmented a particular file might be."}
+{"command": "finch", "description": "Console-based modular messaging client."}
+{"command": "findfs", "description": "Finds a filesystem by label or UUID."}
+{"command": "findmnt", "description": "Find your filesystem."}
+{"command": "firejail", "description": "Securely sandboxes processes to containers using built-in Linux capabilities."}
+{"command": "firewall-cmd", "description": "The firewalld command-line client."}
+{"command": "fixfiles", "description": "Fix file SELinux security contexts."}
+{"command": "flameshot", "description": "Screenshot utility with a GUI.Supports basic image editing, such as text, shapes, colors, and imgur."}
+{"command": "flash", "description": "Flash cards in the terminal."}
+{"command": "flashrom", "description": "Read, write, verify and erase flash chips."}
+{"command": "flatpak-builder", "description": "Help build application dependencies."}
+{"command": "flatpak", "description": "Build, install and run flatpak applications and runtimes."}
+{"command": "flock", "description": "Manage locks from shell scripts.It can be used to ensure that only one process of a command is running."}
+{"command": "fluidsynth", "description": "Synthesize audio from MIDI files."}
+{"command": "fold", "description": "Wrap each line in an input file to fit a specified width and print it to stdout."}
+{"command": "foreman", "description": "Manage Procfile-based applications."}
+{"command": "fprintd", "description": "Fingerprint management daemon."}
+{"command": "fprintd-delete", "description": "Remove fingerprints from the database."}
+{"command": "fprintd-enroll", "description": "Enroll fingerprints into the database."}
+{"command": "fprintd-list", "description": "List enrolled fingerprints."}
+{"command": "fprintd-verify", "description": "Verify fingerprints against the database."}
+{"command": "free", "description": "Display amount of free and used memory in the system."}
+{"command": "fsck", "description": "Check the integrity of a filesystem or repair it. The filesystem should be unmounted at the time the command is run."}
+{"command": "fscrypt", "description": "Go tool for managing Linux filesystem encryption."}
+{"command": "fstrim", "description": "Discard unused blocks on a mounted filesystem.Only supported by flash memory devices such as SSDs and microSD cards."}
+{"command": "fuser", "description": "Display process IDs currently using files or sockets."}
+{"command": "fwupdmgr", "description": "A tool for updating device firmware, including UEFI, using fwupd."}
+{"command": "gbp", "description": "A system to integrate the Debian package build system with Git."}
+{"command": "gcov", "description": "Code coverage analysis and profiling tool that discovers untested parts of a program.Also displays a copy of source code annotated with execution frequencies of code segments."}
+{"command": "gdebi", "description": "Simple tool to install .deb files."}
+{"command": "gedit", "description": "Text editor of the GNOME Desktop project."}
+{"command": "genfstab", "description": "Arch Linux install script to generate output suitable for addition to an fstab file."}
+{"command": "genid", "description": "Generate IDs, such as snowflakes, UUIDs, and a new GAID."}
+{"command": "genie", "description": "Set up and use a \"bottle\" namespace to run systemd under WSL (Windows Subsystem for Linux).To run these from Windows rather than an already-running distribution, precede them with wsl."}
+{"command": "genisoimage", "description": "Pre-mastering program to generate ISO9660/Joliet/HFS hybrid filesystems."}
+{"command": "genkernel", "description": "Gentoo Linux utility to compile and install kernels."}
+{"command": "getcap", "description": "Command to display the name and capabilities of each specified file."}
+{"command": "getconf", "description": "Get configuration values from your Linux system."}
+{"command": "getent", "description": "Get entries from Name Service Switch libraries."}
+{"command": "getfacl", "description": "Get file access control lists."}
+{"command": "getopt", "description": "Parse command-line arguments."}
+{"command": "gnome-calculator", "description": "The official calculator for the GNOME desktop environment."}
+{"command": "gnome-extensions", "description": "Manage gnome extensions from the terminal."}
+{"command": "gnome-screenshot", "description": "Capture the screen, a window, or a user-defined area and save the image to a file."}
+{"command": "gnome-software", "description": "Add and remove applications and update your system."}
+{"command": "gnome-terminal", "description": "The GNOME Terminal emulator."}
+{"command": "goaccess", "description": "An open source real-time web log analyzer."}
+{"command": "goldeneye.py", "description": "A HTTP DoS test tool."}
+{"command": "goobook", "description": "Access Google contacts from mutt or the command-line."}
+{"command": "gpasswd", "description": "Administer /etc/group and /etc/gshadow."}
+{"command": "grim", "description": "Grab images (Screenshots) from a Wayland compositor."}
+{"command": "groupadd", "description": "Add user groups to the system.See also: groups, groupdel, groupmod."}
+{"command": "groupdel", "description": "Delete existing user groups from the system.See also: groups, groupadd, groupmod."}
+{"command": "groupmod", "description": "Modify existing user groups in the system.See also: groups, groupadd, groupdel."}
+{"command": "grub-bios-setup", "description": "Set up a device to use GRUB with a BIOS configuration.You should use grub-install instead of grub-bios-setup in most cases."}
+{"command": "grub-file", "description": "Check if a file is of a specific bootable image type."}
+{"command": "grub-install", "description": "Install GRUB to a device."}
+{"command": "grub-mkconfig", "description": "Generate a GRUB configuration file."}
+{"command": "grub-reboot", "description": "Set the default boot entry for GRUB, for the next boot only."}
+{"command": "grub-script-check", "description": "The program grub-script-check takes a GRUB script file and checks it for syntax errors.It may take a path as a non-option argument. If none is supplied, it will read from stdin."}
+{"command": "grub-set-default", "description": "Set the default boot entry for GRUB."}
+{"command": "gs", "description": "GhostScript is a PDF and PostScript interpreter."}
+{"command": "gsettings", "description": "Query and modify dconf settings with schema validation."}
+{"command": "guake", "description": "A drop-down terminal for GNOME."}
+{"command": "guix package", "description": "Install, upgrade and remove Guix packages, or rollback to previous configurations."}
+{"command": "gummy", "description": "Screen brightness/temperature manager for Linux/X11."}
+{"command": "halt", "description": "Halt the system."}
+{"command": "handlr", "description": "Manage your default applications."}
+{"command": "hardinfo", "description": "Show hardware information in GUI window."}
+{"command": "hcitool", "description": "Monitor, configure connections, and send special commands to Bluetooth devices."}
+{"command": "hdparm", "description": "Get and set SATA and IDE hard drive parameters."}
+{"command": "head", "description": "Output the first part of files."}
+{"command": "help", "description": "Display information about Bash builtin commands."}
+{"command": "hlint", "description": "Tool for suggesting improvements to Haskell code."}
+{"command": "homectl", "description": "Create, remove, change or inspect home directories using the systemd-homed service."}
+{"command": "homeshick", "description": "Synchronize Git dotfiles."}
+{"command": "hostnamectl", "description": "Get or set the hostname of the computer."}
+{"command": "htpdate", "description": "Synchronize local date and time via HTTP headers from web servers."}
+{"command": "http-prompt", "description": "An interactive command-line HTTP client featuring autocomplete and syntax highlighting."}
+{"command": "http_load", "description": "An HTTP benchmarking tool.Runs multiple HTTP fetches in parallel to test the throughput of a web server."}
+{"command": "httpie", "description": "A user friendly HTTP tool."}
+{"command": "hwclock", "description": "Used for reading or changing the hardware clock. Usually requires root."}
+{"command": "i3-scrot", "description": "Wrapper script around the screenshot utility scrot for the i3 window manager.The default save location is ~/Pictures and can be changed in ~/.config/i3-scrot.conf."}
+{"command": "i3", "description": "A dynamic tiling window manager."}
+{"command": "i3exit", "description": "Exit the i3 window manager."}
+{"command": "i3lock", "description": "Simple screen locker built for the i3 window manager."}
+{"command": "i3status", "description": "Status line for the i3 window manager.This command is usually called from the i3 configuration file."}
+{"command": "i7z", "description": "An Intel CPU (only i3, i5 and i7) realtime reporting tool."}
+{"command": "id3v2", "description": "Manages id3v2 tags, converts and lists id3v1."}
+{"command": "ifdown", "description": "Disable network interfaces."}
+{"command": "ifmetric", "description": "An IPv4 route metrics manipulation tool."}
+{"command": "iftop", "description": "Show bandwidth usage on an interface by host."}
+{"command": "ifup", "description": "Tool used to enable network interfaces."}
+{"command": "img2txt", "description": "Convert images to colour ASCII characters and output them to text-based coloured files."}
+{"command": "imgp", "description": "Command-line image resizer and rotator for JPEG and PNG images."}
+{"command": "inotifywait", "description": "Waits for changes to one or more files."}
+{"command": "insmod", "description": "Dynamically load modules into the Linux Kernel."}
+{"command": "instaloader", "description": "Download pictures, videos, captions, and other metadata from Instagram.Note: You will need to provide Instagram login information if you want high-quality media downloads."}
+{"command": "inxi", "description": "Print a summary of system information and resources for debugging purposes."}
+{"command": "iostat", "description": "Report statistics for devices and partitions."}
+{"command": "ip address", "description": "IP Address management subcommand."}
+{"command": "ip link", "description": "Manage network interfaces."}
+{"command": "ip neighbour", "description": "Neighbour/ARP tables management IP subcommand."}
+{"command": "ip route list", "description": "This command is an alias of ip route show."}
+{"command": "ip route show", "description": "Display subcommand for IP Routing table management."}
+{"command": "ip route", "description": "IP Routing table management subcommand."}
+{"command": "ip rule", "description": "IP routing policy database management."}
+{"command": "ip", "description": "Show/manipulate routing, devices, policy routing and tunnels.Some subcommands such as ip address have their own usage documentation."}
+{"command": "ipcalc", "description": "Perform simple operations and calculations on IP addresses and networks."}
+{"command": "ipcmk", "description": "Create IPC (Inter-process Communication) resources."}
+{"command": "ipcrm", "description": "Delete IPC (Inter-process Communication) resources."}
+{"command": "ipset", "description": "A tool to create IP sets for firewall rules."}
+{"command": "iptables", "description": "Configure tables, chains and rules of the Linux kernel IPv4 firewall.Use ip6tables to set rules for IPv6 traffic. See also: iptables-save, iptables-restore."}
+{"command": "isoinfo", "description": "Utility programs for dumping and verifying ISO disk images."}
+{"command": "isosize", "description": "Display the size of an ISO file."}
+{"command": "ispell", "description": "Interactive spell checking."}
+{"command": "iw", "description": "Show and manipulate wireless devices."}
+{"command": "iwconfig", "description": "Configure and show the parameters of a wireless network interface."}
+{"command": "iwctl", "description": "Control the iwd network supplicant."}
+{"command": "jobs", "description": "Display status of jobs in the current session."}
+{"command": "journalctl", "description": "Query the systemd journal."}

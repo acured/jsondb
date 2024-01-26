@@ -1,0 +1,150 @@
+{"command": "yarn-why", "description": "Identifies why a Yarn package has been installed."}
+{"command": "yarn", "description": "JavaScript and Node.js package manager alternative."}
+{"command": "ybacklight", "description": "Manage screen backlight brightness. See also xbacklight."}
+{"command": "yes", "description": "Output something repeatedly.This command is commonly used to answer yes to every prompt by install commands (such as apt-get)."}
+{"command": "yesod", "description": "Helper tool for Yesod, a Haskell-based web framework.All Yesod commands are invoked through the stack project manager."}
+{"command": "ykinfo", "description": "Get basic information from a YubiKey."}
+{"command": "ykman", "description": "YubiKey Manager - configure YubiKeys.If there are multiple YubiKeys connected, you have to add --device serial_number before a subcommand."}
+{"command": "yolo", "description": "The YOLO command-line interface lets you simply train, validate or infer models on various tasks and versions."}
+{"command": "you-get", "description": "Download media contents (videos, audios, images) from the Web."}
+{"command": "youtube-dl", "description": "Download videos from YouTube and other websites."}
+{"command": "youtube-viewer", "description": "Command-line application for searching and playing videos from YouTube."}
+{"command": "yq", "description": "A lightweight and portable command-line YAML processor."}
+{"command": "yt-dlp", "description": "A youtube-dl fork with additional features and fixes.Download videos from YouTube and other websites."}
+{"command": "z", "description": "Tracks the most used (by frecency) directories and enables quickly navigating to them using string patterns or regular expressions."}
+{"command": "zbarimg", "description": "Scan and decode bar codes from image file(s)."}
+{"command": "zcat", "description": "Print data from gzip compressed files."}
+{"command": "zcmp", "description": "Compare compressed files."}
+{"command": "zdb", "description": "ZFS debugger."}
+{"command": "zdiff", "description": "Invoke diff on gzipped files."}
+{"command": "zeek", "description": "Passive network traffic analyzer.Any output and log files will be saved to the current working directory."}
+{"command": "zegrep", "description": "Find extended regular expression patterns in compressed files using egrep."}
+{"command": "zek", "description": "Generate a Go struct from XML."}
+{"command": "zellij", "description": "Terminal multiplexer with batteries included.See also tmux and screen."}
+{"command": "zfgrep", "description": "Matches fixed strings in possibly compressed files.Equivalent to grep -F with input decompressed first if necessary."}
+{"command": "zfs", "description": "Manage ZFS filesystems."}
+{"command": "zgrep", "description": "Grep text patterns from files within compressed file (equivalent to grep -Z)."}
+{"command": "zig", "description": "The Zig compiler and toolchain."}
+{"command": "zip", "description": "Package and compress (archive) files into zip file.See also: unzip."}
+{"command": "zip2john", "description": "A tool to extract password hashes from zip files for use with John the Ripper password cracker.This is a utility tool usually installed as part of the John the Ripper installation."}
+{"command": "zipalign", "description": "Zip archive alignment tool.Part of the Android SDK build tools."}
+{"command": "zipgrep", "description": "Find patterns in files in a ZIP archive using extended regular expression (supports ?, +, {}, () and |)."}
+{"command": "zipinfo", "description": "List detailed information about the contents of a .zip file."}
+{"command": "zipnote", "description": "View, add, or edit a zip archive's comments.Files can also be renamed in the zip archive."}
+{"command": "zless", "description": "View gzip and xz compressed files."}
+{"command": "zlib-flate", "description": "Raw zlib compression and decompression program.Part of qpdf."}
+{"command": "zm", "description": "A tool for managing articles of newspapers and blogs."}
+{"command": "zmore", "description": "View gzip compressed files with more."}
+{"command": "zmv", "description": "Move or rename files matching a specified extended glob pattern.See also zcp and zln."}
+{"command": "znew", "description": "Recompress files from .Z to .gz format."}
+{"command": "zola", "description": "A static site generator in a single binary with everything built-in."}
+{"command": "zopflipng", "description": "PNG compression utility."}
+{"command": "zotero", "description": "Manage your bibliographies."}
+{"command": "zoxide", "description": "Keep track of the most frequently used directories.Uses a ranking algorithm to navigate to the best match."}
+{"command": "zpool", "description": "Manage ZFS pools."}
+{"command": "zsh", "description": "Z SHell, a Bash-compatible command-line interpreter.See also: bash, histexpand."}
+{"command": "zstd", "description": "Compress or decompress files with Zstandard compression."}
+{"command": "zstdless", "description": "Open a zstd compressed file for interactive reading, allowing scrolling and search.See also: zstd, less."}
+{"command": "zsteg", "description": "Steganography detection tool for PNG and BMP file formats.It detects LSB steganography, ZLIB-compressed data, OpenStego, Camouflage and LSB with the Eratosthenes set."}
+{"command": "a2disconf", "description": "Disable an Apache configuration file on Debian-based OSes."}
+{"command": "a2dismod", "description": "Disable an Apache module on Debian-based OSes."}
+{"command": "a2dissite", "description": "Disable an Apache virtual host on Debian-based OSes."}
+{"command": "a2enconf", "description": "Enable an Apache configuration file on Debian-based OSes."}
+{"command": "a2enmod", "description": "Enable an Apache module on Debian-based OSes."}
+{"command": "a2ensite", "description": "Enable an Apache virtual host on Debian-based OSes."}
+{"command": "a2query", "description": "Retrieve runtime configuration from Apache on Debian-based OSes."}
+{"command": "abbr", "description": "Manage abbreviations for the fish shell.User-defined words are replaced with longer phrases after they are entered."}
+{"command": "abroot", "description": "Utility providing full immutability and atomicity by transacting between 2 root partition states (A\u27faB).Updates are performed using OCI images, to ensure that the system is always in a consistent state."}
+{"command": "ac", "description": "Print statistics on how long users have been connected."}
+{"command": "acountry", "description": "Print the country where an IPv4 address or hostname is located."}
+{"command": "acpi", "description": "Shows battery status or thermal information."}
+{"command": "add-apt-repository", "description": "Manages apt repository definitions."}
+{"command": "addpart", "description": "Tell the Linux kernel about the existence of the specified partition.A simple wrapper around the add partition ioctl."}
+{"command": "addr2line", "description": "Convert addresses of a binary into file names and line numbers."}
+{"command": "adduser", "description": "User addition utility."}
+{"command": "adig", "description": "Print information received from Domain Name System (DNS) servers."}
+{"command": "ahost", "description": "DNS lookup utility to display the A or AAAA record linked with a hostname or IP address."}
+{"command": "alien", "description": "Convert different installation packages to other formats."}
+{"command": "alpine", "description": "An email client and Usenet newsgroup program with a pico/nano-inspired interface.Supports most modern email services through IMAP."}
+{"command": "alternatives", "description": "This command is an alias of update-alternatives."}
+{"command": "amixer", "description": "Mixer for ALSA soundcard driver."}
+{"command": "anbox", "description": "Run Android applications on any GNU/Linux operating system."}
+{"command": "apache2ctl", "description": "Administrate the Apache HTTP web server.This command comes with Debian based OSes, for RHEL based ones see httpd."}
+{"command": "apk", "description": "Alpine Linux package management tool."}
+{"command": "aplay", "description": "Command-line sound player for ALSA soundcard driver."}
+{"command": "apport-bug", "description": "File a bug report on Ubuntu."}
+{"command": "apt-add-repository", "description": "Manages apt repository definitions."}
+{"command": "apt-cache", "description": "Debian and Ubuntu package query tool."}
+{"command": "apt-file", "description": "Search for files in apt packages, including ones not yet installed."}
+{"command": "apt-get", "description": "Debian and Ubuntu package management utility.Search for packages using apt-cache."}
+{"command": "apt-key", "description": "Key management utility for the APT Package Manager on Debian and Ubuntu.Note: apt-key is now deprecated (except for the use of apt-key del in maintainer scripts)."}
+{"command": "apt-mark", "description": "Utility to change the status of installed packages."}
+{"command": "apt moo", "description": "An APT easter egg."}
+{"command": "apt", "description": "Package management utility for Debian based distributions.Recommended replacement for apt-get when used interactively in Ubuntu versions 16.04 and later.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "aptitude", "description": "Debian and Ubuntu package management utility."}
+{"command": "apx", "description": "Package management utility with support for multiple sources, allowing you to install packages in subsystems."}
+{"command": "arch-chroot", "description": "Enhanced chroot command to help in the Arch Linux installation process."}
+{"command": "archey", "description": "Simple tool for stylishly displaying system information."}
+{"command": "archinstall", "description": "Guided Arch Linux installer with a twist."}
+{"command": "archivemount", "description": "Mount an archive for access as a filesystem."}
+{"command": "archlinux-java", "description": "Switch between installed Java environments."}
+{"command": "arecord", "description": "Sound recorder for ALSA soundcard driver."}
+{"command": "arithmetic", "description": "Quiz on simple arithmetic problems."}
+{"command": "ark", "description": "KDE's archiving tool."}
+{"command": "arpaname", "description": "Provides corresponding ARPA name for IP addresses."}
+{"command": "arpspoof", "description": "Forge ARP replies to intercept packets."}
+{"command": "as", "description": "Portable GNU assembler.Primarily intended to assemble output from gcc to be used by ld."}
+{"command": "ascii", "description": "Show ASCII character aliases."}
+{"command": "asciiart", "description": "Convert images to ASCII."}
+{"command": "aspell", "description": "Interactive spell checker."}
+{"command": "asterisk", "description": "Telephone and exchange (phone) server.Used for running the server itself, and managing an already running instance."}
+{"command": "at", "description": "Execute commands once at a later time.Service atd (or atrun) should be running for the actual executions."}
+{"command": "atool", "description": "Manage archives of various formats."}
+{"command": "atop", "description": "Linux system and process monitor."}
+{"command": "aura", "description": "The Aura Package Manager: A secure, multilingual package manager for Arch Linux and the AUR."}
+{"command": "auracle", "description": "Command-line tool used to interact with Arch Linux's User Repository, commonly referred to as the AUR."}
+{"command": "aurman", "description": "An Arch Linux utility to build and install packages from the Arch User Repository.See also pacman."}
+{"command": "aurvote", "description": "Vote for packages in the Arch User Repository.To be able to vote, the file ~/.config/aurvote must exist and contain your AUR credentials."}
+{"command": "ausyscall", "description": "Program that allows mapping syscall names and numbers."}
+{"command": "authconfig", "description": "Configure system authentication resources."}
+{"command": "auto-cpufreq", "description": "Automatic CPU speed & power optimizer."}
+{"command": "autopkgtest", "description": "Run tests on Debian packages."}
+{"command": "autorandr", "description": "Automatically change screen layout."}
+{"command": "avahi-browse", "description": "Displays services and hosts exposed on the local network via mDNS/DNS-SD.Avahi is compatible with Bonjour (Zeroconf) found in Apple devices."}
+{"command": "avahi-resolve", "description": "Translate between host names and IP Addresses."}
+{"command": "avifenc", "description": "AV1 Image File Format (AVIF) encoder."}
+{"command": "backlight_control", "description": "Control a linux machine's backlight using percentage values."}
+{"command": "balooctl", "description": "File indexing and searching framework for KDE Plasma."}
+{"command": "batcat", "description": "This command is an alias of bat."}
+{"command": "battop", "description": "An interactive viewer for the batteries installed in your notebook."}
+{"command": "bchunk", "description": "Convert CD images to a set of .iso and .cdr tracks."}
+{"command": "beep", "description": "A utility to beep the PC speaker."}
+{"command": "betterdiscordctl", "description": "A program for managing BetterDiscord on Linux."}
+{"command": "betterlockscreen", "description": "Simple, minimal lock screen."}
+{"command": "bitwise", "description": "Multi base interactive calculator supporting dynamic base conversion and bit manipulation."}
+{"command": "blastn", "description": "Nucleotide-Nucleotide BLAST."}
+{"command": "blastp", "description": "Protein-Protein BLAST."}
+{"command": "blight", "description": "Utility for changing the display brightness."}
+{"command": "blkdiscard", "description": "Discards device sectors on storage devices. Useful for SSDs."}
+{"command": "blkid", "description": "Lists all recognized partitions and their Universally Unique Identifier (UUID)."}
+{"command": "bluetoothctl", "description": "Manage Bluetooth devices."}
+{"command": "bluetoothd", "description": "Daemon to manage bluetooth devices."}
+{"command": "blurlock", "description": "A simple wrapper around the i3 screen locker i3lock, which blurs the screen.See also: i3lock."}
+{"command": "bmon", "description": "Monitor bandwidth and capture network related statistics."}
+{"command": "boltctl", "description": "Control thunderbolt devices."}
+{"command": "bootctl", "description": "Control EFI firmware boot settings and manage boot loader."}
+{"command": "bpftool", "description": "Tool for inspection and simple manipulation of eBPF programs and maps.Some subcommands such as bpftool prog have their own usage documentation."}
+{"command": "bpftrace", "description": "High-level tracing language for Linux eBPF."}
+{"command": "br", "description": "Navigate directory trees interactively.See also: broot."}
+{"command": "braa", "description": "Ultra-fast mass SNMP scanner allowing multiple hosts simultaneously."}
+{"command": "brctl", "description": "Ethernet bridge administration."}
+{"command": "brightnessctl", "description": "Utility for reading and controlling device brightness for GNU/Linux operating systems."}
+{"command": "broot", "description": "Navigate directory trees interactively.See also: br."}
+{"command": "bspc", "description": "A tool to control bspwm."}
+{"command": "bspwm", "description": "A tiling window manager based on binary space partitioning."}
+{"command": "btrbk", "description": "A tool for creating snapshots and remote backups of btrfs subvolumes."}
+{"command": "btrfs balance", "description": "Balance block groups on a btrfs filesystem."}
+{"command": "btrfs check", "description": "Check or repair a btrfs filesystem."}
+{"command": "btrfs device", "description": "Manage devices in a btrfs filesystem."}
+{"command": "btrfs filesystem", "description": "Manage btrfs filesystems."}
+{"command": "btrfs inspect-internal", "description": "Query internal information of a btrfs filesystem."}

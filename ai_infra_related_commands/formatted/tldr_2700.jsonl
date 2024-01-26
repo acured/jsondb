@@ -1,0 +1,150 @@
+{"command": "btrfs property", "description": "Get, set, or list properties for a given btrfs filesystem object (files, directories, subvolumes, filesystems, or devices)."}
+{"command": "btrfs rescue", "description": "Try to recover a damaged btrfs filesystem."}
+{"command": "btrfs restore", "description": "Try to salvage files from a damaged btrfs filesystem."}
+{"command": "btrfs scrub", "description": "Scrub btrfs filesystems to verify data integrity.It is recommended to run a scrub once a month."}
+{"command": "btrfs subvolume", "description": "Manage btrfs subvolumes and snapshots."}
+{"command": "btrfs version", "description": "Display btrfs-progs version."}
+{"command": "btrfs", "description": "A filesystem based on the copy-on-write (COW) principle for Linux.Some subcommands such as btrfs device have their own usage documentation."}
+{"command": "bully", "description": "Brute-force the WPS pin of a wireless access point.Necessary information must be gathered with airmon-ng and airodump-ng before using bully."}
+{"command": "burpsuite", "description": "A GUI based application mainly used in web application penetration testing."}
+{"command": "busctl", "description": "Introspect and monitor the D-Bus bus."}
+{"command": "caffeinate", "description": "Prevent desktop from sleeping."}
+{"command": "caffeine-indicator", "description": "Manually inhibit desktop idleness with a toggle."}
+{"command": "caffeine", "description": "Prevent desktop idleness in full-screen mode."}
+{"command": "caja", "description": "Manages files and directories in MATE desktop environment."}
+{"command": "cal", "description": "Prints calendar information, with the current day highlighted."}
+{"command": "calcurse", "description": "A text-based calendar and scheduling application for the command-line."}
+{"command": "cam", "description": "Frontend tool for libcamera."}
+{"command": "cat", "description": "Print and concatenate files."}
+{"command": "cc", "description": "This command is an alias of gcc."}
+{"command": "ceph", "description": "A unified storage system."}
+{"command": "certbot", "description": "The Let's Encrypt Agent for automatically obtaining and renewing TLS certificates.Successor to letsencrypt."}
+{"command": "cewl", "description": "URL spidering tool for making a cracking wordlist from web content."}
+{"command": "cfdisk", "description": "A program for managing partition tables and partitions on a hard disk using a curses UI."}
+{"command": "cgcreate", "description": "Create cgroups, used to limit, measure, and control resources used by processes.cgroups types can be memory, cpu, net_cls, etc."}
+{"command": "cgexec", "description": "Limit, measure, and control resources used by processes.Multiple cgroup types (aka controllers) exist, such as cpu, memory, etc."}
+{"command": "cgroups", "description": "Cgroups aka control groups is a Linux kernel feature for limiting, measuring, and controlling resource usage by processes.Cgroups however is not a command, but rather a collection of commands, see the relevant pages below."}
+{"command": "chage", "description": "Change user account and password expiry information."}
+{"command": "chattr", "description": "Change attributes of files or directories."}
+{"command": "chcon", "description": "Change SELinux security context of a file or files/directories."}
+{"command": "chcpu", "description": "Enable/disable a system's CPUs."}
+{"command": "check-language-support", "description": "Display a list of missing language packages on Ubuntu."}
+{"command": "check-support-status", "description": "Identify installed Debian packages for which support has had to be limited or prematurely ended."}
+{"command": "checkinstall", "description": "Track the local installation of a software package, and produce a binary package which can be used with a system's native package manager."}
+{"command": "checkupdates-aur", "description": "Tool to check pending updates from the Arch User Repository (AUR)."}
+{"command": "checkupdates", "description": "Tool to check pending updates in Arch Linux."}
+{"command": "chfn", "description": "Update finger info for a user."}
+{"command": "chkconfig", "description": "Manage the runlevel of services on CentOS 6."}
+{"command": "chntpw", "description": "A utility that can edit windows registry, reset user password, promote users to administrator by modifying the Windows SAM.Boot target machine with live cd like Kali Linux and run with elevated privileges."}
+{"command": "chpasswd", "description": "Change the passwords for multiple users by using stdin."}
+{"command": "chronyc", "description": "Query the Chrony NTP daemon."}
+{"command": "chrt", "description": "Manipulate the real-time attributes of a process."}
+{"command": "cloud-init", "description": "Command line tool for managing cloud instance initialization."}
+{"command": "cmus", "description": "Command-line Music Player.Use arrow keys to navigate, <enter/return> to select, and numbers 1-8 switch between different views."}
+{"command": "cockpit-bridge", "description": "Relay messages and commands between the front end and server in the cockpit suite."}
+{"command": "cockpit-desktop", "description": "Provides secure access to Cockpit pages in an already running session.It starts cockpit-ws and a web browser in an isolated network space and a cockpit-bridge in a running user session."}
+{"command": "cockpit-tls", "description": "TLS terminating HTTP proxy to encrypt traffic between a client and cockpit-ws."}
+{"command": "cockpit-ws", "description": "Communicate between the browser application and various configuration tools and services like cockpit-bridge."}
+{"command": "collectd", "description": "System statistics collection daemon."}
+{"command": "colrm", "description": "Remove columns from stdin."}
+{"command": "compopt", "description": "Print or change the completion options for a command."}
+{"command": "compose", "description": "An alias to a run-mailcap's action compose.Originally run-mailcap is used to mime-type/file."}
+{"command": "compsize", "description": "Calculate the compression ratio of a set of files on a btrfs filesystem.See also btrfs filesystem for recompressing a file by defragmenting it."}
+{"command": "conky", "description": "Light-weight system monitor for X."}
+{"command": "conntrack", "description": "Interact with the Netfilter connection tracking system.Search, list, inspect, modify, and delete connection flows."}
+{"command": "coproc", "description": "Bash builtin for creating interactive asynchronous subshells."}
+{"command": "coredumpctl", "description": "Retrieve and process saved core dumps and metadata."}
+{"command": "cp", "description": "Copy files and directories."}
+{"command": "cpufreq-aperf", "description": "Calculate the average CPU frequency over a time period.Requires root privileges."}
+{"command": "cpufreq-info", "description": "A tool to show CPU frequency information."}
+{"command": "cpufreq-set", "description": "A tool to modify CPU frequency settings.The frequency value should range between the output of command cpufreq-info -l."}
+{"command": "cpuid", "description": "Display detailed information about all CPUs."}
+{"command": "cpulimit", "description": "A tool to throttle the CPU usage of other processes."}
+{"command": "cpupower", "description": "Tools regarding CPU power and tuning options."}
+{"command": "create_ap", "description": "Create an AP (Access Point) at any channel."}
+{"command": "createrepo", "description": "Initializes an RPM repository in the given directory, including all XML and SQLite files."}
+{"command": "cryptcat", "description": "Cryptcat is netcat with encryption capabilities."}
+{"command": "cryptsetup", "description": "Manage plain dm-crypt and LUKS (Linux Unified Key Setup) encrypted volumes."}
+{"command": "csplit", "description": "Split a file into pieces.This generates files named \"xx00\", \"xx01\", and so on."}
+{"command": "ctr", "description": "Manage containerd containers and images."}
+{"command": "ctrlaltdel", "description": "Utility to control what happens when CTRL+ALT+DEL is pressed."}
+{"command": "curlie", "description": "A frontend to curl that adds the ease of use of httpie."}
+{"command": "cuyo", "description": "Tetris like game."}
+{"command": "daemon", "description": "Run processes into daemons."}
+{"command": "daemonize", "description": "Run a command (that does not daemonize itself) as a Unix daemon."}
+{"command": "datamash", "description": "Tool to perform basic numeric, textual and statistical operations on input textual data files."}
+{"command": "dbclient", "description": "Lightweight Dropbear Secure Shell client."}
+{"command": "dbus-daemon", "description": "The D-Bus message daemon, allowing multiple programs to exchange messages."}
+{"command": "dconf read", "description": "Read key values from dconf databases.See also: dconf."}
+{"command": "dconf reset", "description": "Reset key values in dconf databases.See also: dconf."}
+{"command": "dconf write", "description": "Write key values in dconf databases.See also: dconf."}
+{"command": "dconf", "description": "Manage dconf databases.See also: dconf-read, dconf-reset, dconf-write, gsettings."}
+{"command": "dd", "description": "Convert and copy a file."}
+{"command": "ddcutil", "description": "Control the settings of connected displays via DDC/CI.This command requires the kernel module i2c-dev to be loaded. See also: modprobe."}
+{"command": "ddrescue", "description": "Data recovery tool that reads data from damaged block devices."}
+{"command": "debchange", "description": "Tool for maintenance of the debian/changelog file in a Debian source package."}
+{"command": "debman", "description": "Read man pages from uninstalled packages."}
+{"command": "debootstrap", "description": "Create a basic Debian system."}
+{"command": "deborphan", "description": "Display orphan packages on operating systems using the APT package manager."}
+{"command": "debsecan", "description": "Debian Security Analyzer, a tool to list vulnerabilities on a particular Debian installation."}
+{"command": "debtap", "description": "Convert Debian packages into Arch Linux packages.See also: pacman-upgrade."}
+{"command": "debugfs", "description": "An interactive ext2/ext3/ext4 filesystem debugger."}
+{"command": "debuild", "description": "Tool to build a Debian package from source."}
+{"command": "deluser", "description": "Delete a user from the system."}
+{"command": "dex", "description": "DesktopEntry Execution is a program to generate and execute DesktopEntry files of the Application type."}
+{"command": "dget", "description": "Download Debian packages."}
+{"command": "diff3", "description": "Compare three files line by line."}
+{"command": "dir", "description": "List directory contents using one line per file, special characters are represented by backslash escape sequences.Works as ls -C --escape."}
+{"command": "dirb", "description": "Scan HTTP-based webservers for directories and files."}
+{"command": "dirbuster", "description": "Brute force directories and filenames on servers."}
+{"command": "disown", "description": "Allow sub-processes to live beyond the shell that they are attached to.See also the jobs command."}
+{"command": "distrobox-create", "description": "Create a Distrobox container. See also: tldr distrobox.The container created will be tightly integrated with the host, allowing sharing of the user's HOME directory, external storage, external USB devices, graphical apps (X11/Wayland), and audio."}
+{"command": "distrobox-enter", "description": "Enter a Distrobox container. See also: tldr distrobox.Default command executed is your SHELL, but you can specify different shells or entire commands to execute. If used inside a script, an application, or a service, you can use the --headless mode to disable the tty and interactivity."}
+{"command": "distrobox-export", "description": "Export app/service/binary from container to host OS. See also: tldr distrobox."}
+{"command": "distrobox-host-exec", "description": "Execute a command on the host from inside a Distrobox container. See also: tldr distrobox."}
+{"command": "distrobox-list", "description": "List all Distrobox containers. See also: tldr distrobox.Distrobox containers are listed separately from the rest of normal podman or Docker containers."}
+{"command": "distrobox-rm", "description": "Remove a Distrobox container. See also: tldr distrobox."}
+{"command": "distrobox-stop", "description": "Stop a Distrobox container. See also: tldr distrobox."}
+{"command": "distrobox-upgrade", "description": "Upgrade one or multiple Distrobox containers. See also: tldr distrobox."}
+{"command": "distrobox", "description": "Use any Linux distribution inside your terminal in a container. Install & use packages inside it while tightly integrating with the host OS, sharing storage (home directory) and hardware.Note: It uses Podman or Docker to create your containers."}
+{"command": "dkms", "description": "A framework that allows for dynamic building of kernel modules."}
+{"command": "dm-tool", "description": "A tool to communicate with the display manager."}
+{"command": "dmenu", "description": "Dynamic menu.Creates a menu from a text input with each item on a new line."}
+{"command": "dmesg", "description": "Write the kernel messages to stdout."}
+{"command": "dmidecode", "description": "Display the DMI (alternatively known as SMBIOS) table contents in a human-readable format.Requires root privileges."}
+{"command": "dnf", "description": "Package management utility for RHEL, Fedora, and CentOS (replaces yum).For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "dnsmap", "description": "The dnsmap command scans a domain for common subdomains e.g. smtp.domain.org."}
+{"command": "dnsrecon", "description": "DNS enumeration tool."}
+{"command": "dnstracer", "description": "The dnstracer command determines where a DNS gets its information from."}
+{"command": "do-release-upgrade", "description": "The Ubuntu release upgrader."}
+{"command": "dockerd", "description": "A persistent process to start and manage docker containers."}
+{"command": "dolphin", "description": "KDE's file manager to manage files and directories."}
+{"command": "dos2unix", "description": "Change DOS-style line endings to Unix-style.Replaces CRLF with LF."}
+{"command": "dphys-swapfile", "description": "Manage the swap file on Debian-based Linux systems."}
+{"command": "dpkg-deb", "description": "Pack, unpack and provide information about Debian archives."}
+{"command": "dpkg-query", "description": "A tool that shows information about installed packages."}
+{"command": "dpkg-reconfigure", "description": "Reconfigure an already installed package."}
+{"command": "dpkg", "description": "Debian package manager.Some subcommands such as dpkg deb have their own usage documentation.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "drawing", "description": "Free basic raster image editor in GNOME desktop environment."}
+{"command": "dropbearconvert", "description": "Convert between Dropbear and OpenSSH private key formats."}
+{"command": "dropbearkey", "description": "Generate SSH keys in Dropbear format."}
+{"command": "dstat", "description": "Versatile tool for generating system resource statistics."}
+{"command": "duc", "description": "Duc is a collection of tools for indexing, inspecting and visualizing disk usage. Duc maintains a database of accumulated sizes of directories of the file system, allowing queries this database, or create fancy graphs to show where data is."}
+{"command": "dumpe2fs", "description": "Print the super block and blocks group information for ext2/ext3/ext4 filesystems.Unmount the partition before running this command using umount device."}
+{"command": "dunstctl", "description": "Control command for dunst."}
+{"command": "dunstify", "description": "A notification tool that is an extension of notify-send, but has more features based around dunst.Accepts all options of notify-send."}
+{"command": "duperemove", "description": "Finds duplicate filesystem extents and optionally schedule them for deduplication.An extent is small part of a file inside the filesystem.On some filesystems one extent can be referenced multiple times, when parts of the content of the files are identical."}
+{"command": "e2freefrag", "description": "Print the free space fragmentation information for ext2/ext3/ext4 filesystems."}
+{"command": "e2fsck", "description": "Check a Linux ext2/ext3/ext4 filesystem. The partition should be unmounted."}
+{"command": "e2image", "description": "Save critical ext2/ext3/ext4 filesystem metadata to a file."}
+{"command": "e2label", "description": "Change the label on an ext2/ext3/ext4 filesystem."}
+{"command": "e2undo", "description": "Replay undo logs for an ext2/ext3/ext4 filesystem.This can be used to undo a failed operation by an e2fsprogs program."}
+{"command": "e4defrag", "description": "Defragment an ext4 filesystem."}
+{"command": "ebuild", "description": "A low level interface to the Gentoo Portage system."}
+{"command": "edit", "description": "An alias to a run-mailcap's action edit.Originally run-mailcap is used to process/edit mime-type/file."}
+{"command": "edquota", "description": "Edit quotas for a user or group. By default it operates on all filesystems with quotas.Quota information is stored permanently in the quota.user and quota.group files in the root of the filesystem."}
+{"command": "efibootmgr", "description": "Manipulate the UEFI Boot Manager."}
+{"command": "ego", "description": "Funtoo's official system personality management tool."}
+{"command": "einfo", "description": "Provides the number of records indexed in each field of a given database, the date of the last update of the database, and the available links from the database to other Entrez databases."}
+{"command": "eix", "description": "Utilities for searching local Gentoo packages.Update local package cache using eix-update."}
+{"command": "eject", "description": "Eject cds, floppy disks and tape drives."}

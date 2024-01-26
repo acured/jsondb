@@ -1,0 +1,150 @@
+{"command": "docker compose", "description": "Run and manage multi container docker applications."}
+{"command": "docker container", "description": "Manage Docker containers."}
+{"command": "docker cp", "description": "Copy files or directories between host and container filesystems."}
+{"command": "docker exec", "description": "Execute a command on an already running Docker container."}
+{"command": "docker image", "description": "Manage Docker images.See also: docker build, docker import, and docker pull."}
+{"command": "docker images", "description": "Manage Docker images."}
+{"command": "docker inspect", "description": "Return low-level information on Docker objects."}
+{"command": "docker load", "description": "Load Docker images from files or stdin."}
+{"command": "docker login", "description": "Log into a docker registry."}
+{"command": "docker logs", "description": "Print container logs."}
+{"command": "docker-machine", "description": "Create and manage machines running Docker."}
+{"command": "docker network", "description": "Create and manage docker networks."}
+{"command": "docker ps", "description": "List Docker containers."}
+{"command": "docker pull", "description": "Download Docker images from a registry."}
+{"command": "docker rmi", "description": "Remove one or more Docker images."}
+{"command": "docker run", "description": "Run a command in a new Docker container."}
+{"command": "docker save", "description": "Export one or more docker images to archive."}
+{"command": "docker secret", "description": "Manage Docker swarm secrets."}
+{"command": "docker service", "description": "Manage the services on a docker daemon."}
+{"command": "docker-slim", "description": "Analyze and optimize Docker images."}
+{"command": "docker start", "description": "Start one or more stopped containers."}
+{"command": "docker stats", "description": "Display a live stream of resource usage statistics for containers."}
+{"command": "docker swarm", "description": "A container orchestration tool."}
+{"command": "docker system", "description": "Manage Docker data and display system-wide information."}
+{"command": "docker tag", "description": "Assign tags to existing Docker images."}
+{"command": "docker update", "description": "Update configuration of Docker containers.This command is not supported for Windows containers."}
+{"command": "docker volume", "description": "Manage Docker volumes."}
+{"command": "docker", "description": "Manage Docker containers and images.Some subcommands such as docker run have their own usage documentation."}
+{"command": "docsify", "description": "Initialize and serve markdown documentation."}
+{"command": "doctl account", "description": "Retrieve information about Digital Ocean accounts."}
+{"command": "doctl apps", "description": "Used to manage digitalocean apps."}
+{"command": "doctl auth", "description": "Authenticate doctl with one or more API tokens."}
+{"command": "doctl balance", "description": "Show the balance of a Digital Ocean account."}
+{"command": "doctl compute droplet", "description": "List, create, and delete virtual machines which are called droplets."}
+{"command": "doctl kubernetes cluster", "description": "Manage Kubernetes clusters and view configuration options relating to clusters."}
+{"command": "doctl kubernetes options", "description": "Provides values available for use with doctl's Kubernetes commands."}
+{"command": "doctl serverless", "description": "Manage serverless functions."}
+{"command": "doctum", "description": "A PHP API documentation generator."}
+{"command": "dog", "description": "DNS lookup utility.It has colorful output, supports DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON."}
+{"command": "dokku", "description": "Docker powered mini-Heroku (PaaS).Easily deploy multiple apps to your server in different languages using a single git-push command."}
+{"command": "dolt add", "description": "Add the contents of a table to the list of Dolt staged tables."}
+{"command": "dolt blame", "description": "Displays commit information for each row of a Dolt table."}
+{"command": "dolt branch", "description": "Manage Dolt branches."}
+{"command": "dolt checkout", "description": "Checkout the work tree or tables to a specific branch or commit."}
+{"command": "dolt clone", "description": "Clone a repository into a new directory."}
+{"command": "dolt commit", "description": "Commit staged changes to tables."}
+{"command": "dolt config", "description": "Read and write local (per repository) and global (per user) Dolt configuration variables."}
+{"command": "dolt fetch", "description": "Download objects and refs from another repository."}
+{"command": "dolt init", "description": "Create an empty Dolt data repository."}
+{"command": "dolt merge", "description": "Join two or more development histories together."}
+{"command": "dolt sql", "description": "Run a SQL query. Multiple SQL statements must be separated by semicolons."}
+{"command": "dolt status", "description": "Display the status of the database session."}
+{"command": "dolt version", "description": "Displays the current dolt CLI version."}
+{"command": "dolt", "description": "An SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository.Some subcommands such as commit have their own usage documentation."}
+{"command": "dot", "description": "Render an image of a linear directed network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "dotnet build", "description": "Builds a .NET application and its dependencies."}
+{"command": "dotnet ef", "description": "Perform design-time development tasks for Entity Framework Core."}
+{"command": "dotnet publish", "description": "Publish a .NET application and its dependencies to a directory for deployment to a hosting system."}
+{"command": "dotnet restore", "description": "Restores the dependencies and tools of a .NET project."}
+{"command": "dotnet tool", "description": "Manage .NET tools and search published tools in NuGet."}
+{"command": "dotnet", "description": "Cross platform .NET command-line tools for .NET Core.Some subcommands such as dotnet build have their own usage documentation."}
+{"command": "doxygen", "description": "A documentation system for various programming languages."}
+{"command": "drill", "description": "Perform various DNS queries."}
+{"command": "drupal-check", "description": "Check Drupal PHP code for deprecations."}
+{"command": "drupal", "description": "Generate boilerplate code, interact with and debug Drupal projects.Some subcommands such as drupal check have their own usage documentation."}
+{"command": "drush", "description": "A command-line shell and scripting interface for Drupal."}
+{"command": "du", "description": "Disk usage: estimate and summarize file and directory space usage."}
+{"command": "dua", "description": "Dua (Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space of a given directory."}
+{"command": "duc", "description": "Duc is a collection of tools for indexing, inspecting and visualizing disk usage. Duc maintains a database of accumulated sizes of directories of the file system, allowing queries this database, or create fancy graphs to show where data is."}
+{"command": "duckdb", "description": "Command-line client for DuckDB, an in-process analytical SQL engine."}
+{"command": "duf", "description": "Disk Usage/Free Utility."}
+{"command": "dumpcap", "description": "A network traffic dump tool."}
+{"command": "dune", "description": "A build system for OCaml programs."}
+{"command": "duplicacy", "description": "A lock-free deduplication cloud backup tool."}
+{"command": "duplicity", "description": "Creates incremental, compressed, encrypted and versioned backups.Can also upload the backups to a variety of backend services."}
+{"command": "dust", "description": "Dust gives an instant overview of which directories are using disk space."}
+{"command": "dvc add", "description": "Add changed files to the index."}
+{"command": "dvc checkout", "description": "Checkout data files and directories from cache."}
+{"command": "dvc commit", "description": "Record changes to DVC-tracked files in the project."}
+{"command": "dvc config", "description": "Low level command to manage custom configuration options for dvc repositories.These configurations can be on project, local, global, or system level."}
+{"command": "dvc dag", "description": "Visualize the pipeline(s) defined in dvc.yaml."}
+{"command": "dvc destroy", "description": "Remove all DVC files and directories from a DVC project."}
+{"command": "dvc diff", "description": "Show changes in DVC tracked file and directories."}
+{"command": "dvc fetch", "description": "Download DVC tracked files and directories from a remote repository."}
+{"command": "dvc freeze", "description": "Freeze stages in the DVC pipeline.This prevents DVC from tracking changes in stage dependencies and re-execution until unfreeze.See also dvs unfreeze."}
+{"command": "dvc gc", "description": "Remove unused files and directories from the cache or remote storage."}
+{"command": "dvc init", "description": "Initialize a new local DVC repository."}
+{"command": "dvc unfreeze", "description": "Unfreeze stages in the DVC pipeline.This allows DVC to start tracking changes in stage dependencies again after they were frozen.See also dvc freeze."}
+{"command": "dvc", "description": "Data Version Control: like git for data.Some subcommands such as dvc commit have their own usage documentation."}
+{"command": "dwebp", "description": "dwebp decompresses WebP files into PNG, PAM, PPM or PGM images.Animated WebP files are not supported."}
+{"command": "ebook-convert", "description": "Can be used to convert e-books between common formats, e.g. PDF, EPUB and MOBI.Part of the Calibre e-book library tool."}
+{"command": "echo", "description": "Print given arguments."}
+{"command": "ect", "description": "Efficient Compression Tool.File optimizer written in C++. It supports .png, .jpg, .gzip and .zip files."}
+{"command": "ed", "description": "The original Unix text editor.See also: awk, sed."}
+{"command": "edgepaint", "description": "Colorize edges of a graph layout to clarify crossing edges.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "eget", "description": "Easily install prebuilt binaries from GitHub."}
+{"command": "egrep", "description": "Find patterns in files using extended regular expression (supports ?, +, {}, () and |)."}
+{"command": "eksctl", "description": "The official CLI for Amazon EKS."}
+{"command": "electron-packager", "description": "A tool used to build Electron app executables for Windows, Linux and macOS.Requires a valid package.json in the application directory."}
+{"command": "electrum", "description": "Ergonomic Bitcoin wallet and private key management."}
+{"command": "elinks", "description": "A text based browser similar to lynx."}
+{"command": "elixir", "description": "Elixir programming language interpreter."}
+{"command": "elm", "description": "Compile and run Elm source files."}
+{"command": "elvish", "description": "Expressive programming language and a versatile interactive shell.See also: nu."}
+{"command": "emacs", "description": "The extensible, customizable, self-documenting, real-time display editor.See also emacsclient."}
+{"command": "emacsclient", "description": "Open files in an existing Emacs server.See also emacs."}
+{"command": "ember", "description": "The Ember.js command-line utility.Used for creating and maintaining Ember.js applications."}
+{"command": "emulator", "description": "Manage Android emulators."}
+{"command": "enca", "description": "Detect and convert the encoding of text files."}
+{"command": "encfs", "description": "Mounts or creates encrypted virtual filesystems.See also fusermount, which can unmount filesystems mounted by this command."}
+{"command": "enscript", "description": "Convert text files to PostScript, HTML, RTF, ANSI, and overstrikes."}
+{"command": "entr", "description": "Run arbitrary commands when files change."}
+{"command": "env", "description": "Show the environment or run a program in a modified environment."}
+{"command": "envoy", "description": "A PHP-based task manager for Laravel remote servers."}
+{"command": "envsubst", "description": "Substitutes environment variables with their value in shell format strings.Variables to be replaced should be in either ${var} or $var format."}
+{"command": "eol", "description": "Show end-of-life dates (EoLs) for a number of products."}
+{"command": "eqn", "description": "Equation preprocessor for the groff (GNU Troff) document formatting system.See also troff and groff."}
+{"command": "erl", "description": "Run and manage programs in the Erlang programming language."}
+{"command": "ern", "description": "Electrode Native platform command-line client."}
+{"command": "errno", "description": "Look up errno names and descriptions."}
+{"command": "esbuild", "description": "JavaScript bundler and minifier built for speed."}
+{"command": "eslint", "description": "A pluggable linting utility for JavaScript and JSX."}
+{"command": "espanso", "description": "Cross-platform Text Expander written in Rust."}
+{"command": "espeak", "description": "Uses text-to-speech to speak through the default sound device."}
+{"command": "esptool.py", "description": "Bootloader utility for Espressif chips (e.g. ESP8266)."}
+{"command": "etcd", "description": "A distributed, reliable key-value store for the most critical data of a distributed system."}
+{"command": "etcdctl", "description": "Interact with etcd, a highly-available key-value pair store."}
+{"command": "eva", "description": "Simple calculator REPL, similar to bc, with syntax highlighting and persistent history."}
+{"command": "eval", "description": "Execute arguments as a single command in the current shell and return its result."}
+{"command": "evil-winrm", "description": "Windows Remote Management (WinRM) shell for pentesting.Once connected, we get a PowerShell prompt on the target host."}
+{"command": "ex", "description": "Command-line text editor.See also: vim."}
+{"command": "exa", "description": "A modern replacement for ls (List directory contents)."}
+{"command": "exec", "description": "Execute a command without creating a child process."}
+{"command": "exenv", "description": "A tool to easily install Elixir versions and manage application environments."}
+{"command": "exercism", "description": "Download and solve problems."}
+{"command": "exfatlabel", "description": "Get or set an exFAT filesystem label."}
+{"command": "exiftool", "description": "Read and write meta information in files."}
+{"command": "exit", "description": "Exit the shell."}
+{"command": "exiv2", "description": "Image metadata manipulation tool."}
+{"command": "expand", "description": "Convert tabs to spaces."}
+{"command": "export", "description": "Export shell variables to child processes."}
+{"command": "expose", "description": "An open source tunnel application for sharing websites."}
+{"command": "expr", "description": "Evaluate expressions and manipulate strings."}
+{"command": "exrex", "description": "Generate all/random matching strings for a regular expression.It can also simplify regular expressions."}
+{"command": "f3fix", "description": "Edit the partition table of a fake flash drive.See also: f3probe, f3write, f3read."}
+{"command": "f3probe", "description": "Probe a block device (e.g. a flash drive or a microSD card) for counterfeit flash memory.See also: f3read, f3write, f3fix."}
+{"command": "f3read", "description": "Validate .h2w files to test the real capacity of the drive.See also: f3write, f3probe, f3fix."}
+{"command": "f3write", "description": "Fill a drive out with .h2w files to test its real capacity.See also: f3read, f3probe, f3fix."}
+{"command": "factor", "description": "Prints the prime factorization of a number."}
+{"command": "fakedata", "description": "Generate fake data using a large variety of generators."}

@@ -1,0 +1,150 @@
+{"command": "keychain", "description": "Re-use ssh-agent and/or gpg-agent between logins."}
+{"command": "keytool", "description": "A certificate management utility included with Java."}
+{"command": "khal", "description": "A text-based calendar and scheduling application for the command-line."}
+{"command": "kill", "description": "Sends a signal to a process, usually related to stopping the process.All signals except for SIGKILL and SIGSTOP can be intercepted by the process to perform a clean exit."}
+{"command": "killall", "description": "Send kill signal to all instances of a process by name (must be exact name).All signals except SIGKILL and SIGSTOP can be intercepted by the process, allowing a clean exit."}
+{"command": "kind", "description": "Tool for running local Kubernetes clusters using Docker container \"nodes\".Designed for testing Kubernetes itself, but may be used for local development or continuous integration."}
+{"command": "kinit", "description": "Authenticate a principal with a Kerberos server to gain and cache a ticket.Note: A Kerberos principal can be either a user, service, or application."}
+{"command": "kismet", "description": "A wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework."}
+{"command": "kitex", "description": "Code generation tool provided by the Go RPC framework Kitex.Kitex accepts both thrift and protobuf IDLs, and supports generating a skeleton of a server side project."}
+{"command": "kitty", "description": "A fast, feature-rich, GPU based terminal emulator."}
+{"command": "kiwi-ng", "description": "An OS image and appliance builder."}
+{"command": "knife", "description": "Interact with a Chef server from a local Chef repo."}
+{"command": "kompose", "description": "A tool to convert docker-compose applications to Kubernetes."}
+{"command": "kool", "description": "Build software development environments."}
+{"command": "kops", "description": "Create, destroy, upgrade and maintain Kubernetes clusters."}
+{"command": "kosmorro", "description": "Compute the ephemerides and the events for a given date, at a given position on Earth."}
+{"command": "kotlin", "description": "Kotlin application launcher."}
+{"command": "kotlinc", "description": "Kotlin compiler."}
+{"command": "krunvm", "description": "Create MicroVMs from OCI images."}
+{"command": "ksh", "description": "Korn Shell, a Bash-compatible command-line interpreter.See also: histexpand."}
+{"command": "kube-capacity", "description": "Provide an overview of resource requests, limits, and utilization in a Kubernetes cluster.Combine the best parts of kubectl top and kubectl describe into a CLI focused on cluster resources."}
+{"command": "kube-fzf", "description": "Shell commands for command-line fuzzy searching of Kubernetes Pods.See also kubectl for related commands."}
+{"command": "kubeadm", "description": "Command-line interface for creating and managing Kubernetes clusters."}
+{"command": "kubectl delete", "description": "Delete Kubernetes resources."}
+{"command": "kubectl describe", "description": "Show details of Kubernetes objects and resources."}
+{"command": "kubectl edit", "description": "Edit Kubernetes resources."}
+{"command": "kubectl get", "description": "Get Kubernetes objects and resources."}
+{"command": "kubectl logs", "description": "Show logs for containers in a pod."}
+{"command": "kubectl rollout", "description": "Manage the rollout of a Kubernetes resource (deployments, daemonsets, and statefulsets)."}
+{"command": "kubectl run", "description": "Run pods in Kubernetes. Specifies pod generator to avoid deprecation error in some K8S versions."}
+{"command": "kubectl", "description": "Command-line interface for running commands against Kubernetes clusters.Some subcommands such as kubectl run have their own usage documentation."}
+{"command": "kubectx", "description": "Utility to manage and switch between kubectl contexts."}
+{"command": "kubens", "description": "Utility to switch between Kubernetes namespaces."}
+{"command": "kubetail", "description": "Utility to tail multiple Kubernetes pod logs at the same time."}
+{"command": "kustomize", "description": "Easily deploy resources for Kubernetes."}
+{"command": "lambo new", "description": "A super-powered laravel new for Laravel and Valet."}
+{"command": "lambo", "description": "A super-powered laravel new for Laravel and Valet.See also lambo new for additional command flags."}
+{"command": "lando", "description": "Local development environment and DevOps tool built on Docker."}
+{"command": "laravel-zero", "description": "A command-line installer for the Laravel Zero framework."}
+{"command": "laravel", "description": "A command-line installer for the Laravel framework."}
+{"command": "last", "description": "View the last logged in users."}
+{"command": "latex", "description": "Compile a DVI document from LaTeX source files."}
+{"command": "latexdiff", "description": "Determine differences between two LaTeX files."}
+{"command": "latexmk", "description": "Compile LaTeX source files into finished documents.Automatically does multiple runs when needed."}
+{"command": "laydown", "description": "Command line application to prepare for Daily Standup."}
+{"command": "lb", "description": "A tool for managing a blog contained in the current directory.Drafts and posts to operate on are selected interactively when running the commands."}
+{"command": "ld", "description": "Link object files together."}
+{"command": "ldapsearch", "description": "Query an LDAP directory."}
+{"command": "leave", "description": "Set a reminder for when it's time to leave.To remove reminders use kill $(pidof leave)."}
+{"command": "lebab", "description": "A JavaScript modernizer for transpiling code to ES6/ES7.Transformations must be provided for all examples."}
+{"command": "ledger", "description": "A powerful, double-entry accounting system."}
+{"command": "lein", "description": "Manage Clojure projects with declarative configuration."}
+{"command": "lerna", "description": "A tool for managing JavaScript projects with multiple packages."}
+{"command": "less", "description": "Open a file for interactive reading, allowing scrolling and search."}
+{"command": "lex", "description": "Lexical analyzer generator.Given the specification for a lexical analyzer, generates C code implementing it.NOTE: on most major OSes, this command is an alias for flex."}
+{"command": "license", "description": "Create license files for open-source projects."}
+{"command": "licensor", "description": "Write licenses to stdout."}
+{"command": "light-arionum-cli", "description": "The PHP light wallet for the Arionum cryptocurrency."}
+{"command": "lighthouse", "description": "Analyzes web applications and web pages, collecting modern performance metrics and insights on developer best practices."}
+{"command": "lilypond", "description": "Typeset music and/or produce MIDI from file."}
+{"command": "link", "description": "Create a hard link to an existing file.For more options, see the ln command."}
+{"command": "linkchecker", "description": "Command-line client to check HTML documents and websites for broken links."}
+{"command": "live-server", "description": "A simple development HTTP server with live reload capability."}
+{"command": "llc", "description": "Compiles LLVM Intermediate Representation or bitcode to target-specific assembly language."}
+{"command": "lldb", "description": "The LLVM Low-Level Debugger."}
+{"command": "lli", "description": "Directly execute programs from LLVM bitcode."}
+{"command": "llvd", "description": "Linkedin Learning Video Downloader."}
+{"command": "llvm-ar", "description": "This command is an alias of ar."}
+{"command": "llvm-as", "description": "LLVM Intermediate Representation (.ll) to Bitcode (.bc) assembler."}
+{"command": "llvm-bcanalyzer", "description": "LLVM Bitcode (.bc) analyzer."}
+{"command": "llvm-cat", "description": "Concatenate LLVM Bitcode (.bc) files."}
+{"command": "llvm-config", "description": "Get various configuration information needed to compile programs which use LLVM.Typically called from build systems, like in Makefiles or configure scripts."}
+{"command": "llvm-dis", "description": "Converts LLVM bitcode files into human-readable LLVM Intermediate Representation (IR)."}
+{"command": "llvm-g++", "description": "This command is an alias of clang++."}
+{"command": "llvm-gcc", "description": "This command is an alias of clang."}
+{"command": "llvm-nm", "description": "This command is an alias of nm."}
+{"command": "llvm-objdump", "description": "This command is an alias of objdump."}
+{"command": "llvm-strings", "description": "This command is an alias of strings."}
+{"command": "lmms", "description": "Free, open source, cross-platform digital audio workstation.Render a .mmp or .mmpz project file, dump a .mmpz as XML, or start the GUI."}
+{"command": "ln", "description": "Creates links to files and directories."}
+{"command": "loadtest", "description": "Run a load test on the selected HTTP or WebSockets URL."}
+{"command": "loc", "description": "Tool written in Rust that counts lines of code."}
+{"command": "local", "description": "Declare local variables and give them attributes."}
+{"command": "locust", "description": "Load-testing tool to determine number of concurrent users a system can handle."}
+{"command": "logger", "description": "Add messages to syslog (/var/log/syslog)."}
+{"command": "logname", "description": "Shows the user's login name."}
+{"command": "logstash", "description": "An Elasticsearch ETL (extract, transform and load) tool.Commonly used to load data from various sources (such as databases and log files) into Elasticsearch."}
+{"command": "lolcat", "description": "Put a rainbow in everything you cat to the console."}
+{"command": "lorem", "description": "Create more or less random lorem ipsum text."}
+{"command": "lp", "description": "Print files."}
+{"command": "lpass", "description": "Command-line interface for the LastPass password manager."}
+{"command": "lpinfo", "description": "List connected printers and installed drivers for the CUPS print server."}
+{"command": "lpr", "description": "CUPS tool for printing files.See also: lpstat and lpadmin."}
+{"command": "lpstat", "description": "Show status information about printers."}
+{"command": "ls", "description": "List directory contents."}
+{"command": "lsd", "description": "List directory contents.The next generation ls command, written in Rust."}
+{"command": "lsof", "description": "Lists open files and the corresponding processes.Note: Root privileges (or sudo) is required to list files opened by others."}
+{"command": "lspath", "description": "List the contents of the PATH environment variable, with optional paging."}
+{"command": "lt", "description": "Localtunnel exposes your localhost to the world for easy testing and sharing."}
+{"command": "lua", "description": "A powerful, light-weight embeddable programming language."}
+{"command": "luac", "description": "Lua bytecode compiler."}
+{"command": "luajit", "description": "A just-in-time compiler (JIT) for the Lua programming language.See also: lua."}
+{"command": "lualatex", "description": "An extended version of TeX using Lua to compile."}
+{"command": "lumen", "description": "A command-line installer for the Lumen micro-framework."}
+{"command": "lwp-request", "description": "Simple command-line HTTP client.Built with libwww-perl."}
+{"command": "lynx", "description": "Command-line web browser."}
+{"command": "lz4", "description": "Compress or decompress .lz4 files."}
+{"command": "lzcat", "description": "This command is an alias of xz --format=lzma --decompress --stdout."}
+{"command": "lzcmp", "description": "This command is an alias of xzcmp."}
+{"command": "lzegrep", "description": "This command is an alias of xzgrep --extended-regexp.See also: egrep."}
+{"command": "lzfgrep", "description": "This command is an alias of xzgrep --fixed-strings.See also: fgrep."}
+{"command": "lzgrep", "description": "This command is an alias of xzgrep."}
+{"command": "lzip", "description": "A lossless data compressor with a user interface similar to gzip or bzip2.Lzip uses a simplified form of the \"Lempel-Ziv-Markovchain-Algorithm\" (LZMA) stream format and provides 3-factor integrity checking to maximize interoperability and optimize safety."}
+{"command": "lzless", "description": "This command is an alias of xzless."}
+{"command": "lzma", "description": "This command is an alias of xz --format=lzma."}
+{"command": "lzmore", "description": "This command is an alias of xzmore."}
+{"command": "lzop", "description": "Compress or decompress files with LZO compression."}
+{"command": "m4", "description": "Macro processor."}
+{"command": "macchina", "description": "Display information about your computer."}
+{"command": "maestral", "description": "A lightweight Dropbox client for macOS and Linux."}
+{"command": "magento", "description": "Manage the Magento PHP framework."}
+{"command": "magick", "description": "Create, edit, compose, or convert between image formats.ImageMagick version 7+. See convert for versions 6 and below."}
+{"command": "mail", "description": "The command operates on the user's mailbox if no argument is given.To send an email the message body is built from stdin."}
+{"command": "mailx", "description": "Send and receive mail."}
+{"command": "make", "description": "Task runner for targets described in Makefile.Mostly used to control the compilation of an executable from source code."}
+{"command": "makebuildserver", "description": "Create an F-Droid build server virtual machine."}
+{"command": "makensis", "description": "Cross-platform compiler for NSIS installers.It compiles a NSIS script into a Windows installer executable."}
+{"command": "makepasswd", "description": "Generate and encrypt passwords."}
+{"command": "mamba repoquery", "description": "Efficiently query conda and mamba package repositories and package dependencies."}
+{"command": "mamba", "description": "Fast, cross-platform package manager, intended as a drop-in replacement for conda.Some subcommands such as mamba repoquery have their own usage documentation."}
+{"command": "man", "description": "Format and display manual pages."}
+{"command": "masscan", "description": "Network scanner for scanning as fast as possible.Best run with elevated privileges. Nmap compatibility run masscan --nmap to find out more."}
+{"command": "mat2", "description": "Anonymise various file formats by removing metadata."}
+{"command": "mate-dictionary", "description": "Look up words on dictionaries."}
+{"command": "matlab", "description": "Numerical computation environment by MathWorks."}
+{"command": "maza", "description": "Local ad blocker. Like Pi-hole but local and using the operating system."}
+{"command": "mc", "description": "Midnight Commander, a terminal based file manager.Navigate the directory structure using the arrow keys, the mouse or by typing the commands into the terminal."}
+{"command": "mcfly", "description": "A smart command history search and management tool.Replaces your default shell history search (ctrl-r) with an intelligent search engine providing context and relevance to the commands."}
+{"command": "mcs", "description": "Mono C# Compiler."}
+{"command": "md-to-clip", "description": "Converter from tldr-pages to Command Line Interface Pages.See also: clip-view."}
+{"command": "md5sum", "description": "Calculate MD5 cryptographic checksums."}
+{"command": "mdp", "description": "A command-line based tool to make presentations from Markdown files."}
+{"command": "mediainfo", "description": "Display metadata from video and audio files."}
+{"command": "meld", "description": "Graphical diffing and merging tool."}
+{"command": "mesg", "description": "Check or set a terminal's ability to receive messages from other users, usually from the write command.See also write."}
+{"command": "meshlabserver", "description": "Command-line interface for the MeshLab 3D mesh processing software."}
+{"command": "meson", "description": "SCons-like build system that uses Python as a front-end language and Ninja as a building backend."}
+{"command": "meteor", "description": "Full-stack JavaScript platform for building web applications."}
+{"command": "mg", "description": "A small, fast, and portable text editor based on emacs."}
+{"command": "mh_copyright", "description": "Adjust copyright headers for MATLAB or Octave code."}

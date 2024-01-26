@@ -1,0 +1,150 @@
+{"command": "git sync", "description": "Sync local branches with remote branches.Part of git-extras."}
+{"command": "git tag", "description": "Create, list, delete or verify tags.A tag is a static reference to a specific commit."}
+{"command": "git touch", "description": "Create new files and add them to the index.Part of git-extras."}
+{"command": "git undo", "description": "Undo recent commits.Part of git-extras."}
+{"command": "git unlock", "description": "Unlock a file in a Git repository so it can be modified by a commit.Part of git-extras. See also git lock."}
+{"command": "git unpack-file", "description": "Create a temporary file with a blob's contents."}
+{"command": "git update-index", "description": "Git command for manipulating the index."}
+{"command": "git update-ref", "description": "Git command for creating, updating, and deleting Git refs."}
+{"command": "git utimes", "description": "Change files modification time to their last commit date. Does not touch files that are in the working tree or index.Part of git-extras."}
+{"command": "git var", "description": "Prints a Git logical variable's value.See git config, which is preferred over git var."}
+{"command": "git verify-commit", "description": "Check for GPG verification of commits.If no commits are verified, nothing will be printed, regardless of options specified."}
+{"command": "git verify-tag", "description": "Check for GPG verification of tags.If a tag wasn't signed, an error will occur."}
+{"command": "git whatchanged", "description": "Show what has changed with recent commits or files.See also git log."}
+{"command": "git worktree", "description": "Manage multiple working trees attached to the same repository."}
+{"command": "git", "description": "Distributed version control system.Some subcommands such as commit, add, branch, checkout, push, etc. have their own usage documentation."}
+{"command": "github-label-sync", "description": "A command-line interface for synchronizing GitHub labels."}
+{"command": "gitk", "description": "A graphical Git repository browser."}
+{"command": "gitlab-ctl", "description": "Manage the GitLab omnibus."}
+{"command": "gitlab-runner", "description": "Manage GitLab runners."}
+{"command": "gitlab", "description": "Ruby wrapper for the GitLab API.Some subcommands such as gitlab ctl have their own usage documentation."}
+{"command": "gitlint", "description": "Git commit message linter checks your commit messages for style."}
+{"command": "gitmoji", "description": "An interactive command-line tool for using emojis on commits."}
+{"command": "gitsome", "description": "A terminal-based interface for GitHub, accessed via the gh command.It also provides menu-style autocomplete suggestions for git commands."}
+{"command": "gitwatch", "description": "Automatically commit file or directory changes to a git repository."}
+{"command": "gixy", "description": "Analyze nginx configuration files."}
+{"command": "glab alias", "description": "Manage GitLab CLI command aliases."}
+{"command": "glab auth", "description": "Authenticate with a GitLab host."}
+{"command": "glab issue", "description": "Manage GitLab issues."}
+{"command": "glab mr create", "description": "Manage GitLab merge requests."}
+{"command": "glab mr merge", "description": "Merge GitLab merge requests."}
+{"command": "glab mr", "description": "Manage GitLab merge requests.Some subcommands such as glab mr create have their own usage documentation."}
+{"command": "glab pipeline", "description": "List, view, and run GitLab CI/CD pipelines."}
+{"command": "glab release", "description": "Manage GitLab releases."}
+{"command": "glab repo", "description": "Work with GitLab repositories."}
+{"command": "glab", "description": "Work seamlessly with GitLab.Some subcommands such as glab config have their own usage documentation."}
+{"command": "glances", "description": "A cross-platform system monitoring tool."}
+{"command": "glib-compile-resources", "description": "Compiles resource files (e.g. images) into a binary resource bundle.These may be linked into GTK applications using the GResource API."}
+{"command": "glow", "description": "Render Markdown in the terminal."}
+{"command": "gml2gv", "description": "Convert a graph from gml to gv format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gmssl", "description": "GmSSL is a crypto toolkit supporting SM1, SM2, SM3, SM4, SM9, and ZUC/ZUC256."}
+{"command": "gnatmake", "description": "A low-level build tool for Ada programs (part of the GNAT toolchain)."}
+{"command": "gnatprep", "description": "Preprocessor for Ada source code files (part of the GNAT toolchain)."}
+{"command": "gnmic get", "description": "Get a snapshot of a gnmi network device operation data."}
+{"command": "gnmic set", "description": "Modify gnmi network device configuration."}
+{"command": "gnmic sub", "description": "This command is an alias of gnmic subscribe."}
+{"command": "gnmic subscribe", "description": "Subscribe to a gnmic network device state updates."}
+{"command": "gnmic", "description": "A gNMI command-line client.Manage gNMI network device configuration and view operational data."}
+{"command": "gnomon", "description": "Utility to annotate console logging statements with timestamps and find slow processes."}
+{"command": "gnucash-cli", "description": "A command-line version of GnuCash."}
+{"command": "gnucash", "description": "Personal and small-business financial-accounting software."}
+{"command": "gnuplot", "description": "A graph plotter that outputs in several formats."}
+{"command": "go bug", "description": "Report a bug."}
+{"command": "go build", "description": "Compile Go sources."}
+{"command": "go clean", "description": "Remove object files and cached files."}
+{"command": "go doc", "description": "Show documentation for a package or symbol."}
+{"command": "go env", "description": "Manage environment variables used by the Go toolchain."}
+{"command": "go fix", "description": "Update packages to use new APIs."}
+{"command": "go fmt", "description": "Format Go source files.Prints the filenames that are changed."}
+{"command": "go generate", "description": "Generate Go files by running commands within source files."}
+{"command": "go get", "description": "Add a dependency package, or download packages in legacy GOPATH mode."}
+{"command": "go install", "description": "Compile and install packages named by the import paths."}
+{"command": "go list", "description": "List packages or modules."}
+{"command": "go mod", "description": "Module maintenance."}
+{"command": "go run", "description": "Compile and run Go code without saving a binary."}
+{"command": "go test", "description": "Tests Go packages (files have to end with _test.go)."}
+{"command": "go tool", "description": "Run a specific Go tool or command.Execute a Go command as a stand-alone binary, typically for debugging."}
+{"command": "go version", "description": "Print Go version."}
+{"command": "go vet", "description": "Check Go source code and report suspicious constructs (e.g. lint your Go source files).Go vet returns a non-zero exit code if problems are found; returns a zero exit code if no problems are found."}
+{"command": "go", "description": "Tool for managing go source code.Some subcommands such as go build have their own usage documentation."}
+{"command": "gobuster", "description": "Brute-forces hidden paths on web servers and more."}
+{"command": "gocryptfs", "description": "Encrypted overlay filesystem written in Go."}
+{"command": "godoc", "description": "Show documentation for go packages."}
+{"command": "godot", "description": "An open source 2D and 3D game engine."}
+{"command": "gofmt", "description": "Tool for formatting Go source code."}
+{"command": "goimports", "description": "Updates Go import lines, adding missing ones and removing unreferenced ones."}
+{"command": "google-chrome", "description": "This command is an alias of chromium."}
+{"command": "googler", "description": "Search Google from command-line."}
+{"command": "gopass", "description": "Standard Unix Password Manager for Teams. Written in Go."}
+{"command": "gops", "description": "List and diagnose Go processes currently running on your system."}
+{"command": "goreload", "description": "Live reload utility for Go programs."}
+{"command": "gotty", "description": "Share your terminal as a web application."}
+{"command": "gource", "description": "Renders an animated tree diagram of Git, SVN, Mercurial and Bazaar repositories.It shows files and directories being created, modified or removed over time."}
+{"command": "gow", "description": "Watches Go files and restarts the app on changes."}
+{"command": "gox", "description": "A tool for cross-compiling Go programs."}
+{"command": "gpg-tui", "description": "Terminal user interface for GNU Public Guard."}
+{"command": "gpg-zip", "description": "Encrypt files and directories in an archive using GPG."}
+{"command": "gpg", "description": "GNU Privacy Guard.See gpg2 for GNU Privacy Guard 2. Most operating systems symlink gpg to gpg2."}
+{"command": "gpg2", "description": "GNU Privacy Guard 2.See gpg for GNU Privacy Guard 1."}
+{"command": "gpgconf", "description": "Modify .gnupg home directories."}
+{"command": "gpgv", "description": "Verify OpenPGP signatures."}
+{"command": "gprbuild", "description": "A high-level build tool for projects written in Ada and other languages (C/C++/Fortran)."}
+{"command": "gprof", "description": "Performance analysis tool for many programming languages.It profiles the function executions of a program."}
+{"command": "gradle", "description": "An open source build automation system."}
+{"command": "grafana-cli", "description": "A small executable that is bundled with Grafana serve."}
+{"command": "grap", "description": "A charting preprocessor for the groff (GNU Troff) document formatting system.See also pic and groff."}
+{"command": "graphml2gv", "description": "Convert a graph from graphml to gv format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "grep", "description": "Find patterns in files using regular expressions."}
+{"command": "grex", "description": "Generate regular expressions."}
+{"command": "grip", "description": "Preview GitHub-flavoured Markdown files locally."}
+{"command": "groff", "description": "GNU replacement for the troff and nroff typesetting utilities."}
+{"command": "groups", "description": "Print group memberships for a user.See also: groupadd, groupdel, groupmod."}
+{"command": "grpcurl", "description": "Interact with gRPC servers.Like curl, but for gRPC."}
+{"command": "grumphp", "description": "A PHP Composer plugin that enables source code quality checks."}
+{"command": "grunt", "description": "A JavaScript task runner for automating processes."}
+{"command": "gst-inspect-1.0", "description": "Print information on GStreamer plugins."}
+{"command": "gst-launch-1.0", "description": "Build and run a GStreamer pipeline."}
+{"command": "gsutil", "description": "Access Google Cloud Storage.You can use gsutil to do a wide range of bucket and object management tasks."}
+{"command": "gt", "description": "Create and manage sequences of dependent code changes (stacks) for Git and GitHub."}
+{"command": "gtop", "description": "System monitoring dashboard for the terminal."}
+{"command": "guacd", "description": "Apache Guacamole proxy daemon.Support loader for client plugins to interface between the Guacamole protocol and any arbitrary remote desktop protocol (e.g. RDP, VNC, Other)."}
+{"command": "guetzli", "description": "JPEG image compression utility."}
+{"command": "guile", "description": "Guile Scheme interpreter."}
+{"command": "gulp", "description": "JavaScript task runner and streaming build system.Tasks are defined within gulpfile.js at the project root."}
+{"command": "gum", "description": "A tool for making glamorous shell scripts."}
+{"command": "gunicorn", "description": "Python WSGI HTTP Server."}
+{"command": "gunzip", "description": "Extract file(s) from a gzip (.gz) archive."}
+{"command": "gv2gml", "description": "Convert a graph from gv to gml format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gv2gxl", "description": "Convert a graph from gv to gxl format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gvcolor", "description": "Colorize a ranked digraph with a range of colors.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "gvpack", "description": "Combine several graph layouts (that already have layout information).Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "gxl2gv", "description": "Convert a graph from gxl to gv format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gyb", "description": "Command line tool for locally backing up Gmail messages using Gmail's API over HTTPS."}
+{"command": "gzip", "description": "Compress/uncompress files with gzip compression (LZ77)."}
+{"command": "hadolint", "description": "Dockerfile linter."}
+{"command": "hakyll-init", "description": "Generate a new Hakyll sample blog."}
+{"command": "handbrakecli", "description": "Command-line interface to the HandBrake video conversion and DVD ripping tool."}
+{"command": "hangups", "description": "Third party command-line client for Google Hangouts."}
+{"command": "hardhat", "description": "A development environment for Ethereum software."}
+{"command": "hashcat", "description": "Fast and advanced password recovery tool."}
+{"command": "hashid", "description": "Python3 program that identifies data and password hashes."}
+{"command": "haxelib", "description": "Haxe Library Manager."}
+{"command": "hcloud", "description": "Show how to use the CLI for Hetzner Cloud."}
+{"command": "head", "description": "Output the first part of files."}
+{"command": "helix", "description": "Helix, A post-modern text editor, provides several modes for different kinds of text manipulation.Pressing i enters insert mode. <Esc> enters normal mode, which enables the use of Helix commands."}
+{"command": "hello", "description": "Print \"Hello, world!\", \"hello, world\" or a customizable text."}
+{"command": "helm install", "description": "Install a helm chart."}
+{"command": "helm", "description": "A package manager for Kubernetes.Some subcommands such as install have their own usage documentation."}
+{"command": "help2man", "description": "Produce simple man pages from an executable's --help and --version output."}
+{"command": "heroku", "description": "Create and manage Heroku apps."}
+{"command": "hexdump", "description": "An ASCII, decimal, hexadecimal, octal dump."}
+{"command": "hexo", "description": "A fast, simple & powerful blog framework."}
+{"command": "hexyl", "description": "A simple hex viewer for the terminal. Uses colored output to distinguish different categories of bytes."}
+{"command": "hg add", "description": "Adds specified files to the staging area for the next commit in Mercurial."}
+{"command": "hg branch", "description": "Create or show a branch name."}
+{"command": "hg clone", "description": "Create a copy of an existing repository in a new directory."}
+{"command": "hg commit", "description": "Commit all staged or specified files to the repository."}
+{"command": "hg init", "description": "Create a new repository in the specified directory."}
+{"command": "hg log", "description": "Display the revision history of the repository."}
+{"command": "hg pull", "description": "Pull changes from a specified repository to the local repository."}
+{"command": "hg push", "description": "Push changes from the local repository to a specified destination."}

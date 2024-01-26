@@ -1,0 +1,150 @@
+{"command": "nemo", "description": "Manages files and directories in Cinnamon desktop environment."}
+{"command": "nethogs", "description": "Monitor bandwidth usage per process."}
+{"command": "netselect-apt", "description": "Create a sources.list file for a Debian mirror with the lowest latency."}
+{"command": "netselect", "description": "Speed test for choosing a fast network server."}
+{"command": "networkctl", "description": "Query the status of network links.Manage the network configuration using systemd-networkd."}
+{"command": "newgrp", "description": "Switch primary group membership."}
+{"command": "nft", "description": "Allows configuration of tables, chains and rules provided by the Linux kernel firewall.Nftables replaces iptables."}
+{"command": "nitrogen", "description": "Desktop background browser and setter for X Window."}
+{"command": "nixos-container", "description": "Starts NixOS containers using Linux containers."}
+{"command": "nixos-option", "description": "Inspect a NixOS configuration."}
+{"command": "nixos-rebuild", "description": "Reconfigure a NixOS machine."}
+{"command": "nm-online", "description": "Ask NetworkManager whether the network is connected."}
+{"command": "nmcli agent", "description": "Run nmcli as a NetworkManager secret agent or polkit agent.This subcommand can also be called with nmcli a."}
+{"command": "nmcli connection", "description": "Manage connections with NetworkManager.This subcommand can also be called with nmcli c."}
+{"command": "nmcli device", "description": "Manage network interfaces and establish new Wi-Fi connections using NetworkManager.This subcommand can also be called with nmcli d."}
+{"command": "nmcli general", "description": "Manage general settings of NetworkManager.This subcommand can also be called with nmcli g."}
+{"command": "nmcli monitor", "description": "Monitor changes to the NetworkManager connection status.This subcommand can also be called with nmcli m."}
+{"command": "nmcli networking", "description": "Manage the networking status of NetworkManager.This subcommand can also be called with nmcli n."}
+{"command": "nmcli radio", "description": "Show the status of radio switches or enable/disable them using NetworkManager.This subcommand can also be called with nmcli r."}
+{"command": "nmcli", "description": "Manage the network configuration using NetworkManager."}
+{"command": "nmon", "description": "A system administrator, tuner, and benchmark tool."}
+{"command": "nmtui-connect", "description": "This command is an alias of nmtui connect."}
+{"command": "nmtui-edit", "description": "This command is an alias of nmtui edit."}
+{"command": "nmtui-hostname", "description": "This command is an alias of nmtui hostname."}
+{"command": "nmtui", "description": "Text user interface for controlling NetworkManager.Use arrow keys to navigate, enter to select an option."}
+{"command": "nologin", "description": "Alternative shell that prevents a user from logging in."}
+{"command": "nordvpn", "description": "Command-line interface for NordVPN."}
+{"command": "notify-send", "description": "Uses the current desktop environment's notification system to create a notification."}
+{"command": "nova", "description": "The OpenStack project that provides a way to provision compute instances."}
+{"command": "nsenter", "description": "Run a new command in a running process' namespace.Particularly useful for docker images or chroot jails."}
+{"command": "nsnake", "description": "Snake game in the terminal."}
+{"command": "nsxiv", "description": "Neo Simple X Image Viewer."}
+{"command": "ntfsfix", "description": "Fix common problems on an NTFS partition."}
+{"command": "ntpdate", "description": "Synchronize and set the date and time via NTP."}
+{"command": "ntpq", "description": "Query the Network Time Protocol (NTP) daemon."}
+{"command": "numactl", "description": "Control NUMA policy for processes or shared memory."}
+{"command": "numlockx", "description": "Control the number lock key status in X11 sessions."}
+{"command": "obabel", "description": "Translate chemistry-related data."}
+{"command": "oomctl", "description": "Analyze the state stored in systemd-oomd."}
+{"command": "openfortivpn", "description": "A VPN client, for Fortinet's proprietary PPP+SSL VPN solution."}
+{"command": "openrc", "description": "The OpenRC service manager.See also: rc-status, rc-update, and rc-service."}
+{"command": "openvpn3", "description": "OpenVPN 3 Linux client."}
+{"command": "opkg", "description": "A lightweight package manager used to install OpenWrt packages."}
+{"command": "ostree", "description": "Version control for binary files similar to git but optimized for operating system root filesystems.OSTree is the foundation for immutable image-based operating systems such as Fedora Silverblue, Fedora IoT or Fedora CoreOS."}
+{"command": "pacaur", "description": "A utility for Arch Linux to build and install packages from the Arch User Repository."}
+{"command": "paccache", "description": "A pacman cache cleaning utility."}
+{"command": "pacdiff", "description": "Maintenance utility for .pacorig, .pacnew and .pacsave files created by pacman."}
+{"command": "pacman --database", "description": "Operate on the Arch Linux package database.Modify certain attributes of the installed packages.See also: pacman."}
+{"command": "pacman --deptest", "description": "Check each dependency specified and return a list of dependencies that are not currently satisfied on the system.See also: pacman."}
+{"command": "pacman --files", "description": "Arch Linux package manager utility.See also: pacman, pkgfile."}
+{"command": "pacman-key", "description": "Wrapper script for GnuPG used to manage pacman's keyring.See also: pacman."}
+{"command": "pacman-mirrors", "description": "Generate a pacman mirrorlist for Manjaro Linux.Every run of pacman-mirrors requires you to synchronize your database and update your system using sudo pacman -Syyu.See also: pacman."}
+{"command": "pacman --query", "description": "Arch Linux package manager utility.See also: pacman."}
+{"command": "pacman --remove", "description": "Arch Linux package manager utility.See also: pacman."}
+{"command": "pacman --sync", "description": "Arch Linux package manager utility.See also: pacman."}
+{"command": "pacman --upgrade", "description": "Arch Linux package manager utility.See also: pacman."}
+{"command": "pacman", "description": "Arch Linux package manager utility.See also: pacman-database, pacman-deptest, pacman-files, pacman-key, pacman-mirrors, pacman-query, pacman-remove, pacman-sync, pacman-upgrade.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "pacman4console", "description": "A text-based console game inspired by the original Pacman."}
+{"command": "pacstall", "description": "An AUR package manager for Ubuntu."}
+{"command": "pacstrap", "description": "Arch Linux install script to install packages to the specified new root directory."}
+{"command": "pactree", "description": "Package dependency tree viewer for pacman."}
+{"command": "pamac", "description": "A command-line utility for the GUI package manager pamac.If you can't see the AUR packages, enable it in /etc/pamac.conf or in the GUI."}
+{"command": "parted", "description": "A partition manipulation program.See also: partprobe."}
+{"command": "partprobe", "description": "Notify the operating system kernel of partition table changes."}
+{"command": "partx", "description": "Parse a partition table and tell the kernel about it."}
+{"command": "paru", "description": "An AUR helper and pacman wrapper."}
+{"command": "pasuspender", "description": "Temporarily suspends pulseaudio while another command is running to allow access to alsa."}
+{"command": "pdbedit", "description": "Edit the Samba user database.For simple user add/remove/password, you can also use smbpasswd."}
+{"command": "pdftoppm", "description": "Convert PDF document pages to portable Pixmap (image formats)."}
+{"command": "pdfxup", "description": "N-up PDF pages.N-upping means putting multiple pages onto one page by scaling and rotating them into a grid."}
+{"command": "perf", "description": "Framework for Linux performance counter measurements."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "phar", "description": "Create, update or extract PHP archives (PHAR)."}
+{"command": "photorec", "description": "Deleted file recovery tool.It is recommended to write recovered files to a disk separate to the one being recovered from."}
+{"command": "phpdismod", "description": "Disable PHP extensions on Debian-based OSes."}
+{"command": "phpenmod", "description": "Enable PHP extensions on Debian-based OSes."}
+{"command": "phpquery", "description": "PHP extension manager for Debian-based OSes."}
+{"command": "physlock", "description": "Lock all consoles and virtual terminals."}
+{"command": "pi", "description": "Compute decimal Archimedes' constant Pi."}
+{"command": "picom", "description": "Standalone compositor for Xorg."}
+{"command": "pidof", "description": "Gets the ID of a process using its name."}
+{"command": "pidstat", "description": "Show system resource usage, including CPU, memory, IO etc."}
+{"command": "pihole", "description": "Terminal interface for the Pi-hole ad-blocking DNS server."}
+{"command": "pinout", "description": "View the current Raspberry Pi's GPIO pin-out information on the terminal with an ASCII diagram."}
+{"command": "pivpn", "description": "Easy security-hardened OpenVPN setup and manager.Originally designed for the Raspberry Pi, but works on other Linux devices too."}
+{"command": "pkcon", "description": "Command line client for PackageKit console program used by Discover and Gnome software and alternative to 'apt'."}
+{"command": "pkgadd", "description": "Add a package to a CRUX system."}
+{"command": "pkgctl auth", "description": "Authenticate pkgctl with services like GitLab."}
+{"command": "pkgctl diff", "description": "Compare package files using different modes.See also: pkgctl."}
+{"command": "pkgctl repo", "description": "Manage Git packaging repositories and their configuration for Arch Linux.See also: pkgctl."}
+{"command": "pkgctl", "description": "Unified command-line frontend for Arch Linux devtools."}
+{"command": "pkgfile", "description": "Tool for searching files from packages in the official repositories on arch-based systems.See also pacman files, describing the usage of pacman --files."}
+{"command": "pkginfo", "description": "Query the package database on a CRUX system."}
+{"command": "pkgmk", "description": "Make a binary package for use with pkgadd on CRUX."}
+{"command": "pkgrm", "description": "Remove a package from a CRUX system."}
+{"command": "playerctl", "description": "Control media players via MPRIS."}
+{"command": "pluma", "description": "Edit files in MATE desktop environment."}
+{"command": "pmap", "description": "Report memory map of a process or processes."}
+{"command": "pmount", "description": "Mount arbitrary hotpluggable devices as a normal user."}
+{"command": "pngcheck", "description": "Print detailed information about and verify PNG, JNG, and MNG files."}
+{"command": "po4a-gettextize", "description": "Convert a file to a PO file."}
+{"command": "po4a-translate", "description": "Convert a PO file back to documentation format.The provided PO file should be the translation of the POT file which was produced by po4a-gettextize."}
+{"command": "po4a-updatepo", "description": "Update the translation (in PO format) of a documentation."}
+{"command": "po4a", "description": "Update both PO files and translated documents."}
+{"command": "ports", "description": "Update/list the ports tree on a CRUX system."}
+{"command": "postfix", "description": "Postfix mail transfer agent (MTA) control program.See also dovecot, a mail delivery agent (MDA) that integrates with Postfix."}
+{"command": "poweroff", "description": "Power off the system."}
+{"command": "powerprofilesctl", "description": "Make power profiles handling available over D-Bus."}
+{"command": "powerstat", "description": "Measures the power consumption of a computer that has a battery power source or supports the RAPL interface."}
+{"command": "powertop", "description": "Optimize battery power usage."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "pridecat", "description": "Like cat but more colorful :)."}
+{"command": "print", "description": "An alias to a run-mailcap's action print.Originally run-mailcap is used to process mime-type/file."}
+{"command": "prlimit", "description": "Get or set process resource soft and hard limits.Given a process ID and one or more resources, prlimit tries to retrieve and/or modify the limits."}
+{"command": "pro", "description": "Manage Ubuntu Pro services."}
+{"command": "protontricks", "description": "A simple wrapper that runs Winetricks commands for Proton enabled games."}
+{"command": "protonvpn-cli connect", "description": "Connect to ProtonVPN."}
+{"command": "protonvpn-cli", "description": "Official ProtonVPN client.See also: protonvpn-cli-connect."}
+{"command": "prt-get", "description": "The CRUX package manager."}
+{"command": "pstree", "description": "A convenient tool to show running processes as a tree."}
+{"command": "ptx", "description": "Generate a permuted index of words from one or more text files."}
+{"command": "pulseaudio", "description": "The PulseAudio sound system daemon and manager."}
+{"command": "pvcreate", "description": "Initialize a disk or partition for use as a physical volume.See also: lvm."}
+{"command": "pvdisplay", "description": "Display information about Logical Volume Manager (LVM) physical volumes.See also: lvm."}
+{"command": "pvs", "description": "Display information about physical volumes.See also: lvm."}
+{"command": "pw-cat", "description": "Play and record audio files through pipewire."}
+{"command": "pw-cli", "description": "Manage a PipeWire instance's modules, objects, nodes, devices, links and much more."}
+{"command": "pw-link", "description": "Manage links between ports in PipeWire."}
+{"command": "pw-loopback", "description": "Tool for creating loopback devices in pipewire."}
+{"command": "pw-play", "description": "Play audio files through pipewire.Shorthand for pw-cat --playback."}
+{"command": "pw-record", "description": "Record audio files through pipewire.Shorthand for pw-cat --record."}
+{"command": "pwd", "description": "Print name of current/working directory."}
+{"command": "pwdx", "description": "Print working directory of a process."}
+{"command": "pyrit", "description": "WPA/WPA2 cracking tool using computational power."}
+{"command": "qjoypad", "description": "Translate input from gamepads or joysticks into keyboard strokes or mouse actions."}
+{"command": "qm cleanup", "description": "Clean up resources on QEMU/KVM Virtual Machine Manager like tap devices, VGPUs, etc.Called after a VM shuts down, crashes, etc."}
+{"command": "qm clone", "description": "Create a copy of virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm cloudinit dump", "description": "Generate cloudinit configuration files."}
+{"command": "qm config", "description": "Display the virtual machine configuration with pending configuration changes applied."}
+{"command": "qm create", "description": "Create or restore a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm delsnapshot", "description": "Delete virtual machine snapshots."}
+{"command": "qm destroy", "description": "Destroy a virtual machine in QEMU/KVM Virtual Machine Manager."}
+{"command": "qm disk import", "description": "Import a disk image to a virtual machine as an unused disk.The supported image formats for qemu-img, such as raw, qcow2, qed, vdi, vmdk, and vhd must be used."}
+{"command": "qm disk move", "description": "Move a virtual disk from one storage to another within the same Proxmox cluster."}
+{"command": "qm disk resize", "description": "Resize a virtual machine disk in the Proxmox Virtual Environment (PVE)."}
+{"command": "qm guest cmd", "description": "Execute QEMU Guest Agent commands."}
+{"command": "qm guest exec-status", "description": "Print the status of the given pid started by the guest-agent on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm guest exec", "description": "Execute a specific command via a guest agent."}
+{"command": "qm guest passwd", "description": "Set the password for a specific user on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm help", "description": "Display help for a specific command."}

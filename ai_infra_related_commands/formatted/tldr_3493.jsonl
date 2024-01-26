@@ -1,0 +1,43 @@
+{"command": "xclip", "description": "X11 clipboard manipulation tool, similar to xsel.Handles the X primary and secondary selections, plus the system clipboard (Ctrl + C/Ctrl + V)."}
+{"command": "xclock", "description": "Display the time in analog or digital form."}
+{"command": "xcowsay", "description": "Display a cute cow and message on your Linux desktop.The cow is displayed for either a fixed amount of time, or an amount of time calculated from the size of the text. Click on the cow to dismiss it immediately."}
+{"command": "xcursorgen", "description": "Create an X cursor file from a collection of PNGs.If --prefix is omitted, the image files must be located in the current working directory."}
+{"command": "xdg-desktop-menu", "description": "Command-line tool for installing or uninstalling desktop menu items."}
+{"command": "xdg-mime", "description": "Query and manage MIME types according to the XDG standard."}
+{"command": "xdg-open", "description": "Opens a file or URL in the user's preferred application."}
+{"command": "xdg-settings", "description": "Manage settings of XDG-compatible desktop environments."}
+{"command": "xdg-user-dirs-update", "description": "Update XDG user directories."}
+{"command": "xdotool", "description": "Command-line automation for X11."}
+{"command": "xed", "description": "Edit files in Cinnamon desktop environment."}
+{"command": "xeyes", "description": "Display eyes on the screen that follow the mouse cursor."}
+{"command": "xfce4-screenshooter", "description": "The XFCE4 screenshot tool."}
+{"command": "xfce4-terminal", "description": "The XFCE4 terminal emulator."}
+{"command": "xfreerdp", "description": "Free Remote Desktop Protocol implementation."}
+{"command": "xinput", "description": "List available input devices, query information about a device and change input device settings."}
+{"command": "xman", "description": "Manual page viewer for X Window System."}
+{"command": "xmodmap", "description": "Utility for modifying keymaps and pointer button mappings in X."}
+{"command": "xmount", "description": "Convert on-the-fly between multiple input and output hard disk image types with optional write cache support.Creates a virtual file system using FUSE (Filesystem in Userspace) that contains a virtual representation of the input image."}
+{"command": "xrandr", "description": "Set the size, orientation and/or reflection of the outputs for a screen."}
+{"command": "xrdb", "description": "X window server's resource database utility for Unix-like systems."}
+{"command": "xsel", "description": "X11 selection and clipboard manipulation tool."}
+{"command": "xset", "description": "User preference utility for X."}
+{"command": "xsetwacom", "description": "Command-line tool to change settings for Wacom pen tablets at runtime."}
+{"command": "xterm", "description": "A terminal emulator for the X Window System."}
+{"command": "xtrlock", "description": "Lock the X display until the user supplies their password."}
+{"command": "xvfb-run", "description": "Run a command in a virtual X server environment."}
+{"command": "xwinwrap", "description": "Run a player or a program as desktop background."}
+{"command": "xxhsum", "description": "Print or verify checksums using fast non-cryptographic algorithm xxHash."}
+{"command": "yaourt", "description": "Arch Linux utility for building packages from the Arch User Repository."}
+{"command": "yay", "description": "Yet Another Yogurt: A utility for Arch Linux to build and install packages from the Arch User Repository.Also see pacman."}
+{"command": "yetris", "description": "Clone of the game Tetris in the terminal."}
+{"command": "ytfzf", "description": "A POSIX script that helps you find and download videos and music."}
+{"command": "yum", "description": "Package management utility for RHEL, Fedora, and CentOS (for older versions).For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}
+{"command": "zathura", "description": "A vim-like modal document viewer, with an integrated command-line.Make sure a backend is installed (poppler, PostScript, or DjVu)."}
+{"command": "zbarcam", "description": "Scan and decode barcodes (and QR codes) from a video device."}
+{"command": "zenity", "description": "Display dialogs from the command-line/shell scripts.Return user-inserted values or 1 if error."}
+{"command": "zile", "description": "A lightweight clone of the Emacs text editor."}
+{"command": "zip", "description": "Package and compress (archive) files into zip file.See also: unzip."}
+{"command": "zipcloak", "description": "Encrypt the contents within a zipfile."}
+{"command": "zipsplit", "description": "Read a zipfile and split it into smaller zipfiles."}
+{"command": "zramctl", "description": "Setup and control zram devices.Use mkfs or mkswap to format zram devices to partitions."}
+{"command": "zypper", "description": "SUSE & openSUSE package management utility.For equivalent commands in other package managers, see https://wiki.archlinux.org/title/Pacman/Rosetta."}

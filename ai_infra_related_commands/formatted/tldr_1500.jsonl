@@ -1,0 +1,150 @@
+{"command": "mh_lint", "description": "Attempt to find bugs in MATLAB or Octave code.Please note that this tool is neither sound nor complete."}
+{"command": "mh_metric", "description": "Calculate and enforce code metrics for MATLAB or Octave code."}
+{"command": "micro", "description": "A modern and intuitive terminal-based text editor.You can use your keyboard, but also your mouse to navigate and/or select text."}
+{"command": "mid3v2", "description": "Edit audio tags.See also: id3v2."}
+{"command": "middleman", "description": "Static site generator written in Ruby."}
+{"command": "minetest", "description": "Multiplayer infinite-world block sandbox.See also minetestserver, the server-only binary."}
+{"command": "minetestserver", "description": "Multiplayer infinite-world block sandbox server.See also minetest, the graphical client."}
+{"command": "mingle", "description": "Bundle the edges of a graph layout.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "minifab", "description": "Utility tool that automates the setup and deployment of Hyperledger Fabric networks."}
+{"command": "minikube", "description": "Tool to run Kubernetes locally."}
+{"command": "miniserve", "description": "Simple HTTP file server."}
+{"command": "minisign", "description": "A dead simple tool to sign files and verify signatures."}
+{"command": "mitmdump", "description": "View, record, and programmatically transform HTTP traffic.The command-line counterpart to mitmproxy."}
+{"command": "mitmproxy", "description": "An interactive man-in-the-middle HTTP proxy.See also: mitmweb."}
+{"command": "mitmweb", "description": "A web-based interactive man-in-the-middle HTTP proxy.See also: mitmproxy."}
+{"command": "mix", "description": "Build tool that provides tasks for creating, compiling, and testing Elixir projects, managing its dependencies, and more."}
+{"command": "mixxx", "description": "Free and open source cross-platform DJ software."}
+{"command": "mk", "description": "Task runner for targets described in Mkfile.Mostly used to control the compilation of an executable from source code."}
+{"command": "mkcert", "description": "Tool for making locally-trusted development certificates."}
+{"command": "mkdir", "description": "Create directories and set their permissions."}
+{"command": "mkdocs", "description": "Project documentation with Markdown."}
+{"command": "mkfifo", "description": "Makes FIFOs (named pipes)."}
+{"command": "mkfile", "description": "Create one or more empty files of any size."}
+{"command": "mktemp", "description": "Create a temporary file or directory."}
+{"command": "mktorrent", "description": "Create BitTorrent metainfo files."}
+{"command": "mkvmerge", "description": "Merge and extract multimedia streams."}
+{"command": "mlr", "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON."}
+{"command": "mm2gv", "description": "Convert a graph from Matrix Market mm format to gv format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "mmdc", "description": "CLI for mermaid, a diagram generation tool with a domain-specific language.A mermaid definition file is taken as input and a SVG, PNG, or PDF file is generated as output."}
+{"command": "mmls", "description": "Display the partition layout of a volume system."}
+{"command": "mmv", "description": "Move and rename files in bulk."}
+{"command": "mocha", "description": "Execute Mocha JavaScript test runner."}
+{"command": "mods", "description": "AI for the command line, built for pipelines."}
+{"command": "moe", "description": "A WYSIWYG text editor for ISO-8859-15 encoded text."}
+{"command": "mogrify", "description": "Perform operations on multiple images, such as resizing, cropping, flipping, and adding effects.Changes are applied directly to the original file. Part of ImageMagick."}
+{"command": "molecule", "description": "Molecule helps testing Ansible roles."}
+{"command": "mongo", "description": "The legacy MongoDB shell. See mongosh for the new shell.Note: all connection options can be replaced with one string: mongodb://user@host:port/db_name?authSource=authdb_name."}
+{"command": "mongod", "description": "The MongoDB database server."}
+{"command": "mongodump", "description": "Utility to export the contents of a MongoDB instance."}
+{"command": "mongoexport", "description": "Produce exports of data stored in a MongoDB instance formatted as JSON or CSV."}
+{"command": "mongoimport", "description": "Imports content from a JSON, CSV, or TSV file into a MongoDB database."}
+{"command": "mongorestore", "description": "Utility to import a collection or database from a binary dump into a MongoDB instance."}
+{"command": "mongosh", "description": "A new shell for MongoDB, replacement for mongo.Note: all connection options can be replaced with one string: mongodb://user@host:port/db_name?authSource=authdb_name."}
+{"command": "monodevelop", "description": "Cross platform IDE for C#, F# and more."}
+{"command": "monodis", "description": "The Mono Common Intermediate Language (CIL) disassembler."}
+{"command": "monop", "description": "Finds and displays signatures of Types and methods inside .NET assemblies."}
+{"command": "montage", "description": "Tiles images into a customizable grid.Part of ImageMagick."}
+{"command": "more", "description": "Open a file for interactive reading, allowing scrolling and search."}
+{"command": "moro", "description": "Track work time."}
+{"command": "mosh", "description": "Mobile Shell (mosh) is a robust and responsive replacement for SSH.mosh persists connections to remote servers while roaming between networks."}
+{"command": "mosquitto", "description": "An MQTT broker."}
+{"command": "mosquitto_passwd", "description": "Manage password files for mosquitto.See also mosquitto, the MQTT server that this manages."}
+{"command": "mosquitto_pub", "description": "A simple MQTT version 3.1.1 client that will publish a single message on a topic and exit."}
+{"command": "mosquitto_sub", "description": "A simple MQTT version 3.1.1 client that will subscribe to topics and print the messages that it receives."}
+{"command": "most", "description": "Open one or several files for interactive reading, allowing scrolling and search."}
+{"command": "mount", "description": "Provides access to an entire filesystem in one directory."}
+{"command": "mozillavpn", "description": "A Virtual Private Network from the makers of Firefox."}
+{"command": "mp3info", "description": "Viewer/editor for ID3v1 (but not ID3v2) tags of MP3 files."}
+{"command": "mp4box", "description": "MPEG-4 Systems Toolbox - Muxes streams into MP4 container."}
+{"command": "mpc", "description": "Music Player Client.Program for controlling the Music Player Daemon (MPD)."}
+{"command": "mpd", "description": "Music Player Daemon."}
+{"command": "mpg321", "description": "High Performance MPEG 1.0/2.0/2.5 Audio Player for Layer 1, 2, and 3.Mpg321 was written (sometime in 1999) to be a drop-in replacement for the (previously) non-free mpg123 player."}
+{"command": "mplayer", "description": "Cross-platform multimedia player."}
+{"command": "mpv", "description": "A audio/video player based on MPlayer."}
+{"command": "mr", "description": "Manage all of your version control repositories at once."}
+{"command": "msbuild", "description": "The Microsoft build tool for Visual Studio project solutions."}
+{"command": "mscore", "description": "This command is an alias of musescore."}
+{"command": "msfvenom", "description": "Manually generate payloads for metasploit."}
+{"command": "msmtp", "description": "An SMTP client.It reads text from stdin and sends it to an SMTP server."}
+{"command": "mtr", "description": "Matt's Traceroute: combined traceroute and ping tool."}
+{"command": "mu", "description": "Index and search emails from a local Maildir."}
+{"command": "mullvad", "description": "CLI client for Mullvad VPN."}
+{"command": "multipass", "description": "Manage Ubuntu virtual machines using native hypervisors."}
+{"command": "multitail", "description": "Extension of tail."}
+{"command": "mumble", "description": "Low-latency, high quality voice chat software."}
+{"command": "mupdf", "description": "A lightweight PDF, XPS, and E-book viewer."}
+{"command": "musescore", "description": "MuseScore 3 sheet music editor."}
+{"command": "musl-gcc", "description": "A wrapper around gcc that automatically sets options for linking against musl libc.All options specified are passed directly to gcc."}
+{"command": "mutagen", "description": "Real-time file synchronization and network forwarding tool."}
+{"command": "mutool", "description": "Convert PDF files, query information and extract data."}
+{"command": "mutt", "description": "Command-line email client."}
+{"command": "mv", "description": "Move or rename files and directories."}
+{"command": "mvn", "description": "Apache Maven.Tool for building and managing Java-based projects."}
+{"command": "mycli", "description": "A command-line client for MySQL that can do auto-completion and syntax highlighting."}
+{"command": "mysql", "description": "The MySQL command-line tool."}
+{"command": "mysqlbinlog", "description": "Utility for processing MySQL binary log files."}
+{"command": "mysqlcheck", "description": "Check and repair MySQL tables."}
+{"command": "mysqld", "description": "Start the MySQL database server."}
+{"command": "mysqldump", "description": "Backups MySQL databases.See also mysql for restoring databases."}
+{"command": "mytop", "description": "Display MySQL server performance info like top."}
+{"command": "n", "description": "Tool to manage multiple node versions."}
+{"command": "nano", "description": "Command-line text editor. An enhanced Pico clone."}
+{"command": "nasm", "description": "The Netwide Assembler, a portable 80x86 assembler."}
+{"command": "nativefier", "description": "Command-line tool to create a desktop app for any web site with minimal configuration."}
+{"command": "nbtscan", "description": "Scan networks for NetBIOS name information."}
+{"command": "nc", "description": "A versatile utility for redirecting IO into a network stream."}
+{"command": "ncc", "description": "Compile a Node.js application into a single file.Supports TypeScript, binary addons and dynamic requires."}
+{"command": "ncdu", "description": "Disk usage analyzer with an ncurses interface."}
+{"command": "ncmpcpp", "description": "A command-line music player client for the Music Player Daemon."}
+{"command": "ncu", "description": "Find newer versions of package dependencies and check outdated npm packages locally or globally.ncu only updates dependency versions in package.json. To install the new versions, run npm install afterwards."}
+{"command": "neato", "description": "Render an image of a linear undirected network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "ned", "description": "Is like grep but with powerful replace capabilities.Unlike sed, as it isn't restricted to line oriented editing."}
+{"command": "neofetch", "description": "Display information about your operating system, software and hardware."}
+{"command": "neomutt", "description": "NeoMutt command-line email client."}
+{"command": "nest", "description": "Command-line tool to initialize, develop, and maintain Nest applications."}
+{"command": "netcat", "description": "This command is an alias of nc."}
+{"command": "netlify", "description": "Deploy sites and configure continuous deployment to the Netlify platform."}
+{"command": "netstat", "description": "Displays network-related information such as open connections, open socket ports, etc."}
+{"command": "newman", "description": "Collection runner for Postman."}
+{"command": "newsboat", "description": "An RSS/Atom feed reader for text terminals."}
+{"command": "next", "description": "React framework that uses server-side rendering for building optimized web applications."}
+{"command": "nextclade", "description": "Bioinformatics tool for virus genome alignment, clade assignment and qc checks."}
+{"command": "nextflow", "description": "Tool for running computational pipelines. Mostly used for bioinformatics workflows."}
+{"command": "nf-core", "description": "The nf-core framework tools, to create, check and develop best-practice guidelines for Nextflow."}
+{"command": "ng", "description": "Create and manage Angular applications."}
+{"command": "nginx", "description": "Nginx web server."}
+{"command": "ngrep", "description": "Filter network traffic packets using regular expressions."}
+{"command": "ngrok", "description": "Reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service."}
+{"command": "ngs", "description": "Scripting language created specifically for Ops."}
+{"command": "nice", "description": "Execute a program with a custom scheduling priority (niceness).Niceness values range from -20 (the highest priority) to 19 (the lowest)."}
+{"command": "nikto", "description": "Web server scanner which performs tests against web servers for multiple items."}
+{"command": "nim", "description": "The Nim compiler.Processes, compiles and links Nim language source files."}
+{"command": "nimble", "description": "Package manager for the Nim programming language.Manage Nim projects and their dependencies."}
+{"command": "ninja", "description": "A Build system designed to be fast."}
+{"command": "nix-build", "description": "Build a Nix expression.See also: tldr nix3 build."}
+{"command": "nix-collect-garbage", "description": "Delete unused and unreachable nix store paths.Generations can be listed using nix-env --list-generations."}
+{"command": "nix-env", "description": "Manipulate or query Nix user environments."}
+{"command": "nix-shell", "description": "Start an interactive shell based on a Nix expression.See also: tldr nix3 shell."}
+{"command": "nix-store", "description": "Manipulate or query the Nix store.See also: tldr nix3 store."}
+{"command": "nix", "description": "A powerful package manager that makes package management reliable, reproducible, and declarative.nix is experimental and requires enabling experimental features. For a classic, stable interface, see tldr nix classic.Some nix subcommands such as build, develop, flake, registry, profile, search, repl, store, edit, why-depends, etc. have their own usage documentation."}
+{"command": "nix build", "description": "Build a Nix expression.See also: tldr nix3 build."}
+{"command": "nix shell", "description": "Start an interactive shell based on a Nix expression.See also: tldr nix3 shell."}
+{"command": "nix store", "description": "Manipulate or query the Nix store.See also: tldr nix3 store."}
+{"command": "nkf", "description": "Network kanji filter.Converts kanji code from one encoding to another."}
+{"command": "nl", "description": "A utility for numbering lines, either from a file, or from stdin."}
+{"command": "nload", "description": "A tool for visualizing network usage in the terminal."}
+{"command": "nm-classic", "description": "This command is an alias of nm."}
+{"command": "nm", "description": "List symbol names in object files."}
+{"command": "nmap", "description": "Network exploration tool and security/port scanner.Some features only activate when Nmap is run with root privileges."}
+{"command": "nmblookup", "description": "Discover SMB shares."}
+{"command": "nms", "description": "Command-line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers from stdin."}
+{"command": "node", "description": "Server-side JavaScript platform (Node.js)."}
+{"command": "nodemon", "description": "Watch files and automatically restart a node application when changes are detected."}
+{"command": "nodenv", "description": "A tool to manage Node.js versions."}
+{"command": "nohup", "description": "Allows for a process to live when the terminal gets killed."}
+{"command": "nokogiri", "description": "An HTML, XML, SAX and Reader parser."}
+{"command": "nomad", "description": "Distributed, highly available, datacenter-aware scheduler."}
+{"command": "nop", "description": "Check validity and pretty-print graphs in canonical format.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "noti", "description": "Monitor a process and trigger a banner notification."}
+{"command": "notmuch", "description": "Command-line based program for indexing, searching, reading, and tagging large collections of email messages."}
