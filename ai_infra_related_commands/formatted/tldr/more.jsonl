@@ -1,0 +1,25 @@
+{"command": "k3d", "description": "A wrapper to easily create k3s clusters inside Docker."}
+{"command": "k6", "description": "Open source load testing tool and SaaS for engineering teams."}
+{"command": "k8s-unused-secret-detector", "description": "Command-line interface tool for detecting unused Kubernetes secrets."}
+{"command": "k8sec", "description": "Command-line interface tool to manage Kubernetes secrets."}
+{"command": "kafkacat", "description": "This command is an alias of kcat."}
+{"command": "kaggle", "description": "Official CLI for Kaggle implemented in Python 3."}
+{"command": "kahlan", "description": "A unit and Behaviour Driven Development test framework for PHP."}
+{"command": "kak", "description": "Kakoune is a mode-based code editor implementing the \"multiple selections\" paradigm.Data can be selected and simultaneously edited in different locations, using multiple selections; users can also connect to the same session for collaborative editing."}
+{"command": "kate", "description": "KDE's advanced text editor."}
+{"command": "kcadm.sh", "description": "Perform administration tasks."}
+{"command": "kcat", "description": "Apache Kafka producer and consumer tool."}
+{"command": "kdeconnect-cli", "description": "KDE's Connect CLI."}
+{"command": "kdenlive", "description": "KDE's non-linear video editor."}
+{"command": "kdig", "description": "Advanced DNS lookup utility."}
+{"command": "keep-header", "description": "Keep first line untouched by a command, passing it directly to stdout."}
+{"command": "keepass2", "description": "A light-weight password manager."}
+{"command": "keepassxc-cli", "description": "Command-line interface for KeepassXC."}
+{"command": "keybase", "description": "Key directory that maps social media identities to encryption keys in a publicly auditable manner."}
+{"command": "d8", "description": "Developer shell for the V8 JavaScript engine."}
+{"command": "f3fix", "description": "Edit the partition table of a fake flash drive.See also: f3probe, f3write, f3read."}
+{"command": "f3probe", "description": "Probe a block device (e.g. a flash drive or a microSD card) for counterfeit flash memory.See also: f3read, f3write, f3fix."}
+{"command": "f3read", "description": "Validate .h2w files to test the real capacity of the drive.See also: f3write, f3probe, f3fix."}
+{"command": "f3write", "description": "Fill a drive out with .h2w files to test its real capacity.See also: f3read, f3probe, f3fix."}
+{"command": "factor", "description": "Prints the prime factorization of a number."}
+{"command": "fakedata", "description": "Generate fake data using a large variety of generators."}
