@@ -1,0 +1,100 @@
+{"command": "daps", "description": "An open source program for transforming DocBook XML into output formats such as HTML or PDF."}
+{"command": "darkhttpd", "description": "Darkhttpd web server."}
+{"command": "dart", "description": "The tool for managing Dart projects."}
+{"command": "dash", "description": "Debian Almquist Shell, a modern, POSIX-compliant implementation of sh (not Bash-compatible)."}
+{"command": "datashader_cli", "description": "Quick visualization of large datasets using CLI based on datashader."}
+{"command": "date", "description": "Set or display the system date."}
+{"command": "dc", "description": "An arbitrary precision calculator. Uses reverse polish notation (RPN).See also: bc."}
+{"command": "dcfldd", "description": "Enhanced version of dd for forensics and security."}
+{"command": "dcg", "description": "Drupal code generator."}
+{"command": "dcode", "description": "Recursively detect and decode strings, supporting hex, decimal, binary, base64, URL, FromChar encodings, Caesar ciphers, and MD5, SHA1, and SHA2 hashes.Warning: uses 3rd-party web services for MD5, SHA1 and SHA2 hash lookups. For sensitive data, use -s to avoid these services."}
+{"command": "dd", "description": "Convert and copy a file."}
+{"command": "ddev", "description": "Container based local development tool for PHP environments."}
+{"command": "deb-get", "description": "apt-get functionality for .deb packages published in third party repositories or via direct download.Works with Linux distributions which use apt-get."}
+{"command": "decaffeinate", "description": "Move your CoffeeScript source to modern JavaScript."}
+{"command": "declare", "description": "Declare variables and give them attributes."}
+{"command": "deemix", "description": "A barebone deezer downloader library built from the ashes of Deezloader Remix.It can be used as a standalone CLI app or implemented in a UI using the API."}
+{"command": "delta", "description": "A viewer for Git and diff output."}
+{"command": "deluge-console", "description": "An interactive interface for the Deluge BitTorrent client."}
+{"command": "deluge", "description": "A command-line BitTorrent client."}
+{"command": "deluged", "description": "A daemon process for the Deluge BitTorrent client."}
+{"command": "deno", "description": "A secure runtime for JavaScript and TypeScript."}
+{"command": "dep", "description": "Deploy PHP applications.Note: The Go command dep with the same name is deprecated and archived."}
+{"command": "detox", "description": "Renames files to make them easier to work with.It removes spaces and other such annoyances like duplicate underline characters."}
+{"command": "dexdump", "description": "Display information about Android DEX files."}
+{"command": "dexter", "description": "Tool for authenticating the kubectl users with OpenId Connect."}
+{"command": "df", "description": "Display an overview of the filesystem disk space usage."}
+{"command": "dfc", "description": "Gives an overview of the filesystem disk space usage with colors and graphs."}
+{"command": "dhclient", "description": "DHCP client."}
+{"command": "dhcpig", "description": "Initiates an advanced DHCP exhaustion attack and stress test.DHCPig needs to be run with root privileges."}
+{"command": "dhcpwn", "description": "Test DHCP IP exhaustion attacks and sniff local DHCP traffic."}
+{"command": "dict", "description": "Command line dictionary using the DICT protocol."}
+{"command": "diff-pdf", "description": "Tool for comparing two PDFs."}
+{"command": "diff", "description": "Compare files and directories."}
+{"command": "diffoscope", "description": "Compare files, archives, and directories."}
+{"command": "diffstat", "description": "Create a histogram from the output of the diff command."}
+{"command": "dig", "description": "DNS lookup utility."}
+{"command": "dillo", "description": "A lightweight web browser intended for slow computers."}
+{"command": "dircolors", "description": "Output commands to set the LS_COLOR environment variable and style ls, dir, etc."}
+{"command": "direnv", "description": "Shell extension to load and unload environment variables depending on the current directory."}
+{"command": "dirname", "description": "Calculates the parent directory of a given file or directory path."}
+{"command": "dirs", "description": "Displays or manipulates the directory stack.The directory stack is a list of recently visited directories that can be manipulated with the pushd and popd commands."}
+{"command": "dirsearch", "description": "Web path scanner."}
+{"command": "diskonaut", "description": "Terminal disk space navigator, written in Rust."}
+{"command": "distccd", "description": "Server daemon for the distcc distributed compiler."}
+{"command": "dive", "description": "A tool for exploring a Docker image, layer contents, and discovering ways to shrink it."}
+{"command": "django-admin", "description": "Django\u2019s utility for administrative tasks."}
+{"command": "dlv", "description": "Debugger for the Go programming language."}
+{"command": "doas", "description": "Executes a command as another user."}
+{"command": "docker build", "description": "Build an image from a Dockerfile."}
+{"command": "docker commit", "description": "Create a new image from a container\u2019s changes."}
+{"command": "docker compose", "description": "Run and manage multi container docker applications."}
+{"command": "docker container", "description": "Manage Docker containers."}
+{"command": "docker cp", "description": "Copy files or directories between host and container filesystems."}
+{"command": "docker exec", "description": "Execute a command on an already running Docker container."}
+{"command": "docker image", "description": "Manage Docker images.See also: docker build, docker import, and docker pull."}
+{"command": "docker images", "description": "Manage Docker images."}
+{"command": "docker inspect", "description": "Return low-level information on Docker objects."}
+{"command": "docker load", "description": "Load Docker images from files or stdin."}
+{"command": "docker login", "description": "Log into a docker registry."}
+{"command": "docker logs", "description": "Print container logs."}
+{"command": "docker-machine", "description": "Create and manage machines running Docker."}
+{"command": "docker network", "description": "Create and manage docker networks."}
+{"command": "docker ps", "description": "List Docker containers."}
+{"command": "docker pull", "description": "Download Docker images from a registry."}
+{"command": "docker rmi", "description": "Remove one or more Docker images."}
+{"command": "docker run", "description": "Run a command in a new Docker container."}
+{"command": "docker save", "description": "Export one or more docker images to archive."}
+{"command": "docker secret", "description": "Manage Docker swarm secrets."}
+{"command": "docker service", "description": "Manage the services on a docker daemon."}
+{"command": "docker-slim", "description": "Analyze and optimize Docker images."}
+{"command": "docker start", "description": "Start one or more stopped containers."}
+{"command": "docker stats", "description": "Display a live stream of resource usage statistics for containers."}
+{"command": "docker swarm", "description": "A container orchestration tool."}
+{"command": "docker system", "description": "Manage Docker data and display system-wide information."}
+{"command": "docker tag", "description": "Assign tags to existing Docker images."}
+{"command": "docker update", "description": "Update configuration of Docker containers.This command is not supported for Windows containers."}
+{"command": "docker volume", "description": "Manage Docker volumes."}
+{"command": "docker", "description": "Manage Docker containers and images.Some subcommands such as docker run have their own usage documentation."}
+{"command": "docsify", "description": "Initialize and serve markdown documentation."}
+{"command": "doctl account", "description": "Retrieve information about Digital Ocean accounts."}
+{"command": "doctl apps", "description": "Used to manage digitalocean apps."}
+{"command": "doctl auth", "description": "Authenticate doctl with one or more API tokens."}
+{"command": "doctl balance", "description": "Show the balance of a Digital Ocean account."}
+{"command": "doctl compute droplet", "description": "List, create, and delete virtual machines which are called droplets."}
+{"command": "doctl kubernetes cluster", "description": "Manage Kubernetes clusters and view configuration options relating to clusters."}
+{"command": "doctl kubernetes options", "description": "Provides values available for use with doctl's Kubernetes commands."}
+{"command": "doctl serverless", "description": "Manage serverless functions."}
+{"command": "doctum", "description": "A PHP API documentation generator."}
+{"command": "dog", "description": "DNS lookup utility.It has colorful output, supports DNS-over-TLS and DNS-over-HTTPS protocols, and can emit JSON."}
+{"command": "dokku", "description": "Docker powered mini-Heroku (PaaS).Easily deploy multiple apps to your server in different languages using a single git-push command."}
+{"command": "dolt add", "description": "Add the contents of a table to the list of Dolt staged tables."}
+{"command": "dolt blame", "description": "Displays commit information for each row of a Dolt table."}
+{"command": "dolt branch", "description": "Manage Dolt branches."}
+{"command": "dolt checkout", "description": "Checkout the work tree or tables to a specific branch or commit."}
+{"command": "dolt clone", "description": "Clone a repository into a new directory."}
+{"command": "dolt commit", "description": "Commit staged changes to tables."}
+{"command": "dolt config", "description": "Read and write local (per repository) and global (per user) Dolt configuration variables."}
+{"command": "dolt fetch", "description": "Download objects and refs from another repository."}
+{"command": "dolt init", "description": "Create an empty Dolt data repository."}
+{"command": "dolt merge", "description": "Join two or more development histories together."}

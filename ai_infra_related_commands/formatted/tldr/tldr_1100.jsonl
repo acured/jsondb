@@ -1,0 +1,100 @@
+{"command": "groups", "description": "Print group memberships for a user.See also: groupadd, groupdel, groupmod."}
+{"command": "grpcurl", "description": "Interact with gRPC servers.Like curl, but for gRPC."}
+{"command": "grumphp", "description": "A PHP Composer plugin that enables source code quality checks."}
+{"command": "grunt", "description": "A JavaScript task runner for automating processes."}
+{"command": "gst-inspect-1.0", "description": "Print information on GStreamer plugins."}
+{"command": "gst-launch-1.0", "description": "Build and run a GStreamer pipeline."}
+{"command": "gsutil", "description": "Access Google Cloud Storage.You can use gsutil to do a wide range of bucket and object management tasks."}
+{"command": "gt", "description": "Create and manage sequences of dependent code changes (stacks) for Git and GitHub."}
+{"command": "gtop", "description": "System monitoring dashboard for the terminal."}
+{"command": "guacd", "description": "Apache Guacamole proxy daemon.Support loader for client plugins to interface between the Guacamole protocol and any arbitrary remote desktop protocol (e.g. RDP, VNC, Other)."}
+{"command": "guetzli", "description": "JPEG image compression utility."}
+{"command": "guile", "description": "Guile Scheme interpreter."}
+{"command": "gulp", "description": "JavaScript task runner and streaming build system.Tasks are defined within gulpfile.js at the project root."}
+{"command": "gum", "description": "A tool for making glamorous shell scripts."}
+{"command": "gunicorn", "description": "Python WSGI HTTP Server."}
+{"command": "gunzip", "description": "Extract file(s) from a gzip (.gz) archive."}
+{"command": "gv2gml", "description": "Convert a graph from gv to gml format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gv2gxl", "description": "Convert a graph from gv to gxl format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gvcolor", "description": "Colorize a ranked digraph with a range of colors.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "gvpack", "description": "Combine several graph layouts (that already have layout information).Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "gxl2gv", "description": "Convert a graph from gxl to gv format.Converters: gml2gv, gv2gml, gv2gxl, gxl2gv, graphml2gv & mm2gv."}
+{"command": "gyb", "description": "Command line tool for locally backing up Gmail messages using Gmail's API over HTTPS."}
+{"command": "gzip", "description": "Compress/uncompress files with gzip compression (LZ77)."}
+{"command": "hadolint", "description": "Dockerfile linter."}
+{"command": "hakyll-init", "description": "Generate a new Hakyll sample blog."}
+{"command": "handbrakecli", "description": "Command-line interface to the HandBrake video conversion and DVD ripping tool."}
+{"command": "hangups", "description": "Third party command-line client for Google Hangouts."}
+{"command": "hardhat", "description": "A development environment for Ethereum software."}
+{"command": "hashcat", "description": "Fast and advanced password recovery tool."}
+{"command": "hashid", "description": "Python3 program that identifies data and password hashes."}
+{"command": "haxelib", "description": "Haxe Library Manager."}
+{"command": "hcloud", "description": "Show how to use the CLI for Hetzner Cloud."}
+{"command": "head", "description": "Output the first part of files."}
+{"command": "helix", "description": "Helix, A post-modern text editor, provides several modes for different kinds of text manipulation.Pressing i enters insert mode. <Esc> enters normal mode, which enables the use of Helix commands."}
+{"command": "hello", "description": "Print \"Hello, world!\", \"hello, world\" or a customizable text."}
+{"command": "helm install", "description": "Install a helm chart."}
+{"command": "helm", "description": "A package manager for Kubernetes.Some subcommands such as install have their own usage documentation."}
+{"command": "help2man", "description": "Produce simple man pages from an executable's --help and --version output."}
+{"command": "heroku", "description": "Create and manage Heroku apps."}
+{"command": "hexdump", "description": "An ASCII, decimal, hexadecimal, octal dump."}
+{"command": "hexo", "description": "A fast, simple & powerful blog framework."}
+{"command": "hexyl", "description": "A simple hex viewer for the terminal. Uses colored output to distinguish different categories of bytes."}
+{"command": "hg add", "description": "Adds specified files to the staging area for the next commit in Mercurial."}
+{"command": "hg branch", "description": "Create or show a branch name."}
+{"command": "hg clone", "description": "Create a copy of an existing repository in a new directory."}
+{"command": "hg commit", "description": "Commit all staged or specified files to the repository."}
+{"command": "hg init", "description": "Create a new repository in the specified directory."}
+{"command": "hg log", "description": "Display the revision history of the repository."}
+{"command": "hg pull", "description": "Pull changes from a specified repository to the local repository."}
+{"command": "hg push", "description": "Push changes from the local repository to a specified destination."}
+{"command": "hg remove", "description": "Remove specified files from the staging area."}
+{"command": "hg root", "description": "Display the root location of a Hg repository."}
+{"command": "hg serve", "description": "Start a standalone Mercurial web server for browsing repositories."}
+{"command": "hg status", "description": "Show files that have changed in the working directory."}
+{"command": "hg update", "description": "Update the working directory to a specified changeset."}
+{"command": "hg", "description": "Mercurial - a distributed source control management system.Some subcommands such as hg commit have their own usage documentation."}
+{"command": "highlight", "description": "Outputs syntax-highlighted source code to a variety of formats."}
+{"command": "history", "description": "Command-line history."}
+{"command": "hive", "description": "CLI tool for Apache Hive."}
+{"command": "hledger", "description": "A plain text accounting software for the command-line."}
+{"command": "hn", "description": "Command-line interface for Hacker News."}
+{"command": "holehe", "description": "Check if an email is attached to an account on sites like Twitter, Instagram, Imgur and over 120 others."}
+{"command": "home-manager", "description": "Manage a user environment using Nix."}
+{"command": "host", "description": "Lookup Domain Name Server."}
+{"command": "hostapd", "description": "Start an access point using a wireless interface."}
+{"command": "hostess", "description": "Manage the /etc/hosts file."}
+{"command": "hostid", "description": "Prints the numeric identifier for the current host (not necessarily the IP address)."}
+{"command": "hostname", "description": "Show or set the system's host name."}
+{"command": "hping", "description": "This command is an alias of hping3."}
+{"command": "hping3", "description": "Advanced ping utility which supports protocols such TCP, UDP, and raw IP.Best run with elevated privileges."}
+{"command": "hr", "description": "Print a horizontal rule in the terminal."}
+{"command": "hsd-cli", "description": "The command-line REST tool for the Handshake blockchain."}
+{"command": "hsw-cli", "description": "The command-line REST tool for the Handshake wallet."}
+{"command": "html5validator", "description": "Validate HTML5."}
+{"command": "htop", "description": "Display dynamic real-time information about running processes. An enhanced version of top."}
+{"command": "htpasswd", "description": "Create and manage htpasswd files to protect web server directories using basic authentication."}
+{"command": "http-server-upload", "description": "Zero-configuration command-line HTTP server which provides a lightweight interface to upload files."}
+{"command": "http-server", "description": "Simple static HTTP server to serve static files."}
+{"command": "http", "description": "HTTPie: HTTP client, aims to be easier to use than cURL."}
+{"command": "httpflow", "description": "A command-line utility to capture and dump HTTP streams."}
+{"command": "httping", "description": "Measure the latency and throughput of a web server."}
+{"command": "httprobe", "description": "Take a list of domains and probe for working HTTP and HTTPS servers."}
+{"command": "httpry", "description": "A lightweight packet sniffer for displaying and logging HTTP traffic.It can be run in real-time displaying the traffic as it is parsed, or as a daemon process that logs to an output file."}
+{"command": "hub", "description": "A wrapper for Git that adds commands for working with GitHub-based projects.If set up as instructed by hub alias, one can use git to run hub commands."}
+{"command": "hugo", "description": "Template-based static site generator. Uses modules, components, and themes."}
+{"command": "hunspell", "description": "Check spelling."}
+{"command": "husky", "description": "Native Git hooks made easy."}
+{"command": "hx", "description": "This command is an alias of helix."}
+{"command": "hydra", "description": "Online password guessing tool.Protocols supported include FTP, HTTP(S), SMTP, SNMP, XMPP, SSH, and more."}
+{"command": "hyperfine", "description": "A command-line benchmarking tool."}
+{"command": "ia", "description": "Command-line tool to interact with archive.org."}
+{"command": "ibmcloud login", "description": "Log in to the IBM Cloud."}
+{"command": "ibmcloud", "description": "A command-line tool for managing IBM Cloud apps and services."}
+{"command": "ical", "description": "A Hirji/Islamic calendar and converter for the terminal."}
+{"command": "iconv", "description": "Converts text from one encoding to another."}
+{"command": "id", "description": "Display current user and group identity."}
+{"command": "id3tag", "description": "Tool for reading, writing, and manipulating ID3v1 and ID3v2 tags of MP3 files."}
+{"command": "identify", "description": "Describe the format and characteristics of one or more image files.Part of ImageMagick."}
+{"command": "idnits", "description": "Check internet-drafts for submission nits.Looks for violations of Section 2.1 and 2.2 of the requirements listed on https://www.ietf.org/id-info/checklist."}
+{"command": "iex", "description": "IEx is the interactive shell for Elixir."}

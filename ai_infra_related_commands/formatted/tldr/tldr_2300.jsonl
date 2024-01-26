@@ -1,0 +1,100 @@
+{"command": "twm", "description": "A window manager for the X Window system."}
+{"command": "twopi", "description": "Render an image of a radial network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "twurl", "description": "Curl-like command but tailored specifically for the Twitter API."}
+{"command": "tye", "description": "Developer tool that makes developing, testing, and deploying microservices and distributed applications easier."}
+{"command": "type", "description": "Display the type of command the shell will execute."}
+{"command": "typeorm", "description": "A JavaScript ORM that can run on Node.js, browser, Cordova, Ionic, React Native, NativeScript, and Electron platforms."}
+{"command": "typeset", "description": "Declare variables and give them attributes."}
+{"command": "typst", "description": "Compile a Typst file to PDF.Note: Specifying the output location is optional."}
+{"command": "u3d", "description": "A set of tools to interact with Unity."}
+{"command": "ufraw-batch", "description": "Convert RAW files from cameras into standard image files."}
+{"command": "ugrep", "description": "Ultra fast search tool with query TUI."}
+{"command": "ulimit", "description": "Get and set user limits."}
+{"command": "umask", "description": "Manage the read/write/execute permissions that are masked out (i.e. restricted) for newly created files by the user."}
+{"command": "umount", "description": "Unlink a filesystem from its mount point, making it no longer accessible.A filesystem cannot be unmounted when it is busy."}
+{"command": "unalias", "description": "Remove aliases."}
+{"command": "uname", "description": "Print details about the current machine and the operating system running on it.See also lsb_release."}
+{"command": "unar", "description": "Extract contents from archive files."}
+{"command": "unclutter", "description": "Hides the mouse cursor."}
+{"command": "uncrustify", "description": "C, C++, C#, D, Java and Pawn source code formatter."}
+{"command": "unexpand", "description": "Convert spaces to tabs."}
+{"command": "unflatten", "description": "Adjust directed graphs to improve the layout aspect ratio.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "uniq", "description": "Output the unique lines from the given input or file.Since it does not detect repeated lines unless they are adjacent, we need to sort them first."}
+{"command": "unison", "description": "Bidirectional file synchronisation tool."}
+{"command": "units", "description": "Provide the conversion between two units of measure."}
+{"command": "unlink", "description": "Remove a link to a file from the filesystem.The file contents is lost if the link is the last one to the file."}
+{"command": "unlzma", "description": "This command is an alias of xz --format=lzma --decompress."}
+{"command": "unrar", "description": "Extract RAR archives."}
+{"command": "unxz", "description": "This command is an alias of xz --decompress."}
+{"command": "unzip", "description": "Extract files/directories from ZIP archives.See also: zip."}
+{"command": "unzstd", "description": "This command is an alias of zstd --decompress."}
+{"command": "updog", "description": "A replacement for Python's SimpleHTTPServer.It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."}
+{"command": "uptime", "description": "Tell how long the system has been running and other information."}
+{"command": "upx", "description": "Compress or decompress executables."}
+{"command": "users", "description": "Display a list of logged in users.See also: useradd, userdel, usermod."}
+{"command": "uudecode", "description": "Decode files encoded by uuencode."}
+{"command": "uuencode", "description": "Encode binary files into ASCII for transport via mediums that only support simple ASCII encoding."}
+{"command": "uvicorn", "description": "Python ASGI HTTP Server, for asynchronous projects."}
+{"command": "vagrant", "description": "Manage lightweight, reproducible, and portable development environments."}
+{"command": "vala", "description": "Vala code runner.Tutorial: https://wiki.gnome.org/Projects/Vala/Tutorial."}
+{"command": "valac", "description": "Vala code compiler.Tutorial: https://wiki.gnome.org/Projects/Vala/Tutorial."}
+{"command": "vale", "description": "Extensible style checker that supports multiple markup formats, such as Markdown and AsciiDoc."}
+{"command": "valgrind", "description": "Wrapper for a set of expert tools for profiling, optimizing and debugging programs.Commonly used tools include memcheck, cachegrind, callgrind, massif, helgrind, and drd."}
+{"command": "var-dump-server", "description": "Symfony dump server.Collects data dumped by the Symfony VarDumper component."}
+{"command": "varnishlog", "description": "Display Varnish logs."}
+{"command": "vault", "description": "Interact with HashiCorp Vault."}
+{"command": "VBoxManage", "description": "Command-line interface to VirtualBox.Includes all the functionality of the GUI and more.Some subcommands such as vboxmanage startvm have their own usage documentation."}
+{"command": "vcsh", "description": "Version Control System for the home directory using Git repositories."}
+{"command": "vdir", "description": "List directory contents.Drop-in replacement for ls -l."}
+{"command": "vectorize-pixelart", "description": "Convert PNG pixel art graphics to SVG/EPS vector images."}
+{"command": "vegeta", "description": "A command-line utility and a library for HTTP load testing.See also ab."}
+{"command": "vela", "description": "Command-line tools for the Vela pipeline."}
+{"command": "velero", "description": "Backup and migrate Kubernetes applications and their persistent volumes."}
+{"command": "venv", "description": "Create lightweight virtual environments in python."}
+{"command": "vercel", "description": "Deploy and manage your Vercel deployments."}
+{"command": "verilator", "description": "Converts Verilog and SystemVerilog hardware description language (HDL) design into a C++ or SystemC model to be executed after compiling."}
+{"command": "vgmstream_cli", "description": "Play a wide variety of audio formats used in video games and convert them into wav."}
+{"command": "vgrep", "description": "A user friendly pager for grep.See also: ugrep, rg."}
+{"command": "vhs", "description": "Generate terminal gifs from a tape file."}
+{"command": "vi", "description": "This command is an alias of vim."}
+{"command": "view", "description": "A read-only version of vim.This is equivalent to vim -R."}
+{"command": "vifm", "description": "VI File Manager is a command-line file manager."}
+{"command": "vim", "description": "Vim (Vi IMproved), a command-line text editor, provides several modes for different kinds of text manipulation.Pressing i in normal mode enters insert mode. Pressing <Esc> goes back to normal mode, which enables the use of Vim commands.See also: vimdiff, vimtutor, nvim."}
+{"command": "vimdiff", "description": "Open up two or more files in vim and show the differences between them.See also: vim, vimtutor, nvim."}
+{"command": "vimtutor", "description": "Vim tutor, teaching the basic vim commands.See also: vim, vimdiff, nvim."}
+{"command": "virsh-connect", "description": "Connect to a virtual machine hypervisor.See also: virsh."}
+{"command": "virsh-domblklist", "description": "List information about block devices associated with a virtual machine.See also: virsh."}
+{"command": "virsh-help", "description": "Display information about virsh commands or command groups.See also: virsh."}
+{"command": "virsh-list", "description": "List the ID, name, and state of virtual machines.See also: virsh."}
+{"command": "virsh pool-autostart", "description": "Enable or disable autostart for a virtual machine storage pool.See also: virsh."}
+{"command": "virsh pool-build", "description": "Build the underlying storage system for a virtual machine storage pool as defined in it's configuration file in /etc/libvirt/storage.See also: virsh, virsh-pool-define-as, virsh-pool-start."}
+{"command": "virsh pool-define-as", "description": "Create a configuration file in /etc/libvirt/storage for a persistent virtual machine storage pool from the provided arguments.See also: virsh, virsh-pool-build, virsh-pool-start."}
+{"command": "virsh pool-delete", "description": "Delete the underlying storage system of an inactive virtual machine storage pool.See also: virsh, virsh-pool-destroy, virsh-pool-undefine."}
+{"command": "virsh pool-destroy", "description": "Stop an active virtual machine storage pool.See also: virsh, virsh-pool-delete."}
+{"command": "virsh pool-info", "description": "List information about a virtual machine storage pool.See also: virsh."}
+{"command": "virsh pool-list", "description": "List information about virtual machine storage pools.See also: virsh, virsh-pool-autostart, virsh-pool-define-as."}
+{"command": "virsh pool-start", "description": "Start a previously configured but inactive virtual machine storage pool.See also: virsh, virsh-pool-define-as, virsh-pool-destroy."}
+{"command": "virsh pool-undefine", "description": "Delete the configuration file in /etc/libvirt/storage for a stopped virtual machine storage pool.See also: virsh, virsh-pool-destroy."}
+{"command": "virsh-undefine", "description": "Delete a virtual machine."}
+{"command": "virsh", "description": "Manage virsh guest domains. (NOTE: 'guest_id' can be the id, name or UUID of the guest).Some subcommands such as virsh list have their own usage documentation."}
+{"command": "virt-clone", "description": "Clone a libvirt virtual machine."}
+{"command": "virt-install", "description": "Create virtual machines with libvirt and begin OS installation."}
+{"command": "virt-sparsify", "description": "Make virtual machine drive images thin-provisioned.NOTE: Use only for offline machines to avoid data corruption."}
+{"command": "virt-sysprep", "description": "Reset, unconfigure, or customize a virtual machine image."}
+{"command": "virtualenv", "description": "Create virtual isolated Python environments."}
+{"command": "virtualenvwrapper", "description": "Group of simple wrapper commands for Python's virtualenv tool."}
+{"command": "visudo", "description": "Safely edit the sudoers file."}
+{"command": "Vite", "description": "Create a Vite project.Used to build JavaScript projects.Available templates: vanilla, vanilla-ts, vue, vue-ts, react, react-ts, react-swc, react-swc-ts, preact, preact-ts, lit, lit-ts, svelte, svelte-ts."}
+{"command": "viu", "description": "View images on the terminal."}
+{"command": "vladimyr", "description": "Dario Vladovi\u0107's personal CLI."}
+{"command": "vlc", "description": "Cross-platform multimedia player."}
+{"command": "volta", "description": "A JavaScript Tool Manager that installs Node.js runtimes, npm and Yarn package managers, or any binaries from npm."}
+{"command": "vsce", "description": "Extension manager for Visual Studio Code."}
+{"command": "vt", "description": "Command-line interface for VirusTotal.API key from a VirusTotal account is required for this command."}
+{"command": "vue build", "description": "A subcommand provided by @vue/cli and @vue/cli-service-global that enables quick prototyping."}
+{"command": "vue init", "description": "Legacy project initialization subcommand of the Vue.js framework."}
+{"command": "vue serve", "description": "A subcommand provided by @vue/cli and @vue/cli-service-global that enables quick prototyping."}
+{"command": "vue", "description": "Multi-purpose CLI for Vue.js.Some subcommands such as vue build have their own usage documentation."}
+{"command": "vzdump", "description": "Backup Utility for virtual machines and containers."}
+{"command": "w", "description": "Show who is logged on and what they are doing.Print user login, TTY, remote host, login time, idle time, current process."}
+{"command": "w3m", "description": "A text-based web browser.Supports SSL and mouse input, even over SSH."}

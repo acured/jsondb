@@ -1,0 +1,100 @@
+{"command": "at", "description": "Execute commands once at a later time.Service atd (or atrun) should be running for the actual executions."}
+{"command": "atool", "description": "Manage archives of various formats."}
+{"command": "atop", "description": "Linux system and process monitor."}
+{"command": "aura", "description": "The Aura Package Manager: A secure, multilingual package manager for Arch Linux and the AUR."}
+{"command": "auracle", "description": "Command-line tool used to interact with Arch Linux's User Repository, commonly referred to as the AUR."}
+{"command": "aurman", "description": "An Arch Linux utility to build and install packages from the Arch User Repository.See also pacman."}
+{"command": "aurvote", "description": "Vote for packages in the Arch User Repository.To be able to vote, the file ~/.config/aurvote must exist and contain your AUR credentials."}
+{"command": "ausyscall", "description": "Program that allows mapping syscall names and numbers."}
+{"command": "authconfig", "description": "Configure system authentication resources."}
+{"command": "auto-cpufreq", "description": "Automatic CPU speed & power optimizer."}
+{"command": "autopkgtest", "description": "Run tests on Debian packages."}
+{"command": "autorandr", "description": "Automatically change screen layout."}
+{"command": "avahi-browse", "description": "Displays services and hosts exposed on the local network via mDNS/DNS-SD.Avahi is compatible with Bonjour (Zeroconf) found in Apple devices."}
+{"command": "avahi-resolve", "description": "Translate between host names and IP Addresses."}
+{"command": "avifenc", "description": "AV1 Image File Format (AVIF) encoder."}
+{"command": "backlight_control", "description": "Control a linux machine's backlight using percentage values."}
+{"command": "balooctl", "description": "File indexing and searching framework for KDE Plasma."}
+{"command": "batcat", "description": "This command is an alias of bat."}
+{"command": "battop", "description": "An interactive viewer for the batteries installed in your notebook."}
+{"command": "bchunk", "description": "Convert CD images to a set of .iso and .cdr tracks."}
+{"command": "beep", "description": "A utility to beep the PC speaker."}
+{"command": "betterdiscordctl", "description": "A program for managing BetterDiscord on Linux."}
+{"command": "betterlockscreen", "description": "Simple, minimal lock screen."}
+{"command": "bitwise", "description": "Multi base interactive calculator supporting dynamic base conversion and bit manipulation."}
+{"command": "blastn", "description": "Nucleotide-Nucleotide BLAST."}
+{"command": "blastp", "description": "Protein-Protein BLAST."}
+{"command": "blight", "description": "Utility for changing the display brightness."}
+{"command": "blkdiscard", "description": "Discards device sectors on storage devices. Useful for SSDs."}
+{"command": "blkid", "description": "Lists all recognized partitions and their Universally Unique Identifier (UUID)."}
+{"command": "bluetoothctl", "description": "Manage Bluetooth devices."}
+{"command": "bluetoothd", "description": "Daemon to manage bluetooth devices."}
+{"command": "blurlock", "description": "A simple wrapper around the i3 screen locker i3lock, which blurs the screen.See also: i3lock."}
+{"command": "bmon", "description": "Monitor bandwidth and capture network related statistics."}
+{"command": "boltctl", "description": "Control thunderbolt devices."}
+{"command": "bootctl", "description": "Control EFI firmware boot settings and manage boot loader."}
+{"command": "bpftool", "description": "Tool for inspection and simple manipulation of eBPF programs and maps.Some subcommands such as bpftool prog have their own usage documentation."}
+{"command": "bpftrace", "description": "High-level tracing language for Linux eBPF."}
+{"command": "br", "description": "Navigate directory trees interactively.See also: broot."}
+{"command": "braa", "description": "Ultra-fast mass SNMP scanner allowing multiple hosts simultaneously."}
+{"command": "brctl", "description": "Ethernet bridge administration."}
+{"command": "brightnessctl", "description": "Utility for reading and controlling device brightness for GNU/Linux operating systems."}
+{"command": "broot", "description": "Navigate directory trees interactively.See also: br."}
+{"command": "bspc", "description": "A tool to control bspwm."}
+{"command": "bspwm", "description": "A tiling window manager based on binary space partitioning."}
+{"command": "btrbk", "description": "A tool for creating snapshots and remote backups of btrfs subvolumes."}
+{"command": "btrfs balance", "description": "Balance block groups on a btrfs filesystem."}
+{"command": "btrfs check", "description": "Check or repair a btrfs filesystem."}
+{"command": "btrfs device", "description": "Manage devices in a btrfs filesystem."}
+{"command": "btrfs filesystem", "description": "Manage btrfs filesystems."}
+{"command": "btrfs inspect-internal", "description": "Query internal information of a btrfs filesystem."}
+{"command": "btrfs property", "description": "Get, set, or list properties for a given btrfs filesystem object (files, directories, subvolumes, filesystems, or devices)."}
+{"command": "btrfs rescue", "description": "Try to recover a damaged btrfs filesystem."}
+{"command": "btrfs restore", "description": "Try to salvage files from a damaged btrfs filesystem."}
+{"command": "btrfs scrub", "description": "Scrub btrfs filesystems to verify data integrity.It is recommended to run a scrub once a month."}
+{"command": "btrfs subvolume", "description": "Manage btrfs subvolumes and snapshots."}
+{"command": "btrfs version", "description": "Display btrfs-progs version."}
+{"command": "btrfs", "description": "A filesystem based on the copy-on-write (COW) principle for Linux.Some subcommands such as btrfs device have their own usage documentation."}
+{"command": "bully", "description": "Brute-force the WPS pin of a wireless access point.Necessary information must be gathered with airmon-ng and airodump-ng before using bully."}
+{"command": "burpsuite", "description": "A GUI based application mainly used in web application penetration testing."}
+{"command": "busctl", "description": "Introspect and monitor the D-Bus bus."}
+{"command": "caffeinate", "description": "Prevent desktop from sleeping."}
+{"command": "caffeine-indicator", "description": "Manually inhibit desktop idleness with a toggle."}
+{"command": "caffeine", "description": "Prevent desktop idleness in full-screen mode."}
+{"command": "caja", "description": "Manages files and directories in MATE desktop environment."}
+{"command": "cal", "description": "Prints calendar information, with the current day highlighted."}
+{"command": "calcurse", "description": "A text-based calendar and scheduling application for the command-line."}
+{"command": "cam", "description": "Frontend tool for libcamera."}
+{"command": "cat", "description": "Print and concatenate files."}
+{"command": "cc", "description": "This command is an alias of gcc."}
+{"command": "ceph", "description": "A unified storage system."}
+{"command": "certbot", "description": "The Let's Encrypt Agent for automatically obtaining and renewing TLS certificates.Successor to letsencrypt."}
+{"command": "cewl", "description": "URL spidering tool for making a cracking wordlist from web content."}
+{"command": "cfdisk", "description": "A program for managing partition tables and partitions on a hard disk using a curses UI."}
+{"command": "cgcreate", "description": "Create cgroups, used to limit, measure, and control resources used by processes.cgroups types can be memory, cpu, net_cls, etc."}
+{"command": "cgexec", "description": "Limit, measure, and control resources used by processes.Multiple cgroup types (aka controllers) exist, such as cpu, memory, etc."}
+{"command": "cgroups", "description": "Cgroups aka control groups is a Linux kernel feature for limiting, measuring, and controlling resource usage by processes.Cgroups however is not a command, but rather a collection of commands, see the relevant pages below."}
+{"command": "chage", "description": "Change user account and password expiry information."}
+{"command": "chattr", "description": "Change attributes of files or directories."}
+{"command": "chcon", "description": "Change SELinux security context of a file or files/directories."}
+{"command": "chcpu", "description": "Enable/disable a system's CPUs."}
+{"command": "check-language-support", "description": "Display a list of missing language packages on Ubuntu."}
+{"command": "check-support-status", "description": "Identify installed Debian packages for which support has had to be limited or prematurely ended."}
+{"command": "checkinstall", "description": "Track the local installation of a software package, and produce a binary package which can be used with a system's native package manager."}
+{"command": "checkupdates-aur", "description": "Tool to check pending updates from the Arch User Repository (AUR)."}
+{"command": "checkupdates", "description": "Tool to check pending updates in Arch Linux."}
+{"command": "chfn", "description": "Update finger info for a user."}
+{"command": "chkconfig", "description": "Manage the runlevel of services on CentOS 6."}
+{"command": "chntpw", "description": "A utility that can edit windows registry, reset user password, promote users to administrator by modifying the Windows SAM.Boot target machine with live cd like Kali Linux and run with elevated privileges."}
+{"command": "chpasswd", "description": "Change the passwords for multiple users by using stdin."}
+{"command": "chronyc", "description": "Query the Chrony NTP daemon."}
+{"command": "chrt", "description": "Manipulate the real-time attributes of a process."}
+{"command": "cloud-init", "description": "Command line tool for managing cloud instance initialization."}
+{"command": "cmus", "description": "Command-line Music Player.Use arrow keys to navigate, <enter/return> to select, and numbers 1-8 switch between different views."}
+{"command": "cockpit-bridge", "description": "Relay messages and commands between the front end and server in the cockpit suite."}
+{"command": "cockpit-desktop", "description": "Provides secure access to Cockpit pages in an already running session.It starts cockpit-ws and a web browser in an isolated network space and a cockpit-bridge in a running user session."}
+{"command": "cockpit-tls", "description": "TLS terminating HTTP proxy to encrypt traffic between a client and cockpit-ws."}
+{"command": "cockpit-ws", "description": "Communicate between the browser application and various configuration tools and services like cockpit-bridge."}
+{"command": "collectd", "description": "System statistics collection daemon."}
+{"command": "colrm", "description": "Remove columns from stdin."}
+{"command": "compopt", "description": "Print or change the completion options for a command."}

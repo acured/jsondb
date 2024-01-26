@@ -1,0 +1,100 @@
+{"command": "po4a-gettextize", "description": "Convert a file to a PO file."}
+{"command": "po4a-translate", "description": "Convert a PO file back to documentation format.The provided PO file should be the translation of the POT file which was produced by po4a-gettextize."}
+{"command": "po4a-updatepo", "description": "Update the translation (in PO format) of a documentation."}
+{"command": "po4a", "description": "Update both PO files and translated documents."}
+{"command": "ports", "description": "Update/list the ports tree on a CRUX system."}
+{"command": "postfix", "description": "Postfix mail transfer agent (MTA) control program.See also dovecot, a mail delivery agent (MDA) that integrates with Postfix."}
+{"command": "poweroff", "description": "Power off the system."}
+{"command": "powerprofilesctl", "description": "Make power profiles handling available over D-Bus."}
+{"command": "powerstat", "description": "Measures the power consumption of a computer that has a battery power source or supports the RAPL interface."}
+{"command": "powertop", "description": "Optimize battery power usage."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "pridecat", "description": "Like cat but more colorful :)."}
+{"command": "print", "description": "An alias to a run-mailcap's action print.Originally run-mailcap is used to process mime-type/file."}
+{"command": "prlimit", "description": "Get or set process resource soft and hard limits.Given a process ID and one or more resources, prlimit tries to retrieve and/or modify the limits."}
+{"command": "pro", "description": "Manage Ubuntu Pro services."}
+{"command": "protontricks", "description": "A simple wrapper that runs Winetricks commands for Proton enabled games."}
+{"command": "protonvpn-cli connect", "description": "Connect to ProtonVPN."}
+{"command": "protonvpn-cli", "description": "Official ProtonVPN client.See also: protonvpn-cli-connect."}
+{"command": "prt-get", "description": "The CRUX package manager."}
+{"command": "pstree", "description": "A convenient tool to show running processes as a tree."}
+{"command": "ptx", "description": "Generate a permuted index of words from one or more text files."}
+{"command": "pulseaudio", "description": "The PulseAudio sound system daemon and manager."}
+{"command": "pvcreate", "description": "Initialize a disk or partition for use as a physical volume.See also: lvm."}
+{"command": "pvdisplay", "description": "Display information about Logical Volume Manager (LVM) physical volumes.See also: lvm."}
+{"command": "pvs", "description": "Display information about physical volumes.See also: lvm."}
+{"command": "pw-cat", "description": "Play and record audio files through pipewire."}
+{"command": "pw-cli", "description": "Manage a PipeWire instance's modules, objects, nodes, devices, links and much more."}
+{"command": "pw-link", "description": "Manage links between ports in PipeWire."}
+{"command": "pw-loopback", "description": "Tool for creating loopback devices in pipewire."}
+{"command": "pw-play", "description": "Play audio files through pipewire.Shorthand for pw-cat --playback."}
+{"command": "pw-record", "description": "Record audio files through pipewire.Shorthand for pw-cat --record."}
+{"command": "pwd", "description": "Print name of current/working directory."}
+{"command": "pwdx", "description": "Print working directory of a process."}
+{"command": "pyrit", "description": "WPA/WPA2 cracking tool using computational power."}
+{"command": "qjoypad", "description": "Translate input from gamepads or joysticks into keyboard strokes or mouse actions."}
+{"command": "qm cleanup", "description": "Clean up resources on QEMU/KVM Virtual Machine Manager like tap devices, VGPUs, etc.Called after a VM shuts down, crashes, etc."}
+{"command": "qm clone", "description": "Create a copy of virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm cloudinit dump", "description": "Generate cloudinit configuration files."}
+{"command": "qm config", "description": "Display the virtual machine configuration with pending configuration changes applied."}
+{"command": "qm create", "description": "Create or restore a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm delsnapshot", "description": "Delete virtual machine snapshots."}
+{"command": "qm destroy", "description": "Destroy a virtual machine in QEMU/KVM Virtual Machine Manager."}
+{"command": "qm disk import", "description": "Import a disk image to a virtual machine as an unused disk.The supported image formats for qemu-img, such as raw, qcow2, qed, vdi, vmdk, and vhd must be used."}
+{"command": "qm disk move", "description": "Move a virtual disk from one storage to another within the same Proxmox cluster."}
+{"command": "qm disk resize", "description": "Resize a virtual machine disk in the Proxmox Virtual Environment (PVE)."}
+{"command": "qm guest cmd", "description": "Execute QEMU Guest Agent commands."}
+{"command": "qm guest exec-status", "description": "Print the status of the given pid started by the guest-agent on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm guest exec", "description": "Execute a specific command via a guest agent."}
+{"command": "qm guest passwd", "description": "Set the password for a specific user on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm help", "description": "Display help for a specific command."}
+{"command": "qm list", "description": "List all virtual machines."}
+{"command": "qm listsnapshot", "description": "List snapshots of virtual machines."}
+{"command": "qm migrate", "description": "Migrate a virtual machine.Used to create a new migration task."}
+{"command": "qm monitor", "description": "Enter the QEMU Monitor interface."}
+{"command": "qm move_disk", "description": "This command is an alias of qm disk move."}
+{"command": "qm mtunnel", "description": "Used by qmigrate.It should not be invoked manually."}
+{"command": "qm pending", "description": "Get the virtual machine configuration with both current and pending values."}
+{"command": "qm reboot", "description": "Reboot a virtual machine by shutting it down, and starting it again after applying pending changes."}
+{"command": "qm rescan", "description": "Rescan all storages and update disk sizes and unused disk images of a virtual machine."}
+{"command": "qm reset", "description": "Reset a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm resize", "description": "This command is an alias of qm-disk-resize."}
+{"command": "qm resume", "description": "Resume a virtual machine."}
+{"command": "qm rollback", "description": "Rollback the VM state to a specified snapshot."}
+{"command": "qm sendkey", "description": "Send QEMU monitor encoding key event to a virtual machine."}
+{"command": "qm showcmd", "description": "Show command-line which is used to start the VM (debug info)."}
+{"command": "qm shutdown", "description": "Shutdown a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm snapshot", "description": "Create virtual machine snapshots."}
+{"command": "qm start", "description": "Start a virtual machine on QEMU/KVM Virtual Machine Manager."}
+{"command": "qm status", "description": "Show virtual machine status."}
+{"command": "qm suspend", "description": "Suspends a virtual machine (VM) in the Proxmox Virtual Environment (PVE).Use --skiplock and --skiplockstorage flags with caution, as they may lead to data corruption in certain situations."}
+{"command": "qm template", "description": "Create a Proxmox VM template."}
+{"command": "qm unlock", "description": "Unlock a virtual machine in QEMU/KVM Virtual Machine Manager."}
+{"command": "qm vncproxy", "description": "Proxy Virtual Machine VNC (Virtual network computing) traffic to stdin or stdout."}
+{"command": "qm wait", "description": "Wait until the virtual machine is stopped."}
+{"command": "qm", "description": "QEMU/KVM Virtual Machine Manager."}
+{"command": "qmrestore", "description": "Restore QemuServer vzdump backups."}
+{"command": "qrcp", "description": "A file transfer tool."}
+{"command": "qsub", "description": "Submits a script to the queue management system TORQUE."}
+{"command": "qtchooser", "description": "A wrapper used to select between Qt development binary versions."}
+{"command": "qtile", "description": "A full-featured, hackable tiling window manager written and configured in Python."}
+{"command": "quotacheck", "description": "Scan a filesystem for disk usage; create, check and repair quota files.It is best to run quota check with quotas turned off to prevent damage or loss to quota files."}
+{"command": "radeontop", "description": "Show utilization of AMD GPUs.May require root privileges depending on your system."}
+{"command": "rankmirrors", "description": "Rank a list of Pacman mirrors by connection and opening speed.Writes the new mirrorlist to stdout."}
+{"command": "raspi-config", "description": "An ncurses terminal GUI to config a Raspberry Pi."}
+{"command": "raspinfo", "description": "Display Raspberry Pi system information."}
+{"command": "raw", "description": "Bind a Unix raw character device."}
+{"command": "rc-service", "description": "Locate and run OpenRC services with arguments.See also openrc."}
+{"command": "rc-status", "description": "Show status info about runlevels.See also openrc."}
+{"command": "rc-update", "description": "Add and remove OpenRC services to and from runlevels.See also openrc."}
+{"command": "rdesktop", "description": "Remote Desktop Protocol client.It can be used to connect the remote computer using the RDP protocol."}
+{"command": "read", "description": "Shell builtin for retrieving data from stdin."}
+{"command": "readelf", "description": "Displays information about ELF files."}
+{"command": "readpe", "description": "Displays information about PE files."}
+{"command": "reboot", "description": "Reboot the system."}
+{"command": "reflector", "description": "Arch script to fetch and sort mirrorlists."}
+{"command": "register_new_matrix_user", "description": "Used to register new users with a given home server when registration has been disabled."}
+{"command": "rename", "description": "Rename multiple files.NOTE: this page refers to the command from the util-linux package.For the Perl version, see file-rename or perl-rename.Warning: This command has no safeguards and will overwrite files without prompting."}
+{"command": "repo-add", "description": "Package database maintenance utility which enables installation of said package via Pacman."}
+{"command": "reportbug", "description": "Bug report tool of Debian distribution."}
+{"command": "repquota", "description": "Display a summary of existing file quotas for a filesystem."}

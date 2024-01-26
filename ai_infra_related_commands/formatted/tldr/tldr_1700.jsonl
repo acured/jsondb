@@ -1,0 +1,100 @@
+{"command": "pax", "description": "Archiving and copying utility."}
+{"command": "pdf-parser", "description": "Identify fundamental elements of a PDF file without rendering it."}
+{"command": "pdffonts", "description": "Portable Document Format (PDF) file fonts information viewer."}
+{"command": "pdfgrep", "description": "Search text in PDF files."}
+{"command": "pdfimages", "description": "Utility for extracting images from PDFs."}
+{"command": "pdfinfo", "description": "Portable Document Format (PDF) file information viewer."}
+{"command": "pdfjam", "description": "Shell frontend for the LaTeX pdfpages package for mingling PDFs."}
+{"command": "pdfjoin", "description": "PDF merging utility based on pdfjam."}
+{"command": "pdflatex", "description": "Compile a PDF document from LaTeX source files."}
+{"command": "pdfposter", "description": "Convert a large-sheeted PDF into multiple A4 pages for printing."}
+{"command": "pdfseparate", "description": "Portable Document Format (PDF) file page extractor."}
+{"command": "pdftex", "description": "Compile a PDF document from TeX source files."}
+{"command": "pdftk", "description": "PDF toolkit."}
+{"command": "pdftocairo", "description": "Converts PDF files to PNG/JPEG/TIFF/PDF/PS/EPS/SVG using cairo."}
+{"command": "pdftotext", "description": "Convert PDF files to plain text format."}
+{"command": "pdfunite", "description": "PDF merging utility."}
+{"command": "peco", "description": "Interactive filtering tool."}
+{"command": "peerflix", "description": "Stream video- or audio-based torrents to a media player."}
+{"command": "peerindex", "description": "Inspect MRT TABLE_DUMPV2 Peer Index Table.Can read files compressed with gzip, bzip2 and xz."}
+{"command": "peludna-prognoza", "description": "Fetch pollen measurement data for Croatian cities from your terminal using Pliva's allergies data API."}
+{"command": "perl", "description": "The Perl 5 language interpreter."}
+{"command": "pest", "description": "A PHP testing framework with a focus on simplicity."}
+{"command": "pfetch", "description": "Display system information."}
+{"command": "pg_ctl", "description": "Utility for controlling a PostgreSQL server and database cluster."}
+{"command": "pg_dump", "description": "Extract a PostgreSQL database into a script file or other archive file."}
+{"command": "pg_dumpall", "description": "Extract a PostgreSQL database cluster into a script file or other archive file."}
+{"command": "pg_isready", "description": "Check the connection status of a PostgreSQL server."}
+{"command": "pg_restore", "description": "Restore a PostgreSQL database from an archive file created by pg_dump."}
+{"command": "pgbench", "description": "Run a benchmark test on PostgreSQL."}
+{"command": "pgrep", "description": "Find or signal processes by name."}
+{"command": "phan", "description": "A static analysis tool for PHP."}
+{"command": "phing", "description": "A PHP build tool based on Apache Ant."}
+{"command": "phive", "description": "The Phar Installation and Verification Environment for secure PHP application deployment."}
+{"command": "php artisan", "description": "Laravel's Artisan command-line interface."}
+{"command": "php-coveralls", "description": "A PHP client for Coveralls."}
+{"command": "PHP-CS-Fixer", "description": "Automatic coding style fixer for PHP."}
+{"command": "php yii", "description": "Yii Framework's command-line interface."}
+{"command": "php", "description": "PHP command-line interface."}
+{"command": "phpbu", "description": "A backup utility framework for PHP."}
+{"command": "phpcbf", "description": "Fix violations detected by phpcs."}
+{"command": "phpcpd", "description": "A copy and paste detector for PHP code."}
+{"command": "phpcs", "description": "Tokenize PHP, JavaScript and CSS files to detect violations of a defined set of coding standards."}
+{"command": "phpdox", "description": "A PHP documentation generator."}
+{"command": "phpenv", "description": "A PHP version manager for development purposes."}
+{"command": "phpize", "description": "Prepare a PHP extension for compiling."}
+{"command": "phploc", "description": "A tool for quickly measuring the size and analyzing the structure of a PHP project."}
+{"command": "phpmd", "description": "A PHP mess detector that checks for common potential problems."}
+{"command": "phpspec", "description": "A Behaviour Driven Development tool for PHP."}
+{"command": "phpstan", "description": "A PHP static analysis tool to discover bugs in code."}
+{"command": "phpstorm", "description": "A cross-platform IDE for PHP based on the JetBrains IntelliJ platform."}
+{"command": "phpunit", "description": "PHPUnit command-line test runner."}
+{"command": "piactl", "description": "The command-line tool for Private Internet Access, a commercial VPN provider."}
+{"command": "pic", "description": "Picture preprocessor for the groff (GNU Troff) document formatting system.See also groff and troff."}
+{"command": "picard", "description": "Next generation MusicBrainz tagging application."}
+{"command": "pickle", "description": "A PHP extension installer based on Composer."}
+{"command": "picom-trans", "description": "Set the window opacity for the picom window compositor."}
+{"command": "pigz", "description": "Multithreaded zlib compression utility."}
+{"command": "ping", "description": "Send ICMP ECHO_REQUEST packets to network hosts."}
+{"command": "ping6", "description": "Send ICMP ECHO_REQUEST packets to network hosts via IPv6 address."}
+{"command": "pinky", "description": "Print user information using the finger protocol."}
+{"command": "Pint", "description": "An opinionated PHP code style fixer based on PHP-CS-Fixer."}
+{"command": "pinta", "description": "A free, open source program for drawing and image editing."}
+{"command": "pio access", "description": "Set the access level on published resources (packages) in the registry."}
+{"command": "pio account", "description": "Manage your PlatformIO account in the command-line."}
+{"command": "pio boards", "description": "List pre-configured embedded boards available in PlatformIO."}
+{"command": "pio check", "description": "Perform a static analysis check on a PlatformIO project."}
+{"command": "pio ci", "description": "Build PlatformIO projects with an arbitrary source code structure.This will create a new temporary project which the source code will be copied into."}
+{"command": "pio debug", "description": "Debug PlatformIO projects."}
+{"command": "pio device", "description": "Manage and monitor PlatformIO devices."}
+{"command": "pio home", "description": "Launch the PlatformIO Home web server."}
+{"command": "pio init", "description": "This command is an alias of pio project init."}
+{"command": "pio lib", "description": "Manage PlatformIO libraries."}
+{"command": "pio org", "description": "Manage PlatformIO organizations and their owners."}
+{"command": "pio package", "description": "Manage packages in the registry.Packages can only be removed within 72 hours (3 days) from the date that they are published."}
+{"command": "pio platform", "description": "Manage PlatformIO development platforms."}
+{"command": "pio project", "description": "Tool to manage PlatformIO projects."}
+{"command": "pio remote", "description": "Helper command for PlatformIO Remote Development.pio remote [command] takes the same arguments as its locally executing counterpart pio [command]."}
+{"command": "pio run", "description": "Run PlatformIO project targets."}
+{"command": "pio settings", "description": "View and modify PlatformIO settings."}
+{"command": "pio system", "description": "Miscellaneous system commands for PlatformIO."}
+{"command": "pio team", "description": "Manage PlatformIO teams."}
+{"command": "pio test", "description": "Run local tests on a PlatformIO project."}
+{"command": "pio update", "description": "Update installed PlatformIO Core packages, development platforms and global libraries.See also: pio platform update, pio lib update."}
+{"command": "pio upgrade", "description": "Update PlatformIO to the latest version."}
+{"command": "pio", "description": "Development environment for embedded boards.Some subcommands such as pio run have their own usage documentation."}
+{"command": "piodebuggdb", "description": "This command is an alias of pio debug --interface=gdb."}
+{"command": "pip install", "description": "Install Python packages."}
+{"command": "pip uninstall", "description": "Uninstall Python packages."}
+{"command": "pip", "description": "Python package manager.Some subcommands such as pip install have their own usage documentation."}
+{"command": "pip3", "description": "Python package manager."}
+{"command": "pipenv", "description": "Simple and unified Python development workflow.Manages packages and the virtual environment for a project."}
+{"command": "pipx", "description": "Install and run Python applications in isolated environments."}
+{"command": "pixiecore", "description": "Tool to manage the network booting of machines."}
+{"command": "pixterm", "description": "Image printing in the terminal.See also: chafa, catimg."}
+{"command": "pkg-config", "description": "Provide the details of installed libraries for compiling applications."}
+{"command": "pkill", "description": "Signal process by name.Mostly used for stopping processes."}
+{"command": "plantuml", "description": "Create UML diagrams from a plain text language and render them in different formats."}
+{"command": "platformio", "description": "This command is an alias of pio."}
+{"command": "play", "description": "Audio player of SoX - Sound eXchange.Plays any audio, with audio formats identified by the extension."}
+{"command": "plenv", "description": "Switch between multiple versions of Perl."}

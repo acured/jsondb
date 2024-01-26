@@ -1,0 +1,100 @@
+{"command": "head", "description": "Output the first part of files."}
+{"command": "help", "description": "Display information about Bash builtin commands."}
+{"command": "hlint", "description": "Tool for suggesting improvements to Haskell code."}
+{"command": "homectl", "description": "Create, remove, change or inspect home directories using the systemd-homed service."}
+{"command": "homeshick", "description": "Synchronize Git dotfiles."}
+{"command": "hostnamectl", "description": "Get or set the hostname of the computer."}
+{"command": "htpdate", "description": "Synchronize local date and time via HTTP headers from web servers."}
+{"command": "http-prompt", "description": "An interactive command-line HTTP client featuring autocomplete and syntax highlighting."}
+{"command": "http_load", "description": "An HTTP benchmarking tool.Runs multiple HTTP fetches in parallel to test the throughput of a web server."}
+{"command": "httpie", "description": "A user friendly HTTP tool."}
+{"command": "hwclock", "description": "Used for reading or changing the hardware clock. Usually requires root."}
+{"command": "i3-scrot", "description": "Wrapper script around the screenshot utility scrot for the i3 window manager.The default save location is ~/Pictures and can be changed in ~/.config/i3-scrot.conf."}
+{"command": "i3", "description": "A dynamic tiling window manager."}
+{"command": "i3exit", "description": "Exit the i3 window manager."}
+{"command": "i3lock", "description": "Simple screen locker built for the i3 window manager."}
+{"command": "i3status", "description": "Status line for the i3 window manager.This command is usually called from the i3 configuration file."}
+{"command": "i7z", "description": "An Intel CPU (only i3, i5 and i7) realtime reporting tool."}
+{"command": "id3v2", "description": "Manages id3v2 tags, converts and lists id3v1."}
+{"command": "ifdown", "description": "Disable network interfaces."}
+{"command": "ifmetric", "description": "An IPv4 route metrics manipulation tool."}
+{"command": "iftop", "description": "Show bandwidth usage on an interface by host."}
+{"command": "ifup", "description": "Tool used to enable network interfaces."}
+{"command": "img2txt", "description": "Convert images to colour ASCII characters and output them to text-based coloured files."}
+{"command": "imgp", "description": "Command-line image resizer and rotator for JPEG and PNG images."}
+{"command": "inotifywait", "description": "Waits for changes to one or more files."}
+{"command": "insmod", "description": "Dynamically load modules into the Linux Kernel."}
+{"command": "instaloader", "description": "Download pictures, videos, captions, and other metadata from Instagram.Note: You will need to provide Instagram login information if you want high-quality media downloads."}
+{"command": "inxi", "description": "Print a summary of system information and resources for debugging purposes."}
+{"command": "iostat", "description": "Report statistics for devices and partitions."}
+{"command": "ip address", "description": "IP Address management subcommand."}
+{"command": "ip link", "description": "Manage network interfaces."}
+{"command": "ip neighbour", "description": "Neighbour/ARP tables management IP subcommand."}
+{"command": "ip route list", "description": "This command is an alias of ip route show."}
+{"command": "ip route show", "description": "Display subcommand for IP Routing table management."}
+{"command": "ip route", "description": "IP Routing table management subcommand."}
+{"command": "ip rule", "description": "IP routing policy database management."}
+{"command": "ip", "description": "Show/manipulate routing, devices, policy routing and tunnels.Some subcommands such as ip address have their own usage documentation."}
+{"command": "ipcalc", "description": "Perform simple operations and calculations on IP addresses and networks."}
+{"command": "ipcmk", "description": "Create IPC (Inter-process Communication) resources."}
+{"command": "ipcrm", "description": "Delete IPC (Inter-process Communication) resources."}
+{"command": "ipset", "description": "A tool to create IP sets for firewall rules."}
+{"command": "iptables", "description": "Configure tables, chains and rules of the Linux kernel IPv4 firewall.Use ip6tables to set rules for IPv6 traffic. See also: iptables-save, iptables-restore."}
+{"command": "isoinfo", "description": "Utility programs for dumping and verifying ISO disk images."}
+{"command": "isosize", "description": "Display the size of an ISO file."}
+{"command": "ispell", "description": "Interactive spell checking."}
+{"command": "iw", "description": "Show and manipulate wireless devices."}
+{"command": "iwconfig", "description": "Configure and show the parameters of a wireless network interface."}
+{"command": "iwctl", "description": "Control the iwd network supplicant."}
+{"command": "jobs", "description": "Display status of jobs in the current session."}
+{"command": "journalctl", "description": "Query the systemd journal."}
+{"command": "jpegtran", "description": "Perform lossless transformation of JPEG files."}
+{"command": "just", "description": "just can refer to multiple commands with the same name."}
+{"command": "kde-inhibit", "description": "Inhibit various desktop functions while a command runs."}
+{"command": "kdialog", "description": "Show KDE dialog boxes from within shell scripts."}
+{"command": "kdocker", "description": "Easily dock applications to the system tray."}
+{"command": "kexec", "description": "Directly reboot into a new kernel."}
+{"command": "keyctl", "description": "Manipulate the Linux kernel keyring."}
+{"command": "killall", "description": "Send kill signal to all instances of a process by name (must be exact name).All signals except SIGKILL and SIGSTOP can be intercepted by the process, allowing a clean exit."}
+{"command": "kjv", "description": "The word of God available right on your desktop."}
+{"command": "konsave", "description": "Save and apply your Linux customizations with just one command."}
+{"command": "konsole", "description": "KDE's terminal emulator."}
+{"command": "kpackagetool5", "description": "KPackage Manager: Install, list, remove Plasma packages."}
+{"command": "kpartx", "description": "Create device maps from partition tables."}
+{"command": "kreadconfig5", "description": "Read KConfig entries for KDE Plasma."}
+{"command": "krita", "description": "A sketching and painting program designed for digital artists.See also: gimp."}
+{"command": "kscreen-console", "description": "Command-line tool to query KScreen's status."}
+{"command": "kscreen-doctor", "description": "Change and manipulate the screen setup."}
+{"command": "ksvgtopng5", "description": "Convert SVG files to PNG format."}
+{"command": "kwrite", "description": "Text editor of the KDE Desktop project.See also kate."}
+{"command": "kwriteconfig5", "description": "Write KConfig entries for KDE Plasma."}
+{"command": "laptop-detect", "description": "Attempt to determine if the script is running on a laptop or desktop."}
+{"command": "larasail", "description": "Manage Laravel on Digital Ocean servers."}
+{"command": "lastb", "description": "Show a listing of last logged in users."}
+{"command": "lastcomm", "description": "Show last commands executed."}
+{"command": "lastlog", "description": "Show the most recent login of all users or of a given user."}
+{"command": "latte-dock", "description": "Replacement dock for Plasma desktop."}
+{"command": "lci", "description": "LOLCODE interpreter written in C."}
+{"command": "ldapdomaindump", "description": "Dump users, computers, groups, OS and membership information via LDAP to HTML, JSON and greppable output.See also ldapsearch."}
+{"command": "ldconfig", "description": "Configure symlinks and cache for shared library dependencies."}
+{"command": "ldd", "description": "Display shared library dependencies of a binary.Do not use on an untrusted binary, use objdump for that instead."}
+{"command": "lddd", "description": "Find broken library links on the system.This tool is only available on Arch Linux."}
+{"command": "ledctl", "description": "Intel(R) Enclosure LED Control Application."}
+{"command": "legit", "description": "Complementary command-line interface for Git."}
+{"command": "lex", "description": "Lexical analyzer generator.Given the specification for a lexical analyzer, generates C code implementing it.NOTE: on most major OSes, this command is an alias for flex."}
+{"command": "lftp", "description": "Sophisticated file transfer program."}
+{"command": "libreoffice", "description": "CLI for the powerful and free office suite LibreOffice."}
+{"command": "light", "description": "Control the backlight of your screen."}
+{"command": "line", "description": "Read a single line of input."}
+{"command": "links", "description": "Command-line web browser."}
+{"command": "lnav", "description": "Advanced log file viewer to analyze logs with little to no setup."}
+{"command": "loadkeys", "description": "Load the kernel keymap for the console."}
+{"command": "locale", "description": "Get locale-specific information."}
+{"command": "localectl", "description": "Control the system locale and keyboard layout settings."}
+{"command": "locate", "description": "Find filenames quickly."}
+{"command": "login", "description": "Initiates a session for a user."}
+{"command": "loginctl", "description": "Manage the systemd login manager."}
+{"command": "logrotate", "description": "Rotates, compresses, and mails system logs."}
+{"command": "logsave", "description": "Save the output of a command in a logfile."}
+{"command": "logwatch", "description": "Summarizes many different logs for common services (e.g. apache, pam_unix, sshd, etc.) in a single report."}
+{"command": "losetup", "description": "Set up and control loop devices."}

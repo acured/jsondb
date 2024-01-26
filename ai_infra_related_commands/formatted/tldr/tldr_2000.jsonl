@@ -1,0 +1,100 @@
+{"command": "rustc", "description": "The Rust compiler.Rust projects usually use cargo instead of invoking rustc directly."}
+{"command": "rustfmt", "description": "Tool for formatting Rust source code."}
+{"command": "rustup-init.sh", "description": "Script to install rustup and the Rust toolchain."}
+{"command": "rustup", "description": "Install, manage, and update Rust toolchains.Some subcommands, such as toolchain, target, update, etc. have their own usage documentation."}
+{"command": "rvm", "description": "A tool for easily installing, managing, and working with multiple ruby environments."}
+{"command": "s", "description": "Web search from the terminal."}
+{"command": "s3cmd", "description": "Command line tool and client for uploading, retrieving and managing data in S3 compatible object storage."}
+{"command": "safe", "description": "Interact with HashiCorp Vault."}
+{"command": "sails", "description": "A realtime enterprise level MVC framework built on top of Node.js."}
+{"command": "salt-call", "description": "Invoke salt locally on a salt minion."}
+{"command": "salt-key", "description": "Manages salt minion keys on the salt master.Needs to be run on the salt master, likely as root or with sudo."}
+{"command": "salt-run", "description": "Frontend for executing salt-runners on minions."}
+{"command": "salt", "description": "Execute commands and assert state on remote salt minions."}
+{"command": "sam2p", "description": "Raster (bitmap) image converter with smart PDF and PostScript (EPS) output."}
+{"command": "samtools", "description": "Tools for handling high-throughput sequencing (genomics) data.Used for reading/writing/editing/indexing/viewing of data in SAM/BAM/CRAM format."}
+{"command": "sass", "description": "Converts SCSS or Sass files to CSS."}
+{"command": "satis", "description": "The command-line utility for the Satis static Composer repository."}
+{"command": "sbcl", "description": "High performance Common Lisp compiler."}
+{"command": "sbt", "description": "Build tool for Scala and Java projects."}
+{"command": "SC-IM", "description": "A curses based, vim-like spreadsheet calculator.Use hjkl or arrow keys to navigate."}
+{"command": "scala", "description": "Scala application launcher and interactive interpreter."}
+{"command": "scalafmt", "description": "Code formatter for Scala.Configurations are stored in the .scalafmt.conf file."}
+{"command": "scan-build", "description": "Command-line utility to run a static analyzer over a codebase as part of performing a regular build."}
+{"command": "scc", "description": "Tool written in Go that counts lines of code."}
+{"command": "sccmap", "description": "Extract strongly connected components of directed graphs.Graphviz filters: acyclic, bcomps, comps, edgepaint, gvcolor, gvpack, mingle, nop, sccmap, tred, & unflatten."}
+{"command": "scd", "description": "File manager focused on shell integration."}
+{"command": "scheme", "description": "MIT Scheme language interpreter and REPL (interactive shell)."}
+{"command": "scp", "description": "Secure copy.Copy files between hosts using Secure Copy Protocol over SSH."}
+{"command": "scrapy", "description": "Web-crawling framework."}
+{"command": "scrcpy", "description": "Display and control your Android device on a desktop."}
+{"command": "screen", "description": "Hold a session open on a remote server. Manage multiple windows with a single SSH connection.See also tmux and zellij."}
+{"command": "screenfetch", "description": "Display system information."}
+{"command": "script", "description": "Make a typescript file of a terminal session."}
+{"command": "sd", "description": "Intuitive find and replace."}
+{"command": "sdcv", "description": "StarDict, a command-line dictionary client.Dictionaries are provided separately from the client."}
+{"command": "sdiff", "description": "Compare the differences between and optionally merge 2 files."}
+{"command": "sdk", "description": "Tool for managing parallel versions of multiple Software Development Kits.Supports Java, Groovy, Scala, Kotlin, Gradle, Maven, Vert.x and many others."}
+{"command": "sdkmanager", "description": "Tool to install packages for the Android SDK."}
+{"command": "searchsploit", "description": "Searchsploit searches exploit database's database for exploits, shellcodes and/or papers.If known version numbers are used as search terms, exploits for both the exact version and others whose version range covers the one specified are shown."}
+{"command": "secrethub", "description": "A tool to keep secrets out of config files."}
+{"command": "security-checker", "description": "Check if a PHP application uses dependencies with known security vulnerabilities."}
+{"command": "sed", "description": "Edit text in a scriptable manner.See also: awk, ed."}
+{"command": "semver", "description": "Semantic version string parser."}
+{"command": "sendmail", "description": "Send email."}
+{"command": "seq", "description": "Output a sequence of numbers to stdout."}
+{"command": "sequelize", "description": "Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server."}
+{"command": "serialver", "description": "Returns the serialVersionUID of classes.It does not set a security manager by default."}
+{"command": "serve", "description": "Static file serving and directory listing."}
+{"command": "serverless", "description": "Toolkit for deploying and operating serverless architectures on AWS, Google Cloud, Azure and IBM OpenWhisk.Commands can be run either using the serverless command or its alias, sls."}
+{"command": "set", "description": "Toggle shell options or set the values of positional parameters."}
+{"command": "sfdp", "description": "Render an image of a scaled force-directed network graph from a graphviz file.Layouts: dot, neato, twopi, circo, fdp, sfdp, osage & patchwork."}
+{"command": "sftp", "description": "Secure File Transfer Program.Interactive program to copy files between hosts over SSH.For non-interactive file transfers, see scp or rsync."}
+{"command": "sgpt", "description": "Command-line productivity tool powered by OpenAI's GPT models."}
+{"command": "sh", "description": "Bourne shell, the standard command language interpreter.See also histexpand for history expansion."}
+{"command": "sha1sum", "description": "Calculate SHA1 cryptographic checksums."}
+{"command": "sha224sum", "description": "Calculate SHA224 cryptographic checksums."}
+{"command": "sha256sum", "description": "Calculate SHA256 cryptographic checksums."}
+{"command": "sha384sum", "description": "Calculate SHA384 cryptographic checksums."}
+{"command": "sha512sum", "description": "Calculate SHA512 cryptographic checksums."}
+{"command": "shards", "description": "Dependency management tool for the Crystal language."}
+{"command": "shasum", "description": "Calculate SHA cryptographic checksums."}
+{"command": "shc", "description": "Generic shell script compiler."}
+{"command": "shellcheck", "description": "Shell script static analysis tool.Check shell scripts for errors, usage of deprecated/insecure features, and bad practices."}
+{"command": "shfmt", "description": "Shell parser, formatter and interpreter."}
+{"command": "shift", "description": "Move positional parameters."}
+{"command": "shiori", "description": "Simple bookmark manager built with Go."}
+{"command": "shopt", "description": "Manage Bash shell options: variables (stored in $BASHOPTS) that control behavior specific to the Bash shell.Generic POSIX shell variables (stored in $SHELLOPTS) are managed with the set command instead."}
+{"command": "showfigfonts", "description": "Display available figlet fonts.See also figlet."}
+{"command": "shred", "description": "Overwrite files to securely delete data."}
+{"command": "shuf", "description": "Generate random permutations."}
+{"command": "siege", "description": "HTTP loadtesting and benchmarking tool."}
+{"command": "silicon", "description": "Create an image of source code."}
+{"command": "sindresorhus", "description": "Sindre Sorhus's personal CLI."}
+{"command": "singularity", "description": "Manage Singularity containers and images."}
+{"command": "sk", "description": "Fuzzy finder written in Rust.Similar to fzf."}
+{"command": "skaffold", "description": "A tool that facilitates continuous development for Kubernetes applications."}
+{"command": "skate", "description": "Simple and powerful key-value store."}
+{"command": "skicka", "description": "Manage your Google Drive."}
+{"command": "skopeo", "description": "Container image management toolbox.Provides various utility commands to manage remote container images."}
+{"command": "sl", "description": "Steam locomotive running through your terminal."}
+{"command": "slackcat", "description": "Utility for passing files and command output to Slack."}
+{"command": "sleep", "description": "Delay for a specified amount of time."}
+{"command": "slimrb", "description": "Convert Slim files to HTML."}
+{"command": "smalltalkci", "description": "Framework for testing Smalltalk projects with GitHub Actions, Travis CI, AppVeyor, GitLab CI, and others."}
+{"command": "smartctl", "description": "Monitor disk health including SMART data."}
+{"command": "smbmap", "description": "Allow users to enumerate samba share drives across an entire domain."}
+{"command": "sn", "description": "Mono StrongName utility for signing and verifying IL assemblies."}
+{"command": "snakefmt", "description": "Format Snakemake files."}
+{"command": "snort", "description": "Open-source network intrusion detection system."}
+{"command": "snowsql", "description": "SnowSQL command-line client for Snowflake's Data Cloud."}
+{"command": "snyk", "description": "Find vulnerabilities in your code and remediate risks."}
+{"command": "socat", "description": "Multipurpose relay (SOcket CAT)."}
+{"command": "sockstat", "description": "List open Internet or UNIX domain sockets.See also: netstat."}
+{"command": "solcjs", "description": "A set of JavaScript bindings for the Solidity compiler."}
+{"command": "solo", "description": "Interact with Solo hardware security keys."}
+{"command": "sonar-scanner", "description": "A generic scanner for SonarQube projects that do not use build tools such as Maven, Gradle, or Ant."}
+{"command": "sops", "description": "SOPS: Secrets OPerationS.Tool for managing secrets."}
+{"command": "sort", "description": "Sort lines of text files."}
+{"command": "soupault", "description": "A static website generator based on HTML element tree rewriting.It can also be used as an HTML post-processor or metadata extractor."}
+{"command": "source", "description": "Execute commands from a file in the current shell."}
